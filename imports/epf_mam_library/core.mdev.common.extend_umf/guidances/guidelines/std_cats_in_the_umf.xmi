@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-whD1fyoJj6MqOs2NEQAi9Q"
+    name="std_cats_in_the_umf,_W44bEMeQEdyDDM3XyGAKxw" guid="-whD1fyoJj6MqOs2NEQAi9Q"
+    changeDate="2008-11-03T07:45:57.218-0800" version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    The &lt;a class=&quot;elementLink&quot; href=&quot;./../../../core.mdev.common.extend_umf/guidances/concepts/umf_C03950A8.html&quot;&#xD;
+    guid=&quot;_nrrn4GqHEdun45RPFGeYnA&quot;>Unified Method Framework (UMF)&lt;/a>&amp;nbsp;defines some constraints with regards to the&#xD;
+    definition and use of standard categories.&amp;nbsp;Those constraints vary for the different standard category types.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The UMF implements a &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/delayed_assignment_24142865.html&quot;&#xD;
+    guid=&quot;_rlrykJcbEd2sTqxclDgvog&quot;>Delayed Assignment&lt;/a>&amp;nbsp;approach for &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/discipline_7667F451.html&quot;&#xD;
+    guid=&quot;_yGUuidnmEdmO6L4XMImrsA&quot;>discipline&lt;/a>s, &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/domain_D8238B93.html&quot;&#xD;
+    guid=&quot;_yHEVYdnmEdmO6L4XMImrsA&quot;>domain&lt;/a>s and &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/work_product_kind_F04A382B.html&quot;&#xD;
+    guid=&quot;_QWhfYMaJEduMlb2cQZNTYw&quot;>work product kind&lt;/a>s.&amp;nbsp;It does not implement&amp;nbsp;a delayed category assignment&#xD;
+    for &lt;strong>role sets&lt;/strong> because the definition of roles and role sets are strongly linked.&amp;nbsp;Roles are&#xD;
+    assigned to role sets in the same plug-in as where the roles are defined, the Role Definition plug-in (their&#xD;
+    definitions are shared).&amp;nbsp;For more information on roles in the UMF, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.extend_umf/guidances/guidelines/roles_in_the_umf_6E71216E.html&quot;&#xD;
+    guid=&quot;_Arih4MdeEdySeI1LYmvOGg&quot;>Guideline: Roles in the UMF&lt;/a>. The UMF also does not implement&amp;nbsp;a delayed category&#xD;
+    assignment for &lt;strong>tools&lt;/strong> because the assignment of tool mentors to tools does not change (tool mentors are&#xD;
+    written for&amp;nbsp;a specific tool).&amp;nbsp;For more information on tools in the UMF, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.extend_umf/guidances/guidelines/tool_info_in_the_umf_1DC427D4.html&quot;&#xD;
+    guid=&quot;_k2ahIO9JEdytFa01gNyMbA&quot;>Guideline: Tool Information in the UMF&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The &quot;delayed standard categories&quot; (disciplines, domains and work product kinds) are &lt;strong>&lt;em>defined&lt;/em>&lt;/strong>&#xD;
+    in a Category Definition Base plug-in.&amp;nbsp;Elements are &lt;em>&lt;strong>assigned&lt;/strong>&lt;/em> to these categories in the&#xD;
+    Assign plug-ins associated with the Base plug-in that contains the elements to be assigned (tasks and work&#xD;
+    products).&amp;nbsp;For information on how these assignments are defined, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.extend_umf/guidances/guidelines/delayed_assignment_in_the_umf_11FDA840.html&quot;&#xD;
+    guid=&quot;_PPjo4PF3EdyPreM_8XDeJA&quot;>Guideline: Delayed Assignment in the UMF&lt;/a>.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The benefits to the UMF approach to standard categories are:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The same categories can be used with different element assignments (shared Category Definition plug-ins)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Alternate category definitions and element assignments can be defined (provide alternate Category Definition and&#xD;
+        Assign plug-ins)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    For more information on Category Definition plug-ins, Role Definition plug-ins and&amp;nbsp;Tool Definition plug-ins, see&#xD;
+    &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_lib_plugin_types_3EA8002F.html&quot;&#xD;
+    guid=&quot;__428YO6cEdygKbJMUVNEtg&quot;>Concept: Practice Library Plug-In Types&lt;/a>.&amp;nbsp;For more information on Base and&#xD;
+    Assign&amp;nbsp;plug-ins, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.extend_umf/guidances/concepts/practice_fw_plugin_parts_538A81D.html&quot;&#xD;
+    guid=&quot;_vgjh4PG1EdyO9sYxKNWf8A&quot;>Concept: Practice Framework Plug-In Parts&lt;/a>.&amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

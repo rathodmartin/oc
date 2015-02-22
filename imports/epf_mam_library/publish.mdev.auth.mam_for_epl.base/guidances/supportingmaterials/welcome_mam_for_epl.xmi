@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-dkpXIMUbutT0o8hM_oNKGg"
+    name="welcome_mam_for_epl,_xqtU9bDWEd2-s7FS-eg9aA" guid="-dkpXIMUbutT0o8hM_oNKGg"
+    changeDate="2008-11-13T08:11:19.156-0800" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    The Method Authoring Method (MAM) for the EPF Practice Library (EPL) is an architecture-centric, quality-oriented and&#xD;
+    &lt;a class=&quot;elementLink&quot; href=&quot;./../../../core.mdev.common.base/guidances/termdefinitions/practice_based_215E243B.html&quot;&#xD;
+    guid=&quot;_uanIQPT8EdyCE9BF17mKDQ&quot;>practice-based&lt;/a>&amp;nbsp;approach to method authoring. It provides guidelines for&#xD;
+    authoring methods that are intended to exist within the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.extend_epl_auth/guidances/concepts/epl_E3539AE.html&quot;&#xD;
+    guid=&quot;_sLATYH_0Ed2IdZmkTP19bw&quot;>EPF Practice Library (EPL)&lt;/a>. For information on this version of the configuration,&#xD;
+    see &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../publish.mdev.auth.mam_for_epl.base/guidances/supportingmaterials/release_info_mam_for_epl_config_241B341F.html&quot;&#xD;
+     guid=&quot;_xqtU97DWEd2-s7FS-eg9aA&quot;>MAM for EPL Configuration Release Information&lt;/a>.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    For a description of the overall process for authoring within a practice framework, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../publish.mdev.auth.mam_for_epl.base/guidances/roadmaps/authoring_in_existing_practice_fw.epl_3F2646FF.html&quot;&#xD;
+     guid=&quot;_ilx5ALDdEd2-s7FS-eg9aA&quot;>Roadmap: Authoring in the Eclipse Practice Library (EPL)&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    Getting started&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    If you are new to the Method Authoring Method for the Unified Method Framework, it is best to start with the elements&#xD;
+    in the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../publish.mdev.auth.mam_for_epl.base/customcategories/mam_for_epl_config_start_here_view_9F786B16.html&quot;&#xD;
+    guid=&quot;_xqtVC7DWEd2-s7FS-eg9aA&quot;>Start Here&lt;/a>&amp;nbsp;navigation view, specifically the&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../publish.mdev.auth.mam_for_epl.base/customcategories/mam_for_epl_config_key_concepts_51C2C4B9.html&quot;&#xD;
+    guid=&quot;_xqtU_7DWEd2-s7FS-eg9aA&quot;>Key Concepts&lt;/a>.&amp;nbsp; From there, you should familiarize yourself with the practice&#xD;
+    authoring &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../publish.mdev.auth.mam_for_epl.base/customcategories/mam_for_epl_key_scenarios_369E9551.html&quot;&#xD;
+    guid=&quot;_xqtVCrDWEd2-s7FS-eg9aA&quot;>Key Scenarios&lt;/a>.&amp;nbsp;Once that is completed, you should be fairly familiar with what&#xD;
+    is provided in the configuration and you may choose to access the key elements directly from the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../publish.mdev.auth.mam_for_epl.base/customcategories/mam_for_epl_config_key_elements_view_E8E8EEF4.html&quot;&#xD;
+     guid=&quot;_xqtU_rDWEd2-s7FS-eg9aA&quot;>Key Elements&lt;/a>,&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../publish.mdev.auth.mam_for_epl.base/customcategories/mam_for_epl_config_epl_guidance_70112DFA.html&quot;&#xD;
+    guid=&quot;_zNVBcLDaEd2-s7FS-eg9aA&quot;>EPL Guidance&lt;/a>&amp;nbsp;and/or the&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../publish.mdev.auth.mam_for_epl.base/customcategories/mam_for_epl_config_all_elements_view_DAE688F7.html&quot;&#xD;
+     guid=&quot;_xqtVB7DWEd2-s7FS-eg9aA&quot;>All Elements&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    Navigation views&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Use the navigation views provided as tabs in the left navigation bar as a starting point for browsing the content.&#xD;
+    Specifically:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Start Here view&lt;/strong>: Provides a starting point for first time users, no matter what their role. To&#xD;
+        access, click here: &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../publish.mdev.auth.mam_for_epl.base/customcategories/mam_for_epl_config_start_here_view_9F786B16.html&quot;&#xD;
+         guid=&quot;_xqtVC7DWEd2-s7FS-eg9aA&quot;>Start Here&lt;/a>.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Key Elements view&lt;/strong>: Provides quick access to the key method authoring elements, organized by type.&#xD;
+        To access, click here: &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../publish.mdev.auth.mam_for_epl.base/customcategories/mam_for_epl_config_key_elements_view_E8E8EEF4.html&quot;&#xD;
+         guid=&quot;_xqtU_rDWEd2-s7FS-eg9aA&quot;>Key Elements&lt;/a>.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>EPL Guidance view&lt;/strong>: Provides quick access to the EPL-specific guidance. To access, click here: &lt;a&#xD;
+        class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../publish.mdev.auth.mam_for_epl.base/customcategories/mam_for_epl_config_epl_guidance_70112DFA.html&quot;&#xD;
+        guid=&quot;_zNVBcLDaEd2-s7FS-eg9aA&quot;>EPL Guidance&lt;/a>.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>All Elements view&lt;/strong>: Provides access to all elements in the configuration, organized by method&#xD;
+        element type and then by category. Intended for all users, no matter what their role. To access, click here: &lt;a&#xD;
+        class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../publish.mdev.auth.mam_for_epl.base/customcategories/mam_for_epl_config_all_elements_view_DAE688F7.html&quot;&#xD;
+         guid=&quot;_xqtVB7DWEd2-s7FS-eg9aA&quot;>All Elements&lt;/a>.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;h3>&#xD;
+    Providing feedback&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    If you have feedback on the content (including content that you would like to donate or ideas for new content), please&#xD;
+    click the &quot;Feedback&quot; button. An email message will be composed with the content page and the subject.&amp;nbsp; Please&#xD;
+    enter your feedback in the message and send.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

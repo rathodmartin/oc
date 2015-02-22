@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-lvW2Yy_5cHtUTZPwiVe1lg"
+    name="defining_practice_configuration_welcome_pages,_n56_4FstEd2oiZ87J3vuLQ" guid="-lvW2Yy_5cHtUTZPwiVe1lg"
+    changeDate="2008-10-12T12:40:16.500-0700" version="7.5.0">
+  <mainDescription>&lt;p>&#xD;
+    Every &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_configuration_CC7754F2.html&quot;&#xD;
+    guid=&quot;_0H9aAO7EEdy9EOwDlaw7Kw&quot;>Practice Configuration&lt;/a>&amp;nbsp;should have a Welcome page that&amp;nbsp;clearly states the&#xD;
+    purpose, scope and intended audience for the configuration.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It is also a good idea to describe, at a high-level, how the practices included in the configuration fit together&#xD;
+    (remember, a practice configuration is more than just a collection of practices).&amp;nbsp;This high-level description may&#xD;
+    be in any format, whether that be textual (like a roadmap) or graphical (like an activity diagram, flow chart,&#xD;
+    capability pattern, etc.).&amp;nbsp;Treat this overview as though it were the introduction to a book (where the practice&#xD;
+    configuration is the book).&amp;nbsp; It should give the reader the lay of the land without going into too much detail.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    In addition, if the practice configuration includes multiple navigation views, each addressing the navigation needs of&#xD;
+    a particular type of user, it is usually a good idea to describe what navigation views are available and when you&#xD;
+    should use one versus the other. For more information on navigation views, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/guidelines/defining_navigation_views_76A906E.html&quot;&#xD;
+    guid=&quot;_67agUEyEEdu4NY1n_hCY0w&quot;>Guideline: Defining Navigation Views&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Welcome page is also a good place to link to release&amp;nbsp;information for the configuration.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Welcome pages are defined as &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/supporting_material_F91C8C5B.html&quot;&#xD;
+    guid=&quot;_SwvUgMaIEduMlb2cQZNTYw&quot;>supporting material&lt;/a>&amp;nbsp;guidance elements with a special icon.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

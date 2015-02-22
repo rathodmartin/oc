@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-0z-Uxv57_5cIS3Q0Jim8HA"
+    name="how_to_adopt_practice_authoring,_OZHJYCXKEd2dSdS2FPKaIA" guid="-0z-Uxv57_5cIS3Q0Jim8HA"
+    changeDate="2008-11-13T14:45:21.078-0800" version="7.2.0">
+  <mainDescription>&lt;h3>&#xD;
+    Getting started&amp;nbsp;&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Begin by making sure the team, including the key stakeholders, understands the&amp;nbsp;and the key concepts and the&#xD;
+    roadmaps.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Practice Authoring practice assumes that the method authoring environment and the underlying method framework in&#xD;
+    which the practice is to reside has been set up.&amp;nbsp;Make sure that all team members can access the environment and&#xD;
+    understand how to use it.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This practice supports authoring a new practice, as well as customizing an existing practice.&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        To adopt the &quot;author new practice&quot; aspects, start by identifying the practice to be authored.&amp;nbsp;It is&#xD;
+        recommended that the first time you apply this practice that you apply it to author a practice where the content to&#xD;
+        be included in the practices is well understood and where subject matter experts&amp;nbsp;of the practice are part of&#xD;
+        the authoring team. Author the practice incrementally, defining the overall practice structure (the practice&#xD;
+        design) first, followed by the detailing of the practice elements. See &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../practice.mdev.auth.practice_auth.base/guidances/roadmaps/author_new_practice_DECF4754.html&quot;&#xD;
+        guid=&quot;_t8M_4CXOEd2dSdS2FPKaIA&quot;>Roadmap: Author a New Practice&lt;/a>&amp;nbsp;for details.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        To adopt the &quot;customize existing practice&quot; aspects, start by identifying the practice you want to customize and how&#xD;
+        you want to customize it.&amp;nbsp;It is recommended that the first time you apply this practice that you apply it to&#xD;
+        customize a practice that is well understood and where subject matter experts&amp;nbsp;of the practice (and the&#xD;
+        customization) are part of the authoring team. See&amp;nbsp;&lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../practice.mdev.auth.practice_auth.base/guidances/roadmaps/customize_existing_practice_65E4C6F3.html&quot;&#xD;
+         guid=&quot;_1DeVACYEEd2Hqsxn1d0Dyg&quot;>Roadmap: Customize an Existing Practice&lt;/a>&amp;nbsp;for details.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    As you apply the recommendations described in the practice, capture what you have learned, what worked for your team&#xD;
+    and what didn't so that you can continually fine-tune how your team applies the practice.&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    Common pitfalls&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The following are some common pitfalls when adopting this practice.&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Selecting a practice whose content is not well understood as your first practice using this practice.&amp;nbsp;If this&#xD;
+        is done, more time is spent understanding the practice itself rather than in effectively applying the practice&#xD;
+        techniques.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Spending too much time structuring the practice.&amp;nbsp;If this is done, the time it takes to deliver the practice is&#xD;
+        extended as a lot of time is spent structuring as opposed to just enough to get an initial practice out to get&#xD;
+        feedback, refining the structure, as needed. Try to keep the documentation clear and concise.&amp;nbsp;Make sure that&#xD;
+        the consumers of the practice documentation (the development team) are comfortable with the format and content of&#xD;
+        the documentation.&amp;nbsp; Is there more or different information they would like see?&amp;nbsp;Would they like to see&#xD;
+        less?&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

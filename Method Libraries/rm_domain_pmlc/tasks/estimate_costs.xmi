@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-SudVryTfAoXI2qt0YmIEjw" name=",_IaC0UFpJEeS2t6WG90MSuA" guid="-SudVryTfAoXI2qt0YmIEjw" authors="John Rozsa" changeDate="2014-10-22T20:12:39.062-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>The process of developing a rough calculation of the necessary financial dollars needed to complete project activities. It
+        determines the amount of cost required to complete project work.&lt;br />
+        The estimates are based on the information known at a given point in time. Trade-offs and risks should be considered, such
+        as sharing of resources, make versus buy, and buy versus lease in order to achieve optimal project costs.&lt;br />
+        &lt;br />
+        Cost estimates should be continually reviewed and refined during the course of the project to reflect additional detail as
+        it becomes available. Subsequently, the accuracy of a project estimate will increase as the project progresses through the
+        project life cycle.&lt;br />
+        &lt;br />
+        Essentially all project information known should be taken into consideration in developing the cost estimates. This
+        estimate is a quantitative assessment of the likely costs for resources Additional information that may be found in the
+        scope baseline with contractual and legal implications, such as health, safety, security, performance, environmental,
+        insurance, intellectual property rights, licenses, and permits.&lt;br />
+        &lt;br />
+        Cost estimates are often presented at the activity level or in summary format.&lt;br /></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

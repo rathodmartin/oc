@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-NBKfK363V1hdLGpyg7JsFA" name="new_guideline,_65YKUDusEeSIrOwVunFgpg" guid="-NBKfK363V1hdLGpyg7JsFA" authors="John Rozsa" changeDate="2014-09-13T21:18:56.335-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>Essentially every project will have stakeholders. They are often impacted by or can impact the project in a positive or
+        negative way. The ability of the project manager to effectively identify and manage stakeholders can be the difference
+        between success and failure.&lt;br />
+         &lt;br />
+         Often, stakeholders may have conflicting expectations which can create issues within the project. They can, and often do,
+        exert influence over the project in order to achieve a set of outcomes that satisfy needs. Aligning the project with
+        stakeholders' needs or objectives is critical to the successful management of stakeholder engagement and meeting the the
+        project and organizational objectives. &lt;br />
+         &lt;br />
+         Project governance provides a framework in which the project manager and sponsors can make decisions that satisfy both
+        stakeholder needs and expectations and organizational strategic objectives or address circumstances where these may not be
+        in alignment.&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

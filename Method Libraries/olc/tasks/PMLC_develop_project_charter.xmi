@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-4z00bDOZVHke_qR00BVzFQ" name=",_9WcCgDD_EeSHm971buwRxw" guid="-4z00bDOZVHke_qR00BVzFQ" authors="Rakesh D. Rathod" changeDate="2014-08-31T07:14:41.397-0400" changeDescription="Baseline" version="BL">
+  <sections xmi:id="_UcL2EDEAEeSHm971buwRxw" name="Develop the project scope statement" guid="_UcL2EDEAEeSHm971buwRxw"/>
+  <sections xmi:id="_VUjBcDEAEeSHm971buwRxw" name="Assign project manager" guid="_VUjBcDEAEeSHm971buwRxw"/>
+  <sections xmi:id="_XBpccDEAEeSHm971buwRxw" name="Create project charter" guid="_XBpccDEAEeSHm971buwRxw"/>
+</org.eclipse.epf.uma:TaskDescription>

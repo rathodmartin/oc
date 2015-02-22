@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-HgipSm3l2rC_0gf9tzAJdA"
+    name="new_term_definition,_OQgikFTTEd2N4vZAlUIPvw" guid="-HgipSm3l2rC_0gf9tzAJdA"
+    changeDate="2008-07-18T07:10:55.453-0700" version="7.5.0">
+  <mainDescription>&lt;p>&#xD;
+    A local process change is a change to a &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/process_68E308B4.html&quot;&#xD;
+    guid=&quot;_yQ5m2NnmEdmO6L4XMImrsA&quot;>process&lt;/a>&amp;nbsp;that does not affect the underlying &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/method_content_6972AE81.html&quot;&#xD;
+    guid=&quot;_Ts2joB_MEdq6CKKKq4D7YA&quot;>method content&lt;/a>.&amp;nbsp; It is essentially a change to the process &lt;a&#xD;
+    class=&quot;elementLink&quot; href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/descriptor_D52B7BB3.html&quot;&#xD;
+    guid=&quot;_7rS6AB_JEdq6CKKKq4D7YA&quot;>descriptor&lt;/a>s. An example of a local change is changing the output work products for a&#xD;
+    task in a specific activity in a process.&amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

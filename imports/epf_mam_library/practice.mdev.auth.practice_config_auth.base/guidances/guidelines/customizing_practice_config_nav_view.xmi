@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-0k0VRO4XUrYC63m_rppyZw"
+    name="new_customizing_practice_config_nav_view,_1txJQKlYEd2XsY8-UtPVvw" guid="-0k0VRO4XUrYC63m_rppyZw"
+    changeDate="2008-11-02T08:36:33.703-0800" version="7.5.0">
+  <mainDescription>&lt;p>&#xD;
+    Perform the following steps to customize an existing &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/termdefinitions/navigation_view_8F89044.html&quot;&#xD;
+    guid=&quot;_X_hFIPAjEdyHz_B1XFOUgA&quot;>navigation view&lt;/a>&amp;nbsp;for a &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_configuration_CC7754F2.html&quot;&#xD;
+    guid=&quot;_0H9aAO7EEdy9EOwDlaw7Kw&quot;>Practice Configuration&lt;/a>:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        If one does not already&amp;nbsp;exist, create a Publish Extends plug-in to contain the customized navigation view.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        In the Publish Extends plug-in, customize the navigation view. For more information, see &lt;a&#xD;
+        class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.base/guidances/guidelines/customizing_navigation_view_CF1F0872.html&quot;&#xD;
+        guid=&quot;_a4wzIKj_Ed2XsY8-UtPVvw&quot;>Guideline: Customizing a Navigation View&lt;/a>.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Once the navigation view has been customized, it is not a bad idea to browse the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/method_configuration_C2B8FA8A.html&quot;&#xD;
+    guid=&quot;__V7pAMaEEduMlb2cQZNTYw&quot;>method configuration&lt;/a>of the practice configuration and confirm that the view has been&#xD;
+    updated properly.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

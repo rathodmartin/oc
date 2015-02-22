@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-rJ1PPkqyt_7Ip-7JieI7iA"
+    name="formatting_and_writing_tips_for_method_authors,_sEOcoJcDEd2sTqxclDgvog"
+    guid="-rJ1PPkqyt_7Ip-7JieI7iA" authors="Kelli Houston, Judith Broadhurst" changeDate="2008-10-10T12:52:16.656-0700"
+    version="7.5.0">
+  <mainDescription>&lt;p>&#xD;
+    This information is applicable to developing any content provided in the detailed (HTML) fields of method elements.&#xD;
+    Content developers that follow these guidelines will produce information that is easier and faster for both reviewers&#xD;
+    and readers to understand, as well as faster to process for publication.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    There are two attached documents, one provides the general guidelines and the other provides a list of common terms and&#xD;
+    their recommended spelling and punctuation.&#xD;
+&lt;/p></mainDescription>
+  <attachments>resources/common_word_list.pdf|resources/Formatting_and_Writing_Tips_for_Method_Authors_V2.0.pdf</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

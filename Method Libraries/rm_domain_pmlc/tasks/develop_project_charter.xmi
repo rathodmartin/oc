@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-PlBMca2ofmWkVRNGO2AGBQ" name=",_Rrx14DD-EeSHm971buwRxw" guid="-PlBMca2ofmWkVRNGO2AGBQ" authors="John Rozsa" changeDate="2014-08-31T07:10:28.904-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>Develop Project Charter is the process of developing a document that formally recognizes a project and gives the authority
+        to the project manager to apply organizational resources to project activities.&lt;br /></mainDescription>
+  <sections xmi:id="_gAjtoDD_EeSHm971buwRxw" name="Develop the project scope statement" guid="_gAjtoDD_EeSHm971buwRxw">
+    <sectionDescription>&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_kU7F0DD_EeSHm971buwRxw" name="Assign project manager" guid="_kU7F0DD_EeSHm971buwRxw">
+    <sectionDescription>&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_n28bEDD_EeSHm971buwRxw" name="Create project charter" guid="_n28bEDD_EeSHm971buwRxw">
+    <sectionDescription>&lt;br /></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

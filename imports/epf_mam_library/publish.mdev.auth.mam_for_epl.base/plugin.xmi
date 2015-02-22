@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_RxJ2ULgREd2VBqezzK7PZw"
+      guid="_RxJ2ULgREd2VBqezzK7PZw">
+    <resourceDescriptors xmi:id="_RxJ2UrgREd2VBqezzK7PZw" id="-SenJpQcLe0dAkV488lRoiQ"
+        uri="customcategories/mam_for_epl_config_key_concepts.xmi"/>
+    <resourceDescriptors xmi:id="_RxTAQLgREd2VBqezzK7PZw" id="-q962IYWxXYmM6Tk2hFhMng"
+        uri="customcategories/mam_for_epl_key_scenarios.xmi"/>
+    <resourceDescriptors xmi:id="_RxcxQLgREd2VBqezzK7PZw" id="-3qO--X00PHcaJOegsFj_Xg"
+        uri="customcategories/umf_concepts.xmi"/>
+    <resourceDescriptors xmi:id="_RxcxQbgREd2VBqezzK7PZw" id="-UrsPKilNUVZq_kkQuZxTxA"
+        uri="customcategories/umf_guidelines.xmi"/>
+    <resourceDescriptors xmi:id="_Rxl7MLgREd2VBqezzK7PZw" id="-dkpXIMUbutT0o8hM_oNKGg"
+        uri="guidances/supportingmaterials/welcome_mam_for_epl.xmi"/>
+    <resourceDescriptors xmi:id="_RxvsMLgREd2VBqezzK7PZw" id="-UTtCtywDy3IIoHcPbmC_Fw"
+        uri="guidances/supportingmaterials/release_info_mam_for_epl_config.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_xqtU8LDWEd2-s7FS-eg9aA" name="publish.mdev.auth.mam_for_epl.base"
+      guid="_xqtU8LDWEd2-s7FS-eg9aA" presentationName="MAM for the Eclipse Practice Library (EPL) Configuration Elements"
+      briefDescription="This plug-in contains the elements that are specific for the MAM for EPL configuration."
+      authors="Kelli Houston" changeDate="2008-11-21T01:49:06.390-0800" version="1.0">
+    <copyrightStatement href="uma://_iVydgENdEdy245g62lfWcA#_uuunoPsDEdmyhNQr5STrZQ"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_xqtU8rDWEd2-s7FS-eg9aA"
+        name="Content" guid="_xqtU8rDWEd2-s7FS-eg9aA">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_xqtU-LDWEd2-s7FS-eg9aA"
+          name="Categories" guid="_xqtU-LDWEd2-s7FS-eg9aA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_xqtVF7DWEd2-s7FS-eg9aA"
+            name="Domains" guid="_xqtVF7DWEd2-s7FS-eg9aA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_xqtVGLDWEd2-s7FS-eg9aA"
+            name="Disciplines" guid="_xqtVGLDWEd2-s7FS-eg9aA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_xqtVFbDWEd2-s7FS-eg9aA"
+            name="RoleSets" guid="_xqtVFbDWEd2-s7FS-eg9aA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_xqtU-bDWEd2-s7FS-eg9aA"
+            name="WP Types" guid="_xqtU-bDWEd2-s7FS-eg9aA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_xqtVGbDWEd2-s7FS-eg9aA"
+            name="Tools" guid="_xqtVGbDWEd2-s7FS-eg9aA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_xqtVFrDWEd2-s7FS-eg9aA"
+            name="StandardCategories" guid="_xqtVFrDWEd2-s7FS-eg9aA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_xqtU-rDWEd2-s7FS-eg9aA"
+            name="CustomCategories" guid="_xqtU-rDWEd2-s7FS-eg9aA">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_xqtVCLDWEd2-s7FS-eg9aA"
+              name="Hidden" guid="_xqtVCLDWEd2-s7FS-eg9aA">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_xqtVCbDWEd2-s7FS-eg9aA"
+                name="Custom Categories" guid="_xqtVCbDWEd2-s7FS-eg9aA" categorizedElements="_xqtVDrDWEd2-s7FS-eg9aA _-ZuAILGEEd2h4fIUEeK-Jw"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_xqtVALDWEd2-s7FS-eg9aA"
+              name="mam_for_epl_config_nav_view_tabs" guid="_xqtVALDWEd2-s7FS-eg9aA"
+              presentationName="MAM for EPL Configuration Navigation View Tabs" briefDescription="These are custom categories that have been built to be used as the tabs in the published Web site."
+              categorizedElements="_xqtVC7DWEd2-s7FS-eg9aA _xqtU_rDWEd2-s7FS-eg9aA _zNVBcLDaEd2-s7FS-eg9aA _xqtVB7DWEd2-s7FS-eg9aA"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_xqtVC7DWEd2-s7FS-eg9aA"
+              name="mam_for_epl_config_start_here_view" guid="_xqtVC7DWEd2-s7FS-eg9aA"
+              presentationName="Start Here" briefDescription="Provides a starting point for first time users, no matter what their role."
+              categorizedElements="_xqtU9bDWEd2-s7FS-eg9aA _xqtU_7DWEd2-s7FS-eg9aA _xqtVCrDWEd2-s7FS-eg9aA _xqtU97DWEd2-s7FS-eg9aA"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_xqtU_rDWEd2-s7FS-eg9aA"
+              name="mam_for_epl_config_key_elements_view" guid="_xqtU_rDWEd2-s7FS-eg9aA"
+              presentationName="Key Elements" briefDescription="This navigation view provides quick access to the key elements, organized by type, arranged as someone might read them.  It is intended for all users interested in the key elements.">
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_xqtU_7DWEd2-s7FS-eg9aA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_GOSjoLevEd2gS_YAx7LMHA#_gMGUALewEd2gS_YAx7LMHA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_xqtVE7DWEd2-s7FS-eg9aA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_xqtVB7DWEd2-s7FS-eg9aA"
+              name="mam_for_epl_config_all_elements_view" guid="_xqtVB7DWEd2-s7FS-eg9aA"
+              presentationName="All Elements" briefDescription="This navigation view provides access to all elements in the configuration, organized by method element type and then by category. It is intended for all users, no matter what their role."
+              variabilityType="extends">
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CustomCategory"
+                href="uma://_vsno4EKmEdyrauqpmnA8jQ#_1-9JoEKmEdyrauqpmnA8jQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_xqtU_7DWEd2-s7FS-eg9aA"
+              name="mam_for_epl_config_key_concepts" guid="_xqtU_7DWEd2-s7FS-eg9aA"
+              presentationName="Key Concepts" briefDescription="These are the key concepts that need to be understood when authoring within the EPF Practice Library (EPL)."
+              shapeicon="customcategories/resources/concept_dgm32.gif" nodeicon="customcategories/resources/concept_obj.gif">
+            <presentation xmi:id="-SenJpQcLe0dAkV488lRoiQ" href="uma://-SenJpQcLe0dAkV488lRoiQ#-SenJpQcLe0dAkV488lRoiQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Concept" href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_spVlsFN0Ed2uvIuuFjd1Fg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_GOSjoLevEd2gS_YAx7LMHA#_gHv08LevEd2gS_YAx7LMHA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Concept" href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_nrrn4GqHEdun45RPFGeYnA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Concept" href="uma://_hh7xAH_2Ed2IdZmkTP19bw#_sLATYH_0Ed2IdZmkTP19bw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_xqtVCrDWEd2-s7FS-eg9aA"
+              name="mam_for_epl_key_scenarios" guid="_xqtVCrDWEd2-s7FS-eg9aA" presentationName="Key Scenarios"
+              briefDescription="These scenarios describe the activities that are to be performed when authoring in the EPF Practice Library (EPL). "
+              shapeicon="customcategories/resources/roadmap32.gif" nodeicon="customcategories/resources/roadmap16.gif">
+            <presentation xmi:id="-q962IYWxXYmM6Tk2hFhMng" href="uma://-q962IYWxXYmM6Tk2hFhMng#-q962IYWxXYmM6Tk2hFhMng"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Roadmap" href="#_ilx5ALDdEd2-s7FS-eg9aA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Roadmap" href="uma://_STHyQCvoEd2ht9LgoFs93Q#_h9RjsCv4Ed2HiavZWDwUwQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Roadmap" href="uma://_eSzlUKAxEd2nI52VLwUMxA#_VQlaMKEeEd2bTrLTU21QBw"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_GOSjoLevEd2gS_YAx7LMHA#_QBTZALezEd2gS_YAx7LMHA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_GOSjoLevEd2gS_YAx7LMHA#_QBTZAbezEd2gS_YAx7LMHA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Roadmap" href="uma://_tALfMKEiEd2bTrLTU21QBw#_ggc5IKIUEd2hUYxp7rIQ7g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_xqtVE7DWEd2-s7FS-eg9aA"
+              name="mam_for_epl_tool_mentors" guid="_xqtVE7DWEd2-s7FS-eg9aA" presentationName="Tool Mentors"
+              briefDescription="These are the tool mentors that apply when authoring within the EPF Practice Library (EPL)."
+              shapeicon="customcategories/resources/toolment_lg_dgm32.gif" nodeicon="customcategories/resources/toolment_obj.gif"
+              variabilityType="extends">
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CustomCategory"
+                href="uma://_vsno4EKmEdyrauqpmnA8jQ#_VTspMMRfEdyD76CYS6Ta7A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_xqtVDrDWEd2-s7FS-eg9aA"
+              name="mam_for_epl_config_custom_cats" guid="_xqtVDrDWEd2-s7FS-eg9aA"
+              presentationName="MAM for EPL Configuration Custom Categories" briefDescription="These are the custom categories that are used within the MAM for EPL configuration."
+              categorizedElements="_xqtU_7DWEd2-s7FS-eg9aA _xqtVA7DWEd2-s7FS-eg9aA _xqtVALDWEd2-s7FS-eg9aA"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_xqtVA7DWEd2-s7FS-eg9aA"
+              name="release_info.mam_for_epl" guid="_xqtVA7DWEd2-s7FS-eg9aA" variabilityType="contributes">
+            <methodElementProperty xmi:id="_RxAFULgREd2VBqezzK7PZw" name="CategoryElementsSortType"
+                value="Alphabetic"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CustomCategory"
+                href="uma://_vsno4EKmEdyrauqpmnA8jQ#_irqswCLOEd2ct852UDqXGQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:SupportingMaterial"
+                href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_2a5hQQv1Ed2Z4aGiwM2NOA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:SupportingMaterial"
+                href="uma://_STHyQCvoEd2ht9LgoFs93Q#_euixISvoEd2ht9LgoFs93Q"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:SupportingMaterial"
+                href="uma://_0AD2ECJoEd2elMIxXedw0g#_SMjMsE91Ed2SAuyoRuCemA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:SupportingMaterial"
+                href="uma://_V6WwsEAKEd2Ei9ySU_sUdQ#_k6w9sU_VEd2Msfc77a9AQg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:SupportingMaterial"
+                href="uma://_eSzlUKAxEd2nI52VLwUMxA#_C3x-IaAyEd2nI52VLwUMxA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:SupportingMaterial"
+                href="uma://_tALfMKEiEd2bTrLTU21QBw#_2dKXAaEiEd2bTrLTU21QBw"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:SupportingMaterial"
+                href="#_xqtU97DWEd2-s7FS-eg9aA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_zNVBcLDaEd2-s7FS-eg9aA"
+              name="mam_for_epl_config_epl_guidance" guid="_zNVBcLDaEd2-s7FS-eg9aA"
+              presentationName="EPL Guidance" briefDescription="These elements provide EPF Practice Library (EPL)-specific guidance.">
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Concept" href="uma://_hh7xAH_2Ed2IdZmkTP19bw#_sLATYH_0Ed2IdZmkTP19bw"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:ReusableAsset" href="uma://_hh7xAH_2Ed2IdZmkTP19bw#_hh7xC3_2Ed2IdZmkTP19bw"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_hh7xAH_2Ed2IdZmkTP19bw#_WYPNwIC8Ed2RgsZLwhqsAA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_NVdeULGTEd2Nxp_TZz4d1A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_-ZuAILGEEd2h4fIUEeK-Jw"
+              name="do_not_publish.mam_for_epl" guid="_-ZuAILGEEd2h4fIUEeK-Jw" variabilityType="contributes">
+            <methodElementProperty xmi:id="_RxAFUbgREd2VBqezzK7PZw" name="CategoryElementsSortType"
+                value="MethodType"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CustomCategory"
+                href="uma://_vsno4EKmEdyrauqpmnA8jQ#_O3UtkMRdEdyD76CYS6Ta7A"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_eSzlUKAxEd2nI52VLwUMxA#_92nm4MsFEdyVJ6nThOrtTg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_NVdeULGTEd2Nxp_TZz4d1A"
+              name="mam_for_epl_config_umf_guidance" guid="_NVdeULGTEd2Nxp_TZz4d1A"
+              presentationName="UMF Guidance" briefDescription="This custom category provides quick access to the UMF-specific guidance. This is the guidance that must be adhered to when authoring methods within the Unified Method Framework (UMF)."
+              nodeicon="customcategories/resources/guidefold_obj.gif" categorizedElements="_etPpgLGTEd2Nxp_TZz4d1A _etPpgbGTEd2Nxp_TZz4d1A _etPpgrGTEd2Nxp_TZz4d1A"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_etPpgLGTEd2Nxp_TZz4d1A"
+              name="umf_concepts" guid="_etPpgLGTEd2Nxp_TZz4d1A" presentationName="UMF Concepts"
+              briefDescription="These are some concepts that must be understood when authoring methods within the Unified Method Framework (UMF)."
+              shapeicon="customcategories/resources/concept_dgm32.gif" nodeicon="customcategories/resources/concept_obj.gif">
+            <methodElementProperty xmi:id="_RxAFUrgREd2VBqezzK7PZw" name="CategoryElementsSortType"
+                value="Alphabetic"/>
+            <methodElementProperty xmi:id="_RxAFU7gREd2VBqezzK7PZw" name="query" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;ASCII&quot;?>&#xD;&#xA;&lt;Query xmi:version=&quot;2.0&quot; xmlns:xmi=&quot;http://www.omg.org/XMI&quot; xmlns=&quot;http://www.ibm.com/rmc/library/xmldef&quot;>&#xD;&#xA;  &lt;where>&#xD;&#xA;    &lt;condition name=&quot;tag&quot; value=&quot;umf&quot;/>&#xD;&#xA;    &lt;condition name=&quot;type&quot; value=&quot;Concept&quot;/>&#xD;&#xA;  &lt;/where>&#xD;&#xA;&lt;/Query>&#xD;&#xA;"/>
+            <presentation xmi:id="-3qO--X00PHcaJOegsFj_Xg" href="uma://-3qO--X00PHcaJOegsFj_Xg#-3qO--X00PHcaJOegsFj_Xg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Concept" href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_nrrn4GqHEdun45RPFGeYnA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_etPpgbGTEd2Nxp_TZz4d1A"
+              name="umf_guidelines" guid="_etPpgbGTEd2Nxp_TZz4d1A" presentationName="UMF Guidelines"
+              briefDescription="These are guidelines that process engineers must adhere to when authoring methods within the Unified Method Framework (UMF)."
+              shapeicon="customcategories/resources/guide_dgm32.gif" nodeicon="customcategories/resources/guide_obj.gif">
+            <methodElementProperty xmi:id="_RxAFVLgREd2VBqezzK7PZw" name="CategoryElementsSortType"
+                value="Alphabetic"/>
+            <methodElementProperty xmi:id="_RxAFVbgREd2VBqezzK7PZw" name="query" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;ASCII&quot;?>&#xD;&#xA;&lt;Query xmi:version=&quot;2.0&quot; xmlns:xmi=&quot;http://www.omg.org/XMI&quot; xmlns=&quot;http://www.ibm.com/rmc/library/xmldef&quot;>&#xD;&#xA;  &lt;where>&#xD;&#xA;    &lt;condition name=&quot;tag&quot; value=&quot;umf&quot;/>&#xD;&#xA;    &lt;condition name=&quot;type&quot; value=&quot;Guideline&quot;/>&#xD;&#xA;  &lt;/where>&#xD;&#xA;&lt;/Query>&#xD;&#xA;"/>
+            <presentation xmi:id="-UrsPKilNUVZq_kkQuZxTxA" href="uma://-UrsPKilNUVZq_kkQuZxTxA#-UrsPKilNUVZq_kkQuZxTxA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_YPoMoPUkEdyNMvgj607huw"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_PPjo4PF3EdyPreM_8XDeJA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_apOmQMj7EdyoXMhaXAJ-6g"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_PBhxIO9MEdytFa01gNyMbA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_x40SYO9HEdytFa01gNyMbA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_OLr2MFizEd2AFZhgf_Sb-A"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_Arih4MdeEdySeI1LYmvOGg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_W44bEMeQEdyDDM3XyGAKxw"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_k2ahIO9JEdytFa01gNyMbA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_EQiuAPTiEdysQswc_A-Z6g"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_EU58MMVkEdysMqkA3CCYsg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#__BMv0JorEd2fi9zUq_rRtg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_etPpgrGTEd2Nxp_TZz4d1A"
+              name="umf_examples" guid="_etPpgrGTEd2Nxp_TZz4d1A" presentationName="UMF Examples"
+              briefDescription="These are some examples that apply when authoring methods within the Unified Method Framework (UMF)."
+              shapeicon="customcategories/resources/example_dgm32.gif" nodeicon="customcategories/resources/example_obj.gif">
+            <methodElementProperty xmi:id="_RxAFVrgREd2VBqezzK7PZw" name="query" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;ASCII&quot;?>&#xD;&#xA;&lt;Query xmi:version=&quot;2.0&quot; xmlns:xmi=&quot;http://www.omg.org/XMI&quot; xmlns=&quot;http://www.ibm.com/rmc/library/xmldef&quot;>&#xD;&#xA;  &lt;where>&#xD;&#xA;    &lt;condition name=&quot;tag&quot; value=&quot;umf&quot;/>&#xD;&#xA;    &lt;condition name=&quot;type&quot; value=&quot;Example&quot;/>&#xD;&#xA;  &lt;/where>&#xD;&#xA;&lt;/Query>&#xD;&#xA;"/>
+            <methodElementProperty xmi:id="_RxAFV7gREd2VBqezzK7PZw" name="CategoryElementsSortType"
+                value="Alphabetic"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Example" href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_JoLlEIJQEd2sTeTIQhu12Q"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Example" href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_ttZ0cILMEd2NQYBY1jUNtw"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Example" href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_GH_qsIMzEd2QVrMx9wDJQQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Example" href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_g6rj8IKMEd2NQYBY1jUNtw"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Example" href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_MWqvQIM6Ed2QVrMx9wDJQQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Example" href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_tIpNcIK_Ed2NQYBY1jUNtw"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Example" href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_bCZb8ILOEd2NQYBY1jUNtw"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Example" href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_Nq3JkIMPEd2QVrMx9wDJQQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Example" href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_dG54oINCEd2QVrMx9wDJQQ"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_xqtU87DWEd2-s7FS-eg9aA"
+          name="CoreContent" guid="_xqtU87DWEd2-s7FS-eg9aA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_xqtU9LDWEd2-s7FS-eg9aA"
+            name="mam_for_epl_config_elements" guid="_xqtU9LDWEd2-s7FS-eg9aA" presentationName="MAM for EPL Configuration Elements">
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_xqtU9bDWEd2-s7FS-eg9aA"
+              name="welcome_mam_for_epl" guid="_xqtU9bDWEd2-s7FS-eg9aA" presentationName="Welcome to the Method Authoring Method (MAM) for the EPF Practice Library (EPL)"
+              shapeicon="guidances/supportingmaterials/resources/icon_introL.gif"
+              nodeicon="guidances/supportingmaterials/resources/mic.gif" variabilityType="replaces"
+              supportingMaterials="_xqtU97DWEd2-s7FS-eg9aA">
+            <presentation xmi:id="-dkpXIMUbutT0o8hM_oNKGg" href="uma://-dkpXIMUbutT0o8hM_oNKGg#-dkpXIMUbutT0o8hM_oNKGg"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:SupportingMaterial"
+                href="uma://_vsno4EKmEdyrauqpmnA8jQ#_g910gCapEd21TMX858E1gw"/>
+            <conceptsAndPapers href="uma://_hh7xAH_2Ed2IdZmkTP19bw#_sLATYH_0Ed2IdZmkTP19bw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Roadmap" xmi:id="_ilx5ALDdEd2-s7FS-eg9aA"
+              name="authoring_in_existing_practice_fw.epl" guid="_ilx5ALDdEd2-s7FS-eg9aA"
+              presentationName="Authoring in the Eclipse Practice Library (EPL)" briefDescription="This roadmap provides step-by-step guidance on how to author within the Eclipse Practice Library (EPL)."
+              variabilityType="extendsReplaces">
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Roadmap" href="uma://_tALfMKEiEd2bTrLTU21QBw#_np39AKniEd2eRp4Z7dEEOQ"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_xqtU9rDWEd2-s7FS-eg9aA"
+            name="release_info" guid="_xqtU9rDWEd2-s7FS-eg9aA" presentationName="Release Information">
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_xqtU97DWEd2-s7FS-eg9aA"
+              name="release_info_mam_for_epl_config" guid="_xqtU97DWEd2-s7FS-eg9aA"
+              presentationName="MAM for EPL Configuration Release Information" shapeicon="guidances/supportingmaterials/resources/whats_new.gif"
+              nodeicon="guidances/supportingmaterials/resources/whats_new_obj.gif">
+            <presentation xmi:id="-UTtCtywDy3IIoHcPbmC_Fw" href="uma://-UTtCtywDy3IIoHcPbmC_Fw#-UTtCtywDy3IIoHcPbmC_Fw"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_xqtVGrDWEd2-s7FS-eg9aA"
+          name="CapabilityPatterns" guid="_xqtVGrDWEd2-s7FS-eg9aA"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_xqtVG7DWEd2-s7FS-eg9aA"
+        name="DeliveryProcesses" guid="_xqtVG7DWEd2-s7FS-eg9aA"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_xqtU8bDWEd2-s7FS-eg9aA"
+        name="ProcessContributions" guid="_xqtU8bDWEd2-s7FS-eg9aA"/>
+    <bases href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_HQW1wAvmEd2Z4aGiwM2NOA"/>
+    <bases href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_TQMyAAyNEd2RbdLDHU6BqQ"/>
+    <bases href="uma://_0AD2ECJoEd2elMIxXedw0g#_0AD2ECJoEd2elMIxXedw0g"/>
+    <bases href="uma://_7dtpACYOEd2Hqsxn1d0Dyg#_7dtpACYOEd2Hqsxn1d0Dyg"/>
+    <bases href="uma://_V6WwsEAKEd2Ei9ySU_sUdQ#_V6WwsEAKEd2Ei9ySU_sUdQ"/>
+    <bases href="uma://_STHyQCvoEd2ht9LgoFs93Q#_STHyQCvoEd2ht9LgoFs93Q"/>
+    <bases href="uma://_hh7xAH_2Ed2IdZmkTP19bw#_hh7xAH_2Ed2IdZmkTP19bw"/>
+    <bases href="uma://_eSzlUKAxEd2nI52VLwUMxA#_eSzlUKAxEd2nI52VLwUMxA"/>
+    <bases href="uma://_NMf88KA3Ed2nI52VLwUMxA#_NMf88KA3Ed2nI52VLwUMxA"/>
+    <bases href="uma://_tALfMKEiEd2bTrLTU21QBw#_tALfMKEiEd2bTrLTU21QBw"/>
+    <bases href="uma://_76FlEFdoEd2N4vZAlUIPvw#_76FlEFdoEd2N4vZAlUIPvw"/>
+    <bases href="uma://_GOSjoLevEd2gS_YAx7LMHA#_GOSjoLevEd2gS_YAx7LMHA"/>
+    <bases href="uma://_vsno4EKmEdyrauqpmnA8jQ#_vsno4EKmEdyrauqpmnA8jQ"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

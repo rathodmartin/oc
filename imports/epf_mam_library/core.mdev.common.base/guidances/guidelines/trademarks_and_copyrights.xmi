@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-cdx4WswkMCRDUrL121DKXg"
+    name="trademarks_and_copyrights,_OxsfkH8MEdu_ipWWZJimvQ" guid="-cdx4WswkMCRDUrL121DKXg"
+    changeDate="2008-10-10T13:17:44.234-0700" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    Every plug-in should have an associated copyright.&amp;nbsp;Copyrights are specified as part of the plug-in&#xD;
+    definition.&amp;nbsp;For information on trademarks and copyrights, see &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/reusableassets/formatting_and_writing_tips_for_method_authors_F218DBA8.html&quot;&#xD;
+     guid=&quot;_sEOcoJcDEd2sTqxclDgvog&quot;>Formatting and Writing Tips for Method Authors&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

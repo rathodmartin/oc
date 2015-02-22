@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-ZnSf2PLryJzZ-nyokEwLzw"
+    name="new_concept,__LjaEFQsEd2uvIuuFjd1Fg" guid="-ZnSf2PLryJzZ-nyokEwLzw" changeDate="2008-10-12T10:02:38.703-0700"
+    version="7.5.0">
+  <mainDescription>&lt;p>&#xD;
+    Content that is shared between &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/concepts/practice_F5C8EAAB.html&quot;&#xD;
+    guid=&quot;_qhCTAFRREd2CWscN8Mx6rg&quot;>Practice&lt;/a>s&amp;nbsp;is capture in &lt;em>core&lt;/em> elements, where &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/work_product_slot_D5B44CE7.html&quot;&#xD;
+    guid=&quot;_Er1OcJIfEdybeduord13cg&quot;>Work Product Slot&lt;/a>s are a key type of core element.&amp;nbsp; &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_configuration_CC7754F2.html&quot;&#xD;
+    guid=&quot;_0H9aAO7EEdy9EOwDlaw7Kw&quot;>Practice Configuration&lt;/a>s (including &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/termdefinitions/cross_practice_process_5F83B112.html&quot;&#xD;
+    guid=&quot;_9NcfoFJgEd2SzrMjC_svdw&quot;>cross-practice process&lt;/a>es and &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/termdefinitions/navigation_view_8F89044.html&quot;&#xD;
+    guid=&quot;_X_hFIPAjEdyHz_B1XFOUgA&quot;>navigation view&lt;/a>s) are assembled by selecting a specific set of practices.&amp;nbsp;&#xD;
+    These concepts and their relationships are summarized in the following diagram:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img height=&quot;432&quot; alt=&quot;Image showing the key components of a practice framework and their relationships&quot;&#xD;
+    src=&quot;./resources/practice_framework.jpg&quot; width=&quot;600&quot; />&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

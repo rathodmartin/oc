@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-iTPO0H4tvnOfOsj5p1xzLw"
+    name="new_guideline,_iscZQFdaEd2N4vZAlUIPvw" guid="-iTPO0H4tvnOfOsj5p1xzLw" changeDate="2008-11-19T07:47:28.296-0800"
+    version="7.5.0">
+  <mainDescription>&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Special instructions when authoring in the UMF:&lt;/strong> When customizing method content elements that are to&#xD;
+    existing within the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.extend_umf/guidances/concepts/umf_C03950A8.html&quot;&#xD;
+    guid=&quot;_nrrn4GqHEdun45RPFGeYnA&quot;>Unified Method Framework (UMF)&lt;/a>, the following needs to be considered:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        In general, the practice framework plug-in types need to be considered.&amp;nbsp;These types affect what elements can&#xD;
+        be placed in what plug-in.&amp;nbsp;For example, customizations of method elements are defined in Extend&#xD;
+        plug-ins.&amp;nbsp;For more information on these plug-in types, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_lib_plugin_types_3EA8002F.html&quot;&#xD;
+        guid=&quot;__428YO6cEdygKbJMUVNEtg&quot;>Concept: Practice Library Plug-In Types&lt;/a>. However, If you find that rather than&#xD;
+        customizing the base UMF elements in separate plug-ins (the recommended approach) that you would like a change to&#xD;
+        the UMF element itself, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.extend_umf/guidances/guidelines/requesting_change_to_umf_173F0AC7.html&quot;&#xD;
+        guid=&quot;__BMv0JorEd2fi9zUq_rRtg&quot;>Guideline: Requesting a Change to the Unified Method Framework&lt;/a>.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        When customizing roles and role assignments, keep in mind that the UMF implements a delayed assignment approach for&#xD;
+        roles.&amp;nbsp;However, practices may include default role assignments (e.g., specifying what &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/role_37A0C602.html&quot;&#xD;
+        guid=&quot;_yUefQNnmEdmO6L4XMImrsA&quot;>role&lt;/a>s perform the practice &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/task_6C1FF051.html&quot;&#xD;
+        guid=&quot;_x459ktnmEdmO6L4XMImrsA&quot;>task&lt;/a>s and what &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/role_37A0C602.html&quot;&#xD;
+        guid=&quot;_yUefQNnmEdmO6L4XMImrsA&quot;>role&lt;/a>s are responsible for the practice &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/work_product_826E4C22.html&quot;&#xD;
+        guid=&quot;_H4JXwB_SEdq6CKKKq4D7YA&quot;>work product&lt;/a>s) in separate Assign plug-ins.&amp;nbsp;To change these assignments,&#xD;
+        make a copy of the Assign plug-in for the practice,&amp;nbsp;and change the desired roles and/or role assignments, as&#xD;
+        needed. Then use the new assignment plug-in place of the original assignment plug-in when the alternative roles are&#xD;
+        needed. For more information, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.extend_umf/guidances/guidelines/roles_in_the_umf_6E71216E.html&quot;&#xD;
+        guid=&quot;_Arih4MdeEdySeI1LYmvOGg&quot;>Guideline: Roles in the UMF&lt;/a>.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        When customizing standard category assignments, keep in mind that the UMF implements a delayed assignment approach&#xD;
+        for some standard categories.&amp;nbsp;However, practices may include default standard category assignments (e.g.,&#xD;
+        mapping the practice &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/task_6C1FF051.html&quot;&#xD;
+        guid=&quot;_x459ktnmEdmO6L4XMImrsA&quot;>task&lt;/a>s to &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/discipline_7667F451.html&quot;&#xD;
+        guid=&quot;_yGUuidnmEdmO6L4XMImrsA&quot;>discipline&lt;/a>s, mapping the practice &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/work_product_826E4C22.html&quot;&#xD;
+        guid=&quot;_H4JXwB_SEdq6CKKKq4D7YA&quot;>work product&lt;/a>s to &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/domain_D8238B93.html&quot;&#xD;
+        guid=&quot;_yHEVYdnmEdmO6L4XMImrsA&quot;>domain&lt;/a>s, etc) in separate Assign plug-ins.&amp;nbsp;To change these assignments,&#xD;
+        make a copy of the Assign plug-ins,&amp;nbsp;and change the desired standard categories and/or category assignments, as&#xD;
+        needed. Then use the new assignment plug-in place of the original assignment plug-in when the alternative standard&#xD;
+        category assignments are needed. For more information, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.extend_umf/guidances/guidelines/std_cats_in_the_umf_ADADE30D.html&quot;&#xD;
+        guid=&quot;_W44bEMeQEdyDDM3XyGAKxw&quot;>Guideline: Standard Categories in the UMF&lt;/a>.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    For more information on Extend and Assign plug-ins, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_lib_plugin_types_3EA8002F.html&quot;&#xD;
+    guid=&quot;__428YO6cEdygKbJMUVNEtg&quot;>Concept: Practice Library Plug-In Types&lt;/a>. For more information on delayed&#xD;
+    categorization, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/delayed_assignment_24142865.html&quot;&#xD;
+    guid=&quot;_rlrykJcbEd2sTqxclDgvog&quot;>Concept: Delayed Assignment&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

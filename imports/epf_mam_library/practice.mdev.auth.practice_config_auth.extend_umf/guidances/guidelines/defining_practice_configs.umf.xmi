@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-fZTyDorx0YPWMRde1fMkxg"
+    name="defining_practice_configurations.umf,_PTaMAPCkEdyHz_B1XFOUgA" guid="-fZTyDorx0YPWMRde1fMkxg"
+    changeDate="2008-11-19T07:50:27.734-0800" version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Special instructions when authoring in the UMF&lt;/strong>: When defining &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_config_CC7754F2.html&quot;&#xD;
+    guid=&quot;_0H9aAO7EEdy9EOwDlaw7Kw&quot;>Practice Configuration&lt;/a>s that are to existing within the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.extend_umf/guidances/concepts/umf_C03950A8.html&quot;&#xD;
+    guid=&quot;_nrrn4GqHEdun45RPFGeYnA&quot;>Unified Method Framework (UMF)&lt;/a>, you must take into consider the UMF practice&#xD;
+    configuration conventions.&amp;nbsp;For more information, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.extend_umf/guidances/guidelines/practice_configs_in_the_umf_F4DE088B.html&quot;&#xD;
+    guid=&quot;_PBhxIO9MEdytFa01gNyMbA&quot;>Guideline: Practice Configurations in the UMF&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

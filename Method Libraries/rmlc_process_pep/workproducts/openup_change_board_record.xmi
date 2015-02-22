@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-wBJzGAakMboso8mxBk-7gA" name="new_artifact,_M0CosPrgEeKlqMNsbbcDlQ" guid="-wBJzGAakMboso8mxBk-7gA" authors="Shane T. Ficorilli" changeDate="2013-08-01T15:26:42.042-0400" changeDescription="Baseline" version="1.0">
+  <mainDescription>The OpenUP Change Board approves or rejects requests to enhance or fix OpenUp content. Decisions of the Change Board are&#xD;
+captured as change record approvals or rejections. &lt;br />&#xD;
+&lt;br />&#xD;
+An approved Change Board record signals development activity may begin for that enhancement or fix.</mainDescription>
+  <impactOfNotHaving>Content developed and implemented without analysis of risk or impact.</impactOfNotHaving>
+  <reasonsForNotNeeding>Approved change records are required to begin the Process Engineering Process.</reasonsForNotNeeding>
+</org.eclipse.epf.uma:ArtifactDescription>

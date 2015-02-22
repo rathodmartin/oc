@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-ZCOYju4CnqEohhjcZYgK5w"
+    name="new_guideline,_eWJtwPRaEdy6Y8ced-PvYw" guid="-ZCOYju4CnqEohhjcZYgK5w" changeDate="2008-11-05T11:21:24.968-0800"
+    version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    In the &lt;a class=&quot;elementLink&quot; href=&quot;./../../../core.mdev.common.extend_umf/guidances/concepts/umf_C03950A8.html&quot;&#xD;
+    guid=&quot;_nrrn4GqHEdun45RPFGeYnA&quot;>Unified Method Framework (UMF)&lt;/a>,&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/work_product_slot_D5B44CE7.html&quot;&#xD;
+    guid=&quot;_Er1OcJIfEdybeduord13cg&quot;>Work Product Slot&lt;/a>s are defined as artifacts in Slot plug-ins.&amp;nbsp; For more&#xD;
+    information on Slot plug-ins, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_lib_plugin_types_3EA8002F.html&quot;&#xD;
+    guid=&quot;__428YO6cEdygKbJMUVNEtg&quot;>Concept: Practice Library Plug-In Types&lt;/a>. When authoring work products slots, be&#xD;
+    aware that the content cannot be practice or technique specific. Work product slots are intended to be generic. Thus,&#xD;
+    the most important thing to document is the information the work product slot represents, not its specific&#xD;
+    representation or the technique use to develop it.&#xD;
+&lt;/p>&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

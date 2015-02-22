@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-SenJpQcLe0dAkV488lRoiQ"
+    name="mam_for_epl_config_key_concepts,_xqtU_7DWEd2-s7FS-eg9aA" guid="-SenJpQcLe0dAkV488lRoiQ"
+    changeDate="2008-11-21T01:49:33.734-0800" version="7.5.0">
+  <mainDescription>It is best to first understand what &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../core.mdev.common.base/guidances/concepts/method_auth_9C5B9CAE.html&quot; guid=&quot;_spVlsFN0Ed2uvIuuFjd1Fg&quot;>Method&#xD;
+Authoring&lt;/a>&amp;nbsp;is, then what a practice framework is and what it contains (&lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../publish.mdev.auth.practice_fw_auth_common_nav_views.base/customcategories/practice_fw_key_concepts_ED5BF2C0.html&quot;&#xD;
+ guid=&quot;_gHv08LevEd2gS_YAx7LMHA&quot;>Practice Framework Key Concepts&lt;/a>), then what the &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../core.mdev.common.extend_umf/guidances/concepts/umf_C03950A8.html&quot; guid=&quot;_nrrn4GqHEdun45RPFGeYnA&quot;>Unified&#xD;
+Method Framework (UMF)&lt;/a> is (a type of practice framework) and then what the&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../core.mdev.common.extend_epl/guidances/concepts/epl_E3539AE.html&quot; guid=&quot;_sLATYH_0Ed2IdZmkTP19bw&quot;>EPF Practice&#xD;
+Library (EPL)&lt;/a> is (a UMF-compliant practice library).</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

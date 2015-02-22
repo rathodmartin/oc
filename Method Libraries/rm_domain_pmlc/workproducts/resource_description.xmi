@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-SXim2NoRjsQHYXnwoeC4Mw" name="new_artifact,__G6JUG4CEeSIef-3MggveQ" guid="-SXim2NoRjsQHYXnwoeC4Mw" authors="John Rozsa" changeDate="2014-11-16T21:40:29.845-0500" changeDescription="Baseline" version="BL">
+  <mainDescription>Project inventory of assigned resources by name, role, capability level and current project capacity. This document is used
+        to reflect and communicate resource commitments and requirements.&lt;br /></mainDescription>
+  <impactOfNotHaving>Unknown resources requirements and unknown rsources charging project. Roles and responsibilities confusion.&lt;br /></impactOfNotHaving>
+  <reasonsForNotNeeding>Small project team.&lt;br /></reasonsForNotNeeding>
+</org.eclipse.epf.uma:ArtifactDescription>

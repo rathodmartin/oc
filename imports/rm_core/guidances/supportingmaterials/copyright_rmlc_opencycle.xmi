@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-SKmM00u-zs1IIRhnu3w9Mg" name="copyright_rmlc_opencycle,_nLwggLmUEeO--ZV6XkvztQ" guid="-SKmM00u-zs1IIRhnu3w9Mg" authors="RathodMartin" changeDate="2014-04-01T07:56:56.324-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>&lt;p>&#xD;
+    RMLC, Version 1.0.0&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

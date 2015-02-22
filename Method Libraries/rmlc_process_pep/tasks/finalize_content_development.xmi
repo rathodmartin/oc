@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7mZ01f-Othn5APfYlAEBzg" name=",_vXfLMPt7EeK6X-ODr_6b9w" guid="-7mZ01f-Othn5APfYlAEBzg" authors="Shane T. Ficorilli" changeDate="2013-08-02T10:00:27.121-0400" changeDescription="Baseline" version="1.0">
+  <mainDescription>OpenUP Content is published to test site after it has passed Unit Testing. OpenUP content is prepared for Systems and UAT&#xD;
+Testing.</mainDescription>
+  <sections xmi:id="_AdtsUPt8EeK6X-ODr_6b9w" name="Publish OpenUP Content to test site " guid="_AdtsUPt8EeK6X-ODr_6b9w">
+    <sectionDescription>Once published, test site content is verified against development environment.</sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

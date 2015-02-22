@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-qg1DmRrMT9oYmnekhEjabA"
+    name="new_guideline,_OIOSQF_zEduYvI5nsNyVYA" guid="-qg1DmRrMT9oYmnekhEjabA" changeDate="2008-11-10T10:48:46.812-0800"
+    version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    &amp;nbsp;The following are some general guidelines when defining &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/method_plugin_190B9F5E.html&quot;&#xD;
+    guid=&quot;_D4TLgMaGEduMlb2cQZNTYw&quot;>method plug-in&lt;/a>s:&#xD;
+&lt;/p>&#xD;
+&lt;ul class=&quot;noindent&quot;>&#xD;
+    &lt;li>&#xD;
+        Name and briefly describe the plug-in. For guidelines on naming a plug-in, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.base/guidances/guidelines/method_element_naming_conventions_4A4F743B.html&quot;&#xD;
+        guid=&quot;_lAphAF5-EduT-Px7fh0LSg&quot;>Guideline: Method Element Naming Conventions&lt;/a>.&amp;nbsp;For guidelines in writing a&#xD;
+        brief description, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.base/guidances/guidelines/writing_brief_descriptions_D01D2F53.html&quot;&#xD;
+        guid=&quot;_cJbBkCAhEdy1y5bWsXfCCg&quot;>Guideline: Writing Brief Descriptions&lt;/a>.&lt;br />&#xD;
+        &amp;nbsp;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Capture the source of the information for the plug-in.&amp;nbsp;This information is important if you ever need to&#xD;
+        provide source information for the plug-in for documenting ownership rights.&lt;br />&#xD;
+        &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Maintain accurate change histories, as well as making sure your trademarks and copyrights are accurate.&amp;nbsp;For&#xD;
+        more information, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.base/guidances/guidelines/maintaining_change_histories_and_version_numbers_B83271.html&quot;&#xD;
+         guid=&quot;_k91OkFpBEdutiI3y4Hpy9Q&quot;>Guideline: Maintaining Change Histories and Version Numbers&lt;/a>&amp;nbsp;and &lt;a&#xD;
+        class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.base/guidances/guidelines/trademarks_and_copyrights_F14EB70C.html&quot;&#xD;
+        guid=&quot;_OxsfkH8MEdu_ipWWZJimvQ&quot;>Guideline: Trademarks and Copyrights&lt;/a>.&lt;br />&#xD;
+        &amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Identify any plug-ins that the plug-in must reference (in other words, the plug-ins the new plug-in depends&#xD;
+        on).&lt;br />&#xD;
+        &amp;nbsp;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;p>&#xD;
+            Define content packages to contain the method elements.&amp;nbsp;Alternatively, those packages can be created on&#xD;
+            demand, as method elements are defined in the plug-in.&amp;nbsp; For more information, see &lt;a&#xD;
+            class=&quot;elementLinkWithType&quot;&#xD;
+            href=&quot;./../../../core.mdev.common.base/guidances/guidelines/packaging_method_elements_E4EC8A32.html&quot;&#xD;
+            guid=&quot;_bAjgIIAhEd2RgsZLwhqsAA&quot;>Guideline: Packaging Method Elements&lt;/a>.&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p style=&quot;LIST-STYLE-TYPE: none&quot;>&#xD;
+    Consider the following when deciding whether or not to create a new plug-in:&#xD;
+&lt;/p>&#xD;
+&lt;ul class=&quot;noindent&quot;>&#xD;
+    &lt;li>&#xD;
+        Don’t modify content in plug-ins that are locked or owned by other parties. Instead, create a new plug-in that&#xD;
+        extends or replaces the base content. Standard plug-ins provided as part of a standard library should be locked to&#xD;
+        avoid inadvertent changes. Lock any third-party plug-ins after importing them.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Each plug-in has a physical file that contains information about all of the other content elements in the plug-in.&#xD;
+        Therefore, if several individuals are working on content for the same plug-in, that file will need to be carefully&#xD;
+        controlled. In such cases, you may want to consider dividing the method content that will be added to the base&#xD;
+        method content into more than one plug-in to avoid contention over the plug-in file.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Before defining new plug-ins, be sure to review the structure and content of existing method plug-ins.&amp;nbsp;This is&#xD;
+        especially important in those cases where you are customizing or building on an existing method.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

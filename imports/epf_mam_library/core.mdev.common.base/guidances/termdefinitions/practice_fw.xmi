@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-LeNVqYtsaVePHQG86p6iAA"
+    name="practice_framework,_CwIrwC14Ed2wFc42YmTg_g" guid="-LeNVqYtsaVePHQG86p6iAA"
+    changeDate="2008-05-29T05:09:49.625-0700" version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    A practice framework is a &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/termdefinitions/practice_based_215E243B.html&quot;&#xD;
+    guid=&quot;_uanIQPT8EdyCE9BF17mKDQ&quot;>practice-based&lt;/a>&amp;nbsp;method framework where &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/practice_94B5C550.html&quot;&#xD;
+    guid=&quot;_wxYvkMaGEduMlb2cQZNTYw&quot;>practice&lt;/a>s are used as as a&amp;nbsp;fundamental structuring element.&amp;nbsp; There are&#xD;
+    elements that are shared across practices (core elements), practices themselves and elements that cross practices.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

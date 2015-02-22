@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-p4NLoTh-rD8GiUiQVSf86Q" name="new_artifact,_uVzM4Lm2EeOjhZ-MtCWe2g" guid="-p4NLoTh-rD8GiUiQVSf86Q" authors="Rakesh D. Rathod" changeDate="2014-04-01T12:01:04.696-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>Project Charter is primarily concerned with documenting the business needs, project justification, current understanding of&#xD;
+the requirements, and the new product, service, or result that is intended to satisfy those requirements.</mainDescription>
+  <keyConsiderations>Clear and consice understanding of business requirements.</keyConsiderations>
+  <impactOfNotHaving>Project has no authorizaty to start without an approved Project Charter.</impactOfNotHaving>
+  <reasonsForNotNeeding>Project Chater may take different forms and formats but the authority to secure resources and start project can only come&#xD;
+from teh Project Sponsor.</reasonsForNotNeeding>
+  <briefOutline>&lt;p>&#xD;
+    Project Charter typically includes:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Requirements that satisfy stakeholders’ needs, wants, and expectations&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Business needs, high level project description, or product requirements that the project is undertaken to address&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Project purpose or justification&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Assigned Project Manager and authority level&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Summary milestone schedule&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Stakeholder influences&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Functional organisations and their participation&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Organizational, environmental and external assumptions&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Organizational, environmental and external constraints&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Business case justifying the project, including return on investment&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Summary budget&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></briefOutline>
+</org.eclipse.epf.uma:ArtifactDescription>

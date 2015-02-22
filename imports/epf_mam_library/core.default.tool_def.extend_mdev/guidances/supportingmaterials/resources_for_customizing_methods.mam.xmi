@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-q4PRS-cfd4ah9VB_vj5M6w"
+    name="resources_for_customizing_methods.kellih,_yJrxwF2ZEd2236qIEEjeSA" guid="-q4PRS-cfd4ah9VB_vj5M6w"
+    changeDate="2008-08-06T11:05:42.765-0700" version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    For more information on the process for authoring/customizing methods, see the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.tool_def.extend_kellih/guidances/supportingmaterials/mam_88B1B14E.html&quot;&#xD;
+    guid=&quot;_pzQ1AF_sEd2zpKtX6B7lBg&quot;>Method Authoring Method (MAM)&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

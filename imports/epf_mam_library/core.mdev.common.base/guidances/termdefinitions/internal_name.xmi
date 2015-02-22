@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-KOEp2IK6ORG6q8ftFWpFWg"
+    name="new_term_definition,_IwawgOnyEduAapZyGeTI0Q" guid="-KOEp2IK6ORG6q8ftFWpFWg"
+    changeDate="2008-09-11T07:39:20.828-0700" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    This term describes the style used for naming elements in the Method Composer that are used internally within the&#xD;
+    composer. An internal name may become the actual file name of the element, so the name needs to be valid for any&#xD;
+    operating system in any language. This name is not published in the final web site. However, it does become part of the&#xD;
+    URL for pages in the published web site. Therefore, it should conform to the internal name standards so that the&#xD;
+    published web site can be viewed using many different operating systems. Internal names are not localized for different&#xD;
+    languages.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The recommended style&amp;nbsp;is all lower case,&amp;nbsp;with words separated&amp;nbsp;by underscores. Lower case alphanumeric,&#xD;
+    English language characters, underscore,&amp;nbsp;dash,and period&amp;nbsp;are allowed.&amp;nbsp;No special characters.&amp;nbsp;Spaces&#xD;
+    are not allowed. Try to keep names to 36 characters or less using abbreviations when necessary to keep the names to a&#xD;
+    reasonable length.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Example: prepare_test_plan&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

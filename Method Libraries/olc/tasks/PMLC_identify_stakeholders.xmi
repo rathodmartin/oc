@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-cqO7jQxCIHrBUpbiukk0kg" name=",_qmNyUDwDEeSGc6ZYf7rWrg" guid="-cqO7jQxCIHrBUpbiukk0kg" authors="Rakesh D. Rathod" changeDate="2014-09-14T07:38:57.988-0400" changeDescription="Baseline" version="BL">
+  <sections xmi:id="_2YtwADwDEeSGc6ZYf7rWrg" name="Determine Posible Stakeholders" guid="_2YtwADwDEeSGc6ZYf7rWrg"/>
+  <sections xmi:id="_3Dw4IDwDEeSGc6ZYf7rWrg" name="Confirm Stakeholders" guid="_3Dw4IDwDEeSGc6ZYf7rWrg"/>
+</org.eclipse.epf.uma:TaskDescription>

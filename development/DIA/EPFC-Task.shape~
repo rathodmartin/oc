@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>DIA - EPFC-Task</name>
+  <icon>EPFC-Task.png</icon>
+  <connections>
+    <point x="23" y="5"/>
+    <point x="15" y="0"/>
+    <point x="5" y="0"/>
+    <point x="5" y="11"/>
+    <point x="15" y="11"/>
+    <point x="23" y="5"/>
+    <point x="19" y="2.5"/>
+    <point x="10" y="0"/>
+    <point x="5" y="5.5"/>
+    <point x="10" y="11"/>
+    <point x="19" y="8"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.5; stroke: #000000" points="23,5 15,0 5,0 5,11 15,11 23,5 "/>
+    <svg:text style="fill: #000000; text-anchor:start; font-family: sans; font-style: normal; font-weight: normal" x="12" y="5" font-size="0.8" textLength="0"></svg:text>
+  </svg:svg>
+</shape>

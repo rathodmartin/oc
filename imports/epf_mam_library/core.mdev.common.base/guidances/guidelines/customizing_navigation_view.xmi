@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-jNCe_FLK0R3j0NhNU2zoEA"
+    name="new_guideline,_a4wzIKj_Ed2XsY8-UtPVvw" guid="-jNCe_FLK0R3j0NhNU2zoEA" changeDate="2008-11-02T11:42:50.953-0800"
+    version="7.5.0">
+  <mainDescription>&lt;p>&#xD;
+    Navigation views are implemented as custom categories. Thus customizing &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/termdefinitions/navigation_view_8F89044.html&quot;&#xD;
+    guid=&quot;_X_hFIPAjEdyHz_B1XFOUgA&quot;>navigation view&lt;/a>s is handled the same as customizing a custom category. For more&#xD;
+    information, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/guidelines/customizing_custom_cat_904014B1.html&quot;&#xD;
+    guid=&quot;_TNlCkKkfEd2XsY8-UtPVvw&quot;>Guideline: Customizing a Custom Category&lt;/a>. Keep in mind that the presentation name of&#xD;
+    a custom category that is a navigation view is the name that is displayed on the tab in the published method. In&#xD;
+    addition, the names of sub-custom categories in custom categories that are navigation views will be the names of the&#xD;
+    folders that are displayed in the navigation views that are published.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

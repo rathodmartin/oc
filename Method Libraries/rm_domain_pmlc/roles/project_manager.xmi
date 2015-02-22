@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FA9hzJoSSWQEAMbAFHcsqg" name="new_role,_PPHW0Lm4EeOjhZ-MtCWe2g" guid="-FA9hzJoSSWQEAMbAFHcsqg" authors="John Rozsa" changeDate="2014-08-31T07:20:44.506-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>The Project Manager will generally plan, coordinate, implement, and finalize projects according to the specifications and
+        deadlines all while keeping the project within budget.</mainDescription>
+  <skills>&lt;ul>
+            &lt;li>
+                Facilitation
+            &lt;/li>
+            &lt;li>
+                Negotiation
+            &lt;/li>
+            &lt;li>
+                Project administrator
+            &lt;/li>
+            &lt;li>
+                Inter personal
+            &lt;/li>
+            &lt;li>
+                Time keeping
+            &lt;/li>
+        &lt;/ul></skills>
+  <assignmentApproaches>Subject matter expertise and availability are two example factors to consider when assigning an individual in the project
+        manager role.</assignmentApproaches>
+  <synonyms>&lt;br /></synonyms>
+</org.eclipse.epf.uma:RoleDescription>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-tmTOY2cwvWNwTY7WNwLfYg" name="new_artifact,_p5Lp0GVbEeSOQ-wuYUyV_g" guid="-tmTOY2cwvWNwTY7WNwLfYg" authors="John Rozsa" changeDate="2014-11-10T20:18:15.803-0500" changeDescription="Baseline" version="BL">
+  <mainDescription>The project staff assignments is a document (or part of a document) that specifies which resources are assigned to each
+        activity. It often includes a listing of the project team, memos defining assignments, and artifacts or portions of
+        documentation such as project organization charts and schedules.&lt;br /></mainDescription>
+  <impactOfNotHaving>Chaos can ensue if project members but are not assigned to any specific task. Assignments must be clear and
+        unambiguous.&lt;br /></impactOfNotHaving>
+  <reasonsForNotNeeding>Essentially all projects have staff assignments. Some are much less formal or even verbal. Formal project staff sssignments
+        are less critical for projects small in scope and duration.&lt;br /></reasonsForNotNeeding>
+</org.eclipse.epf.uma:ArtifactDescription>

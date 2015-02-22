@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_pgSLtrlDEeO53_TX_uVt6w" guid="_pgSLtrlDEeO53_TX_uVt6w">
+    <resourceDescriptors xmi:id="_16RyILmOEeO--ZV6XkvztQ" id="-ldGZwiK1cPLEcITUpgKKog" uri="roles/project_sponsor.xmi"/>
+    <resourceDescriptors xmi:id="_5sAXgrmzEeOjhZ-MtCWe2g" id="-PddxI5bN1qcJqociK3YQdA" uri="workproducts/project_management_plan.xmi"/>
+    <resourceDescriptors xmi:id="_iKexcrm0EeOjhZ-MtCWe2g" id="-TenFUPfqdPZxz5dd4IBw0A" uri="workproducttypes/pmlc_work_product_kinds.xmi"/>
+    <resourceDescriptors xmi:id="_z2XkYrm0EeOjhZ-MtCWe2g" id="-bB3Hn0NXyi3jUK-HrrSL7w" uri="customcategories/rm_domain_pmlc_wprk_product_kinds.xmi"/>
+    <resourceDescriptors xmi:id="_VPL4Urm3EeOjhZ-MtCWe2g" id="-p4NLoTh-rD8GiUiQVSf86Q" uri="workproducts/project_charter.xmi"/>
+    <resourceDescriptors xmi:id="_GW0gcbm4EeOjhZ-MtCWe2g" id="-jKVwczFnNZTvdLPMYrTMCA" uri="roles/stakeholder.xmi"/>
+    <resourceDescriptors xmi:id="_cbX8wLm4EeOjhZ-MtCWe2g" id="-FA9hzJoSSWQEAMbAFHcsqg" uri="roles/project_manager.xmi"/>
+    <resourceDescriptors xmi:id="_z04ckL8YEeOxGd0QHZtQBg" id="-CbIx-lYIywNBgMWueC5eZA" uri="workproducts/implementation_plan.xmi"/>
+    <resourceDescriptors xmi:id="_8in2sL9CEeOxGd0QHZtQBg" id="-FjFxfGiYAgyxyEgfkH_uYQ" uri="workproducts/project_closure.xmi"/>
+    <resourceDescriptors xmi:id="_oxl4ML9uEeOXMtgIEj8iWg" id="-VKoHvIWvE0cKBuaS68IC4A" uri="tasks/get_acceptance.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_pgIasLlDEeO53_TX_uVt6w" name="rm_domain_pmlc" guid="_pgIasLlDEeO53_TX_uVt6w" presentationName="RM Domain PMLC" briefDescription="RM Domain: PMLC" authors="Rakesh D. Rathod" changeDate="2014-03-31T22:16:46.080-0400" version="BL">
+    <ownedRules xmi:id="_G2Mg4Lm0EeOjhZ-MtCWe2g" name="wpState" guid="_G2Mg4Lm0EeOjhZ-MtCWe2g" briefDescription="Content in authoring phase." body="Authoring"/>
+    <ownedRules xmi:id="_I7MegLm0EeOjhZ-MtCWe2g" name="wpState" guid="_I7MegLm0EeOjhZ-MtCWe2g" briefDescription="Content in review phase." body="Review"/>
+    <ownedRules xmi:id="_Kn8UMLm0EeOjhZ-MtCWe2g" name="wpState" guid="_Kn8UMLm0EeOjhZ-MtCWe2g" briefDescription="Content in revision phase." body="Revisions"/>
+    <ownedRules xmi:id="_Sn-lgLm3EeOjhZ-MtCWe2g" name="wpState" guid="_Sn-lgLm3EeOjhZ-MtCWe2g" briefDescription="Content is in execution phase." body="Execution"/>
+    <ownedRules xmi:id="_eo-4AL9DEeOxGd0QHZtQBg" name="wpState" guid="_eo-4AL9DEeOxGd0QHZtQBg" body="Completion"/>
+    <methodElementProperty xmi:id="_pgSLuLlDEeO53_TX_uVt6w" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_tF1WELlDEeO53_TX_uVt6w" name="me_edited" value="true"/>
+    <copyrightStatement href="uma://_hnMvkLlDEeO53_TX_uVt6w#_nLwggLmUEeO--ZV6XkvztQ"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_pgIasblDEeO53_TX_uVt6w" name="Content" guid="_pgIasblDEeO53_TX_uVt6w">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_pgIasrlDEeO53_TX_uVt6w" name="Categories" guid="_pgIasrlDEeO53_TX_uVt6w">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_pgIas7lDEeO53_TX_uVt6w" name="Domains" guid="_pgIas7lDEeO53_TX_uVt6w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_pgIatLlDEeO53_TX_uVt6w" name="Disciplines" guid="_pgIatLlDEeO53_TX_uVt6w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_pgIatblDEeO53_TX_uVt6w" name="RoleSets" guid="_pgIatblDEeO53_TX_uVt6w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_pgIatrlDEeO53_TX_uVt6w" name="WP Types" guid="_pgIatrlDEeO53_TX_uVt6w">
+          <contentElements xsi:type="org.eclipse.epf.uma:WorkProductType" xmi:id="_W1B8ILm0EeOjhZ-MtCWe2g" name="pmlc_work_product_kinds" guid="_W1B8ILm0EeOjhZ-MtCWe2g" presentationName="PMLC Work Product Kinds" workProducts="_jvgrALmzEeOjhZ-MtCWe2g _uVzM4Lm2EeOjhZ-MtCWe2g _XFEpML8YEeOxGd0QHZtQBg _AEa-8L9CEeOxGd0QHZtQBg">
+            <methodElementProperty xmi:id="_iKexcLm0EeOjhZ-MtCWe2g" name="me_edited" value="true"/>
+            <presentation xmi:id="-TenFUPfqdPZxz5dd4IBw0A" href="uma://-TenFUPfqdPZxz5dd4IBw0A#-TenFUPfqdPZxz5dd4IBw0A"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_pgIat7lDEeO53_TX_uVt6w" name="Tools" guid="_pgIat7lDEeO53_TX_uVt6w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_pgIauLlDEeO53_TX_uVt6w" name="StandardCategories" guid="_pgIauLlDEeO53_TX_uVt6w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_pgIaublDEeO53_TX_uVt6w" name="CustomCategories" guid="_pgIaublDEeO53_TX_uVt6w">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_pgIaurlDEeO53_TX_uVt6w" name="Hidden" guid="_pgIaurlDEeO53_TX_uVt6w">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_pgSLsLlDEeO53_TX_uVt6w" name="Custom Categories" guid="_pgSLsLlDEeO53_TX_uVt6w" categorizedElements="_muRFsLm0EeOjhZ-MtCWe2g"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_muRFsLm0EeOjhZ-MtCWe2g" name="rm_domain_pmlc_wprk_product_kinds" guid="_muRFsLm0EeOjhZ-MtCWe2g" presentationName="PMLC Work Products" categorizedElements="_jvgrALmzEeOjhZ-MtCWe2g _uVzM4Lm2EeOjhZ-MtCWe2g _XFEpML8YEeOxGd0QHZtQBg _AEa-8L9CEeOxGd0QHZtQBg">
+            <methodElementProperty xmi:id="_z2XkYLm0EeOjhZ-MtCWe2g" name="me_edited" value="true"/>
+            <presentation xmi:id="-bB3Hn0NXyi3jUK-HrrSL7w" href="uma://-bB3Hn0NXyi3jUK-HrrSL7w#-bB3Hn0NXyi3jUK-HrrSL7w"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_pgSLsblDEeO53_TX_uVt6w" name="CoreContent" guid="_pgSLsblDEeO53_TX_uVt6w">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_uBftELlDEeO53_TX_uVt6w" name="rm_domain_pmlc_content_package" guid="_uBftELlDEeO53_TX_uVt6w" presentationName="RM Domain PMLC Content Package" briefDescription="RM Domain PMLC Content Package">
+          <methodElementProperty xmi:id="_uBftEblDEeO53_TX_uVt6w" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_yEqAgLlDEeO53_TX_uVt6w" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_y3iO8LlDEeO53_TX_uVt6w" name="project_sponsor" guid="_y3iO8LlDEeO53_TX_uVt6w" presentationName="Project Sponsor" briefDescription="Project Sponsor is the key person on the project management team to interact with organization's executive management.">
+            <methodElementProperty xmi:id="_15rVMLmOEeO--ZV6XkvztQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-ldGZwiK1cPLEcITUpgKKog" href="uma://-ldGZwiK1cPLEcITUpgKKog#-ldGZwiK1cPLEcITUpgKKog"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_jvgrALmzEeOjhZ-MtCWe2g" name="project_management_plan" guid="_jvgrALmzEeOjhZ-MtCWe2g" presentationName="Project Management Plan" briefDescription=" Project document detailing how the project is to be managed, executed and contolled.">
+            <methodElementProperty xmi:id="_5sAXgLmzEeOjhZ-MtCWe2g" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_LeZbELm0EeOjhZ-MtCWe2g" name="Workproduct_states" value="_G2Mg4Lm0EeOjhZ-MtCWe2g/_I7MegLm0EeOjhZ-MtCWe2g/_Kn8UMLm0EeOjhZ-MtCWe2g"/>
+            <presentation xmi:id="-PddxI5bN1qcJqociK3YQdA" href="uma://-PddxI5bN1qcJqociK3YQdA#-PddxI5bN1qcJqociK3YQdA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_uVzM4Lm2EeOjhZ-MtCWe2g" name="project_charter" guid="_uVzM4Lm2EeOjhZ-MtCWe2g" presentationName="Project Charter" briefDescription=" Project document detailing the anticipated Cost, Scope, Schedule, and Quality.">
+            <methodElementProperty xmi:id="_U8JAgLm3EeOjhZ-MtCWe2g" name="Workproduct_states" value="_G2Mg4Lm0EeOjhZ-MtCWe2g/_Sn-lgLm3EeOjhZ-MtCWe2g/_I7MegLm0EeOjhZ-MtCWe2g"/>
+            <methodElementProperty xmi:id="_VPL4ULm3EeOjhZ-MtCWe2g" name="me_edited" value="true"/>
+            <presentation xmi:id="-p4NLoTh-rD8GiUiQVSf86Q" href="uma://-p4NLoTh-rD8GiUiQVSf86Q#-p4NLoTh-rD8GiUiQVSf86Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_3VMUULm3EeOjhZ-MtCWe2g" name="stakeholder" guid="_3VMUULm3EeOjhZ-MtCWe2g" presentationName="Stakeholder" briefDescription="Members of the project team and interested entities that are internal or external to the organization.">
+            <methodElementProperty xmi:id="_GWrWgLm4EeOjhZ-MtCWe2g" name="me_edited" value="true"/>
+            <presentation xmi:id="-jKVwczFnNZTvdLPMYrTMCA" href="uma://-jKVwczFnNZTvdLPMYrTMCA#-jKVwczFnNZTvdLPMYrTMCA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_PPHW0Lm4EeOjhZ-MtCWe2g" name="project_manager" guid="_PPHW0Lm4EeOjhZ-MtCWe2g" presentationName="Project Manager" briefDescription="Person assigned to lead the team that is responsible for achieving the project objectives.">
+            <methodElementProperty xmi:id="_cbOy0Lm4EeOjhZ-MtCWe2g" name="me_edited" value="true"/>
+            <presentation xmi:id="-FA9hzJoSSWQEAMbAFHcsqg" href="uma://-FA9hzJoSSWQEAMbAFHcsqg#-FA9hzJoSSWQEAMbAFHcsqg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_XFEpML8YEeOxGd0QHZtQBg" name="implementation_plan" guid="_XFEpML8YEeOxGd0QHZtQBg" presentationName="Implementation Plan" briefDescription="Project document detailing preparation activities, contingencies, and resources necessary to implement a system or building into an operational state.">
+            <methodElementProperty xmi:id="_z00yML8YEeOxGd0QHZtQBg" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_tYhnsL8ZEeOxGd0QHZtQBg" name="Workproduct_states" value="_G2Mg4Lm0EeOjhZ-MtCWe2g/_I7MegLm0EeOjhZ-MtCWe2g/_Kn8UMLm0EeOjhZ-MtCWe2g"/>
+            <presentation xmi:id="-CbIx-lYIywNBgMWueC5eZA" href="uma://-CbIx-lYIywNBgMWueC5eZA#-CbIx-lYIywNBgMWueC5eZA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_AEa-8L9CEeOxGd0QHZtQBg" name="project_closure" guid="_AEa-8L9CEeOxGd0QHZtQBg" presentationName="Project Closure" briefDescription="Project document detailing aceptance, completion and disposition of the project.">
+            <methodElementProperty xmi:id="_8ijlQL9CEeOxGd0QHZtQBg" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_gLcwUL9DEeOxGd0QHZtQBg" name="Workproduct_states" value="_G2Mg4Lm0EeOjhZ-MtCWe2g/_eo-4AL9DEeOxGd0QHZtQBg/_I7MegLm0EeOjhZ-MtCWe2g/_Kn8UMLm0EeOjhZ-MtCWe2g"/>
+            <presentation xmi:id="-FjFxfGiYAgyxyEgfkH_uYQ" href="uma://-FjFxfGiYAgyxyEgfkH_uYQ#-FjFxfGiYAgyxyEgfkH_uYQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_flxB0L9uEeOXMtgIEj8iWg" name="get_acceptance" guid="_flxB0L9uEeOXMtgIEj8iWg" presentationName="Get Acceptance" briefDescription=" Get acceptance of project deliverables by project sponsor." performedBy="_PPHW0Lm4EeOjhZ-MtCWe2g _3VMUULm3EeOjhZ-MtCWe2g">
+            <methodElementProperty xmi:id="_oxejcL9uEeOXMtgIEj8iWg" name="me_edited" value="true"/>
+            <presentation xmi:id="-VKoHvIWvE0cKBuaS68IC4A" href="uma://-VKoHvIWvE0cKBuaS68IC4A#-VKoHvIWvE0cKBuaS68IC4A"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_pgSLsrlDEeO53_TX_uVt6w" name="CapabilityPatterns" guid="_pgSLsrlDEeO53_TX_uVt6w"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_pgSLs7lDEeO53_TX_uVt6w" name="DeliveryProcesses" guid="_pgSLs7lDEeO53_TX_uVt6w"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_pgSLtLlDEeO53_TX_uVt6w" name="ProcessContributions" guid="_pgSLtLlDEeO53_TX_uVt6w"/>
+    <bases href="uma://_hnMvkLlDEeO53_TX_uVt6w#_hnMvkLlDEeO53_TX_uVt6w"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

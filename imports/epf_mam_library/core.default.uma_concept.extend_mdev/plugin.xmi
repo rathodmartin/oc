@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_RaDk8LgREd2VBqezzK7PZw"
+      guid="_RaDk8LgREd2VBqezzK7PZw">
+    <resourceDescriptors xmi:id="_RaNV8LgREd2VBqezzK7PZw" id="-So8Z4A5pkueW-mFMOnfyHA"
+        uri="guidances/concepts/basic_process_concepts.mam.xmi"/>
+    <resourceDescriptors xmi:id="_RaNV8bgREd2VBqezzK7PZw" id="-B5vGpJpmJL4lyW4vGSSuYw"
+        uri="guidances/concepts/practice.mam.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_gWW0gF_SEd2zpKtX6B7lBg" name="core.default.uma_concept.extend_mdev"
+      guid="_gWW0gF_SEd2zpKtX6B7lBg" briefDescription="This plug-in contains elements that replace existing elements for the Method Development context."
+      authors="Kelli Houston" changeDate="2008-11-03T21:48:15.875-0800" bases="_iVydgENdEdy245g62lfWcA _WCUhAO8KEdmKSqa_gSYthg">
+    <copyrightStatement href="uma://_iVydgENdEdy245g62lfWcA#_uuunoPsDEdmyhNQr5STrZQ"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gWW0gV_SEd2zpKtX6B7lBg"
+        name="Content" guid="_gWW0gV_SEd2zpKtX6B7lBg">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gWW0gl_SEd2zpKtX6B7lBg"
+          name="Categories" guid="_gWW0gl_SEd2zpKtX6B7lBg">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gWW0g1_SEd2zpKtX6B7lBg"
+            name="Domains" guid="_gWW0g1_SEd2zpKtX6B7lBg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gWW0hF_SEd2zpKtX6B7lBg"
+            name="Disciplines" guid="_gWW0hF_SEd2zpKtX6B7lBg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gWW0hV_SEd2zpKtX6B7lBg"
+            name="RoleSets" guid="_gWW0hV_SEd2zpKtX6B7lBg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gWW0hl_SEd2zpKtX6B7lBg"
+            name="WP Types" guid="_gWW0hl_SEd2zpKtX6B7lBg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gWW0h1_SEd2zpKtX6B7lBg"
+            name="Tools" guid="_gWW0h1_SEd2zpKtX6B7lBg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gWW0iF_SEd2zpKtX6B7lBg"
+            name="StandardCategories" guid="_gWW0iF_SEd2zpKtX6B7lBg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gWW0iV_SEd2zpKtX6B7lBg"
+            name="CustomCategories" guid="_gWW0iV_SEd2zpKtX6B7lBg">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gWW0il_SEd2zpKtX6B7lBg"
+              name="Hidden" guid="_gWW0il_SEd2zpKtX6B7lBg">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_gWW0i1_SEd2zpKtX6B7lBg"
+                name="Custom Categories" guid="_gWW0i1_SEd2zpKtX6B7lBg"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gWW0jF_SEd2zpKtX6B7lBg"
+          name="CoreContent" guid="_gWW0jF_SEd2zpKtX6B7lBg">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_H0ACkF_eEd2zpKtX6B7lBg"
+            name="replacement_content" guid="_H0ACkF_eEd2zpKtX6B7lBg" presentationName="Replacement Content"
+            briefDescription="This is content that must replace existing content in the context of the MAM.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_M3zToF_eEd2zpKtX6B7lBg"
+              name="basic_process_concepts.mam" guid="_M3zToF_eEd2zpKtX6B7lBg" presentationName="Basic Process Concepts"
+              briefDescription="All users of a process should be familiar with these basic process concepts."
+              variabilityType="replaces">
+            <presentation xmi:id="-So8Z4A5pkueW-mFMOnfyHA" href="uma://-So8Z4A5pkueW-mFMOnfyHA#-So8Z4A5pkueW-mFMOnfyHA"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Concept" href="uma://_WCUhAO8KEdmKSqa_gSYthg#_FxJEkFUKEd2_rMtRMt_EMg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_hOfqgF_fEd2zpKtX6B7lBg"
+              name="practice.mam" guid="_hOfqgF_fEd2zpKtX6B7lBg" presentationName="Practice"
+              briefDescription="A practice is an approach to solving one or several commonly occurring problems. Practices are intended as &quot;chunks&quot; of process for adoption, enablement, and configuration. "
+              variabilityType="replaces">
+            <presentation xmi:id="-B5vGpJpmJL4lyW4vGSSuYw" href="uma://-B5vGpJpmJL4lyW4vGSSuYw#-B5vGpJpmJL4lyW4vGSSuYw"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Concept" href="uma://_WCUhAO8KEdmKSqa_gSYthg#_qhCTAFRREd2CWscN8Mx6rg"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_gWW0jV_SEd2zpKtX6B7lBg"
+          name="CapabilityPatterns" guid="_gWW0jV_SEd2zpKtX6B7lBg"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_gWW0jl_SEd2zpKtX6B7lBg"
+        name="DeliveryProcesses" guid="_gWW0jl_SEd2zpKtX6B7lBg"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_gWW0j1_SEd2zpKtX6B7lBg"
+        name="ProcessContributions" guid="_gWW0j1_SEd2zpKtX6B7lBg"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

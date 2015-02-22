@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML">
+  <uml:Activity xmi:id="_cJGuYJeeEeS_bNkOh34bcw" name="Monitor and Control">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_cJGuYZeeEeS_bNkOh34bcw" source="uma_element">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_cJGuYpeeEeS_bNkOh34bcw" key="uri" value="uma://_aHp0AJeeEeS_bNkOh34bcw#_aHp0AZeeEeS_bNkOh34bcw"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_cJGuY5eeEeS_bNkOh34bcw" key="type" value="Activity"/>
+    </eAnnotations>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_eo05IJeeEeS_bNkOh34bcw" name="Monitor and Control Project Work" outgoing="_hBrm4JeeEeS_bNkOh34bcw">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_eo05IpeeEeS_bNkOh34bcw" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_eo05I5eeEeS_bNkOh34bcw" key="uri" value="uma://_aHp0AJeeEeS_bNkOh34bcw#_eo05IZeeEeS_bNkOh34bcw"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_eo05JJeeEeS_bNkOh34bcw" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_f4w3AJeeEeS_bNkOh34bcw" name="Perform Integrated Change Control" incoming="_hBrm4JeeEeS_bNkOh34bcw">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_f4w3ApeeEeS_bNkOh34bcw" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_f4w3A5eeEeS_bNkOh34bcw" key="uri" value="uma://_aHp0AJeeEeS_bNkOh34bcw#_f4w3AZeeEeS_bNkOh34bcw"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_f4xeEJeeEeS_bNkOh34bcw" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_hBrm4JeeEeS_bNkOh34bcw" source="_eo05IJeeEeS_bNkOh34bcw" target="_f4w3AJeeEeS_bNkOh34bcw"/>
+  </uml:Activity>
+  <notation:Diagram xmi:id="_cJGuZJeeEeS_bNkOh34bcw" type="AD" element="_cJGuYJeeEeS_bNkOh34bcw" name="Monitor and Control" measurementUnit="Pixel">
+    <children xmi:type="notation:Node" xmi:id="_eo2HQJeeEeS_bNkOh34bcw" type="1009" element="_eo05IJeeEeS_bNkOh34bcw">
+      <children xmi:type="notation:Node" xmi:id="_eo2HRpeeEeS_bNkOh34bcw" type="4008"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_eo2HQZeeEeS_bNkOh34bcw" fontName="Arial" fontHeight="10"/>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_eo2HQpeeEeS_bNkOh34bcw"/>
+      <styles xmi:type="notation:FillStyle" xmi:id="_eo2HQ5eeEeS_bNkOh34bcw"/>
+      <styles xmi:type="notation:LineStyle" xmi:id="_eo2HRJeeEeS_bNkOh34bcw" lineColor="0"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eo2HRZeeEeS_bNkOh34bcw" x="70" y="55"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_f4xeEZeeEeS_bNkOh34bcw" type="1009" element="_f4w3AJeeEeS_bNkOh34bcw">
+      <children xmi:type="notation:Node" xmi:id="_f4yFIJeeEeS_bNkOh34bcw" type="4008"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_f4xeEpeeEeS_bNkOh34bcw" fontName="Arial" fontHeight="10"/>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_f4xeE5eeEeS_bNkOh34bcw"/>
+      <styles xmi:type="notation:FillStyle" xmi:id="_f4xeFJeeEeS_bNkOh34bcw"/>
+      <styles xmi:type="notation:LineStyle" xmi:id="_f4xeFZeeEeS_bNkOh34bcw" lineColor="0"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f4xeFpeeEeS_bNkOh34bcw" x="311" y="57"/>
+    </children>
+    <styles xmi:type="notation:PageStyle" xmi:id="_cJGuZZeeEeS_bNkOh34bcw"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="_cJGuZpeeEeS_bNkOh34bcw"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_cJGuZ5eeEeS_bNkOh34bcw"/>
+    <edges xmi:type="notation:Edge" xmi:id="_hBuDIJeeEeS_bNkOh34bcw" type="3001" element="_hBrm4JeeEeS_bNkOh34bcw" source="_eo2HQJeeEeS_bNkOh34bcw" target="_f4xeEZeeEeS_bNkOh34bcw">
+      <children xmi:type="notation:Node" xmi:id="_hBuqMJeeEeS_bNkOh34bcw" type="4012">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_hBuqMZeeEeS_bNkOh34bcw" y="40"/>
+      </children>
+      <styles xmi:type="notation:RoutingStyle" xmi:id="_hBuDIZeeEeS_bNkOh34bcw"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_hBuDIpeeEeS_bNkOh34bcw" fontName="Arial" fontHeight="8"/>
+      <styles xmi:type="notation:LineStyle" xmi:id="_hBuDI5eeEeS_bNkOh34bcw" lineColor="0"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hBuDJJeeEeS_bNkOh34bcw" points="[62, -8, -186, -10]$[278, -23, 30, -25]"/>
+    </edges>
+  </notation:Diagram>
+</xmi:XMI>

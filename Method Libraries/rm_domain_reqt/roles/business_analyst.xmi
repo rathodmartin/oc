@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-MSBDqiTK7qMXENIOGZG4hg" name="new_role,_Qt3GIDu0EeSIrOwVunFgpg" guid="-MSBDqiTK7qMXENIOGZG4hg" authors="John Rozsa" changeDate="2014-09-13T22:10:44.234-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>A Business Analyst is someone who analyzes an organization (real or hypothetical) and designs its processes and systems,
+        assessing the business model and its integration with technology. They are a bridge between the business problems and the
+        technology solutions. Business Analysts analyze, transform and ultimately resolve the business problems with the help of
+        technology.&lt;br /></mainDescription>
+  <skills>&lt;ul>
+            &lt;li>
+                Communication Skills
+            &lt;/li>
+            &lt;li>
+                Problem-Solving Skills
+            &lt;/li>
+            &lt;li>
+                Critical Thinking Skills
+            &lt;/li>
+            &lt;li>
+                Business Analysis Skills
+            &lt;/li>
+            &lt;li>
+                Documentation and Specification Skills
+            &lt;/li>
+            &lt;li>
+                Analysis Skills
+            &lt;/li>
+            &lt;li>
+                Visual Modeling
+            &lt;/li>
+            &lt;li>
+                Facilitation and Elicitation Skills
+            &lt;/li>
+            &lt;li>
+                Relationship-Building Skills
+            &lt;/li>
+            &lt;li>
+                Self-Managing
+            &lt;/li>
+            &lt;li>
+                A Thick Skin
+            &lt;/li>
+        &lt;/ul></skills>
+</org.eclipse.epf.uma:RoleDescription>

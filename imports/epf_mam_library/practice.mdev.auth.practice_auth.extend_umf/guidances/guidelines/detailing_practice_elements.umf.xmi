@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-pW1yyqF-_A-n1n5fwKpukg"
+    name="detailing_practice_elements.pau,_O2WogPXGEdyGap--w1kPUw" guid="-pW1yyqF-_A-n1n5fwKpukg"
+    changeDate="2008-11-19T08:06:47.328-0800" version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Special instructions when authoring in the UMF&lt;/strong>: When detailing the elements in a practice&amp;nbsp;that&#xD;
+    exists within the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.extend_umf/guidances/concepts/umf_C03950A8.html&quot;&#xD;
+    guid=&quot;_nrrn4GqHEdun45RPFGeYnA&quot;>Unified Method Framework (UMF)&lt;/a>, you must take into consider the UMF practice&#xD;
+    conventions.&amp;nbsp;For more information, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.extend_umf/guidances/guidelines/practices_in_the_umf_6C33CD53.html&quot;&#xD;
+    guid=&quot;_x40SYO9HEdytFa01gNyMbA&quot;>Guideline: Practices in the UMF&lt;/a>. When detailing the elements in a practice, you may&#xD;
+    find that you need to make changes to an element in a&amp;nbsp;Core plug-in. Specifically, you may find that you have&#xD;
+    content that&amp;nbsp;would be better shared between practices (for example, a common work product, some shared guidance,&#xD;
+    or a new role) and thus you may need to add a new or refine an existing core element.&amp;nbsp;Alternatively, you may find&#xD;
+    that if you were to&amp;nbsp;refine an existing Core element that would be able to use it.&amp;nbsp;For more information on the&#xD;
+    Core plug-ins and what they contain, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_lib_plugin_types_3EA8002F.html&quot;&#xD;
+    guid=&quot;__428YO6cEdygKbJMUVNEtg&quot;>Concept: Practice Library Plug-In Types&lt;/a>. For information on how to customize core&#xD;
+    elements, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.extend_umf/guidances/guidelines/requesting_change_to_umf_173F0AC7.html&quot;&#xD;
+    guid=&quot;__BMv0JorEd2fi9zUq_rRtg&quot;>Guideline: Requesting a Change to the Unified Method Framework&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

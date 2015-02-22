@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-1P0vBk-rNqSirLH4qDKvqQ" name="new_artifact,_W2-JQFmLEeSnr-1nkoLXsg" guid="-1P0vBk-rNqSirLH4qDKvqQ" authors="John Rozsa" changeDate="2014-10-23T18:34:26.321-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>The project funding requirements include all projected expenditures along with the anticipated projected liabilities. They
+        outline the amount of total funding needed for the project. Often these requirements are overlaid on the cost baseline for
+        each time period. While project expenditures typically occur relatively smoothly, the funding often occurs in chunks. It is
+        often displayed against a cost baseline in a stair-step fashion.&lt;br /></mainDescription>
+  <impactOfNotHaving>For projects with long duration, it is important to understand where and when the necessary funding will be applied. Since
+        funding is typically not linear or in sync with the project cost estimate/baseline, if not planned effetively, the project
+        could be without the necessary funds to move forward.&lt;br /></impactOfNotHaving>
+  <reasonsForNotNeeding>Projects with short durations and complexity often don't require funding along the project timeline. Most often all funding
+        approval and appropriations are provided at the onset of a given initiative.&lt;br /></reasonsForNotNeeding>
+</org.eclipse.epf.uma:ArtifactDescription>

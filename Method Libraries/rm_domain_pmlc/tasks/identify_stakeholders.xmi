@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-1zRdPn2dxB-hRNYQZSU0qQ" name=",_BnhnQDwDEeSGc6ZYf7rWrg" guid="-1zRdPn2dxB-hRNYQZSU0qQ" authors="John Rozsa" changeDate="2014-09-14T07:34:59.330-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>Identify Stakeholders is the process of identifying the people, groups, or organizations that could impact or be impacted
+        by a decision, activity, or outcome of the project. This task analyzes and documents relevant information regarding the
+        stakeholders' interests, involvement, interdependencies, influence, and potential impact on project success.&lt;br /></mainDescription>
+  <sections xmi:id="_QtuKUDwDEeSGc6ZYf7rWrg" name="Determine Posible Stakeholders" guid="_QtuKUDwDEeSGc6ZYf7rWrg">
+    <sectionDescription>&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_RdNGgDwDEeSGc6ZYf7rWrg" name="Confirm Stakeholders" guid="_RdNGgDwDEeSGc6ZYf7rWrg">
+    <sectionDescription>&lt;br /></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

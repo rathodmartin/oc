@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-dQ6ixDU035Y7rBfGB8rCjw"
+    name="practice.mdev,_--0WYJIgEdybeduord13cg" guid="-dQ6ixDU035Y7rBfGB8rCjw" changeDate="2008-08-01T10:37:33.828-0700"
+    version="7.2.0">
+  <mainDescription>&lt;h3>&#xD;
+    Practice characteristics&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    In general, the following are some criteria for identifying practices:&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Independently adoptable&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Provide tangible results (ideally, a work product in some state, thought outcomes not bad)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        No dependencies on other practices (exception: a practice that extends an existing practice, which conceptually&#xD;
+        means the extending practice is a “sub-practice” of the base practice)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Provide a specific technique for producing a specific result, including specific tasks&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;h3>&#xD;
+    Practice properties&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    At a high level, a practice has the following method properties:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Inputs: Information needed by the practice to do it's job&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Outputs: The work products created as a result of executing a practice&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Provided work patterns: The key activities that the practice supports.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Dependencies (any required dependencies on other practices).&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    In addition to the above method properties, a practice also contains the following supporting information:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Motivation – why do you need it&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Getting started&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Enablement, process and reference material&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Tools for implementing the practice&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Services aiding it’s implementation&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Measurements of adoption level&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Related practices&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

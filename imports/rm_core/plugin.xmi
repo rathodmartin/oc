@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_hoPRYLlDEeO53_TX_uVt6w" guid="_hoPRYLlDEeO53_TX_uVt6w">
+    <resourceDescriptors xmi:id="_wC45QrmUEeO--ZV6XkvztQ" id="-SKmM00u-zs1IIRhnu3w9Mg" uri="guidances/supportingmaterials/copyright_rmlc_opencycle.xmi"/>
+    <resourceDescriptors xmi:id="_-8ULormUEeO--ZV6XkvztQ" id="-ZyiKdXDcQz36cDKOie_VeA" uri="roles/rm_core_role.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_hnMvkLlDEeO53_TX_uVt6w" name="rm_core" guid="_hnMvkLlDEeO53_TX_uVt6w" presentationName="RathodMartin Core" briefDescription="RathodMartin Core" authors="Rakesh D. Rathod" changeDate="2014-03-31T22:15:52.728-0400" version="BL" copyrightStatement="_nLwggLmUEeO--ZV6XkvztQ">
+    <methodElementProperty xmi:id="_hoPRYrlDEeO53_TX_uVt6w" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_kdve4LlDEeO53_TX_uVt6w" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hnMvkblDEeO53_TX_uVt6w" name="Content" guid="_hnMvkblDEeO53_TX_uVt6w">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hnMvkrlDEeO53_TX_uVt6w" name="Categories" guid="_hnMvkrlDEeO53_TX_uVt6w">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hnMvk7lDEeO53_TX_uVt6w" name="Domains" guid="_hnMvk7lDEeO53_TX_uVt6w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hnMvlLlDEeO53_TX_uVt6w" name="Disciplines" guid="_hnMvlLlDEeO53_TX_uVt6w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hnMvlblDEeO53_TX_uVt6w" name="RoleSets" guid="_hnMvlblDEeO53_TX_uVt6w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hnMvlrlDEeO53_TX_uVt6w" name="WP Types" guid="_hnMvlrlDEeO53_TX_uVt6w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hnMvl7lDEeO53_TX_uVt6w" name="Tools" guid="_hnMvl7lDEeO53_TX_uVt6w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hnMvmLlDEeO53_TX_uVt6w" name="StandardCategories" guid="_hnMvmLlDEeO53_TX_uVt6w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hnMvmblDEeO53_TX_uVt6w" name="CustomCategories" guid="_hnMvmblDEeO53_TX_uVt6w">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hnMvmrlDEeO53_TX_uVt6w" name="Hidden" guid="_hnMvmrlDEeO53_TX_uVt6w">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_hnMvm7lDEeO53_TX_uVt6w" name="Custom Categories" guid="_hnMvm7lDEeO53_TX_uVt6w"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hnMvnLlDEeO53_TX_uVt6w" name="CoreContent" guid="_hnMvnLlDEeO53_TX_uVt6w">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_h3OEwLmUEeO--ZV6XkvztQ" name="rm_core_content_package" guid="_h3OEwLmUEeO--ZV6XkvztQ" presentationName="RM Core Content Package" briefDescription="RM Core Content Package">
+          <methodElementProperty xmi:id="_h3OEwbmUEeO--ZV6XkvztQ" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_k4ePQLmUEeO--ZV6XkvztQ" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_nLwggLmUEeO--ZV6XkvztQ" name="copyright_rmlc_opencycle" guid="_nLwggLmUEeO--ZV6XkvztQ" presentationName="RathodMartin Copyright for OpenCycle">
+            <methodElementProperty xmi:id="_wC45QLmUEeO--ZV6XkvztQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-SKmM00u-zs1IIRhnu3w9Mg" href="uma://-SKmM00u-zs1IIRhnu3w9Mg#-SKmM00u-zs1IIRhnu3w9Mg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_2Ki0ALmUEeO--ZV6XkvztQ" name="rm_core_role" guid="_2Ki0ALmUEeO--ZV6XkvztQ" presentationName="RM Core Role">
+            <methodElementProperty xmi:id="_-8ULoLmUEeO--ZV6XkvztQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-ZyiKdXDcQz36cDKOie_VeA" href="uma://-ZyiKdXDcQz36cDKOie_VeA#-ZyiKdXDcQz36cDKOie_VeA"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_hnMvnblDEeO53_TX_uVt6w" name="CapabilityPatterns" guid="_hnMvnblDEeO53_TX_uVt6w"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_hnMvnrlDEeO53_TX_uVt6w" name="DeliveryProcesses" guid="_hnMvnrlDEeO53_TX_uVt6w"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_hnMvn7lDEeO53_TX_uVt6w" name="ProcessContributions" guid="_hnMvn7lDEeO53_TX_uVt6w"/>
+    <bases href="uma://_4ulTgMg7EdyXeo04os5BOw#_4ulTgMg7EdyXeo04os5BOw"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

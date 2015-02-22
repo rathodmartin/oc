@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-UhxnlUdDo9g_j1zaQzWnEQ" name="new_artifact,_dQbaQDD9EeSHm971buwRxw" guid="-UhxnlUdDo9g_j1zaQzWnEQ" authors="John Rozsa" changeDate="2014-09-14T07:29:33.500-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>A business case captures the reasoning for initiating a project or task. It is often presented in a well-structured written
+        document, but may be in the form of a short verbal argument or presentation. The logic of the business case is that,
+        whenever resources such as money or effort are consumed, they should be in support of a specific business need. An example
+        could be that a software upgrade might improve system performance, but the &quot;business case&quot; is that better performance would
+        improve customer satisfaction, require less task processing time, or reduce system maintenance costs. A compelling business
+        case adequately captures both the quantifiable and unquantifiable characteristics of a proposed project.&lt;br /></mainDescription>
+  <impactOfNotHaving>Not having a busiess case can make defining the key objectives of the project more difficult to describe.&lt;br /></impactOfNotHaving>
+  <reasonsForNotNeeding>There are some projects that are self-evident why it should be undertaken.&lt;br /></reasonsForNotNeeding>
+</org.eclipse.epf.uma:ArtifactDescription>

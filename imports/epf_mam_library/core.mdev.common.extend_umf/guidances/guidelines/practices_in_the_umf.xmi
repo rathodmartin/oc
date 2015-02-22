@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-LitgyJwWrDfeetHIMxUddg"
+    name="new_guideline,_x40SYO9HEdytFa01gNyMbA" guid="-LitgyJwWrDfeetHIMxUddg" changeDate="2008-11-03T07:43:52.906-0800"
+    version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    In the &lt;a class=&quot;elementLink&quot; href=&quot;./../../../core.mdev.common.extend_umf/guidances/concepts/umf_C03950A8.html&quot;&#xD;
+    guid=&quot;_nrrn4GqHEdun45RPFGeYnA&quot;>Unified Method Framework (UMF)&lt;/a>,&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/concepts/practice_F5C8EAAB.html&quot;&#xD;
+    guid=&quot;_qhCTAFRREd2CWscN8Mx6rg&quot;>Practice&lt;/a>s are defined in Practice plug-ins.&amp;nbsp;For general information on Practice&#xD;
+    plug-ins, see&amp;nbsp;&lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_lib_plugin_types_3EA8002F.html&quot;&#xD;
+    guid=&quot;__428YO6cEdygKbJMUVNEtg&quot;>Concept: Practice Library Plug-In Types&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    All practices have a Base plug-in that contains:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The definitions of the practice-specific method elements (method content elements&amp;nbsp;and processes). Of special&#xD;
+        importance is the definition of tasks and their associated guidance, as well as the assembly of the practice tasks&#xD;
+        into practice-specific processes.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The assignment of concrete work products to &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.base/guidances/concepts/work_product_slot_D5B44CE7.html&quot;&#xD;
+        guid=&quot;_Er1OcJIfEdybeduord13cg&quot;>Work Product Slot&lt;/a>s. For more information, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.extend_umf/guidances/guidelines/work_product_slots_in_the_umf_16BDFDCD.html&quot;&#xD;
+        guid=&quot;_eWJtwPRaEdy6Y8ced-PvYw&quot;>Guideline: Work Product Slots in the UMF&lt;/a>.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The assignment of practice-specific tool mentors (if there are any) to the appropriate Tool (all other assignments&#xD;
+        to standard categories are defined in an Assign plug-in, as described below).&amp;nbsp;For more information, see &lt;a&#xD;
+        class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.extend_umf/guidances/guidelines/tool_info_in_the_umf_1DC427D4.html&quot;&#xD;
+        guid=&quot;_k2ahIO9JEdytFa01gNyMbA&quot;>Guideline: Tool Information in the UMF&lt;/a>.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    In addition, since the UMF&amp;nbsp;supports &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/delayed_assignment_24142865.html&quot;&#xD;
+    guid=&quot;_rlrykJcbEd2sTqxclDgvog&quot;>Delayed Assignment&lt;/a>, if the practice contains elements that are delayed assigned&#xD;
+    (e.g.,&amp;nbsp;roles, tasks and/or work products), then the practice also has an Assign plug-in that contains:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The assignment of practice-specific method elements to the appropriate domain, discipline and/or work product kind.&#xD;
+        For more information, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.extend_umf/guidances/guidelines/std_cats_in_the_umf_ADADE30D.html&quot;&#xD;
+        guid=&quot;_W44bEMeQEdyDDM3XyGAKxw&quot;>Guideline: Standard Categories in the UMF&lt;/a>.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The assignment of practice-specific tasks and work products to the appropriate role.&amp;nbsp;For more information see&#xD;
+        &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.extend_umf/guidances/guidelines/roles_in_the_umf_6E71216E.html&quot;&#xD;
+        guid=&quot;_Arih4MdeEdySeI1LYmvOGg&quot;>Guideline: Roles in the UMF&lt;/a>.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    For more information on Base and Assign plug-ins, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.extend_umf/guidances/concepts/practice_fw_plugin_parts_538A81D.html&quot;&#xD;
+    guid=&quot;_vgjh4PG1EdyO9sYxKNWf8A&quot;>Concept: Practice Framework Plug-In Parts&lt;/a>. For more information on delayed&#xD;
+    assignment, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.extend_umf/guidances/guidelines/delayed_assignment_in_the_umf_11FDA840.html&quot;&#xD;
+    guid=&quot;_PPjo4PF3EdyPreM_8XDeJA&quot;>Guideline: Delayed Assignment in the UMF&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

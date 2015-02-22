@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-4fFRE6dIGEJ1aLmQBy8yoA"
+    name="establish_method_auth_process,_p9nu0KdREd2XsY8-UtPVvw" guid="-4fFRE6dIGEJ1aLmQBy8yoA"
+    changeDate="2008-10-31T05:45:26.687-0800" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    If you choose to start with an existing process, the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.tool_def.extend_mam/guidances/concepts/mam_88B1B14E.html&quot;&#xD;
+    guid=&quot;_pzQ1AF_sEd2zpKtX6B7lBg&quot;>Method Authoring Method (MAM)&lt;/a>&amp;nbsp;(the process&amp;nbsp;you&amp;nbsp;are browsing)&amp;nbsp;is&#xD;
+    a good place to start. You can either use if out-of-the-box or customize it to your particular context.&amp;nbsp; Authoring&#xD;
+    a process from scratch is always an option, though it is not recommended (why reinvent the wheel).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Once you have decided on your process, make sure the method authors have access to the process.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

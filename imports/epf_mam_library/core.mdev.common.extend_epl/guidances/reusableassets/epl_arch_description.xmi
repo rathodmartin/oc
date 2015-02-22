@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-3Fi6rAv8Fp_WlbJMHIadGw"
+    name="epl_arch_description,_hh7xC3_2Ed2IdZmkTP19bw" guid="-3Fi6rAv8Fp_WlbJMHIadGw"
+    version="7.5.0">
+  <mainDescription>[*** Attach an open source architecture document/presentation that describes the EPF practice library&#xD;
+architecture&amp;nbsp;***]</mainDescription>
+</org.eclipse.epf.uma:GuidanceDescription>

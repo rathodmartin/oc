@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-yDC-zm94XnROagH9UWLv8Q" name=",_IEKLMPt6EeK6X-ODr_6b9w" guid="-yDC-zm94XnROagH9UWLv8Q" authors="Shane T. Ficorilli" changeDate="2013-08-02T09:48:35.949-0400" version="1.0">
+  <mainDescription>Creation of the OpenUP content by translating the OpenUP Build Out Inventory and UML/OpenUP Diagram to proper OpenUP&#xD;
+Structure. Translated content is reviewed with any impacted Domain Owners.</mainDescription>
+  <sections xmi:id="_SD5KwPt6EeK6X-ODr_6b9w" name="Translate the OpenUP Build Out Inventory and UML/OpenUP Diagram to OpenUP structure " guid="_SD5KwPt6EeK6X-ODr_6b9w">
+    <sectionDescription>Elaborate the Build Out Inventory and UML/OpenUP Diagram into requirements for OpenUP. Using the Systems and Software&#xD;
+Engineering Process Metamodel, construct OpenUP content for each element type to ensure relevant fields are addressed and&#xD;
+values are appropriate for the field.</sectionDescription>
+  </sections>
+  <sections xmi:id="_YP7PMPt6EeK6X-ODr_6b9w" name="Review the content with any impacted Domain Owners" guid="_YP7PMPt6EeK6X-ODr_6b9w">
+    <sectionDescription>&lt;p>&#xD;
+    Any time inputs come from another domain, or outputs go to another domain, it is imparative to obtain the other domain&#xD;
+    owner's concurrence and approval.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

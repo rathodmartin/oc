@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:WorkProductDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Sil4EHp-xs3O2f3BEwSgUQ" name="new_outcome,_adxfsPreEeKlqMNsbbcDlQ" guid="-Sil4EHp-xs3O2f3BEwSgUQ" authors="Shane T. Ficorilli" changeDate="2013-08-01T15:15:07.861-0400" changeDescription="Baseline" version="1.0">
+  <mainDescription>Successful result of OpenUP content developed and tested for defects. OpenUP Content is published to a local site for&#xD;
+testing.</mainDescription>
+  <impactOfNotHaving>OpenUP content cannot not be tested.</impactOfNotHaving>
+  <reasonsForNotNeeding>OpenUP Content Published to Local is always needed.</reasonsForNotNeeding>
+</org.eclipse.epf.uma:WorkProductDescription>

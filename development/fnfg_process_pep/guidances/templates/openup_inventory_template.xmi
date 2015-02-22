@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-1WxNB9sf5ugdSESuXekuYg" name="new_template,_CNYrsPrjEeKlqMNsbbcDlQ" guid="-1WxNB9sf5ugdSESuXekuYg" authors="Shane T. Ficorilli" changeDate="2013-08-01T15:47:05.422-0400" changeDescription="Baseline&#x9;&#x9;" version="1.0">
+  <mainDescription>Template used to develop the inventory of OpenUP content. The inventory is used to elaborate requirements.</mainDescription>
+  <attachments>resources/DMCEC-TEM-005-006-ULC-Content-Inventory_template.xlsx</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

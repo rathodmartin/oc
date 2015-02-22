@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Xm2dMhscocmaxd2SBLRkdw" name="new_artifact,_ntbhkFQQEeStpcwZ0CyxeQ" guid="-Xm2dMhscocmaxd2SBLRkdw" authors="John Rozsa" changeDate="2014-10-14T22:12:33.230-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>The Basis of Estimates is the supporting documentation providing the details used to establish the project estimates
+        including; assumptions, constraints, level of detail, ranges, and confidence levels. This information should specify any
+        basic assumptions dealing with the inclusion or exclusion of costs in the project budget.&lt;br />
+         &lt;br />
+         The level of detail supporting the cost estimate often vary by area. The supporting documentation should provide a clear
+        and complete understanding of how the etimates were derived.&lt;br />
+         &lt;br />
+         This supporting information/documentation includes but is not limited to:&lt;br />
+         &lt;br />
+         
+        &lt;ul>
+            &lt;li>
+                The basis of the estimate or how it was developed
+            &lt;/li>
+            &lt;li>
+                All assumptions made
+            &lt;/li>
+            &lt;li>
+                All known constraints
+            &lt;/li>
+            &lt;li>
+                Ranges of possible estimates indicating that the item was considered to be between a range of values
+            &lt;/li>
+            &lt;li>
+                Confidence level of the estimate
+            &lt;/li>
+        &lt;/ul></mainDescription>
+  <impactOfNotHaving>Not having this background information will allow for second guessing on the overall estimate of the project costs. This
+        information provides some level of clarity for the project team members and a reminder on why certain estimates were
+        made.&lt;br /></impactOfNotHaving>
+  <reasonsForNotNeeding>Basis of estimates are not as critical for projects that are small or often repeated. These projects are well understood
+        and do not need such level of documentation are how they were estimated.&lt;br /></reasonsForNotNeeding>
+</org.eclipse.epf.uma:ArtifactDescription>

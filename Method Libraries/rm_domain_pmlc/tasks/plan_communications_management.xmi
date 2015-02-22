@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-0N3CDC_QCZTMRcIMQMHlcg" name=",_UmCYEGYmEeSeMbOi5SCXJQ" guid="-0N3CDC_QCZTMRcIMQMHlcg" authors="John Rozsa" changeDate="2014-11-06T21:33:49.356-0500" changeDescription="Baseline" version="BL">
+  <mainDescription>Plan Communications Management is the process of developing an approach and plan for project communications. It documents
+        the most effective approach to communicate with the stakeholders.&lt;br />
+         &lt;br />
+         Project Communications Management includes all the necessary activities for effective project communications including;
+        planning, creation, distribution, control, monitoring and final disposition of the project information. Effective
+        communication is essential especially with diverse stakeholders with different cultural and organizational backgrounds all
+        having a bearing on the project outcome.&lt;br />
+         &lt;br />
+         Information needs and methods of distribution vary widely from project to project. Other considerations may include:&lt;br />
+         &lt;br />
+         
+        &lt;ul>
+            &lt;li>
+                The need to know, and who is authorized to access that information
+            &lt;/li>
+            &lt;li>
+                Timing of the information to the recipients
+            &lt;/li>
+            &lt;li>
+                Where the information is stored;
+            &lt;/li>
+            &lt;li>
+                The format of the information; and
+            &lt;/li>
+            &lt;li>
+                Time zone, language barriers, and cross-cultural considerations.
+            &lt;/li>
+        &lt;/ul>
+        &lt;br />
+         Like most of the Project Management tasks, the results of the Plan Communications Management process should be reviewed on
+        a regular basis throughout the project and revised as necessary.&lt;br /></mainDescription>
+  <sections xmi:id="_XZ5lkGlBEeS-9dAp19yOyQ" name="Develop communications approach" guid="_XZ5lkGlBEeS-9dAp19yOyQ"/>
+  <sections xmi:id="_YQWscGlBEeS-9dAp19yOyQ" name="Determine communications medium(s)" guid="_YQWscGlBEeS-9dAp19yOyQ"/>
+  <sections xmi:id="_aDpPAGlBEeS-9dAp19yOyQ" name="Solicit feedback and approval of approach from stakeholders" guid="_aDpPAGlBEeS-9dAp19yOyQ"/>
+</org.eclipse.epf.uma:TaskDescription>

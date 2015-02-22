@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-8F5Agv3QU2QB4rhZF1puZg" name="new_artifact,_YnGWkGYiEeSeMbOi5SCXJQ" guid="-8F5Agv3QU2QB4rhZF1puZg" authors="John Rozsa" changeDate="2014-11-06T21:04:56.877-0500" changeDescription="Baseline" version="BL">
+  <mainDescription>The communications management plan is part of the project management plan. It describes how project communications will be
+        structured, monitored, and controlled.&lt;br />
+         &lt;br />
+         Often, the communications management plan includes templates and guidelines to be used throughout the project to ensure
+        some levels of standardization along with a repository for such information.&lt;br />
+         &lt;br />
+         Typically, the communications management plan includes:&lt;br />
+         &lt;br />
+         
+        &lt;ul>
+            &lt;li>
+                The purpose for the providing such information
+            &lt;/li>
+            &lt;li>
+                The frequency and duration for the distribution of required information
+            &lt;/li>
+            &lt;li>
+                Stakeholder communication needs
+            &lt;/li>
+            &lt;li>
+                The receiptients of the targeted information
+            &lt;/li>
+            &lt;li>
+                Escalation process
+            &lt;/li>
+            &lt;li>
+                Information to be dispersed (this often addresses language, content, levels of detail, etc.)
+            &lt;/li>
+            &lt;li>
+                The person responsible for communicating the specific information
+            &lt;/li>
+            &lt;li>
+                The person approving the release of the information, especially if it is confidential
+            &lt;/li>
+            &lt;li>
+                The format and mode of delivery of the information (ex meeting, email, etc.)
+            &lt;/li>
+            &lt;li>
+                Estimated effort, resources and budgeted costs for providing project communications
+            &lt;/li>
+            &lt;li>
+                Glossary of terms
+            &lt;/li>
+        &lt;/ul></mainDescription>
+  <impactOfNotHaving>The Communications Plan helps to ensure effective project communications accross all those affected by the initiative. Not
+        having a plan on how to communicate with the core project team, stakeholders, etc. can lead to misunderstanding of such
+        things as project scope, intent, timelines, expectations, etc. All this can lead to a poor project delivery or even failed
+        projects.&lt;br /></impactOfNotHaving>
+  <reasonsForNotNeeding>Often, projects of short duration and minimal impact to others don't require a formal communications plan. If a formal
+        communications plan is deemed not needed, effective communication to all stakeholders is still an essential part of a
+        successful project.&lt;br /></reasonsForNotNeeding>
+</org.eclipse.epf.uma:ArtifactDescription>

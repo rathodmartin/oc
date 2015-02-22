@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-uwcq32Ur2hHIxCZHg8dY4A"
+    name="practice_configs_in_the_umf,_PBhxIO9MEdytFa01gNyMbA" guid="-uwcq32Ur2hHIxCZHg8dY4A"
+    changeDate="2008-11-03T06:54:39.093-0800" version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    In the &lt;a class=&quot;elementLink&quot; href=&quot;./../../../core.mdev.common.extend_umf/guidances/concepts/umf_C03950A8.html&quot;&#xD;
+    guid=&quot;_nrrn4GqHEdun45RPFGeYnA&quot;>Unified Method Framework (UMF)&lt;/a>, each &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_configuration_CC7754F2.html&quot;&#xD;
+    guid=&quot;_0H9aAO7EEdy9EOwDlaw7Kw&quot;>Practice Configuration&lt;/a> is represented by the following:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        (optionally) a Process plug-In that contains the practice configuration's &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.base/guidances/termdefinitions/cross_practice_process_5F83B112.html&quot;&#xD;
+        guid=&quot;_9NcfoFJgEd2SzrMjC_svdw&quot;>cross-practice process&lt;/a>&amp;nbsp;(it is optional because not all practice&#xD;
+        configurations have processes and because some processes are included in the Publish Base plug-in)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        A&amp;nbsp;Publish plug-in that contains those elements that are needed to publish the configuration (e.g., a Welcome&#xD;
+        page, processes, navigation views)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        A Publishable configuration&amp;nbsp;that selects the above plug-ins, as well as selects the navigation views to be&#xD;
+        published for the practice configuration&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    For general information on the plug-in types (e.g., Publish and Process plug-ins) see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_lib_plugin_types_3EA8002F.html&quot;&#xD;
+    guid=&quot;__428YO6cEdygKbJMUVNEtg&quot;>Concept: Practice Library Plug-In Types&lt;/a>. For general information on the Publish&#xD;
+    configuration, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_lib_config_types_B96A959A.html&quot;&#xD;
+    guid=&quot;_1gchoO6dEdygKbJMUVNEtg&quot;>Concept: Practice Library Configuration Types&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

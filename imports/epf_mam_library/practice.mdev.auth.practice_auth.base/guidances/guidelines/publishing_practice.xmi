@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-xtm18OUVZqv0Tc6CcsUTNA"
+    name="new_guideline,_oOSgsD9-Ed2fM_dR3V_v1A" guid="-xtm18OUVZqv0Tc6CcsUTNA" changeDate="2008-11-03T06:38:27.359-0800"
+    version="7.5.0">
+  <mainDescription>&lt;p>&#xD;
+    Publishing an individual &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/concepts/practice_F5C8EAAB.html&quot;&#xD;
+    guid=&quot;_qhCTAFRREd2CWscN8Mx6rg&quot;>Practice&lt;/a>&amp;nbsp;is a valuable exercise as it allows you to see the practice in its&#xD;
+    published form, which may result in some refinements.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Publishing an individual practice&amp;nbsp;involves publishing a &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/method_configuration_C2B8FA8A.html&quot;&#xD;
+    guid=&quot;__V7pAMaEEduMlb2cQZNTYw&quot;>method configuration&lt;/a>&amp;nbsp;that specifies what practices will be published (the&#xD;
+    selected practice&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/method_plugin_190B9F5E.html&quot;&#xD;
+    guid=&quot;_D4TLgMaGEduMlb2cQZNTYw&quot;>method plug-in&lt;/a>s and packages) and how they will appear in the published method (the&#xD;
+    &lt;a class=&quot;elementLink&quot; href=&quot;./../../../core.mdev.common.base/guidances/termdefinitions/navigation_view_8F89044.html&quot;&#xD;
+    guid=&quot;_X_hFIPAjEdyHz_B1XFOUgA&quot;>navigation view&lt;/a>s).&amp;nbsp;Such a configuration is usually not delivered to an&#xD;
+    end-user, but is quite helpful during the development of the practice.&amp;nbsp;It is recommended that the name of the&#xD;
+    configuration include the name of the practice. For information on defining method configurations, see &lt;a&#xD;
+    class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/guidelines/defining_method_configurations_2B25CEA5.html&quot;&#xD;
+    guid=&quot;_l77zcIB-EduaS6LQ8n6xUQ&quot;>Guideline: Defining Method Configurations&lt;/a>.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Once the configuration has been defined it can be published.&amp;nbsp;For general information on publishing a method, see&#xD;
+    &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/guidelines/publishing_a_method_AD8AF98A.html&quot;&#xD;
+    guid=&quot;_eJNWICBwEdy1y5bWsXfCCg&quot;>Guideline: Publishing a Method&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-0Qw6c5ibdrLFM1AeW9C7Kg" name=",_uPBrIFsHEeS_CZ16mrmYFw" guid="-0Qw6c5ibdrLFM1AeW9C7Kg" authors="John Rozsa" changeDate="2014-11-06T21:53:49.061-0500" changeDescription="Baseline" version="BL">
+  <mainDescription>The Plan Risk Management process defines how to conduct risk management activities for a project. This ensures that the
+        degree, type, and visibility of risk management are in balance with the risks and the importance of the project to the
+        organization.&lt;br />
+        &lt;br />
+         The key objective of project risk management is to decrease the likelihood and impact of negative events in the
+        project.&lt;br />
+         &lt;br />
+         It is critical that the risk management plan is communicated to and agreed to by all stakeholders to ensure the risk
+        management process is supported and implemented effectively over the project life cycle.&lt;br /></mainDescription>
+  <sections xmi:id="_GH0sQFsIEeS_CZ16mrmYFw" name="Identify Risks" guid="_GH0sQFsIEeS_CZ16mrmYFw"/>
+  <sections xmi:id="_Hy4f4FsIEeS_CZ16mrmYFw" name="Perform Qualitative Risk Analysis" guid="_Hy4f4FsIEeS_CZ16mrmYFw"/>
+  <sections xmi:id="_KKqPkFsIEeS_CZ16mrmYFw" name="Perform Quantitative Risk Analysis" guid="_KKqPkFsIEeS_CZ16mrmYFw"/>
+  <sections xmi:id="_M4lOYFsIEeS_CZ16mrmYFw" name="Plan Risk Responses" guid="_M4lOYFsIEeS_CZ16mrmYFw"/>
+</org.eclipse.epf.uma:TaskDescription>

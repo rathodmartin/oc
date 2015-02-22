@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-wMEsDV9c3gx9FM1LZd2PHg"
+    name="new_guideline,_k91OkFpBEdutiI3y4Hpy9Q" guid="-wMEsDV9c3gx9FM1LZd2PHg" changeDate="2008-11-10T04:49:54.703-0800"
+    version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    When authoring method elements, it is important to establish some common policies for the versioning of the method&#xD;
+    elements, including what elements should be versioned, how to record the version of an element (the format of the&#xD;
+    version code) and how to track what has changed between versions. Maintaining the change histories of elements is&#xD;
+    important to anyone that uses or depends on the method elements and are interested in understanding how the element has&#xD;
+    changed between versions, which may require some action on their part.&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    Determining what will be versioned&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    It is important to decide what will be versioned. Will method elements,&amp;nbsp;plug-ins, or configurations be versioned,&#xD;
+    or some combination? Of course, the idea situation is that you track changes at the individual element level and then&#xD;
+    collect that information at the plug-in and configuration level. However, such version control may not be practical. In&#xD;
+    general, capturing version and release information at the plug-in level seems to provide the best compromise.&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    Determining the number of version levels&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    In general, elements are versioned when they are released, where &quot;released&quot; in this sense means made available to&#xD;
+    consumers of the elements. There are usually multiple levels of release (for example, major releases and minor&#xD;
+    releases). It is important to establish common guidelines for when to release the elements and how to distinguish a&#xD;
+    major release from a minor release. For example, a major release of a plug-in may be the addition of a new core element&#xD;
+    like a role, task, work product or process, or&amp;nbsp;some major restructuring of those elements. Where a minor release&#xD;
+    may be the addition of some new guidance, some textual refinements, minor changes to the method content element&#xD;
+    relationships, or some minor flow adjustments in the processes.&lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    Determining the format of the version indicator&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Once you know how many release levels you need to support, you should decide on the format of the version indicator.&#xD;
+    Will numbers or letters be used, or a combination of both? How will the different release levels represented? An&#xD;
+    example of a version indicator is X.Y, where X represents a major version and Y represents a minor version.&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    Capturing the version of an element and the associated changes&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    In addition to the version indicator itself, it is also important to capture what has changed in an element between&#xD;
+    versions so that consumers of the element can make any necessary arrangements, which may include refining their&#xD;
+    extensions of the released element. Such change information be a high-level description of the key changes, not a&#xD;
+    detailed history of all changes, as the latter is difficult to maintain and to consume.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It is important to decide where to capture the version information (version number, change description) for the&#xD;
+    elements. Will the version information be captured as part of the&amp;nbsp;element or in a separate database?&amp;nbsp;It is&#xD;
+    best to maintain that information in a place that is easy to access from the&amp;nbsp;element itself so that it is easy to&#xD;
+    maintain.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

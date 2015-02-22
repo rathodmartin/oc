@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ysEUtFqOyjoaQ5BMdQbNNQ" name="new_role,_ac8noFoeEeSUmaNkcwFqUg" guid="-ysEUtFqOyjoaQ5BMdQbNNQ" authors="John Rozsa" changeDate="2014-10-22T15:06:43.909-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>The resource manager manages or directs specific resources with similar skills, often in a given area or domain such as
+        engineers, software developers or accountants. It is typical for the project manager to negotiate with a resource manager
+        for specific individuals who's skills are perceived to be an asset for a given project.&lt;br /></mainDescription>
+  <skills>Strong Manager skills&lt;br />
+        &lt;br />
+        Excellent organizational skills&lt;br />
+        &lt;br />
+        Communications skills&lt;br />
+        &lt;br />
+        Negotiations skills&lt;br /></skills>
+</org.eclipse.epf.uma:RoleDescription>

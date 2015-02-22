@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-isLXjmHT0-fKteWSTbd2_A"
+    name="changing_umf,__BMv0JorEd2fi9zUq_rRtg" guid="-isLXjmHT0-fKteWSTbd2_A" changeDate="2008-10-15T02:43:56.843-0700"
+    version="7.5.0">
+  <mainDescription>&lt;p>&#xD;
+    The open source &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.extend_umf/guidances/concepts/umf_C03950A8.html&quot;&#xD;
+    guid=&quot;_nrrn4GqHEdun45RPFGeYnA&quot;>Unified Method Framework (UMF)&lt;/a>&amp;nbsp;content is managed by the Eclipse Process&#xD;
+    Framework (EPF) project. For more information on participating in the EPF community, including requesting changes to&#xD;
+    open source UMF content, see &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/supportingmaterials/resources_for_contributing_to_epf_A9AE238E.html&quot;&#xD;
+     guid=&quot;_skPXU1RFEd2CWscN8Mx6rg&quot;>Resources for contributing to the Eclipse Process Framework&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

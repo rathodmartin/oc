@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-D0TwEm9-wgjDq235NnF0ng"
+    name="practice_framework_architecting,_8Ch34D_ZEd2Ei9ySU_sUdQ" guid="-D0TwEm9-wgjDq235NnF0ng"
+    changeDate="2008-08-06T11:55:26.109-0700" changeDescription="July 11, 2008: Created initial version"
+    version="7.5.0">
+  <problem>&lt;p>&#xD;
+    This practice provides guidance for architecting a&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_framework_6DA4D54D.html&quot;&#xD;
+    guid=&quot;__LjaEFQsEd2uvIuuFjd1Fg&quot;>Practice Framework&lt;/a>, including information on how to author the core elements that&#xD;
+    are shared between the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/concepts/practice_F5C8EAAB.html&quot;&#xD;
+    guid=&quot;_qhCTAFRREd2CWscN8Mx6rg&quot;>Practice&lt;/a>s and &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_configuration_CC7754F2.html&quot;&#xD;
+    guid=&quot;_0H9aAO7EEdy9EOwDlaw7Kw&quot;>Practice Configuration&lt;/a>s that will exist with the framework.&amp;nbsp; This practice&#xD;
+    enables you to develop an infrastructure that supports &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/termdefinitions/practice_based_215E243B.html&quot;&#xD;
+    guid=&quot;_uanIQPT8EdyCE9BF17mKDQ&quot;>practice-based&lt;/a>&amp;nbsp;method authoring.&#xD;
+&lt;/p></problem>
+  <application>&lt;p>&#xD;
+    The best way to read this practice is to first familiarize yourself with its overall structure -- what it is in it and&#xD;
+    how it is organized.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The best place to start is with the &lt;strong>Key Concepts&lt;/strong> for the practice -- those concepts that are critical&#xD;
+    to understand in order to adopt the practice.&amp;nbsp; Once you understand the key concepts, you can turn your attention&#xD;
+    to the key capabilities provided by the practice (i.e., the &lt;strong>Scenarios&lt;/strong>), from which you can access the&#xD;
+    applicable practice elements. You can also access the guidance provided by the practice directly, via the&#xD;
+    &lt;strong>Guidance&lt;/strong>&amp;nbsp;folder.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    You&amp;nbsp;may also want to review the&amp;nbsp;practices &lt;strong>Work Products&lt;/strong>&#xD;
+    and/or&amp;nbsp;&lt;strong>Tasks&lt;/strong>.&amp;nbsp; From the work products and the tasks, you can access applicable guidance --&#xD;
+    guidelines and tool mentors associated with each task provide details of how to perform the task.&amp;nbsp;Templates and&#xD;
+    checklists associated with the work products guide you in their completion and evaluation.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    If you are interested in how the tasks of the practice can be assembled into processes, take a look at the provided&#xD;
+    &lt;strong>Processes&lt;/strong>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    For information on how to adopt this practice, see &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../practice.mdev.auth.practice_fw_arch.base-ibm/guidances/roadmaps/how_to_adopt_practice_framework_architecting_E7C77CB0.html&quot;&#xD;
+     guid=&quot;_qVnDgi2sEd2CiunvJQy6fQ&quot;>How to Adopt the Practice Framework Architecting Practice&lt;/a>.&#xD;
+&lt;/p></application>
+</org.eclipse.epf.uma:PracticeDescription>

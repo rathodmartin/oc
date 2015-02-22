@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-ZTOLlZzh5EywoUTJsD8z7A"
+    name="defining_practice_configuration_welcome_pages.umf,_4dbZAFsuEd2oiZ87J3vuLQ"
+    guid="-ZTOLlZzh5EywoUTJsD8z7A" changeDate="2008-09-30T10:32:53.265-0700" version="7.5.0">
+  <mainDescription>&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Special instructions when authoring in the UMF&lt;/strong>: When defining a practice configuration-specific&#xD;
+    welcome page in the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.extend_umf/guidances/concepts/umf_C03950A8.html&quot;&#xD;
+    guid=&quot;_nrrn4GqHEdun45RPFGeYnA&quot;>Unified Method Framework (UMF)&lt;/a>, the welcome page should be defined to&amp;nbsp;replace&#xD;
+    (using variability)&amp;nbsp;the generic welcome page defined for the generic &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/termdefinitions/navigation_view_8F89044.html&quot;&#xD;
+    guid=&quot;_X_hFIPAjEdyHz_B1XFOUgA&quot;>navigation view&lt;/a>. For more information on variability, see &lt;a&#xD;
+    class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/guidelines/using_method_content_variability_DCE37365.html&quot;&#xD;
+    guid=&quot;_8YIMYCNQEdycLddDalDmbA&quot;>Guideline: Using Method Content Variability&lt;/a>. For more information on the generic&#xD;
+    navigation view, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.extend_umf/guidances/guidelines/navigation_views_in_the_umf_E2C80C75.html&quot;&#xD;
+    guid=&quot;_apOmQMj7EdyoXMhaXAJ-6g&quot;>Guideline: Navigation Views in the UMF&lt;/a>.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The practice configuration-specific welcome page should specify the same special icons for the welcome page as defined&#xD;
+    for the generic welcome page.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

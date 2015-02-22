@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-CbIx-lYIywNBgMWueC5eZA" name="new_artifact,_XFEpML8YEeOxGd0QHZtQBg" guid="-CbIx-lYIywNBgMWueC5eZA" authors="Patrick Martin" changeDate="2014-04-08T08:25:02.674-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>The implementation plan describes how the system or building will be deployed, installed and transitioned into an
+        operational state. The plan contains an overview of the system (building), a brief description of the major tasks involved
+        in the implementation, the overall resources needed to support the implementation effort (such as hardware, software,
+        facilities, materials, and personnel), and an y site-specific implementation requirements.&lt;br /></mainDescription>
+  <keyConsiderations>This document belongs to the whole project team. The project manager is the final editor and sometimes author of the
+        project management plan.&lt;br /></keyConsiderations>
+  <impactOfNotHaving>Deployment chaos, increased risks of system failures and possible project failure.&lt;br /></impactOfNotHaving>
+  <reasonsForNotNeeding>The project implementation plan should be tailored to risk. The lower the risk, the fewer process restrictions. Some low
+        risk projects may use very simple plans.&lt;br /></reasonsForNotNeeding>
+  <briefOutline>The project implementation plan typically consists of:&lt;br />
+         
+        &lt;ul>
+            &lt;li>
+                Scope and content of the implementation
+            &lt;/li>
+            &lt;li>
+                Risk assessment and risk profile fo the implementation
+            &lt;/li>
+            &lt;li>
+                Customer/users affected by the implementation
+            &lt;/li>
+            &lt;li>
+                Stakeholders that approved the change request for the implementation
+            &lt;/li>
+            &lt;li>
+                Team responsible for the implementation
+            &lt;/li>
+            &lt;li>
+                Delivery and deployment strategy
+            &lt;/li>
+            &lt;li>
+                Resources for the implementation
+            &lt;/li>
+            &lt;li>
+                Success criteria and acceptance criteria&lt;br />
+            &lt;/li>
+        &lt;/ul></briefOutline>
+</org.eclipse.epf.uma:ArtifactDescription>

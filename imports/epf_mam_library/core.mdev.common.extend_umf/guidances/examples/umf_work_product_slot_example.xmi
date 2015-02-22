@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-zCGnZekc_csrj0vphC31Xg"
+    name="umf_work_product_slot_example,_dG54oINCEd2QVrMx9wDJQQ" guid="-zCGnZekc_csrj0vphC31Xg"
+    changeDate="2008-09-30T12:07:44.343-0700" version="7.5.0">
+  <mainDescription>&lt;p>&#xD;
+    Figure 1 is an example of a Slot plug-in. Note the definitions of the work product slots and the inclusion of &quot;_slot&quot;&#xD;
+    in their names.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Figure 1: Slot Plug-In Example&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img alt=&quot;umf_slot_base_plugin_example&quot; src=&quot;resources/umf_slot_base_plugin_ex.gif&quot; />&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Figure 2 takes a closer look at the definition of a work product slot. Notice that the Presentation Name is enclosed in&#xD;
+    brackets (&quot;[]&quot;) and that the &lt;strong>Is Work Product Slot&lt;/strong> check box is checked.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Figure 2: Work Product Slot Definition&amp;nbsp;Example&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img alt=&quot;umf_work_product_slot_definition_example&quot; src=&quot;resources/umf_wp_slot_def_ex.gif&quot; />&amp;nbsp;&amp;nbsp;&lt;br />&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Figure 3 shows how a work product is defined to fulfill a slot. In this example, Artifact: Design fulfills&#xD;
+    software_design_slot. Notice how sftware_design_slot has been selected in the &lt;strong>Slots&lt;/strong> section.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Figure 3: Work Product Slot Fulfillment Example&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img alt=&quot;umf_work_product_slot_fulfillment_example.gif&quot; src=&quot;resources/umf_wp_slot_fulfill_ex.gif&quot; />&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;p>&#xD;
+    Figure 4 shows how&amp;nbsp;work product slot fulfillment is&amp;nbsp;published.&amp;nbsp; The graphic on the left side shows how a&#xD;
+    work product that fulfills a slot is published. The graphic on the right side shows a fulfilled slot is referenced as&#xD;
+    an input to a task. Notice how the slot name is displayed in brackets and the actual work product that fulfills the&#xD;
+    slot is shown below the slot name.&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;table title=&quot;Figure 4: Work Product Slot Fulfillment Published Example&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot; width=&quot;85%&quot;&#xD;
+summary=&quot;work_product_slot_fulfillment_published_example&quot; border=&quot;1&quot;>&#xD;
+    &lt;caption>&#xD;
+        Figure 4: Work Product Slot Fulfillment Published Example&#xD;
+    &lt;/caption>&#xD;
+    &lt;tbody>&#xD;
+        &lt;tr>&#xD;
+            &lt;td>&#xD;
+                &lt;img alt=&quot;fulfilling_work_product_published&quot; src=&quot;resources/umf_wp_slot_fulfill_publish_ex1.gif&quot; />&#xD;
+            &lt;/td>&#xD;
+            &lt;td>&#xD;
+                &lt;img alt=&quot;fulfilled_slot_reference_published&quot; src=&quot;resources/umf_wp_slot_fulfill_publish_ex2.gif&quot; />&#xD;
+            &lt;/td>&#xD;
+        &lt;/tr>&#xD;
+    &lt;/tbody>&#xD;
+&lt;/table></mainDescription>
+</org.eclipse.epf.uma:GuidanceDescription>

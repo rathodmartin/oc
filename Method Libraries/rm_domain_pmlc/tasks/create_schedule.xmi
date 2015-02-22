@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OWF1J7M22LkjZb0wT76JhQ" name=",_vt9YQFpMEeS2t6WG90MSuA" guid="-OWF1J7M22LkjZb0wT76JhQ" authors="John Rozsa" changeDate="2014-10-22T20:38:39.413-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>Develop Schedule is the process of analyzing the schedule constraints, activity sequences, durations, and resource
+        requirements to create the project schedule/calendar. By applying the business and resource calendars to the work breakdown
+        structure, start and finish dates for project activities will be calculated. This process should be iterated to ensure the
+        project schedule meets the needs of the charter.&lt;br /></mainDescription>
+  <sections xmi:id="_Mk3SIFpNEeS2t6WG90MSuA" name="Determine start and stop dates for tasks and subtasks" guid="_Mk3SIFpNEeS2t6WG90MSuA"/>
+  <sections xmi:id="_OPuRcFpNEeS2t6WG90MSuA" name="Make adjustments to task dates by applying lead and lag times" guid="_OPuRcFpNEeS2t6WG90MSuA"/>
+  <sections xmi:id="_QrqIYFpNEeS2t6WG90MSuA" name="Determine the critical path" guid="_QrqIYFpNEeS2t6WG90MSuA"/>
+  <sections xmi:id="_R81cYFpNEeS2t6WG90MSuA" name="Apply resources to tasks and/or subtasks" guid="_R81cYFpNEeS2t6WG90MSuA"/>
+</org.eclipse.epf.uma:TaskDescription>

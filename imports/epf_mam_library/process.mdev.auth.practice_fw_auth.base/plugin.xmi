@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_RwQecLgREd2VBqezzK7PZw"
+      guid="_RwQecLgREd2VBqezzK7PZw">
+    <resourceDescriptors xmi:id="_RwQecrgREd2VBqezzK7PZw" id="-2-2MDBkqaJkuI0LTeasvJQ"
+        uri="guidances/supportingmaterials/release_info_practice_fw_auth_processes.xmi"/>
+    <resourceDescriptors xmi:id="_RwQec7gREd2VBqezzK7PZw" id="-ZNhgoXOpLwgJsJFuYrbbCA"
+        uri="guidances/roadmaps/authoring_in_existing_practice_fw.xmi"/>
+    <resourceDescriptors xmi:id="_RwZoYLgREd2VBqezzK7PZw" id="-Y6MyHW6fRqMWaebXNXTu8A"
+        uri="guidances/roadmaps/migrate_existing_method_to_existing_practice_fw.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_tALfMKEiEd2bTrLTU21QBw" name="process.mdev.auth.practice_fw_auth.base"
+      guid="_tALfMKEiEd2bTrLTU21QBw" presentationName="Practice Framework Authoring Processes"
+      briefDescription="This plug-in contains the practice framework authoring cross-practice processes."
+      authors="Kelli Houston" changeDate="2008-10-24T00:55:21.265-0700" version="1.0">
+    <copyrightStatement href="uma://_iVydgENdEdy245g62lfWcA#_uuunoPsDEdmyhNQr5STrZQ"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_tALfMaEiEd2bTrLTU21QBw"
+        name="Content" guid="_tALfMaEiEd2bTrLTU21QBw">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_tALfMqEiEd2bTrLTU21QBw"
+          name="Categories" guid="_tALfMqEiEd2bTrLTU21QBw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_tALfM6EiEd2bTrLTU21QBw"
+            name="Domains" guid="_tALfM6EiEd2bTrLTU21QBw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_tALfNKEiEd2bTrLTU21QBw"
+            name="Disciplines" guid="_tALfNKEiEd2bTrLTU21QBw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_tALfNaEiEd2bTrLTU21QBw"
+            name="RoleSets" guid="_tALfNaEiEd2bTrLTU21QBw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_tALfNqEiEd2bTrLTU21QBw"
+            name="WP Types" guid="_tALfNqEiEd2bTrLTU21QBw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_tALfN6EiEd2bTrLTU21QBw"
+            name="Tools" guid="_tALfN6EiEd2bTrLTU21QBw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_tALfOKEiEd2bTrLTU21QBw"
+            name="StandardCategories" guid="_tALfOKEiEd2bTrLTU21QBw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_tALfOaEiEd2bTrLTU21QBw"
+            name="CustomCategories" guid="_tALfOaEiEd2bTrLTU21QBw">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_tALfOqEiEd2bTrLTU21QBw"
+              name="Hidden" guid="_tALfOqEiEd2bTrLTU21QBw">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_tALfO6EiEd2bTrLTU21QBw"
+                name="Custom Categories" guid="_tALfO6EiEd2bTrLTU21QBw" categorizedElements="_rQArUKnkEd2eRp4Z7dEEOQ _XTCVALGDEd2h4fIUEeK-Jw"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_rQArUKnkEd2eRp4Z7dEEOQ"
+              name="do_not_publish.proc_pfw" guid="_rQArUKnkEd2eRp4Z7dEEOQ" variabilityType="contributes">
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CustomCategory"
+                href="uma://_vsno4EKmEdyrauqpmnA8jQ#_O3UtkMRdEdyD76CYS6Ta7A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_XTCVALGDEd2h4fIUEeK-Jw"
+              name="delete_practice_fw_auth_processes_custom_cats" guid="_XTCVALGDEd2h4fIUEeK-Jw"
+              presentationName="DELETE Practice Framework Authoring Processes Custom Categories"/>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_tALfPKEiEd2bTrLTU21QBw"
+          name="CoreContent" guid="_tALfPKEiEd2bTrLTU21QBw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2dKXAKEiEd2bTrLTU21QBw"
+            name="release_info" guid="_2dKXAKEiEd2bTrLTU21QBw" presentationName="Release Information">
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_2dKXAaEiEd2bTrLTU21QBw"
+              name="release_info_practice_fw_auth_processes" guid="_2dKXAaEiEd2bTrLTU21QBw"
+              presentationName="Practice Framework Authoring Processes Release Information"
+              briefDescription="This page describes the release information for the Practice Framework Authoring Processes."
+              shapeicon="guidances/supportingmaterials/resources/whats_new.gif" nodeicon="guidances/supportingmaterials/resources/whats_new_obj.gif">
+            <presentation xmi:id="-2-2MDBkqaJkuI0LTeasvJQ" href="uma://-2-2MDBkqaJkuI0LTeasvJQ#-2-2MDBkqaJkuI0LTeasvJQ"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_GyVOoKEjEd2bTrLTU21QBw"
+            name="practice_fw_auth_processes" guid="_GyVOoKEjEd2bTrLTU21QBw" presentationName="Practice Framework Authoring Processes">
+          <contentElements xsi:type="org.eclipse.epf.uma:Roadmap" xmi:id="_np39AKniEd2eRp4Z7dEEOQ"
+              name="authoring_in_existing_practice_fw" guid="_np39AKniEd2eRp4Z7dEEOQ"
+              presentationName="Authoring in an Existing Practice Framework" briefDescription="This roadmap provides step-by-step guidance on how to author within an existing practice framework.">
+            <presentation xmi:id="-ZNhgoXOpLwgJsJFuYrbbCA" href="uma://-ZNhgoXOpLwgJsJFuYrbbCA#-ZNhgoXOpLwgJsJFuYrbbCA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Roadmap" xmi:id="_ggc5IKIUEd2hUYxp7rIQ7g"
+              name="migrate_existing_method_to_existing_practice_fw" guid="_ggc5IKIUEd2hUYxp7rIQ7g"
+              presentationName="Migrate an Existing Method to an Existing Practice Framework"
+              briefDescription="This roadmap describes how to migrate an existing method to an existing practice framework.">
+            <presentation xmi:id="-Y6MyHW6fRqMWaebXNXTu8A" href="uma://-Y6MyHW6fRqMWaebXNXTu8A#-Y6MyHW6fRqMWaebXNXTu8A"/>
+            <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_0H9aAO7EEdy9EOwDlaw7Kw"/>
+            <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#__LjaEFQsEd2uvIuuFjd1Fg"/>
+            <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_1gchoO6dEdygKbJMUVNEtg"/>
+            <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#__428YO6cEdygKbJMUVNEtg"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_tALfPaEiEd2bTrLTU21QBw"
+          name="CapabilityPatterns" guid="_tALfPaEiEd2bTrLTU21QBw"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_tALfPqEiEd2bTrLTU21QBw"
+        name="DeliveryProcesses" guid="_tALfPqEiEd2bTrLTU21QBw"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_tALfP6EiEd2bTrLTU21QBw"
+        name="ProcessContributions" guid="_tALfP6EiEd2bTrLTU21QBw"/>
+    <bases href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_HQW1wAvmEd2Z4aGiwM2NOA"/>
+    <bases href="uma://_0AD2ECJoEd2elMIxXedw0g#_0AD2ECJoEd2elMIxXedw0g"/>
+    <bases href="uma://_V6WwsEAKEd2Ei9ySU_sUdQ#_V6WwsEAKEd2Ei9ySU_sUdQ"/>
+    <bases href="uma://_eSzlUKAxEd2nI52VLwUMxA#_eSzlUKAxEd2nI52VLwUMxA"/>
+    <bases href="uma://_STHyQCvoEd2ht9LgoFs93Q#_STHyQCvoEd2ht9LgoFs93Q"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

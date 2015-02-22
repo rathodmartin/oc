@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-n7ptLF722pn32Z92rN8jbQ"
+    name="developing_a_method_proof_of_concept.pfa,_T8U_0AvrEd2Z4aGiwM2NOA" guid="-n7ptLF722pn32Z92rN8jbQ"
+    changeDate="2008-10-22T05:22:32.921-0700" version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    When developing an proof-of-concept for a &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_framework_6DA4D54D.html&quot;&#xD;
+    guid=&quot;__LjaEFQsEd2uvIuuFjd1Fg&quot;>Practice Framework&lt;/a>, be sure to include a set of &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/concepts/practice_F5C8EAAB.html&quot;&#xD;
+    guid=&quot;_qhCTAFRREd2CWscN8Mx6rg&quot;>Practice&lt;/a>s, some interfaces between those practices (e.g., &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/work_product_slot_D5B44CE7.html&quot;&#xD;
+    guid=&quot;_Er1OcJIfEdybeduord13cg&quot;>Work Product Slot&lt;/a>s), as well as some configurations representing the &lt;a&#xD;
+    class=&quot;elementLink&quot; href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_configuration_CC7754F2.html&quot;&#xD;
+    guid=&quot;_0H9aAO7EEdy9EOwDlaw7Kw&quot;>Practice Configuration&lt;/a>s those practices will be included in.&amp;nbsp;You may also want&#xD;
+    to take into consideration any defined plug-in types and/or configuration types.&amp;nbsp;For more information, see &lt;a&#xD;
+    class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_lib_plugin_types_3EA8002F.html&quot;&#xD;
+    guid=&quot;__428YO6cEdygKbJMUVNEtg&quot;>Concept: Practice Library Plug-In Types&lt;/a>&amp;nbsp;and &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_lib_config_types_B96A959A.html&quot;&#xD;
+    guid=&quot;_1gchoO6dEdygKbJMUVNEtg&quot;>Concept: Practice Library Configuration Types&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

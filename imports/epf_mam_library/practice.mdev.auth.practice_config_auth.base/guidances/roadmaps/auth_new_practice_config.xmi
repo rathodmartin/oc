@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-Vr_GO9FQHQLRvzDCRhJrIw"
+    name="auth_new_practice_config,_zTFdki3oEd2CiunvJQy6fQ" guid="-Vr_GO9FQHQLRvzDCRhJrIw"
+    changeDate="2008-11-02T19:35:05.968-0800" version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    Authoring a &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_configuration_CC7754F2.html&quot;&#xD;
+    guid=&quot;_0H9aAO7EEdy9EOwDlaw7Kw&quot;>Practice Configuration&lt;/a>&amp;nbsp;assumes that there is an established&amp;nbsp;&lt;a&#xD;
+    class=&quot;elementLink&quot; href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_fw_6DA4D54D.html&quot;&#xD;
+    guid=&quot;__LjaEFQsEd2uvIuuFjd1Fg&quot;>Practice Framework&lt;/a>&amp;nbsp;in place (including existing &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/concepts/practice_F5C8EAAB.html&quot;&#xD;
+    guid=&quot;_qhCTAFRREd2CWscN8Mx6rg&quot;>Practice&lt;/a>s) in which the configuration will reside.&amp;nbsp;All practice configuration&#xD;
+    work must be performed within the architectural constraints of the framework.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    To author a new practice configuration, perform the following steps:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Define the &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/method_configuration_C2B8FA8A.html&quot;&#xD;
+        guid=&quot;__V7pAMaEEduMlb2cQZNTYw&quot;>method configuration&lt;/a>&amp;nbsp;for the practice configuration, including its purpose,&#xD;
+        scope and the practices&amp;nbsp;to be included (&lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.base/guidances/guidelines/defining_practice_configs_743A20DB.html&quot;&#xD;
+        guid=&quot;_FnCOMAz8Ed2135n7CJzRCQ&quot;>Guideline: Defining Practice Configurations&lt;/a>)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Define any &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.base/guidances/termdefinitions/cross_practice_process_5F83B112.html&quot;&#xD;
+        guid=&quot;_9NcfoFJgEd2SzrMjC_svdw&quot;>cross-practice process&lt;/a>es that are to be included in the practice configuration,&#xD;
+        specifying the new method configuration as the&amp;nbsp;default configuration for the processes&amp;nbsp;(&lt;a&#xD;
+        class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../practice.mdev.auth.practice_config_auth.base/guidances/guidelines/defining_cross_practice_processes_3675F3AB.html&quot;&#xD;
+         guid=&quot;_URR4AMbSEdy9YushbOcFQA&quot;>Guideline: Defining a Practice Configuration Cross-Practice Process&lt;/a>)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Define the &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.base/guidances/termdefinitions/navigation_view_8F89044.html&quot;&#xD;
+        guid=&quot;_X_hFIPAjEdyHz_B1XFOUgA&quot;>navigation view&lt;/a>s that provide access to the elements in the practice&#xD;
+        configuration&amp;nbsp;(&lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../practice.mdev.auth.practice_config_auth.base/guidances/guidelines/defining_practice_configuration_nav_views_A40E99D9.html&quot;&#xD;
+         guid=&quot;_EwJVMEAPEd2Ei9ySU_sUdQ&quot;>Guideline: Defining a Practice Configuration Navigation View&lt;/a>)&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    As the practice configuration is authored, it is a good idea to publish the practice configuration and make sure the&#xD;
+    results are what you expect&amp;nbsp;(&lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../practice.mdev.auth.practice_config_auth.base/guidances/guidelines/publishing_practice_configuration_12170505.html&quot;&#xD;
+     guid=&quot;_pRt_QEAQEd2Ei9ySU_sUdQ&quot;>Guideline: Publishing a Practice Configuration&lt;/a>).&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

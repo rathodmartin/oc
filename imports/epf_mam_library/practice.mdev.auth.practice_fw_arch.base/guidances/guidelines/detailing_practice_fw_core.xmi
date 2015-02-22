@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-4CLK1IPGCzu-r07sFWlvng"
+    name="new_guideline,_CMqMgEBWEd2Tod2_aY551g" guid="-4CLK1IPGCzu-r07sFWlvng" changeDate="2008-10-13T07:23:34.625-0700"
+    version="7.5.0">
+  <mainDescription>&lt;p>&#xD;
+    When detailing core elements, only include content that is not practice-specific (remember, core content is shared&#xD;
+    between the practices).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This guideline provides practice framework core-specific detailing guidelines. For more information on detailing method&#xD;
+    elements, in general, see the following:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.base/guidances/guidelines/detailing_roles_53BF36DB.html&quot;&#xD;
+        guid=&quot;_Akb_sJklEd2Al9G_gP7uDg&quot;>Guideline: Detailing Roles&lt;/a>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.base/guidances/guidelines/detailing_work_products_A106B466.html&quot;&#xD;
+        guid=&quot;_F0wCwJklEd2Al9G_gP7uDg&quot;>Guideline: Detailing Work Products&lt;/a>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.base/guidances/guidelines/detailing_guidance_C37C61B6.html&quot;&#xD;
+        guid=&quot;_60WTkJkoEd2Al9G_gP7uDg&quot;>Guideline: Detailing Guidance&lt;/a>&lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

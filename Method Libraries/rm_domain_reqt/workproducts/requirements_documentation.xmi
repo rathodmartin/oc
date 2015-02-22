@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-lbfvJDCAtJRFHlLZfhWMlQ" name="new_artifact,_jBirIDuvEeSIrOwVunFgpg" guid="-lbfvJDCAtJRFHlLZfhWMlQ" authors="John Rozsa" changeDate="2014-09-22T20:43:54.029-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>Requirements initially are high level, but progressively become more detailed as more is known and understood. They need to
+        be written in such a way that they are unambiguous (i.e. measurable and testable), traceable and complete. They must be
+        accepted/approved by the stakeholder(s).&lt;br style=&quot;font-family: Candara;&quot; />
+         &lt;br style=&quot;font-family: Candara;&quot; />
+         The format of a requirements document ranges from a simple listing of all the requirements categorized and prioritized, to
+        a more detailed one with descriptions and attachments.&lt;br style=&quot;font-family: Candara;&quot; />
+         &lt;br style=&quot;font-family: Candara;&quot; />
+         Requirements documentation include, but are not limited to:&lt;br style=&quot;font-family: Candara;&quot; />
+         &lt;br style=&quot;font-family: Candara;&quot; />
+         
+        &lt;ul>
+            &lt;li>
+                Business requirements such as business and project objectives for tracebility, business rules and guiding
+                principles of the organization.
+            &lt;/li>
+            &lt;li>
+                Stakeholder requirements including impacts to other departments or organizations
+            &lt;/li>
+            &lt;li>
+                Solution requirements including functional and non-functional, technology, compliance, support and training,
+                quality and reporting requirements
+            &lt;/li>
+            &lt;li>
+                Project requirements including service, performance, safety and compiance level of service along with project
+                acceptance criteria
+            &lt;/li>
+            &lt;li>
+                Requirements assumptions, dependencies and constraints
+            &lt;/li>
+        &lt;/ul></mainDescription>
+  <impactOfNotHaving>If there are no requirements, there can be no project. These are the heart of any project.&lt;br /></impactOfNotHaving>
+  <reasonsForNotNeeding>Written requirements may not be necessary if the project requirements are obvious to all stakeholders.&lt;br /></reasonsForNotNeeding>
+</org.eclipse.epf.uma:ArtifactDescription>

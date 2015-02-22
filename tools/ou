@@ -1,0 +1,398 @@
+#! /usr/bin/python
+"""
+ou - OpenUP Utilities
+
+This Python utilities package provides tools to manage the OpenUP environment including FTP and BackUP.
+Type 'ou -h' at the command line to get a list of supported commands and options.
+
+"""
+
+# Import Files
+import subprocess
+import argparse
+import datetime
+#from ftplib import FTP
+import ftputil
+import ftplib, shutil, sys
+import os
+import zipfile
+import collections
+# Import smtplib for the actual sending function
+import smtplib
+# Import the email modules we'll need
+#from email.mime.text import MIMEText
+#from email.mime.multipart import MIMEMultipart
+
+now = datetime.datetime.now()
+
+
+# Define disctionaries
+# These dictionaries map OpenUP instance names to their codes, locations, and descriptions
+sites_dict = {				# Dict used to store site information
+	'Production' : ('prod','/','Contains all major IT processes'),
+	'Test' : ('test','/test','Staging and testing environment for production release'),
+	'Sandbox' : ('sandbox','/sandbox','Environment to test conccepts'),
+	'v_01' : ('v01','/v01','RMLC Version 01'),
+	'v_02' : ('v02','/v02','RMLC Version 02'),
+	'v_03' : ('v03','/v03','RMLC Version 03')
+	}
+sites_dictvalue_idx = {		# Dict used to reference site dictonary value tuples
+	'site':0,
+	'loc':1,
+	'desc':2
+	}
+
+def GetSiteInfo(site,type):
+	return sites_dict[site][sites_dictvalue_idx[type]]
+	
+# Dictionary defines states a site can take	
+states_dict = {
+	'online' : 'Site is available to users',
+	'offline': 'Site is no longer available to users' }
+
+# Define Classes
+# Ensures the command line options and arguments for site and state are valid values
+class ValidateSiteState(argparse.Action):
+	def __call__(self, parser, args, values, option_string = None):
+		# print '{n} {v} {o}'.format(n=args, v=values, o=option_string)
+		valid_sites = []
+		
+		valid_sites = sites_dict.keys()		
+		valid_states = states_dict.keys()
+		if len(values) == 1:
+			site = values[0]
+		else:
+			site, state = values
+
+		if site not in valid_sites:
+			try:
+				raise ValueError('invalid site {s!r}'.format(s = site))
+			finally:
+				print 'Valid sites = {0}'.format(valid_sites)
+
+		if len(values) == 1:
+			SiteState = collections.namedtuple('Sites', 'site required')
+			setattr(args, self.dest, SiteState(site, 'null'))
+		else:
+			if state not in valid_states:
+				try:
+					raise ValueError('invalid state {s!r}'.format(s = state))
+				finally:
+					print 'Valid states = {0}'.format(valid_states)
+			SiteState = collections.namedtuple('Sites', 'site required')
+			setattr(args, self.dest, SiteState(site, state))
+
+# Functions
+# Define and set global variables
+def setglobals():
+	global strDate , strBase , strBaseArchive, strPubl , fnEPFC , fnPUBL , fnLOG
+	global ftpsvr, ftpusr, ftppwd
+	global remote_root
+	global FTPrecycler
+	strDate = datetime.datetime.now().strftime("%Y%m%d%H%M%S")
+	strBase = '/rdr/projects/EPF'
+	strBaseArchive = '/rdr/projects/EPF/Back-Up'
+	strPubl = strBase + '/Publish'
+	fnEPFC = 'BU-' + strDate + '-EPFC.zip'
+	fnPUBL = 'BU-' + strDate + '-RMLC.zip'
+	fnLOG = strBase + '/BackUps/BU-' + strDate + '-Exec.log'
+	ftpsvr = 'ftp.rathodmartin.us'
+	ftpusr = 'rakesh@rathodmartin.us'
+	ftppwd = 'Shiva001'
+	remote_root = ''
+	FTPrecycler = 25
+
+# Set the global variable remote_root based on the dictionary above
+def set_remote_root(site):
+	global remote_root
+	remote_root = GetSiteInfo(site,'loc')
+
+def list_valid_values():
+	print "\n\nValid Sites\n"
+	for site in sites_dict.keys():
+		print "    {0}\t{1}\t{2}".format(site,GetSiteInfo(site,'loc'),GetSiteInfo(site,'desc'))
+	
+	print "\n\nValid States\n"
+	for state in states_dict.keys():
+		print "    {0}\t{1}".format(state,states_dict[state])
+
+# Create a zip file for a directory tree	
+def zipdir(path, zip):
+	for root, dirs, files in os.walk(path):
+		for file in files:
+			print 'adding ' + file
+			zip.write(os.path.join(root, file))
+
+# Create a backup ZIP file and copy it to the lan
+def backup_only():		# Need to copy backup files to the LAN
+	"Backing UP"
+	global strBase, strBaseArchive, strPubl, fnEPFC, fnPUBL
+	
+	# Zip & copy the EPFC files first
+	zipfilename = strBase + '/BackUps/' + fnEPFC
+	files2zip =  strBase + '/epf-composer/'
+	print 'Creating ZIP file: {0}\n\n'.format(zipfilename)
+	zf = zipfile.ZipFile(zipfilename, mode='w')
+	zipdir(files2zip, zf)
+	zf.close()
+	if not(os.path.exists(strBaseArchive)):
+		print "LAN location {0} is not available for long-term storage...".format(dst)
+	dst = strBaseArchive + fnEPFC
+	try:
+		print 'attempting to move zipfile {0} to archive location {1} ...'.format(zipfilename,strBaseArchive)
+		shutil.copyfile(zipfilename, dst)
+	except:
+		print "Unable to store back-up file " + zipfilename
+
+	# Zip & copy the Published files
+	zipfilename = strBase + '/BackUps/' + fnPUBL
+	files2zip =  strBase + '/Publish/'
+	print 'Creating ZIP file: {0}\n\n'.format(zipfilename)
+	zf = zipfile.ZipFile(zipfilename, mode='w')
+	zipdir(files2zip, zf)
+	zf.close()
+	dst = strBaseArchive + fnPUBL
+	try:
+		print 'attempting to move zipfile {0} to archive location {1} ...'.format(zipfilename,strBaseArchive)
+		shutil.copyfile(zipfilename, dst)
+	except:
+		print "Unable to store back-up file " + zipfilename
+
+	return
+
+# Put the site in a particular state
+def site_state(site, state, interactive='Yes'):
+	"Change State of a Site"
+	if interactive == 'Yes':
+		ri = raw_input("Are you sure you want to take " + site + " " + state + " (Yes/{N|NO|No}):")
+		if ri != 'Yes':
+			print "Aborting the update process"
+			return
+
+	# Redfine site to use in this routine
+	sitecode = site
+	if site in sites_dict.keys():
+		site = GetSiteInfo(site,'site')
+
+	index_htm = "/cygdrive/c/cygwin/home/014903/Tools/" + state + "/index"
+	topnav_htm = "/cygdrive/c/cygwin/home/014903/Tools/" + state + "/topnav"
+	fav_icon = "/cygdrive/c/cygwin/home/014903/Tools/" + state + "/" + "favicon.ico"
+	if site != 'prod':
+		if state != 'online':
+			os.system("sed s/__SITE__/" + site.upper() + "/ " + index_htm + ".orig > " + index_htm + ".htm")
+		else:
+			currentdatetime = now.strftime('%Y%m%d')
+			os.system("sed \"s@__HTFACTOR__@151@\" " + index_htm + "-test.htm > " + index_htm + ".htm")
+			os.system("sed \"s@__SERVERNAME__@" + site.upper() + " Server@\" " + topnav_htm + "-bannerinfo.htm > " + topnav_htm + ".htm.1")
+			os.system("sed \"s@__BUILD__@" + currentdatetime + "@\" " + topnav_htm + ".htm.1 > " + topnav_htm + ".htm.2")
+			os.system("sed \"s@__SERVERLOCATION__@\/" + site + "@\" " + topnav_htm + ".htm.2 > " + topnav_htm + ".htm.3")
+			os.system("sed \"s@__SERVERCODENAME__@" + sitecode + "@\" " + topnav_htm + ".htm.3 > " + topnav_htm + ".htm.4")
+			os.system("sed \"s@__CAUTIONINFO__@" + GetSiteInfo(sitecode,'desc') + "@\" " + topnav_htm + ".htm.4 > " + topnav_htm + ".htm")
+			publish_file(topnav_htm + ".htm")
+	else:
+		shutil.copyfile(index_htm + ".orig", index_htm + ".htm")
+		
+	shutil.copyfile(index_htm + ".htm", index_htm + ".html")
+			
+	
+	publish_file(index_htm + ".htm")
+	publish_file(index_htm + ".html")
+	publish_file(fav_icon)
+
+	if site != 'prod':
+		os.remove(index_htm + ".htm")
+		os.remove(index_htm + ".html")
+		if state == 'online':
+			os.remove(topnav_htm + ".htm.1")
+			os.remove(topnav_htm + ".htm.2")
+			os.remove(topnav_htm + ".htm.3")
+			os.remove(topnav_htm + ".htm")
+		
+	return
+
+# Publish one local file to a site
+def publish_file(local_file):
+	"FTPing to Test"
+	global strPubl
+	global ftpsvr, ftpusr, ftppwd
+
+	# Open FTP Connection
+	ftp = ftputil.FTPHost(ftpsvr, ftpusr, ftppwd)
+
+	#Determine local_root
+	for idx in range(len(local_file)):
+		if local_file[idx] == "/":
+			last_pos = idx
+	local_root = local_file[0:last_pos]
+	fname = local_file[last_pos+1:]
+
+	# Upload the file to the remote location
+	remote_file = remote_root + "/" + fname
+	transfer_mode = 'a'				# set the default transfer mode to ASCII
+	if fname == 'favicon.ico':
+		transfer_mode = 'b'			# for binary files, reset the transfer mode to BINARY
+	
+	ftp.upload(local_file, remote_file, 'transfer_mode')
+	
+	# Close FTP Connection
+	ftp.close
+	
+	return
+
+def ExistsSite(site):
+	global ftpsvr, ftpusr, ftppwd
+	global remote_root
+
+	# Open FTP Connection
+	ftp = ftputil.FTPHost(ftpsvr, ftpusr, ftppwd)
+
+	# Check if remote_root exists
+	
+	#Close FTP connection
+	ftp.close()
+	return
+	
+def FTPThrottle(choke_value):
+	global FTPrecycler
+	FTPrecycler = choke_value
+	
+# Create the remote directory structure based on the local path
+def create_dirs(local_path):
+	global strPubl
+	global ftpsvr, ftpusr, ftppwd
+	global remote_root
+	global FTPrecycler
+
+	# Set cuntion vars
+	created_dirs = 0
+	
+	# Open FTP Connection
+	ftp = ftputil.FTPHost(ftpsvr, ftpusr, ftppwd)
+
+	dirListST = os.listdir(local_path)
+	for folder in dirListST:
+		if os.path.isdir(local_path + "/"+ folder):
+			complete_path = local_path + "/" + folder
+			remote_path = remote_root + complete_path[len(strPubl):]
+			if not(ftp.path.exists(remote_path)):
+				try:
+					ftp.mkdir(remote_path)
+					print 'Directory created: {0}'.format(remote_path)
+					created_dirs += 1
+				except:
+					print "   failed to make remote dir: " + remote_path
+			if created_dirs >= FTPrecycler:
+				ftp.close()
+				ftp = ftputil.FTPHost(ftpsvr, ftpusr, ftppwd)
+				created_dirs = 0
+			create_dirs(complete_path)	
+
+	# Close FTP Connection
+	ftp.close()
+
+# Publish all local files to the site
+def publish_files(site):
+	"FTPing to Test"
+	global strPubl
+	global ftpsvr, ftpusr, ftppwd
+	global remote_root
+	global FTPrecycler
+
+	# Establish remote host FTP connection
+	ri = raw_input("Are you sure you want files published to " + site + " (Yes/{N|NO|No}):")
+	if ri != 'Yes':
+		print "Aborting the publishing process"
+		return
+
+	# Redfine site to use in this routine
+	sitecode = site	# Preserve the original sitecode
+	site = GetSiteInfo(site,'site')
+
+	# Create the remote directory structure based on the local_root
+	if not ExistsSite(site):
+		print '\n\nCreating directory tree on remote root: {0}'.format(remote_root)
+		create_dirs(strPubl)
+		FTPThrottle(25)
+	
+	# Take Site Offline
+	site_state(sitecode, 'offline', 'No')
+	
+	# Open FTP Connection
+	ftp = ftputil.FTPHost(ftpsvr, ftpusr, ftppwd)
+	
+	# Upload all files to the remote location
+	total_files = 0
+	uploaded_files = 0
+	file_errors = 0
+	for path, dirs, files in os.walk(strPubl):
+		remote_path = remote_root + path[len(strPubl):]
+		# print "Remote Path = " + remote_path
+		if not(ftp.path.exists(remote_path)):
+			# print "	 Making dirs = " + remote_path
+			ftp.mkdir(remote_path)
+		for name in files:
+			local_file = path + '/' + name
+			remote_file = remote_path + "/" + name
+			print local_file
+			total_files += 1
+			try:
+				ftp.upload_if_newer(local_file, remote_file, 'b')
+				uploaded_files += 1
+				if uploaded_files >= FTPrecycler:
+					ftp.close()
+					ftp = ftputil.FTPHost(ftpsvr, ftpusr, ftppwd)
+					uploaded_files = 0
+			except:
+				file_errors += 1
+				print ">>>> Failed to upload local file " + local_file + " to"
+				print "	 remote file " + remote_file
+	
+	# Close FTP Connection
+	ftp.close()
+	
+	# Put Site Back Online
+	site_state(sitecode, 'online', 'No')
+
+	# If it's the production site, Back-Up the site and development contents and store in archive location
+	if site == 'prod':
+		backup_only()
+	
+	# Print statistics to the screen
+	print "\n\nFTP Complete\n"
+	print	 '   Total Files:    {0}'.format(total_files)
+	print	 '   Uploaded Files: {0}'.format(total_files - file_errors)
+	print	 '   Errors:         {0}\n'.format(file_errors)
+	return
+
+# Setup comman-line arguments and parse arguments into variables
+parser = argparse.ArgumentParser(prog='ou', description="OpenUP Utilities manages the OpenUP SDLC site at First Niagara")
+parser.add_argument('-b', '--backup-only', help='create backup files only; does not FTP to production', action='store_true')
+parser.add_argument('-p', '--publish', help='publish to test or prodcution', nargs=1, metavar=('Site'), action = ValidateSiteState)#choices=['test','prod'])
+parser.add_argument('-s', '--sitestate', help='place the SITE in STATE mode', nargs=2, metavar=('Site', 'State'), action = ValidateSiteState)
+parser.add_argument('-l', '--list', help='lists valid sites and states', action='store_true')
+
+args = parser.parse_args() # This creates a namespace args
+
+# Set global vars
+setglobals()
+
+# Act on the requested actions
+if args.list:					# List Valid Sites and States
+	list_valid_values()
+	# Send the message via local SMTP server.
+	#s = smtplib.SMTP('localhost')
+	# sendmail function takes 3 arguments: sender's address, recipient's address
+	# and message to send - here it is sent as one string.
+	#s.sendmail("", "rakesh.rathod@fnfg.com", "This is a test")
+	#s.quit()
+
+if args.backup_only:			# Back-Up Only
+	backup_only()
+if args.sitestate:				# Take Site On/Off Line
+	site, state = args.sitestate
+	set_remote_root(site)
+	site_state(site, state, 'Yes')
+if args.publish:				# Publish the site
+	site = args.publish[0] 
+	set_remote_root(site)
+	publish_files(site)

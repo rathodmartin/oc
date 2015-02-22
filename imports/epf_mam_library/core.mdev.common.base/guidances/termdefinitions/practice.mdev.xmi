@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-LX50wMIA5BdnvORx4ZaYQw"
+    name="new_term_definition,_sWcREPT8EdyCE9BF17mKDQ" guid="-LX50wMIA5BdnvORx4ZaYQw"
+    version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    A practice is a component of a process that can be adopted independently by an organization to build an organizational&#xD;
+    capability.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

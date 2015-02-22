@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-8AT4_nLXCmLMATXVoSqUYA"
+    name="epl,_sLATYH_0Ed2IdZmkTP19bw" guid="-8AT4_nLXCmLMATXVoSqUYA" changeDate="2008-11-14T05:19:15.093-0800"
+    version="7.5.0">
+  <mainDescription>&lt;p>&#xD;
+    The Eclipse Process Framework (EPF) practice library (EPL) is a &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.extend_umf/guidances/concepts/umf_C03950A8.html&quot;&#xD;
+    guid=&quot;_nrrn4GqHEdun45RPFGeYnA&quot;>UMF&lt;/a>-compliant method library that is available from the Eclipse project. It is also&#xD;
+    included as part of EPF Composer v1.5.0.1. For more information on EPF, see &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.tool_def.base/guidances/supportingmaterials/epf_resources_446F3946.html&quot;&#xD;
+    guid=&quot;_C2FS4F_lEd2zpKtX6B7lBg&quot;>EPF Resources&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

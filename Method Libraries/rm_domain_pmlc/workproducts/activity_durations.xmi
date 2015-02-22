@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-TCao0fEF4vzqAoVBwThfqg" name="new_artifact,_4vijwFobEeSUmaNkcwFqUg" guid="-TCao0fEF4vzqAoVBwThfqg" authors="John Rozsa" changeDate="2014-10-22T14:48:25.168-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>Activity Durations is the estimated period of time necessary to complete specific activities. This provides input in
+        developig the schedule. The estimates typically come from the person or group on the project team who are most familiar
+        with the nature of the work in the specific activity. The estimate is progressively elaborated, and the process considering
+        the quality and availability of the input. As more detailed and acurate data is available about the project, the accuracy
+        of the duration estimates improve.&lt;br />
+        The data and assumptions that support this activity are documented for each iterative estimate of activity duration.&lt;br /></mainDescription>
+  <impactOfNotHaving>Not having Activity Duration for projects severely hinders developing a realistic timeline of the project.&lt;br /></impactOfNotHaving>
+  <reasonsForNotNeeding>Smaller projects, by their nature do not require a formal process to determine duration. As projects become larger and more
+        complicated, determining activity durations will become necessary.&lt;br /></reasonsForNotNeeding>
+</org.eclipse.epf.uma:ArtifactDescription>

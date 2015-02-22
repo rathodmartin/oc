@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-NWXZbjHZXQn-CQhUlTKuaQ" name=",_XEEtEG4DEeSIef-3MggveQ" guid="-NWXZbjHZXQn-CQhUlTKuaQ" authors="John Rozsa" changeDate="2014-11-16T21:43:36.791-0500" changeDescription="Baseline" version="BL">
+  <mainDescription>This task spends most of the projects time, cost and resources and is how the project produces its deliverables. The
+        project team is tasked with executing the work packages to create the products and deliverables. Projects are undertaken to
+        realize the business benefits. Deliverables may take the form of a product, the service, or a result that must be completed
+        in order to finish the project.&lt;br />
+        &lt;br />
+         Project execution tasks extend to 'perform quality control' and 'verify scope' until such time deliverables demonstrate
+        satisfactory completeness and correctness of the anticipated business benefits.&lt;br /></mainDescription>
+  <sections xmi:id="_va1ckG4DEeSIef-3MggveQ" name="Execute project plan utilizing work packages" guid="_va1ckG4DEeSIef-3MggveQ"/>
+  <sections xmi:id="_wvzEYG4DEeSIef-3MggveQ" name="Manage change requests" guid="_wvzEYG4DEeSIef-3MggveQ"/>
+  <sections xmi:id="_x6FtQG4DEeSIef-3MggveQ" name="Manage stakeholders" guid="_x6FtQG4DEeSIef-3MggveQ"/>
+  <sections xmi:id="_y-eicG4DEeSIef-3MggveQ" name="Manage project team" guid="_y-eicG4DEeSIef-3MggveQ"/>
+  <sections xmi:id="_z99CcG4DEeSIef-3MggveQ" name="Manage quality process" guid="_z99CcG4DEeSIef-3MggveQ"/>
+</org.eclipse.epf.uma:TaskDescription>

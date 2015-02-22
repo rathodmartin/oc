@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_Rr7_ILgREd2VBqezzK7PZw"
+      guid="_Rr7_ILgREd2VBqezzK7PZw">
+    <resourceDescriptors xmi:id="_RsFJELgREd2VBqezzK7PZw" id="-ZTOLlZzh5EywoUTJsD8z7A"
+        uri="guidances/guidelines/defining_practice_configuration_welcome_pages.umf.xmi"/>
+    <resourceDescriptors xmi:id="_RsFJEbgREd2VBqezzK7PZw" id="-fZTyDorx0YPWMRde1fMkxg"
+        uri="guidances/guidelines/defining_practice_configs.umf.xmi"/>
+    <resourceDescriptors xmi:id="_RsFJErgREd2VBqezzK7PZw" id="-X-sjSA1l0pGaBp38Xqrp7Q"
+        uri="guidances/supportingmaterials/release_info_practice_config_auth_practice.umf.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_76FlEFdoEd2N4vZAlUIPvw" name="practice.mdev.auth.practice_config_auth.extend_umf"
+      guid="_76FlEFdoEd2N4vZAlUIPvw" presentationName="UMF Extensions to Practice Configuration Authoring Practice"
+      briefDescription="This plug-in contains the UMF extensions to the Practice Configuration Authoring practice."
+      authors="Kelli Houston" changeDate="2008-09-14T06:08:05.578-0700" version="1.0">
+    <copyrightStatement href="uma://_iVydgENdEdy245g62lfWcA#_uuunoPsDEdmyhNQr5STrZQ"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_76FlEVdoEd2N4vZAlUIPvw"
+        name="Content" guid="_76FlEVdoEd2N4vZAlUIPvw">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_76FlEldoEd2N4vZAlUIPvw"
+          name="Categories" guid="_76FlEldoEd2N4vZAlUIPvw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_76FlE1doEd2N4vZAlUIPvw"
+            name="Domains" guid="_76FlE1doEd2N4vZAlUIPvw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_76FlFFdoEd2N4vZAlUIPvw"
+            name="Disciplines" guid="_76FlFFdoEd2N4vZAlUIPvw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_76FlFVdoEd2N4vZAlUIPvw"
+            name="RoleSets" guid="_76FlFVdoEd2N4vZAlUIPvw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_76FlFldoEd2N4vZAlUIPvw"
+            name="WP Types" guid="_76FlFldoEd2N4vZAlUIPvw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_76FlF1doEd2N4vZAlUIPvw"
+            name="Tools" guid="_76FlF1doEd2N4vZAlUIPvw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_76FlGFdoEd2N4vZAlUIPvw"
+            name="StandardCategories" guid="_76FlGFdoEd2N4vZAlUIPvw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_76FlGVdoEd2N4vZAlUIPvw"
+            name="CustomCategories" guid="_76FlGVdoEd2N4vZAlUIPvw">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_76FlGldoEd2N4vZAlUIPvw"
+              name="Hidden" guid="_76FlGldoEd2N4vZAlUIPvw">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_76FlG1doEd2N4vZAlUIPvw"
+                name="Custom Categories" guid="_76FlG1doEd2N4vZAlUIPvw"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_76FlHFdoEd2N4vZAlUIPvw"
+          name="CoreContent" guid="_76FlHFdoEd2N4vZAlUIPvw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_BC88UFdpEd2N4vZAlUIPvw"
+            name="umf_ext_to_practice_config_auth_practice" guid="_BC88UFdpEd2N4vZAlUIPvw"
+            presentationName="UMF Extensions to Practice Configuration Authoring Practice">
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_4dbZAFsuEd2oiZ87J3vuLQ"
+              name="defining_practice_configuration_welcome_pages.umf" guid="_4dbZAFsuEd2oiZ87J3vuLQ"
+              variabilityType="contributes">
+            <presentation xmi:id="-ZTOLlZzh5EywoUTJsD8z7A" href="uma://-ZTOLlZzh5EywoUTJsD8z7A#-ZTOLlZzh5EywoUTJsD8z7A"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_V6WwsEAKEd2Ei9ySU_sUdQ#_n56_4FstEd2oiZ87J3vuLQ"/>
+            <conceptsAndPapers href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_nrrn4GqHEdun45RPFGeYnA"/>
+            <guidelines href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_apOmQMj7EdyoXMhaXAJ-6g"/>
+            <guidelines href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_8YIMYCNQEdycLddDalDmbA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_PTaMAPCkEdyHz_B1XFOUgA"
+              name="defining_practice_configs.umf" guid="_PTaMAPCkEdyHz_B1XFOUgA"
+              variabilityType="contributes">
+            <presentation xmi:id="-fZTyDorx0YPWMRde1fMkxg" href="uma://-fZTyDorx0YPWMRde1fMkxg#-fZTyDorx0YPWMRde1fMkxg"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_V6WwsEAKEd2Ei9ySU_sUdQ#_FnCOMAz8Ed2135n7CJzRCQ"/>
+            <conceptsAndPapers href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_nrrn4GqHEdun45RPFGeYnA"/>
+            <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_0H9aAO7EEdy9EOwDlaw7Kw"/>
+            <guidelines href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_PBhxIO9MEdytFa01gNyMbA"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_LOOWIFdsEd2N4vZAlUIPvw"
+            name="release_info" guid="_LOOWIFdsEd2N4vZAlUIPvw" presentationName="Release Information">
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_LOOWIVdsEd2N4vZAlUIPvw"
+              name="release_info_practice_config_auth_practice.umf" guid="_LOOWIVdsEd2N4vZAlUIPvw"
+              variabilityType="contributes">
+            <presentation xmi:id="-X-sjSA1l0pGaBp38Xqrp7Q" href="uma://-X-sjSA1l0pGaBp38Xqrp7Q#-X-sjSA1l0pGaBp38Xqrp7Q"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:SupportingMaterial"
+                href="uma://_V6WwsEAKEd2Ei9ySU_sUdQ#_k6w9sU_VEd2Msfc77a9AQg"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_76FlHVdoEd2N4vZAlUIPvw"
+          name="CapabilityPatterns" guid="_76FlHVdoEd2N4vZAlUIPvw"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_76FlHldoEd2N4vZAlUIPvw"
+        name="DeliveryProcesses" guid="_76FlHldoEd2N4vZAlUIPvw"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_76FlH1doEd2N4vZAlUIPvw"
+        name="ProcessContributions" guid="_76FlH1doEd2N4vZAlUIPvw"/>
+    <bases href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_HQW1wAvmEd2Z4aGiwM2NOA"/>
+    <bases href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_TQMyAAyNEd2RbdLDHU6BqQ"/>
+    <bases href="uma://_V6WwsEAKEd2Ei9ySU_sUdQ#_V6WwsEAKEd2Ei9ySU_sUdQ"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

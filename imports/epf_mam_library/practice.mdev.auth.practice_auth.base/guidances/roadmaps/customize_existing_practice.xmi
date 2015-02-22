@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-J1LhOmJPnEm6jvpPduIblw"
+    name="customize_existing_practice,_1DeVACYEEd2Hqsxn1d0Dyg" guid="-J1LhOmJPnEm6jvpPduIblw"
+    changeDate="2008-11-02T13:55:27.593-0800" version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    It is assumed that the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/concepts/practice_F5C8EAAB.html&quot;&#xD;
+    guid=&quot;_qhCTAFRREd2CWscN8Mx6rg&quot;>Practice&lt;/a>&amp;nbsp;being customized cannot be modified directly. Thus, all changes must&#xD;
+    be stored in a separate plug-in from the&amp;nbsp;practice being customized. If&amp;nbsp;you can modify the practice directly,&#xD;
+    you should follow the guidelines described in &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../practice.mdev.auth.practice_auth.base/guidances/roadmaps/author_new_practice_DECF4754.html&quot;&#xD;
+    guid=&quot;_t8M_4CXOEd2dSdS2FPKaIA&quot;>Roadmap: Author a New Practice&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Customizing a practice is similar to creating a new practice. Specifically you:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        (optionally) Sketch out some ideas for the practice&amp;nbsp;customization (see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../practice.mdev.auth.practice_auth.base/guidances/guidelines/sketching_practice_E630ED66.html&quot;&#xD;
+        guid=&quot;_tkYzcCXnEd2dSdS2FPKaIA&quot;>Guideline: Sketching a Practice&lt;/a>)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Structure the practice customization (see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../practice.mdev.auth.practice_auth.base/guidances/guidelines/structuring_practice_customization_F29337D2.html&quot;&#xD;
+         guid=&quot;_sfzMkKlSEd2XsY8-UtPVvw&quot;>Guideline: Structuring a Practice Customization&lt;/a>)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Detail the practice customization (see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../practice.mdev.auth.practice_auth.base/guidances/guidelines/detailing_practice_elements_BF99AAE7.html&quot;&#xD;
+         guid=&quot;_xovb0JQ-EdyOprQk0vnmNg&quot;>Guideline: Detailing Practice Elements&lt;/a>)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    As you customize the practice, browse or publish the practice and make sure you are getting the results you want (see&#xD;
+    &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../practice.mdev.auth.practice_auth.base/guidances/guidelines/publishing_practice_99392155.html&quot;&#xD;
+    guid=&quot;_oOSgsD9-Ed2fM_dR3V_v1A&quot;>Guideline: Publishing a Practice&lt;/a>).&lt;br />&#xD;
+    Note: To see the customizations, you need to browse or publish a configuration that includes the original Practice&#xD;
+    plug-ins and the plug-ins containing the customizations.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

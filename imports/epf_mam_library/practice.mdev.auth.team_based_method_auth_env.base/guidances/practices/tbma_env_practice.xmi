@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-L5AzEd3yUYe4oGqVKp5-0w"
+    name="tbma_env_practice,_u-UFsE9mEd2SAuyoRuCemA" guid="-L5AzEd3yUYe4oGqVKp5-0w"
+    authors="Kelli Houston" changeDate="2008-10-31T06:20:10.500-0800" changeDescription="July, 2008: Initial version "
+    version="7.5.0">
+  <problem>&lt;p>&#xD;
+    This practice describes techniques for setting up a method authoring environment that supports team&#xD;
+    collaboration.&amp;nbsp; Adopting this practice will provide your team with the&amp;nbsp;necessary guidance&amp;nbsp;for&#xD;
+    collaborating effectively when authoring methods.&#xD;
+&lt;/p></problem>
+  <application>&lt;p>&#xD;
+    The best way to read this practice is to first familiarize yourself with its overall structure -- what it is in it and&#xD;
+    how it is organized.&amp;nbsp;A good place to start is&amp;nbsp;with the &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../practice.mdev.auth.team_based_method_auth_env.base/guidances/roadmaps/set_up_method_auth_env_DB27B60C.html&quot;&#xD;
+     guid=&quot;_h9RjsCv4Ed2HiavZWDwUwQ&quot;>Roadmap: Set Up Method Authoring Environment&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    For information in how to adopt this practice, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../practice.mdev.auth.team_based_method_auth_env.base/guidances/roadmaps/how_to_adopt_team_based_method_auth_env_501253A2.html&quot;&#xD;
+     guid=&quot;__IsVACv4Ed2HiavZWDwUwQ&quot;>Roadmap: How to Adopt Team-Based Method Authoring Practice&lt;/a>.&#xD;
+&lt;/p></application>
+</org.eclipse.epf.uma:PracticeDescription>

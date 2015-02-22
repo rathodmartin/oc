@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-RRHbkHbSeBagrEPa6ofdcA"
+    name="roles_in_the_umf,_Arih4MdeEdySeI1LYmvOGg" guid="-RRHbkHbSeBagrEPa6ofdcA"
+    changeDate="2008-09-16T05:18:40.328-0700" version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    The &lt;a class=&quot;elementLink&quot; href=&quot;./../../../core.mdev.common.extend_umf/guidances/concepts/umf_C03950A8.html&quot;&#xD;
+    guid=&quot;_nrrn4GqHEdun45RPFGeYnA&quot;>Unified Method Framework (UMF)&lt;/a>&amp;nbsp;defines some constraints with regards to the&#xD;
+    definition and use of &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/role_37A0C602.html&quot;&#xD;
+    guid=&quot;_yUefQNnmEdmO6L4XMImrsA&quot;>role&lt;/a>s and &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/role_set_396DC9DB.html&quot;&#xD;
+    guid=&quot;_Fs8HAMaIEduMlb2cQZNTYw&quot;>role set&lt;/a>s.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The UMF implements a delayed role assignment&amp;nbsp;approach, which means that the assignment of roles to method content&#xD;
+    elements is NOT done as part of the definition of the method content elements.&amp;nbsp; In addition, in the UMF, role&#xD;
+    definitions are intended to be shared.&amp;nbsp; Thus, in the UMF, the roles and role sets&amp;nbsp;are defined separately from&#xD;
+    the method content elements they can be assigned to (e.g., work products and tasks), as well as from the assignments&#xD;
+    themselves.&amp;nbsp; For information, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.extend_umf/guidances/guidelines/delayed_assignment_in_the_umf_11FDA840.html&quot;&#xD;
+    guid=&quot;_PPjo4PF3EdyPreM_8XDeJA&quot;>Guideline: Delayed Assignment in the UMF&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Roles and role sets may be shared across practices or may be practice-specific and this decision affects what plug-ins&#xD;
+    their definitions and assignments are placed.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Shared roles and role sets:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Shared roles and role sets are &lt;strong>&lt;em>defined&lt;/em>&lt;/strong> in a Role Definition Base plug-in.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Shared roles are assigned to shared role sets in a Role Definition Base plug-in.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Shared roles are &lt;strong>&lt;em>assigned&lt;/em>&lt;/strong> to &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/task_6C1FF051.html&quot;&#xD;
+        guid=&quot;_x459ktnmEdmO6L4XMImrsA&quot;>task&lt;/a>s and &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/work_product_826E4C22.html&quot;&#xD;
+        guid=&quot;_H4JXwB_SEdq6CKKKq4D7YA&quot;>work product&lt;/a>s in the Assign plug-in associated with the Base plug-in where the&#xD;
+        element to be assigned to the role (work product or task) is defined.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Practice-specific roles and role sets:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Practice-specific roles and role sets are defined in the Practice Assign plug-in.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Practice-specific roles are assigned to practice-specific role sets in the Practice Assign plug-in.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Practice-specific roles are &lt;strong>&lt;em>assigned&lt;/em>&lt;/strong> to &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/task_6C1FF051.html&quot;&#xD;
+        guid=&quot;_x459ktnmEdmO6L4XMImrsA&quot;>task&lt;/a>s and &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/work_product_826E4C22.html&quot;&#xD;
+        guid=&quot;_H4JXwB_SEdq6CKKKq4D7YA&quot;>work product&lt;/a>s in the Practice Assign plug-in.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    The benefits to the UMF approach to roles are:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Roles and role sets can be shared across practices (shared Role Definition plug-ins)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Alternate role assignments can be defined (provide alternate Assign plug-ins)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Note: If you are developing a method where the role assignments can NEVER change, then late role assignment is overkill&#xD;
+    and the role assignments can be done directly in Base plug-ins.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    For more information on Role Definition and Practice plug-ins, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_lib_plugin_types_3EA8002F.html&quot;&#xD;
+    guid=&quot;__428YO6cEdygKbJMUVNEtg&quot;>Concept: Practice Library Plug-In Types&lt;/a>.&amp;nbsp; For more information on Base and&#xD;
+    Assign plug-ins, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.extend_umf/guidances/concepts/practice_fw_plugin_parts_538A81D.html&quot;&#xD;
+    guid=&quot;_vgjh4PG1EdyO9sYxKNWf8A&quot;>Concept: Practice Framework Plug-In Parts&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

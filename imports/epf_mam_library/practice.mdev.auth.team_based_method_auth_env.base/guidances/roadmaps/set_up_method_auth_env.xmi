@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-Pb96zDwJGdvdAZXsecYdVQ"
+    name="new_roadmap,_h9RjsCv4Ed2HiavZWDwUwQ" guid="-Pb96zDwJGdvdAZXsecYdVQ" changeDate="2008-10-31T06:21:44.640-0800"
+    version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    When setting up your method authoring environment, it is best to start by thinking about the method that needs to be&#xD;
+    authored and any constraints on the method. For example, the method being authored may need to exist within the&#xD;
+    constraints&amp;nbsp;of an existing method library/framework and thus must adhere to the architectural constraints for that&#xD;
+    library/framework. Such an understanding is important because such information affects the process you will need to use&#xD;
+    for authoring&amp;nbsp;the method, as well as&amp;nbsp;indicates what existing method elements you will need to have access to&#xD;
+    in order to complete your authoring activities.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Once you have that understanding, you can turn your attention to the:&lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Authoring process&lt;/strong>: Making sure that you&amp;nbsp; have access to the process to be followed when&#xD;
+        authoring the method.&amp;nbsp;For more information, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../practice.mdev.auth.team_based_method_auth_env.base/guidances/guidelines/establish_method_auth_process_BB1EA39E.html&quot;&#xD;
+         guid=&quot;_p9nu0KdREd2XsY8-UtPVvw&quot;>Guideline: Establishing a Method Authoring Process&lt;/a>.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Authoring tooling&lt;/strong>: Making sure the right tools are installed and configured, and that you have&#xD;
+        access to any existing method elements that you may want to extend and/or include in the method you are developing.&#xD;
+        For more information, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../practice.mdev.auth.team_based_method_auth_env.base/guidances/guidelines/set_up_method_auth_tooling_A9714865.html&quot;&#xD;
+         guid=&quot;_2ydy8KdUEd2XsY8-UtPVvw&quot;>Guideline: Setting Up the Method Authoring Tooling&lt;/a>.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

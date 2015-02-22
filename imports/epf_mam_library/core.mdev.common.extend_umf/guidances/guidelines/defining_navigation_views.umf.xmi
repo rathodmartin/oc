@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-5uzpkBBo2_vgb-PwOAWljw"
+    name="new_guideline,_JOtacPCrEdy08JMeAp07qw" guid="-5uzpkBBo2_vgb-PwOAWljw" changeDate="2008-09-16T05:12:12.812-0700"
+    version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Special instructions when authoring in the UMF&lt;/strong>: When defining navigation views for methods&amp;nbsp;that&#xD;
+    are&amp;nbsp;to exist within the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.extend_umf/guidances/concepts/umf_C03950A8.html&quot;&#xD;
+    guid=&quot;_nrrn4GqHEdun45RPFGeYnA&quot;>Unified Method Framework (UMF)&lt;/a>, there are certain conventions that need to be&#xD;
+    adhered&amp;nbsp;to.&amp;nbsp; For more information, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.extend_umf/guidances/guidelines/navigation_views_in_the_umf_E2C80C75.html&quot;&#xD;
+    guid=&quot;_apOmQMj7EdyoXMhaXAJ-6g&quot;>Guideline: Navigation Views in the UMF&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

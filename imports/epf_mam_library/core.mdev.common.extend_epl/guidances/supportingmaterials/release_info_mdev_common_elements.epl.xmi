@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-kBDnTqrp6FjlDIegJt_zlg"
+    name="release_info_mdev_common_elements.epl,_hh7xBn_2Ed2IdZmkTP19bw" guid="-kBDnTqrp6FjlDIegJt_zlg"
+    changeDate="2008-11-11T19:13:05.480-0800" version="1.0.0">
+  <mainDescription>&lt;h3>&#xD;
+    EPL Extensions v1.0&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Initial release of the plug-in.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

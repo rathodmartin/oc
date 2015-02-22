@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-8m7FBotgWiBdSnmd383viQ"
+    name="general_method_element_authoring_guidelines,_jLqqIOFIEdumFeaOJSgmnQ" guid="-8m7FBotgWiBdSnmd383viQ"
+    changeDate="2008-10-30T08:15:51.968-0800" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    &lt;span style=&quot;mso-spacerun: yes&quot;>When detailing method elements, be sure to:&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Use the individual fields of the method element (and associated guidance) instead of putting all the details in the&#xD;
+        Main description field. This&amp;nbsp;separates and simplifies the detailed text so the reader can easily focus on the&#xD;
+        information they’re interested in. Specifically, use the Brief Description or Purpose sections of method content to&#xD;
+        state the purpose or conclusion of the idea that’s being communicated. Use the remaining sections to provide a&#xD;
+        detailed explanation of the subject. A method element should immediately communicates the specific idea that’s&#xD;
+        being described. Reading the rest of the sections is useful to understand the detail of the subject.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Keep text sparse to allow the reader to quickly scan and locate the information they want.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Document process-dependent information separate from the method content element definition.&amp;nbsp;Method&#xD;
+        content&amp;nbsp;elements should&amp;nbsp;be process independent. Any minor differences/tweaks to the elements based on&#xD;
+        where they occur in&amp;nbsp;a particular process or lifecycle&amp;nbsp;can be captured in the processes in which the&#xD;
+        element appears (more on this below). This maximizes the reuse of the method content across processes.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Define associations to guidance, not just hyperlinks in the text.&amp;nbsp;If you link to other guidance from the HTML&#xD;
+        of a guidance element, define an association from the guidance element to the guidance you are referring&#xD;
+        to.&amp;nbsp;This ensures that Method Composer will help flag those cases where the referenced guidance is not included&#xD;
+        in the configuration.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Adhere to the recommended guidelines for textual content.&amp;nbsp;See &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.base/guidances/reusableassets/formatting_and_writing_tips_for_method_authors_F218DBA8.html&quot;&#xD;
+         guid=&quot;_sEOcoJcDEd2sTqxclDgvog&quot;>Formatting and Writing Tips for Method Authors&lt;/a>.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Capture the source of the information being included in the element. This information is important if you ever need&#xD;
+        to provide source information for the element for documenting ownership rights.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Maintain version histories.&amp;nbsp;For more information, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.base/guidances/guidelines/maintaining_change_histories_and_version_numbers_B83271.html&quot;&#xD;
+         guid=&quot;_k91OkFpBEdutiI3y4Hpy9Q&quot;>Guideline: Maintaining Change Histories and Version Numbers&lt;/a>.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    For guidelines on detailing the fields that are common across all method elements, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/guidelines/detailing_common_method_element_fields_940D3CE0.html&quot;&#xD;
+    guid=&quot;_zVLrkJZwEd2ireJkqESkdQ&quot;>Guideline: Detailing Common Method Element Fields&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Method elements can be detailed using templates.&amp;nbsp;For more information, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/guidelines/detailing_method_content_using_templates_C2B4A444.html&quot;&#xD;
+    guid=&quot;_mHp3UOurEdydutqrlpQKOw&quot;>Guideline: Detailing Method Content Using Templates&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

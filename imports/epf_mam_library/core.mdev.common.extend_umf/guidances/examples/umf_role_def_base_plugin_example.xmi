@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-Tsss2Gtud62ZpqJNebcGnA"
+    name="umf_role_def_base_plugin_example,_bCZb8ILOEd2NQYBY1jUNtw" guid="-Tsss2Gtud62ZpqJNebcGnA"
+    changeDate="2008-09-14T04:34:55.359-0700" version="7.5.0">
+  <mainDescription>&lt;p>&#xD;
+    Figure 1 is an example of a Role Definition Base plug-in.&amp;nbsp; Note the definition of the roles and the role set&#xD;
+    standard categories.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Figure 1: UMF Role Definition Base Plug-In Example&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img alt=&quot;umf_role_definition_base_plugin_example&quot; src=&quot;./resources/umf_role_def_base_plugin_ex.gif&quot; />&lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Figure 2 is an example of the assignment of roles to a role set.&amp;nbsp; The role to role set assignment is included in&#xD;
+    the Role Definition Base plug-in.&amp;nbsp; However, only the role definitions appear in the Role Definition plug-in. The&#xD;
+    role assignments are defined in separate&amp;nbsp;Assign plug-ins.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Figure 2: Assignment of Roles to Role Set Example&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img alt=&quot;assignment_of_role_set_to_roles_example&quot; src=&quot;resources/roleset_to_roles_ex.gif&quot; />&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:GuidanceDescription>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_RmuH8LgREd2VBqezzK7PZw"
+      guid="_RmuH8LgREd2VBqezzK7PZw">
+    <resourceDescriptors xmi:id="_Rm348LgREd2VBqezzK7PZw" id="-C83WkQGm4ldRMW_T6x_8EA"
+        uri="guidances/supportingmaterials/release_info_practice_auth_practice.umf.xmi"/>
+    <resourceDescriptors xmi:id="_RnBC4LgREd2VBqezzK7PZw" id="-3pkAXQ3QPT4IROubm5bZKQ"
+        uri="guidances/guidelines/publishing_practice.umf.xmi"/>
+    <resourceDescriptors xmi:id="_RnKz4LgREd2VBqezzK7PZw" id="-pW1yyqF-_A-n1n5fwKpukg"
+        uri="guidances/guidelines/detailing_practice_elements.umf.xmi"/>
+    <resourceDescriptors xmi:id="_RnKz4bgREd2VBqezzK7PZw" id="-irIJMo8Rmr6Rd9DahxODJQ"
+        uri="guidances/guidelines/structuring_practice.umf.xmi"/>
+    <resourceDescriptors xmi:id="_RnT90LgREd2VBqezzK7PZw" id="--D0vHdn2KyJowPJPW8hCeg"
+        uri="guidances/guidelines/customizing_practice.umf.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_7dtpACYOEd2Hqsxn1d0Dyg" name="practice.mdev.auth.practice_auth.extend_umf"
+      guid="_7dtpACYOEd2Hqsxn1d0Dyg" presentationName="UMF Extensions to Practice Authoring Practice"
+      briefDescription="This plug-in extends the Practice Authoring practice with UMF-specific guidance, which will enable process engineers to author practices that wil fit nicely in the Unified Method Framework (UMF).&#xD;&#xA;This plug-in only contains guidance (i.e., it does not contain any new roles, tasks and/or work products).  &#xD;&#xA;This plug-in depends on the following plug-ins:&#xD;&#xA;+ UMA concepts plug-in for the UMA definitions&#xD;&#xA;+ Base plug-ins being extended&#xD;&#xA;+ Common plug-ins for shared elements&#xD;&#xA;+ Navigation View Definition Base plug-in so elements can be added to the navigation view building blocks &#xD;&#xA;+ Copyright plug-in for access to a copyright for the plug-in"
+      authors="Kelli Houston" changeDate="2008-09-14T05:58:06.140-0700" version="1.0">
+    <copyrightStatement href="uma://_iVydgENdEdy245g62lfWcA#_uuunoPsDEdmyhNQr5STrZQ"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_7dtpASYOEd2Hqsxn1d0Dyg"
+        name="Content" guid="_7dtpASYOEd2Hqsxn1d0Dyg">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_7dtpAiYOEd2Hqsxn1d0Dyg"
+          name="Categories" guid="_7dtpAiYOEd2Hqsxn1d0Dyg">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_7dtpAyYOEd2Hqsxn1d0Dyg"
+            name="Domains" guid="_7dtpAyYOEd2Hqsxn1d0Dyg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_7dtpBCYOEd2Hqsxn1d0Dyg"
+            name="Disciplines" guid="_7dtpBCYOEd2Hqsxn1d0Dyg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_7dtpBSYOEd2Hqsxn1d0Dyg"
+            name="RoleSets" guid="_7dtpBSYOEd2Hqsxn1d0Dyg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_7dtpBiYOEd2Hqsxn1d0Dyg"
+            name="WP Types" guid="_7dtpBiYOEd2Hqsxn1d0Dyg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_7dtpByYOEd2Hqsxn1d0Dyg"
+            name="Tools" guid="_7dtpByYOEd2Hqsxn1d0Dyg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_7dtpCCYOEd2Hqsxn1d0Dyg"
+            name="StandardCategories" guid="_7dtpCCYOEd2Hqsxn1d0Dyg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_7dtpCSYOEd2Hqsxn1d0Dyg"
+            name="CustomCategories" guid="_7dtpCSYOEd2Hqsxn1d0Dyg">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_7dtpCiYOEd2Hqsxn1d0Dyg"
+              name="Hidden" guid="_7dtpCiYOEd2Hqsxn1d0Dyg">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_7dtpCyYOEd2Hqsxn1d0Dyg"
+                name="Custom Categories" guid="_7dtpCyYOEd2Hqsxn1d0Dyg"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_7dtpDCYOEd2Hqsxn1d0Dyg"
+          name="CoreContent" guid="_7dtpDCYOEd2Hqsxn1d0Dyg">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_RY9YUCYPEd2Hqsxn1d0Dyg"
+            name="release_info" guid="_RY9YUCYPEd2Hqsxn1d0Dyg" presentationName="Release Information"
+            briefDescription="This package groups all guidance for the plug-in as a whole.">
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_nxgRAE93Ed2SAuyoRuCemA"
+              name="release_info_practice_auth_practice.umf" guid="_nxgRAE93Ed2SAuyoRuCemA"
+              variabilityType="contributes">
+            <presentation xmi:id="-C83WkQGm4ldRMW_T6x_8EA" href="uma://-C83WkQGm4ldRMW_T6x_8EA#-C83WkQGm4ldRMW_T6x_8EA"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:SupportingMaterial"
+                href="uma://_0AD2ECJoEd2elMIxXedw0g#_SMjMsE91Ed2SAuyoRuCemA"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_kRvcMCYPEd2Hqsxn1d0Dyg"
+            name="umf_ext_to_practice_auth_practice" guid="_kRvcMCYPEd2Hqsxn1d0Dyg"
+            presentationName="UMF Extensions to Practice Authoring Practice" briefDescription="UMF extensions include UMF key concepts, constraints and examples.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_lTUBsD-cEd2sFOfPW3Iw5g"
+              name="publishing_practice.umf" guid="_lTUBsD-cEd2sFOfPW3Iw5g" variabilityType="contributes">
+            <presentation xmi:id="-3pkAXQ3QPT4IROubm5bZKQ" href="uma://-3pkAXQ3QPT4IROubm5bZKQ#-3pkAXQ3QPT4IROubm5bZKQ"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_0AD2ECJoEd2elMIxXedw0g#_oOSgsD9-Ed2fM_dR3V_v1A"/>
+            <conceptsAndPapers href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_nrrn4GqHEdun45RPFGeYnA"/>
+            <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#__428YO6cEdygKbJMUVNEtg"/>
+            <guidelines href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_apOmQMj7EdyoXMhaXAJ-6g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_O2WogPXGEdyGap--w1kPUw"
+              name="detailing_practice_elements.umf" guid="_O2WogPXGEdyGap--w1kPUw"
+              variabilityType="contributes">
+            <presentation xmi:id="-pW1yyqF-_A-n1n5fwKpukg" href="uma://-pW1yyqF-_A-n1n5fwKpukg#-pW1yyqF-_A-n1n5fwKpukg"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_0AD2ECJoEd2elMIxXedw0g#_xovb0JQ-EdyOprQk0vnmNg"/>
+            <conceptsAndPapers href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_nrrn4GqHEdun45RPFGeYnA"/>
+            <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#__428YO6cEdygKbJMUVNEtg"/>
+            <guidelines href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_x40SYO9HEdytFa01gNyMbA"/>
+            <guidelines href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#__BMv0JorEd2fi9zUq_rRtg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_3Fk4IO64EdyoZKg0kjHQcw"
+              name="structuring_practice.umf" guid="_3Fk4IO64EdyoZKg0kjHQcw" variabilityType="contributes">
+            <presentation xmi:id="-irIJMo8Rmr6Rd9DahxODJQ" href="uma://-irIJMo8Rmr6Rd9DahxODJQ#-irIJMo8Rmr6Rd9DahxODJQ"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_0AD2ECJoEd2elMIxXedw0g#_F2l88JSGEdyCzN0eHC4CLA"/>
+            <conceptsAndPapers href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_nrrn4GqHEdun45RPFGeYnA"/>
+            <guidelines href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_x40SYO9HEdytFa01gNyMbA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_FQzrQKlXEd2XsY8-UtPVvw"
+              name="customizing_practice.umf" guid="_FQzrQKlXEd2XsY8-UtPVvw" variabilityType="contributes">
+            <presentation xmi:id="--D0vHdn2KyJowPJPW8hCeg" href="uma://--D0vHdn2KyJowPJPW8hCeg#--D0vHdn2KyJowPJPW8hCeg"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_0AD2ECJoEd2elMIxXedw0g#_sfzMkKlSEd2XsY8-UtPVvw"/>
+            <conceptsAndPapers href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_nrrn4GqHEdun45RPFGeYnA"/>
+            <guidelines href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_x40SYO9HEdytFa01gNyMbA"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_7dtpDSYOEd2Hqsxn1d0Dyg"
+          name="CapabilityPatterns" guid="_7dtpDSYOEd2Hqsxn1d0Dyg"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_7dtpDiYOEd2Hqsxn1d0Dyg"
+        name="DeliveryProcesses" guid="_7dtpDiYOEd2Hqsxn1d0Dyg"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_7dtpDyYOEd2Hqsxn1d0Dyg"
+        name="ProcessContributions" guid="_7dtpDyYOEd2Hqsxn1d0Dyg"/>
+    <bases href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_HQW1wAvmEd2Z4aGiwM2NOA"/>
+    <bases href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_TQMyAAyNEd2RbdLDHU6BqQ"/>
+    <bases href="uma://_0AD2ECJoEd2elMIxXedw0g#_0AD2ECJoEd2elMIxXedw0g"/>
+    <bases href="uma://_vsno4EKmEdyrauqpmnA8jQ#_vsno4EKmEdyrauqpmnA8jQ"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

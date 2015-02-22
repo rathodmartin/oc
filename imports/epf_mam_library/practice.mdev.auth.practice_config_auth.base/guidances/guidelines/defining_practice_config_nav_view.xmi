@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-Z2n0ovxd1AHF34xzZ_ZLgw"
+    name="defining_practice_config_nav_view,_EwJVMEAPEd2Ei9ySU_sUdQ" guid="-Z2n0ovxd1AHF34xzZ_ZLgw"
+    changeDate="2008-11-02T08:36:33.703-0800" version="7.5.0">
+  <mainDescription>&lt;p>&#xD;
+    &lt;a class=&quot;elementLink&quot; href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_configuration_CC7754F2.html&quot;&#xD;
+    guid=&quot;_0H9aAO7EEdy9EOwDlaw7Kw&quot;>Practice Configuration&lt;/a>&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/termdefinitions/navigation_view_8F89044.html&quot;&#xD;
+    guid=&quot;_X_hFIPAjEdyHz_B1XFOUgA&quot;>navigation view&lt;/a>s define the way an end-user accesses the elements in the&#xD;
+    configuration. At least one of the views, usually the view defined as the default view for the practice configuration's&#xD;
+    &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/method_configuration_C2B8FA8A.html&quot;&#xD;
+    guid=&quot;__V7pAMaEEduMlb2cQZNTYw&quot;>method configuration&lt;/a>, should include a Welcome page. For more information, see &lt;a&#xD;
+    class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../practice.mdev.auth.practice_config_auth.base/guidances/guidelines/defining_practice_configuration_welcome_pages_2DF32E7B.html&quot;&#xD;
+     guid=&quot;_n56_4FstEd2oiZ87J3vuLQ&quot;>Guideline: Defining a Practice Configuration Welcome Page&lt;/a>.&lt;br />&#xD;
+    &lt;br />&#xD;
+    For general information on defining navigation views, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/guidelines/defining_navigation_views_76A906E.html&quot;&#xD;
+    guid=&quot;_67agUEyEEdu4NY1n_hCY0w&quot;>Guideline: Defining Navigation Views&lt;/a>.&lt;br />&#xD;
+    &lt;br />&#xD;
+    Once the navigation views are defined, they should be selected in the practice configuration's method configuration.&#xD;
+    For more information on selecting views for configurations, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/guidelines/defining_method_configurations_2B25CEA5.html&quot;&#xD;
+    guid=&quot;_l77zcIB-EduaS6LQ8n6xUQ&quot;>Guideline: Defining Method Configurations&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

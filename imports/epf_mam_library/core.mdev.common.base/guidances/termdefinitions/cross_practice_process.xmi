@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="--7n1snUvCj-ImWY7X2kjqA"
+    name="new_term_definition,_9NcfoFJgEd2SzrMjC_svdw" guid="--7n1snUvCj-ImWY7X2kjqA"
+    changeDate="2008-07-15T04:28:06.390-0700" version="7.5.0">
+  <mainDescription>Cross-practice &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/process_68E308B4.html&quot;&#xD;
+guid=&quot;_yQ5m2NnmEdmO6L4XMImrsA&quot;>process&lt;/a>es&amp;nbsp;are processes that are assembled from the elements in individual &lt;a&#xD;
+class=&quot;elementLink&quot; href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/practice_94B5C550.html&quot;&#xD;
+guid=&quot;_wxYvkMaGEduMlb2cQZNTYw&quot;>practice&lt;/a>s. Cross-practice processes generally describe a specific style of&#xD;
+development.&amp;nbsp; They&amp;nbsp;assemble practice elements into a proven “recipe” and provide the “glue” that brings all the&#xD;
+parts together into something that can be published and executed.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

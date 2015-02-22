@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-iYovE3DOftqoqc4nMJNqiA" name="new_artifact,_2KmsYFocEeSUmaNkcwFqUg" guid="-iYovE3DOftqoqc4nMJNqiA" authors="John Rozsa" changeDate="2014-10-25T21:43:40.229-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>The activity list is a complete list that includes all activities required on the project. The activity. It can be the
+        result of the Work Breakdown Structure (WBS) task activity or can be developed along side of the task exercise.&lt;br />
+         &lt;br />
+         The activity list contains all schedule activities required on the project, which:&lt;br />
+         &lt;br />
+         
+        &lt;ul>
+            &lt;li>
+                Are to be sequenced
+            &lt;/li>
+            &lt;li>
+                Which will need resources
+            &lt;/li>
+            &lt;li>
+                Will need duration estimates
+            &lt;/li>
+        &lt;/ul>
+        &lt;br />
+         The activity list identifies those activities tobe included in the schedule model.&lt;br /></mainDescription>
+  <impactOfNotHaving>If activity list are not generated, there can be no effective project management and consequently a pooly executed
+        initiative for projects of even moderate moderate size.&lt;br /></impactOfNotHaving>
+  <reasonsForNotNeeding>Very small initiatives where activities are just a few.&lt;br /></reasonsForNotNeeding>
+</org.eclipse.epf.uma:ArtifactDescription>

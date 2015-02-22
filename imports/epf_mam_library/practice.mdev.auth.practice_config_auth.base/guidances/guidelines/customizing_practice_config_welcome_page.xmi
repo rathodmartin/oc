@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-Tdh-UgX-81dvNiIE729U9A"
+    name="new_guideline,_osfP0KlOEd2XsY8-UtPVvw" guid="-Tdh-UgX-81dvNiIE729U9A" changeDate="2008-11-02T20:34:49.875-0800"
+    version="7.5.0">
+  <mainDescription>&lt;p>&#xD;
+    Perform the following steps to customize an existing &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_configuration_CC7754F2.html&quot;&#xD;
+    guid=&quot;_0H9aAO7EEdy9EOwDlaw7Kw&quot;>Practice Configuration&lt;/a>&amp;nbsp;welcome page:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        If one does not already&amp;nbsp;exist, create a Publish Extends plug-in to contain the customized welcome page.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        In the Publish Extends plug-in, customize the welcome page. A practice configuration welcome page is simply a&#xD;
+        supporting material guidance element. Thus, it is customized the same way as any guidance element. For information&#xD;
+        on what is typically included in a configuration welcome page, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../practice.mdev.auth.practice_config_auth.base/guidances/guidelines/defining_practice_configuration_welcome_pages_2DF32E7B.html&quot;&#xD;
+         guid=&quot;_n56_4FstEd2oiZ87J3vuLQ&quot;>Guideline: Defining a Practice Configuration Welcome Page&lt;/a>. For more information&#xD;
+        on customizing them, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.base/guidances/guidelines/customizing_method_content_element_87D73FFF.html&quot;&#xD;
+        guid=&quot;_5cHsoFJsEd2SzrMjC_svdw&quot;>Guideline: Customizing a Method Content Element&lt;/a>.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--E8SWsL51qkfOFZpX-z0KA" name="new_artifact,_KZ5eUPrcEeKlqMNsbbcDlQ" guid="--E8SWsL51qkfOFZpX-z0KA" authors="Shane T.Ficorilli" changeDate="2013-08-02T09:46:25.143-0400" changeDescription="Baseline" version="1.0">
+  <mainDescription>A UML diagram of the defined process that depicts all tasks, roles, mandatory inputs and outputs in the process.</mainDescription>
+  <impactOfNotHaving>The development of process improvements and future process cannot be completed in entirety.</impactOfNotHaving>
+  <reasonsForNotNeeding>A Process UML/OpenUP Diagram is always needed.</reasonsForNotNeeding>
+</org.eclipse.epf.uma:ArtifactDescription>

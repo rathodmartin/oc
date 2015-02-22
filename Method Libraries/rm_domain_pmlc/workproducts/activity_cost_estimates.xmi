@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-GLHCjK91bxBTa0lwNi6R9w" name="new_artifact,_if9JIFmMEeSnr-1nkoLXsg" guid="-GLHCjK91bxBTa0lwNi6R9w" authors="John Rozsa" changeDate="2014-10-23T18:39:53.776-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>Activity Cost estimates the projects costs of the schedule activity including costs for all resources required to complete
+        them. These are then aggregated to obtain a cost estimate for the project. These estimates are quantitative assessments of
+        the probable costs required to complete project. They are often documented in summary form or in detail.&lt;br />
+         &lt;br />
+         Costs are estimated for all resources that are applied including; direct labor, materials, equipment, facilities, and
+        information technology. &lt;br />
+         &lt;br />
+         Activity cost estimate reviews are recommended to identify possible risks. The review may result in projections noting
+        estimates are either sufficient or insufficient to complete the activity.&lt;br />
+         &lt;br />
+         Cost estimates for each activity within a work package are rolled up to a cost estimate for each work package which, in
+        turn, is rolled up again to provide an estimate for the project&lt;br /></mainDescription>
+  <impactOfNotHaving>The estimates are critical for project of any significant size. Not having these estimates can easily allow for cost
+        overruns and unanticipated expense which would have been identified early. This information helps the project team and key
+        stakeholders to decide whether the project is financially viable well before major expenses are incurred.&lt;br /></impactOfNotHaving>
+  <reasonsForNotNeeding>Often, projects that are only short in duration or minimal in resources do not need the rigor of detailed estimations. In
+        any case, not having these estimates should be a conscience decision to do so.&lt;br /></reasonsForNotNeeding>
+</org.eclipse.epf.uma:ArtifactDescription>

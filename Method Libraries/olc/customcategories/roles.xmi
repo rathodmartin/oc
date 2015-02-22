@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-iVbw1PI5oAyC5qO9eoPa1w" name="new_custom_category,_ZgBwgLm5EeOjhZ-MtCWe2g" guid="-iVbw1PI5oAyC5qO9eoPa1w" authors="Rakesh D. Rathod" changeDate="2014-04-01T12:20:06.701-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>&lt;p>&#xD;
+    Roles participate in passive and active ways throughout the life cycle. Consider the RACI matrix - Responsible,&#xD;
+    Accountable, Consulted and Informed. Those roles consulted and informed play a &lt;em>more&lt;/em> passive role than those&#xD;
+    accountable or responsible. The list of all roles is presented here for a comprehensive view of the players in the life&#xD;
+    cycle.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

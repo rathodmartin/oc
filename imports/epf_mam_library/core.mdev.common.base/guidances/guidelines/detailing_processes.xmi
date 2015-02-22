@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-adbF-QxzS7vEeinRbxwZ_Q"
+    name="detailing_processes,_7ZLhcIEpEduh5eWFWxp_YQ" guid="-adbF-QxzS7vEeinRbxwZ_Q"
+    changeDate="2008-11-13T13:50:53.468-0800" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    This guideline provides general guidelines for detailing &lt;em>processes&lt;/em> (e.g.,&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/capability_pattern_F5DDC5F.html&quot;&#xD;
+    guid=&quot;_2RUJACO4EdqaNq6Ptg8uyA&quot;>capability pattern&lt;/a>s and &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/delivery_process_BCDF50B7.html&quot;&#xD;
+    guid=&quot;_ZufeMCO3EdqaNq6Ptg8uyA&quot;>delivery process&lt;/a>es).&amp;nbsp;For recommendations on detailing &lt;em>method elements&lt;/em>,&#xD;
+    in general, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/guidelines/detailing_method_elements_general_B2500E20.html&quot;&#xD;
+    guid=&quot;_jLqqIOFIEdumFeaOJSgmnQ&quot;>Guideline: Detailing Method Elements (General)&lt;/a>.&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The following fields are present for all processes:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Purpose&lt;/strong> (optional): Describe the ultimate objective of the process. May not be needed if such&#xD;
+        information has been included in the Brief description.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Main description&lt;/strong>: This is where you describe the flow of the process textually, referencing the&#xD;
+        activities in the process, as needed.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Scope&lt;/strong> (optional): Describe what is included as part of the process and/or what is not.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Usage Notes&lt;/strong> (optional): This is especially important for capability patterns that are intended to&#xD;
+        be used in other processes. This is where you describe how the capability pattern might be used.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Alternatives (optional): Describe different ways in which this process could be performed.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>How to Staff&lt;/strong>&amp;nbsp;(optional): Describe&amp;nbsp;the skills you might need to&amp;nbsp;execute this&#xD;
+        process.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Key Considerations&lt;/strong> (optional): Describe things you might want to take into consideration when&#xD;
+        performing this process.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    The following fields are specific to &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/delivery_process_BCDF50B7.html&quot;&#xD;
+    guid=&quot;_ZufeMCO3EdqaNq6Ptg8uyA&quot;>delivery process&lt;/a>es:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Scale&lt;/strong> (optional): The size of projects this process is intended for (e/g/. large, small, etc.)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Project Characteristics&lt;/strong>: Describe the types of projects the process was intended for&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Risk Level&lt;/strong> (optional): The level of risk associated with this process.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Estimating Techniques&lt;/strong>: Not used. This is really something that should be tracked in a project&#xD;
+        management tool&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Project Member Expertise&lt;/strong> (optional): Describe&amp;nbsp;the skills you might need to&amp;nbsp;execute this&#xD;
+        process.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Type of Contract&lt;/strong> (optional): Describe the type of contract (e.g., fixed price, time and materials,&#xD;
+        etc.) that this process would be most appropriate for.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

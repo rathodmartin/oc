@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-d24dOdho133hM6LJr2gtWg"
+    name="umf_cat_def_base_plugin_example,_ttZ0cILMEd2NQYBY1jUNtw" guid="-d24dOdho133hM6LJr2gtWg"
+    changeDate="2008-09-14T04:34:55.359-0700" version="7.5.0">
+  <mainDescription>&lt;p>&#xD;
+    Figure 1 is an example of a Category Definition Base plug-in.&amp;nbsp; Note the definition of the discipline and domain&#xD;
+    standard categories.&amp;nbsp; Only the definitions appear in this plug-in. Tasks and work products are not assigned to&#xD;
+    categories in the Category Definition Base plug-in (they are assigned in Assign plug-ins).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Figure 1: UMF Category Definition Base Plug-In Example&#xD;
+&lt;/p>&lt;img alt=&quot;umf_category_definition_base_plugin_example&quot; src=&quot;resources/umf_cat_def_base_plugin_ex.gif&quot; />&lt;br /></mainDescription>
+</org.eclipse.epf.uma:GuidanceDescription>

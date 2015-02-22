@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-DP2L5JqvXXNfeYRpJZoKSA"
+    name="mam,_pzQ1AF_sEd2zpKtX6B7lBg" guid="-DP2L5JqvXXNfeYRpJZoKSA" changeDate="2008-10-25T09:14:33.663-0700"
+    version="7.5.0">
+  <mainDescription>&lt;h3>&#xD;
+    What is the Method Authoring Method (MAM)?&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    For many years, the IBM Rational Unified Process&amp;reg;, or RUP&amp;reg;, team has been developing method frameworks by &quot;drinking its&#xD;
+    own champagne;&quot; that is, by applying principles, processes, and techniques that RUP itself advocates for software&#xD;
+    development. However, developing methods is not quite the same as developing a software application. Over the years,&#xD;
+    the RUP team has adapted its own processes and techniques to the specific needs of method development.&amp;nbsp; The Method&#xD;
+    Authoring Method (MAM) is the result.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The MAM is a collection of best practices for authoring methods derived from the long-term experience of the Rational&#xD;
+    Unified Process (RUP) development team that are directly supported by Method Composer.&amp;nbsp; The scope of its content&#xD;
+    is from a set of method requirements (or an idea of the method you want to build) and a method that is ready for&#xD;
+    deployment to practitioners. In other words, the MAM includes all content related to taking set of method requirements&#xD;
+    and producing a method that is sready for deployment (aka method authoring).&lt;br />&#xD;
+    &lt;br />&#xD;
+    &lt;img alt=&quot;MAM graphic&quot; src=&quot;resources/mam.jpg&quot; />&amp;nbsp;&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;h3>&#xD;
+    Why is MAM Important?&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The value proposition of the Method Authoring Method (MAM) is that it:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;em>Streamlines&lt;/em> the business process of method authoring, &lt;em>enabling consistency&lt;/em> across the&#xD;
+        organization, both in terms of processes followed and methods produced&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;em>Reduces the risk and overall cost&lt;/em> of method development, unifying process and governance to promote&#xD;
+        operational excellence without over simplification&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;em>Improves the quality&lt;/em> of IBM’s method authoring solution, in terms of methods (MAM) and tooling&#xD;
+        (RMC).&amp;nbsp; In addition to defining best practices for method authoring, providing the tooling to help automate&#xD;
+        those best practices.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;h3>&#xD;
+    MAM Resources&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    For more information on MAM, consult the information provided in &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.tool_def.extend_kellih/guidances/supportingmaterials/mam_resources_F1E885B6.html&quot;&#xD;
+    guid=&quot;_8DpGwGCJEd2kzJg2-RMJOw&quot;>Method Authoring Method Resources&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

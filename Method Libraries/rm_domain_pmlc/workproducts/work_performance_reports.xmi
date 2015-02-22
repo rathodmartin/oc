@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-6uPbiYYwY6RHdZRgDPN_Kw" name="new_artifact,_QRIRkGVbEeSOQ-wuYUyV_g" guid="-6uPbiYYwY6RHdZRgDPN_Kw" authors="John Rozsa" changeDate="2014-11-05T21:19:39.858-0500" changeDescription="Baseline" version="BL">
+  <mainDescription>Work performance reports are either physical or electronic representation of work progress/performance compiled in project
+        documents, intended to generate decisions or raise issues, actions, or awareness. Some examples include status reports,
+        memos, justifications, information notes, electronic dashboards, recommendations, and updates.&lt;br /></mainDescription>
+  <impactOfNotHaving>Without these reports it is difficult to understand the health of the project.&lt;br /></impactOfNotHaving>
+  <reasonsForNotNeeding>For small, simple initiatives with few project team members and/or stakeholders, formal work performance reports may not be
+        necessary.&lt;br /></reasonsForNotNeeding>
+</org.eclipse.epf.uma:ArtifactDescription>

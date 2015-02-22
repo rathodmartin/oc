@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_RvNVkLgREd2VBqezzK7PZw"
+      guid="_RvNVkLgREd2VBqezzK7PZw">
+    <resourceDescriptors xmi:id="_RvNVkrgREd2VBqezzK7PZw" id="-GyhCIdsgfj4yQpj5455ODg"
+        uri="guidances/guidelines/establish_method_auth_process.mc.xmi"/>
+    <resourceDescriptors xmi:id="_RvNVk7gREd2VBqezzK7PZw" id="-Pb96zDwJGdvdAZXsecYdVQ"
+        uri="guidances/roadmaps/set_up_method_auth_env.xmi"/>
+    <resourceDescriptors xmi:id="_RvXGkLgREd2VBqezzK7PZw" id="-umGbPWvT56IZ_9eN4zN4XQ"
+        uri="guidances/roadmaps/how_to_adopt_team_based_method_auth_env.xmi"/>
+    <resourceDescriptors xmi:id="_RvXGkbgREd2VBqezzK7PZw" id="-L5AzEd3yUYe4oGqVKp5-0w"
+        uri="guidances/practices/tbma_env_practice.xmi"/>
+    <resourceDescriptors xmi:id="_RvXGkrgREd2VBqezzK7PZw" id="-4fFRE6dIGEJ1aLmQBy8yoA"
+        uri="guidances/guidelines/establish_method_auth_process.xmi"/>
+    <resourceDescriptors xmi:id="_RvXGk7gREd2VBqezzK7PZw" id="-tH5eL6g0SPT8xXfCo1Nkzg"
+        uri="guidances/guidelines/set_up_method_auth_tooling.xmi"/>
+    <resourceDescriptors xmi:id="_Rvg3kLgREd2VBqezzK7PZw" id="-_AMRc9Vnq5rW6W-hbkbPyw"
+        uri="guidances/supportingmaterials/release_info_tbma_env_practice.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_STHyQCvoEd2ht9LgoFs93Q" name="practice.mdev.auth.team_based_method_auth_env.base"
+      guid="_STHyQCvoEd2ht9LgoFs93Q" presentationName="Team-Based Method Authoring Environment Practice"
+      authors="Kelli Houston" changeDate="2008-10-31T05:51:08.656-0800" version="1.0">
+    <copyrightStatement href="uma://_iVydgENdEdy245g62lfWcA#_uuunoPsDEdmyhNQr5STrZQ"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_STHyQSvoEd2ht9LgoFs93Q"
+        name="Content" guid="_STHyQSvoEd2ht9LgoFs93Q">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_STHyQivoEd2ht9LgoFs93Q"
+          name="Categories" guid="_STHyQivoEd2ht9LgoFs93Q">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_STHyQyvoEd2ht9LgoFs93Q"
+            name="Domains" guid="_STHyQyvoEd2ht9LgoFs93Q"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_STHyRCvoEd2ht9LgoFs93Q"
+            name="Disciplines" guid="_STHyRCvoEd2ht9LgoFs93Q"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_STHyRSvoEd2ht9LgoFs93Q"
+            name="RoleSets" guid="_STHyRSvoEd2ht9LgoFs93Q"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_STHyRivoEd2ht9LgoFs93Q"
+            name="WP Types" guid="_STHyRivoEd2ht9LgoFs93Q"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_STHyRyvoEd2ht9LgoFs93Q"
+            name="Tools" guid="_STHyRyvoEd2ht9LgoFs93Q"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_STHySCvoEd2ht9LgoFs93Q"
+            name="StandardCategories" guid="_STHySCvoEd2ht9LgoFs93Q"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_STHySSvoEd2ht9LgoFs93Q"
+            name="CustomCategories" guid="_STHySSvoEd2ht9LgoFs93Q">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_STHySivoEd2ht9LgoFs93Q"
+              name="Hidden" guid="_STHySivoEd2ht9LgoFs93Q">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_STHySyvoEd2ht9LgoFs93Q"
+                name="Custom Categories" guid="_STHySyvoEd2ht9LgoFs93Q" categorizedElements="_RV4KUI9mEd2wx6IEleUeCQ"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_RV4KUI9mEd2wx6IEleUeCQ"
+              name="do_not_publish.tbmae" guid="_RV4KUI9mEd2wx6IEleUeCQ" variabilityType="contributes"
+              categorizedElements="_cTs20KzREduOqvpk_MDLfQ _UaGfECcTEduSX6N2jUafGA">
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CustomCategory"
+                href="uma://_vsno4EKmEdyrauqpmnA8jQ#_O3UtkMRdEdyD76CYS6Ta7A"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_STHyTCvoEd2ht9LgoFs93Q"
+          name="CoreContent" guid="_STHyTCvoEd2ht9LgoFs93Q">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_adjdECvoEd2ht9LgoFs93Q"
+            name="tbma_env_practice" guid="_adjdECvoEd2ht9LgoFs93Q" presentationName="Team-Based Method Authoring Environment Practice">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_DeFRcF79Ed2iOYW3gie2lw"
+              name="method_composer" guid="_DeFRcF79Ed2iOYW3gie2lw" presentationName="Method Composer">
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_HgxDwF79Ed2iOYW3gie2lw"
+                name="establish_method_auth_process.mc" guid="_HgxDwF79Ed2iOYW3gie2lw"
+                variabilityType="contributes" variabilityBasedOnElement="_p9nu0KdREd2XsY8-UtPVvw"
+                supportingMaterials="_omneEMX4EduywMSzPTUUwA">
+              <presentation xmi:id="-GyhCIdsgfj4yQpj5455ODg" href="uma://-GyhCIdsgfj4yQpj5455ODg#-GyhCIdsgfj4yQpj5455ODg"/>
+            </contentElements>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_SAKPIKnNEd2eRp4Z7dEEOQ"
+              name="practice_capabilities" guid="_SAKPIKnNEd2eRp4Z7dEEOQ" presentationName="Practice Capabilities"
+              briefDescription="These roadmaps describe the key capabilities that the practice provides. They provide a structured walkthrough of the practice elements in support of those capabilities.">
+            <contentElements xsi:type="org.eclipse.epf.uma:Roadmap" xmi:id="_h9RjsCv4Ed2HiavZWDwUwQ"
+                name="set_up_method_auth_env" guid="_h9RjsCv4Ed2HiavZWDwUwQ" presentationName="Set Up Method Authoring Environment"
+                briefDescription="Authoring a good method requires intense collaboration and large consensus building. This roadmap describes how to set up an environment that supports such method authoring."
+                guidelines="_p9nu0KdREd2XsY8-UtPVvw _2ydy8KdUEd2XsY8-UtPVvw">
+              <presentation xmi:id="-Pb96zDwJGdvdAZXsecYdVQ" href="uma://-Pb96zDwJGdvdAZXsecYdVQ#-Pb96zDwJGdvdAZXsecYdVQ"/>
+            </contentElements>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:Roadmap" xmi:id="__IsVACv4Ed2HiavZWDwUwQ"
+              name="how_to_adopt_team_based_method_auth_env" guid="__IsVACv4Ed2HiavZWDwUwQ"
+              presentationName="How to Adopt Team-Based Method Authoring Practice"
+              briefDescription="This roadmap describes the recommended approach for adopting the Team-Based Method Environment practice.">
+            <presentation xmi:id="-umGbPWvT56IZ_9eN4zN4XQ" href="uma://-umGbPWvT56IZ_9eN4zN4XQ#-umGbPWvT56IZ_9eN4zN4XQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_u-UFsE9mEd2SAuyoRuCemA"
+              name="tbma_env_practice" guid="_u-UFsE9mEd2SAuyoRuCemA" presentationName="Team-Based Method Authoring Environment"
+              briefDescription="This practice provides guidance for setting up an authoring environment that supports team collaboration."
+              contentReferences="__IsVACv4Ed2HiavZWDwUwQ _h9RjsCv4Ed2HiavZWDwUwQ _p9nu0KdREd2XsY8-UtPVvw _2ydy8KdUEd2XsY8-UtPVvw">
+            <presentation xmi:id="-L5AzEd3yUYe4oGqVKp5-0w" href="uma://-L5AzEd3yUYe4oGqVKp5-0w#-L5AzEd3yUYe4oGqVKp5-0w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_p9nu0KdREd2XsY8-UtPVvw"
+              name="establish_method_auth_process" guid="_p9nu0KdREd2XsY8-UtPVvw"
+              presentationName="Establishing a Method Authoring Process" briefDescription="This guideline provides recommendations for establishing the method authoring process that will be used, which may involve identifying an existing process to use out-of-the-box, customizing an existing process, or writing a new process from scratch.">
+            <presentation xmi:id="-4fFRE6dIGEJ1aLmQBy8yoA" href="uma://-4fFRE6dIGEJ1aLmQBy8yoA#-4fFRE6dIGEJ1aLmQBy8yoA"/>
+            <conceptsAndPapers href="uma://_XlEIkF_TEd2zpKtX6B7lBg#_pzQ1AF_sEd2zpKtX6B7lBg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_2ydy8KdUEd2XsY8-UtPVvw"
+              name="set_up_method_auth_tooling" guid="_2ydy8KdUEd2XsY8-UtPVvw" presentationName="Setting Up the Method Authoring Tooling"
+              briefDescription="This guideline provides recommendations for setting up your method authoring tooling, which includes making sure the right tools are installed and configured, and that you have access to any existing method elements that you may want to extend and/or include in the method you are developing. &#xD;&#xA;">
+            <presentation xmi:id="-tH5eL6g0SPT8xXfCo1Nkzg" href="uma://-tH5eL6g0SPT8xXfCo1Nkzg#-tH5eL6g0SPT8xXfCo1Nkzg"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_euixICvoEd2ht9LgoFs93Q"
+            name="release_info" guid="_euixICvoEd2ht9LgoFs93Q" presentationName="Release Information"
+            briefDescription="This package groups all guidance for the plug-in as a whole.">
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_euixISvoEd2ht9LgoFs93Q"
+              name="release_info_tbma_env_practice" guid="_euixISvoEd2ht9LgoFs93Q"
+              presentationName="Team-Based Method Authoring Environment Practice Release Information"
+              briefDescription="This page describes the release information for the Team-Based Method Authoring Environment Practice."
+              shapeicon="guidances/supportingmaterials/resources/whats_new.gif" nodeicon="guidances/supportingmaterials/resources/whats_new_obj.gif">
+            <presentation xmi:id="-_AMRc9Vnq5rW6W-hbkbPyw" href="uma://-_AMRc9Vnq5rW6W-hbkbPyw#-_AMRc9Vnq5rW6W-hbkbPyw"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_STHyTSvoEd2ht9LgoFs93Q"
+          name="CapabilityPatterns" guid="_STHyTSvoEd2ht9LgoFs93Q"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_STHyTivoEd2ht9LgoFs93Q"
+        name="DeliveryProcesses" guid="_STHyTivoEd2ht9LgoFs93Q"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_STHyTyvoEd2ht9LgoFs93Q"
+        name="ProcessContributions" guid="_STHyTyvoEd2ht9LgoFs93Q"/>
+    <bases href="uma://_XlEIkF_TEd2zpKtX6B7lBg#_XlEIkF_TEd2zpKtX6B7lBg"/>
+    <bases href="uma://_vsno4EKmEdyrauqpmnA8jQ#_vsno4EKmEdyrauqpmnA8jQ"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

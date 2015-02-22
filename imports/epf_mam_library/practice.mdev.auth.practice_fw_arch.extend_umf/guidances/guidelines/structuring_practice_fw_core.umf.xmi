@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-3YFvP2HXq3CdZTM4I7mgmQ"
+    name="structuring_practice_fw_core.umf,_OnwqwKnfEd2eRp4Z7dEEOQ" guid="-3YFvP2HXq3CdZTM4I7mgmQ"
+    changeDate="2008-11-03T09:11:33.718-0800" version="7.5.0">
+  <mainDescription>&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Special instructions when authoring in the UMF&lt;/strong>: When structuring the core elements in the UMF, you&#xD;
+    must take the UMF constraints into consideration. Specifically, see the following:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li style=&quot;LIST-STYLE-TYPE: none&quot;>&#xD;
+        &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.extend_umf/guidances/guidelines/copyrights_in_the_umf_5CA84C78.html&quot;&#xD;
+        guid=&quot;_YPoMoPUkEdyNMvgj607huw&quot;>Guideline: Copyrights in the UMF&lt;/a>&lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.extend_umf/guidances/guidelines/work_product_slots_in_the_umf_16BDFDCD.html&quot;&#xD;
+        guid=&quot;_eWJtwPRaEdy6Y8ced-PvYw&quot;>Guideline: Work Product Slots in the UMF&lt;/a>&lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.extend_umf/guidances/guidelines/copyrights_in_the_umf_5CA84C78.html&quot;&#xD;
+        guid=&quot;_YPoMoPUkEdyNMvgj607huw&quot;>Guideline: Copyrights in the UMF&lt;/a>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.extend_umf/guidances/guidelines/roles_in_the_umf_6E71216E.html&quot;&#xD;
+        guid=&quot;_Arih4MdeEdySeI1LYmvOGg&quot;>Guideline: Roles in the UMF&lt;/a>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.extend_umf/guidances/guidelines/std_cats_in_the_umf_ADADE30D.html&quot;&#xD;
+        guid=&quot;_W44bEMeQEdyDDM3XyGAKxw&quot;>Guideline: Standard Categories in the UMF&lt;/a>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.extend_umf/guidances/guidelines/tool_info_in_the_umf_1DC427D4.html&quot;&#xD;
+        guid=&quot;_k2ahIO9JEdytFa01gNyMbA&quot;>Guideline: Tool Information in the UMF&lt;/a>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.extend_umf/guidances/guidelines/navigation_views_in_the_umf_E2C80C75.html&quot;&#xD;
+        guid=&quot;_apOmQMj7EdyoXMhaXAJ-6g&quot;>Guideline: Navigation Views in the UMF&lt;/a>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.extend_umf/guidances/guidelines/copyrights_in_the_umf_5CA84C78.html&quot;&#xD;
+        guid=&quot;_YPoMoPUkEdyNMvgj607huw&quot;>Guideline: Copyrights in the UMF&lt;/a>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.extend_umf/guidances/guidelines/release_info_in_the_umf_16901283.html&quot;&#xD;
+        guid=&quot;_OLr2MFizEd2AFZhgf_Sb-A&quot;>Guideline: Release Information in the UMF&lt;/a>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

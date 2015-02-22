@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-AogSaM7zcdGKOWSzvEHdUQ"
+    name="practice_config,_0H9aAO7EEdy9EOwDlaw7Kw" guid="-AogSaM7zcdGKOWSzvEHdUQ"
+    changeDate="2008-11-03T06:28:29.281-0800" version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    Specifically, a practice configuration is&amp;nbsp;an individually recognizable set of:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Core elements: Elements shared across practices &#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                Common method content element definitions (&lt;a class=&quot;elementLink&quot;&#xD;
+                href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/role_37A0C602.html&quot;&#xD;
+                guid=&quot;_yUefQNnmEdmO6L4XMImrsA&quot;>role&lt;/a>s, &lt;a class=&quot;elementLink&quot;&#xD;
+                href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/work_product_826E4C22.html&quot;&#xD;
+                guid=&quot;_H4JXwB_SEdq6CKKKq4D7YA&quot;>work product&lt;/a>s, &lt;a class=&quot;elementLink&quot;&#xD;
+                href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/guidance_549AC394.html&quot;&#xD;
+                guid=&quot;_83ttAB_NEdq6CKKKq4D7YA&quot;>guidance&lt;/a>)&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                Shared standard categories (&lt;a class=&quot;elementLink&quot;&#xD;
+                href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/discipline_7667F451.html&quot;&#xD;
+                guid=&quot;_yGUuidnmEdmO6L4XMImrsA&quot;>discipline&lt;/a>s, &lt;a class=&quot;elementLink&quot;&#xD;
+                href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/domain_D8238B93.html&quot;&#xD;
+                guid=&quot;_yHEVYdnmEdmO6L4XMImrsA&quot;>domain&lt;/a>s, &lt;a class=&quot;elementLink&quot;&#xD;
+                href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/work_product_kind_F04A382B.html&quot;&#xD;
+                guid=&quot;_QWhfYMaJEduMlb2cQZNTYw&quot;>work product kind&lt;/a>s, &lt;a class=&quot;elementLink&quot;&#xD;
+                href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/role_set_396DC9DB.html&quot;&#xD;
+                guid=&quot;_Fs8HAMaIEduMlb2cQZNTYw&quot;>role set&lt;/a>s)&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                Shared &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+                href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/custom_category_554AC4D6.html&quot;&#xD;
+                guid=&quot;_eqw94MaFEduMlb2cQZNTYw&quot;>custom categories&lt;/a>&lt;br />&#xD;
+                &amp;nbsp;&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot; href=&quot;./../../../core.default.uma_concept.base/guidances/concepts/practice_F5C8EAAB.html&quot;&#xD;
+        guid=&quot;_qhCTAFRREd2CWscN8Mx6rg&quot;>Practice&lt;/a>s&lt;br />&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Cross-practice elements: Elements that include elements from individul practices &#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+                href=&quot;./../../../core.mdev.common.base/guidances/termdefinitions/cross_practice_process_5F83B112.html&quot;&#xD;
+                guid=&quot;_9NcfoFJgEd2SzrMjC_svdw&quot;>Cross-practice processes&lt;/a> (&lt;a class=&quot;elementLink&quot;&#xD;
+                href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/capability_pattern_F5DDC5F.html&quot;&#xD;
+                guid=&quot;_2RUJACO4EdqaNq6Ptg8uyA&quot;>capability pattern&lt;/a>s and/or &lt;a class=&quot;elementLink&quot;&#xD;
+                href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/delivery_process_BCDF50B7.html&quot;&#xD;
+                guid=&quot;_ZufeMCO3EdqaNq6Ptg8uyA&quot;>delivery process&lt;/a>es)&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+                href=&quot;./../../../core.mdev.common.base/guidances/termdefinitions/navigation_view_8F89044.html&quot;&#xD;
+                guid=&quot;_X_hFIPAjEdyHz_B1XFOUgA&quot;>Navigation views&lt;/a>&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Practice configurations all tend to share the following properties:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Address a specific business problem or need&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Built for a specific audience (the practitioners that will use the configuration)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Usually describe a specific approach or process&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    The following are some examples of practice configurations: RUP, OpenUP, Information Technology Service Management/IBM&#xD;
+    Tivoli Unified Process&amp;reg; (ITUP), Method Authoring Method (MAM), etc.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

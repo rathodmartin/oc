@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-uAmJkciaDVaJ5g3byOMdtg"
+    name=",_h88OsO7-EdySOuhNm0Os1w" guid="-uAmJkciaDVaJ5g3byOMdtg" changeDate="2008-03-10T16:05:11.578-0800"
+    version="7.2.0">
+  <mainDescription>NOTICES AND INFORMATION&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;p> These Notices apply to portions of this Program. They are not part of the &#xD;
+  license under which you receive the Program and are provided for informational &#xD;
+  purposes. &lt;/p>&#xD;
+&lt;p> About This Content &lt;/p>&#xD;
+&lt;p> May 2, 2006 &lt;/p>&#xD;
+&lt;p> License &lt;/p>&#xD;
+&lt;p> The Eclipse Foundation makes available all content in this plug-in (&quot;Content&quot;). &#xD;
+  Unless otherwise indicated below, the Content is provided to you under the terms &#xD;
+  and conditions of the Eclipse Public License Version 1.0 (&quot;EPL&quot;). A copy of &#xD;
+  the EPL is available at http://www.eclipse.org/legal/epl-v10.html. For purposes &#xD;
+  of the EPL, &quot;Program&quot; will mean the Content. &lt;/p>&#xD;
+&lt;p> If you did not receive this Content directly from the Eclipse Foundation, &#xD;
+  the Content is being redistributed by another party (&quot;Redistributor&quot;) and different &#xD;
+  terms and conditions may apply to your use of any object code in the Content. &#xD;
+  Check the Redistributor's license that was provided with the Content. If no &#xD;
+  such license exists, contact the Redistributor. Unless otherwise indicated below, &#xD;
+  the terms and conditions of the EPL still apply to any source code in the Content &#xD;
+  and such source code may be obtained at http://www.eclipse.org. &lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

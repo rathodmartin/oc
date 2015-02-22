@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-hPeFRjcJ-3aF8m-VUMY8Gw"
+    name="delete_sketching_a_method.pfaa,_92nm4MsFEdyVJ6nThOrtTg" guid="-hPeFRjcJ-3aF8m-VUMY8Gw"
+    changeDate="2008-08-06T11:56:42.312-0700" version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    When sketching a &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_framework_6DA4D54D.html&quot;&#xD;
+    guid=&quot;__LjaEFQsEd2uvIuuFjd1Fg&quot;>Practice Framework&lt;/a>, you should propose a representative set of &lt;a&#xD;
+    class=&quot;elementLink&quot; href=&quot;./../../../core.default.uma_concept.base/guidances/concepts/practice_F5C8EAAB.html&quot;&#xD;
+    guid=&quot;_qhCTAFRREd2CWscN8Mx6rg&quot;>Practice&lt;/a>s, interfaces betwen those practices (e.g., &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/work_product_slot_D5B44CE7.html&quot;&#xD;
+    guid=&quot;_Er1OcJIfEdybeduord13cg&quot;>Work Product Slot&lt;/a>s), information that may be shared between those practices, as well&#xD;
+    as some &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_configuration_CC7754F2.html&quot;&#xD;
+    guid=&quot;_0H9aAO7EEdy9EOwDlaw7Kw&quot;>Practice Configuration&lt;/a>s those practices will be included in.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    For each proposed practice, you should briefly describe the practice, the content you think it should contain (&lt;a&#xD;
+    class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/method_content_6972AE81.html&quot;&#xD;
+    guid=&quot;_Ts2joB_MEdq6CKKKq4D7YA&quot;>method content&lt;/a>&amp;nbsp;and &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/process_68E308B4.html&quot;&#xD;
+    guid=&quot;_yQ5m2NnmEdmO6L4XMImrsA&quot;>process&lt;/a>), and where that content would come from so decisions can be made about the&#xD;
+    development of the practice.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

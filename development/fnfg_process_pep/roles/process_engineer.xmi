@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hFNL534cQPCDesfijreknA" name="new_role,_5on4QPuFEeK6X-ODr_6b9w" guid="-hFNL534cQPCDesfijreknA" authors="Shane T. Ficorilli" changeDate="2013-08-06T11:38:11.892-0400" changeDescription="Baseline" version="1.0">
+  <mainDescription>The Process Engineer works with Subject Matter Experts and Domain Owners to create and establish thorough and accurate&#xD;
+descriptions of a process. The finalized process is translated to OpenUP standards, and developed into requirements.</mainDescription>
+  <skills>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Must have outstanding written and verbal communication skills&lt;br />&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Must be able to clarify the specific details of a process&lt;br />&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Should understand process development&lt;br />&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Preferred Skills Include: background in SPEM&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></skills>
+</org.eclipse.epf.uma:RoleDescription>

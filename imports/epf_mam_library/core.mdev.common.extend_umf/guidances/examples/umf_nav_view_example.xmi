@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-o8VsXB3dfgCwC_abptAnDw"
+    name="umf_nav_view_example,_GH_qsIMzEd2QVrMx9wDJQQ" guid="-o8VsXB3dfgCwC_abptAnDw"
+    changeDate="2008-09-30T13:46:41.062-0700" version="7.5.0">
+  <mainDescription>&lt;p>&#xD;
+    Figure 1 is an example of a Navigation View Definition plug-in.&amp;nbsp;Note the definition of the &quot;do not publish&quot; custom&#xD;
+    category, as well as the navigation view building blocks and a generic navigation view that includes those building&#xD;
+    blocks.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Figure 1: Navigation View Definition Plug-In Example&#xD;
+&lt;/p>&lt;img alt=&quot;umf_navigation_view_plugin_example&quot; src=&quot;./resources/umf_nav_view_plugin_ex.gif&quot; />&lt;br />&#xD;
+&lt;p>&#xD;
+    Figure 2 takes a closer look at one of the navigation view building blocks (the guideline list) and provides an example&#xD;
+    of a custom category that is automatically populated with elements of a specific type (guideline) at browse and publish&#xD;
+    time. Notice that no elements have been included in the &lt;strong>Content elements&lt;/strong> section. Instead, the&#xD;
+    &lt;strong>include elements of type&lt;/strong> check box is checked and &lt;strong>Guideline&lt;/strong> is selected from the&#xD;
+    drop-down menu. The result is that when a configuration is browsed or published, all guidelines in that configuration&#xD;
+    are added to the guideline_list custom category. Such auto-populated categories can be included as part of any other&#xD;
+    navigation views.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Figure 2: Auto Populated Custom Category Example&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img height=&quot;551&quot; alt=&quot;auto_populated_custom_category_example&quot; src=&quot;./resources/smart_cat_example.gif&quot;&#xD;
+    width=&quot;511&quot; />&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Figure 3 provides an example of how to define additional navigation view building blocks.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Note the following:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The new navigation view building block custom categories (for different categories of practices)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The contributing custom category that adds the new building blocks to the existing navigation view build block&#xD;
+        custom category&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Figure 3: Additional Navigation View Building Block Example&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img alt=&quot;umf_navigation_view_extension_example&quot; src=&quot;resources/umf_nav_view_extension_ex.gif&quot; />&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Figure 4 shows how the navigation view building blocks and generic navigation view can be used to define a&#xD;
+    configuration-specific navigation view. In this example,&amp;nbsp;the&amp;nbsp;core navigation view elements&amp;nbsp;are&#xD;
+    customized to support the navigation views for the OpenUP configuration.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Note the following:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The custom category that replaces the structured_practice_list custom category in the core plug-in with a practices&#xD;
+        custom category that organizes the practices into “management” and “technical” practices.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The configuration-specific additions to the getting_started and release_info custom categories&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Figure 4: Configuration-Specific Navigation View Example&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img alt=&quot;umf_configuration_specified_navigation_view_example&quot;&#xD;
+    src=&quot;./resources/umf_config_spec_nav_view_ex.gif&quot; />&lt;br />&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:GuidanceDescription>

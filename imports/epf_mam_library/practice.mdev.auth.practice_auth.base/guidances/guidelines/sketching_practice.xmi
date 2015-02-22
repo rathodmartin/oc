@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-ThyVhkfDEnIehUp8Gu_3Sw"
+    name="new_guideline,_tkYzcCXnEd2dSdS2FPKaIA" guid="-ThyVhkfDEnIehUp8Gu_3Sw" changeDate="2008-08-06T11:44:19.765-0700"
+    version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    When sketching a &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/concepts/practice_F5C8EAAB.html&quot;&#xD;
+    guid=&quot;_qhCTAFRREd2CWscN8Mx6rg&quot;>Practice&lt;/a>, you should first name and briefly describe the practice.&amp;nbsp; Then&#xD;
+    identify the practice's relationship with other practice and with other method framework elements.&amp;nbsp; Specifically,&#xD;
+    identify what &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/work_product_slot_D5B44CE7.html&quot;&#xD;
+    guid=&quot;_Er1OcJIfEdybeduord13cg&quot;>Work Product Slot&lt;/a>s will provide the inputs to the practices what the practice will&#xD;
+    produce in terms of work products and what work product slots those work products will fill.&amp;nbsp; In addition you may&#xD;
+    want to identify any known guidance that will be shared.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Once you have an understanding of&amp;nbsp;how the practice fits into the method framework, you can turn your attention to&#xD;
+    what the practice should contain (&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/method_content_6972AE81.html&quot;&#xD;
+    guid=&quot;_Ts2joB_MEdq6CKKKq4D7YA&quot;>method content&lt;/a>&amp;nbsp;and/or &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/process_68E308B4.html&quot;&#xD;
+    guid=&quot;_yQ5m2NnmEdmO6L4XMImrsA&quot;>process&lt;/a>) and the relationships between these practice elements.&amp;nbsp; If known, it&#xD;
+    is also a good idea to identify where the content will come from so decisions can be made about the development of the&#xD;
+    practice.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    For general sketching guidelines, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/guidelines/sketching_a_method_2F123CAB.html&quot;&#xD;
+    guid=&quot;_h3njMAU1EdyxoIOVWQ896Q&quot;>Guideline: Sketching a Method&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-dhbTBfqKrh-Wt9ussvab-w" name="new_template,_OwmmkPrhEeKlqMNsbbcDlQ" guid="-dhbTBfqKrh-Wt9ussvab-w" authors="Shane T. Ficorilli" changeDate="2013-08-01T15:34:28.717-0400" changeDescription="Baseline" version="1.0">
+  <mainDescription>The template used to create UML/OpenUP entity relationship diagrams for current processes.</mainDescription>
+  <attachments>resources/DMCEC-GDL-001-UMLOpenUP Process Template for MS Word  .docx</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

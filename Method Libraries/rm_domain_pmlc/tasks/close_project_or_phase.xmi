@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-2AH1nmupjCbvUv6j99kTOw" name=",_ZJrrsGlCEeS-9dAp19yOyQ" guid="-2AH1nmupjCbvUv6j99kTOw" authors="John Rozsa" changeDate="2014-11-10T20:32:13.796-0500" changeDescription="Baseline" version="BL">
+  <mainDescription>The close project or phase task is the process of finalizing all activities across all of the project management processes
+        to formally complete a project or a phase. This allows for lessons learned, the formal ending of project work, and the
+        release of organization resources to other initiatives.&lt;br />
+        &lt;br />
+        During this task the project manager reviews all prior information from the previous phases to ensure that all project work
+        is completed and that the project has met its defined objectives. All stakeholders in the process needs to be engaged. This
+        includes all planned activities necessary for administrative closure of the project or phase.&lt;br />
+        &lt;br />
+        The project manager reviews the scope baseline to ensure completion before considering the project closed. In the event of
+        early termination of a project, the Close Project or Phase establishes the procedures to investigate and document the
+        reasons for these actions.&lt;br /></mainDescription>
+  <sections xmi:id="_npiAcGlCEeS-9dAp19yOyQ" name="Confirm project objectives have been met" guid="_npiAcGlCEeS-9dAp19yOyQ"/>
+  <sections xmi:id="_o69zIGlCEeS-9dAp19yOyQ" name="Validate deliverables are complete" guid="_o69zIGlCEeS-9dAp19yOyQ"/>
+  <sections xmi:id="_qOHdEGlCEeS-9dAp19yOyQ" name="Conduct lessons learned" guid="_qOHdEGlCEeS-9dAp19yOyQ"/>
+  <sections xmi:id="_rj9OoGlCEeS-9dAp19yOyQ" name="Release resources from project" guid="_rj9OoGlCEeS-9dAp19yOyQ"/>
+</org.eclipse.epf.uma:TaskDescription>

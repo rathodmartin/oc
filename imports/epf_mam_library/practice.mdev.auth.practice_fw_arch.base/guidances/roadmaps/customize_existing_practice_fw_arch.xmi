@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-zaJ9JAhSOs6i1rpueI2dJA"
+    name="new_roadmap,_VQlaMKEeEd2bTrLTU21QBw" guid="-zaJ9JAhSOs6i1rpueI2dJA" changeDate="2008-11-19T07:42:44.890-0800"
+    version="7.5.0">
+  <mainDescription>&lt;p>&#xD;
+    It is assumed that the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_fw_6DA4D54D.html&quot;&#xD;
+    guid=&quot;__LjaEFQsEd2uvIuuFjd1Fg&quot;>Practice Framework&lt;/a>&amp;nbsp;architecture being customized cannot be modified directly.&#xD;
+    Thus, all changes must be stored separately from the&amp;nbsp;practice framework elements being customized. If&amp;nbsp;you can&#xD;
+    modify the practice configuration elements directly, you should follow the guidelines described in &lt;a&#xD;
+    class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../practice.mdev.auth.practice_config_auth.base/guidances/roadmaps/auth_new_practice_config_99B797E4.html&quot;&#xD;
+     guid=&quot;_zTFdki3oEd2CiunvJQy6fQ&quot;>Roadmap: Author a New Practice Configuration&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Customizing an existing&amp;nbsp;practice framework&amp;nbsp;architecture involves:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        (optionally, if customizations are complex) Performing some simple sketching (&lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.base/guidances/guidelines/sketching_a_method_2F123CAB.html&quot;&#xD;
+        guid=&quot;_h3njMAU1EdyxoIOVWQ896Q&quot;>Guideline: Sketching a Method&lt;/a>) or&amp;nbsp;some actual prototyping using your&#xD;
+        implementation environment&amp;nbsp;(&lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.base/guidances/guidelines/developing_a_method_proof_of_concept_600F057D.html&quot;&#xD;
+        guid=&quot;_dEp88AqQEd2ffKRm_DXTyQ&quot;>Guideline: Developing a Method Proof-of-Concept&lt;/a>) to determine if the&#xD;
+        customizations are feasible.&amp;nbsp;&lt;br />&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Customizing the core elements. This includes structuring the customization&amp;nbsp;(see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../practice.mdev.auth.practice_fw_arch.base/guidances/guidelines/customizing_practice_fw_core_element_9C8CECD8.html&quot;&#xD;
+         guid=&quot;_-WfTIKnHEd2eRp4Z7dEEOQ&quot;>Guideline: Customizing Practice Framework Core Element&lt;/a>) and where needed,&#xD;
+        detailing the customizations (&lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../practice.mdev.auth.practice_fw_arch.base/guidances/guidelines/detailing_practice_fw_core_FBF5DA89.html&quot;&#xD;
+         guid=&quot;_CMqMgEBWEd2Tod2_aY551g&quot;>Guideline: Detailing Practice Framework Core&lt;/a>). All core customization work must&#xD;
+        be performed within the constraints of the method framework architecture.&lt;br />&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Refining the guiding principles, including making sure the core customizations are documented and communicated (&lt;a&#xD;
+        class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../practice.mdev.auth.practice_fw_arch.base/guidances/guidelines/documenting_practice_fw_arch_5928FB90.html&quot;&#xD;
+         guid=&quot;_WLs-UKnUEd2eRp4Z7dEEOQ&quot;>Guideline: Documenting the Practice Framework Architecture&lt;/a>).&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    As you customize the practice framework architecture, it is a good idea to periodically publish the customized&#xD;
+    framework&amp;nbsp;(&lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../practice.mdev.auth.practice_fw_arch.base/guidances/guidelines/publishing_practice_fw_362B80FE.html&quot;&#xD;
+    guid=&quot;_fxhE4D_PEd2sFOfPW3Iw5g&quot;>Guideline: Publishing a Practice Framework&lt;/a>) and review&amp;nbsp;the results&amp;nbsp;(&lt;a&#xD;
+    class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/guidelines/reviewing_methods_A10A5BEA.html&quot;&#xD;
+    guid=&quot;_iFoK0MrGEdyOGKOa5tPdeg&quot;>Guideline: Reviewing Methods&lt;/a>) to make sure it appears as expected (&lt;a&#xD;
+    class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../practice.mdev.auth.practice_fw_arch.base/guidances/guidelines/publishing_practice_fw_362B80FE.html&quot;&#xD;
+    guid=&quot;_fxhE4D_PEd2sFOfPW3Iw5g&quot;>Guideline: Publishing a Practice Framework&lt;/a>).&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

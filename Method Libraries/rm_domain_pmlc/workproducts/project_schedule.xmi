@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-6i7ScquaOZJFQ8Pnx-B9oA" name="new_artifact,_JFV7QEkKEeSWLfgUXTkAlg" guid="-6i7ScquaOZJFQ8Pnx-B9oA" authors="John Rozsa" changeDate="2014-09-30T21:28:34.245-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>The project schedule is the result of linking activities with planned dates, durations, milestones, and resources.
+        Minimally, the project schedule includes targeted start and finish dates for each activity.&lt;br />
+        &lt;br />
+        The project schedule may be presented in summary form (often called the master schedule) or displayed in detail. While
+        project schedulesl can be presented in tabular form, it is most often presented in a graphical form known as Gantt
+        charts.&lt;br /></mainDescription>
+  <impactOfNotHaving>Having a project schedule communicates to all project stakeholders and team members what needs to be done and when. Even
+        for projects of modest size, not having a project schedule will cause the project to fail.&lt;br /></impactOfNotHaving>
+  <reasonsForNotNeeding>For projects of very short duration and scope (i.e. less than 2 or 3 weeks), a formal project schedule may not be
+        necessary. As projects become longer in duration and more complex, a project schedule is essential to success.&lt;br /></reasonsForNotNeeding>
+</org.eclipse.epf.uma:ArtifactDescription>

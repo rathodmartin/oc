@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_EL0CcLmtEeOjhZ-MtCWe2g" guid="_EL0CcLmtEeOjhZ-MtCWe2g">
+    <resourceDescriptors xmi:id="_EL0CcbmtEeOjhZ-MtCWe2g" id="-2Fv2HsDUDsOBJM_gQVi78Q" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_KYYgIbmyEeOjhZ-MtCWe2g" id="-8Vm55eUW2oRIi9Z6yDSyQQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_u4dK0LmyEeOjhZ-MtCWe2g" id="-gOQFcIyCeblPC7dSmEq4-Q" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_FBW7obmzEeOjhZ-MtCWe2g" id="-NyO5_5Abi_b6BolofUmO_A" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_oq4Rcbm2EeOjhZ-MtCWe2g" id="-8YdFOyn_Bg-vHJZZBhjP6Q" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_vC_jAEN_EeSf-MYx5fzXlA" id="-OHzjCD1nG9iJhqnsSUsK0g" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_vDEbgEN_EeSf-MYx5fzXlA" id="-SV3254W77TIQx80kS7O3NQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_vDLJMEN_EeSf-MYx5fzXlA" id="-Oo5Q7fCoE3J7gkVDOihvNw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_vDPaoEN_EeSf-MYx5fzXlA" id="--VK1QoJJcISIQjx_UreExA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_vDiVkEN_EeSf-MYx5fzXlA" id="-5uaOJ1yCNXev81CfCbfnuA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_vDlY4EN_EeSf-MYx5fzXlA" id="-mQfx8_WqtP9-M8AmhwqeFQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_vDn1IEN_EeSf-MYx5fzXlA" id="-AB1uXZxcjp3rs0hv_SOcxg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_vDrfgEN_EeSf-MYx5fzXlA" id="-PZJLcwMQkVNNkQmbmgqzCA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_vDt7wEN_EeSf-MYx5fzXlA" id="-L-8whmS0uFHP1jM4VzxExg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_vDxmIEN_EeSf-MYx5fzXlA" id="-laz0RyGyCZ3UKnLtlfZR_g" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_JfhPAJecEeS_bNkOh34bcw" id="-Zo1BO2UP0WdCUez4xndXag" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_JfidIJecEeS_bNkOh34bcw" id="-6bK6ZjrSoO_A6QGXZ2ga6Q" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_JfkSUJecEeS_bNkOh34bcw" id="-y9uXY-cOaUt8ZrkLipu21w" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_Jfk5YJecEeS_bNkOh34bcw" id="--dL5MWzlgjZXW-PYj8LqSA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_JfmHgJecEeS_bNkOh34bcw" id="-Dwk5xap3QPqwYkbmfU8LGg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_JfnVoJecEeS_bNkOh34bcw" id="-4RtJ5HBoMM9fCpg42afILw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_JfojwJecEeS_bNkOh34bcw" id="-oyhoOQdl3KqFgr59FVei4w" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_Jfpx4JecEeS_bNkOh34bcw" id="-MeIDmFXDKGenSTwRVrbhOQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_JfrnEJecEeS_bNkOh34bcw" id="-ceNwcp8ehyoEMWwCVqJRvA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_JfsOIJecEeS_bNkOh34bcw" id="-jN9fKhH-wymFIHBye-B2LQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_JftcQJecEeS_bNkOh34bcw" id="-VN6m4eToa7zeFOggVRNwnw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_JfuDUJecEeS_bNkOh34bcw" id="-1HqC3RHwONNVc8gfV0MM4A" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_JfvRcJecEeS_bNkOh34bcw" id="-W5H4yYuFTRMFv0r1B-i8LQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_JfwfkJecEeS_bNkOh34bcw" id="-0mtE2V8RjSM7yNzFkVplGQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_Jf8s0JecEeS_bNkOh34bcw" id="-exhuIW34qz2SrNHGojlGWA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_Jf9T4JecEeS_bNkOh34bcw" id="-8OvMgczWGsodQ5TVaPIhXQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_Jf-iAJecEeS_bNkOh34bcw" id="-_rARmpFKxqBeanFUSguEdw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_Jf_wIJecEeS_bNkOh34bcw" id="-XKGAI44ksD-FRFLpJ6sWyQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_JgA-QJecEeS_bNkOh34bcw" id="-J7q3APwrPHnq5p4ysCy_Jw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_JgBlUJecEeS_bNkOh34bcw" id="-YuUWq33dHX4hGVUxtiEsdQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_JgCzcJecEeS_bNkOh34bcw" id="-v5jpPqhzocef1hOFtdQxQw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_JgDagJecEeS_bNkOh34bcw" id="-vEZrNc-TvsPAsE39s6BEeg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_JgEBkJecEeS_bNkOh34bcw" id="-WdhjIw_sqzExStcCnsa3hQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_JgEooJecEeS_bNkOh34bcw" id="-lcQTWIAQQ_S9zpiXbBSZ1w" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_JgF2wJecEeS_bNkOh34bcw" id="-Jk5FMQl-psWmH3SuZmn_yQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_3tKyQJecEeS_bNkOh34bcw" id="-QP-yynqJ8X79vn8MQ2PeLg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_3tNOgJecEeS_bNkOh34bcw" id="-AGKaZA13lNfxjRdTGk-E-w" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_3tOcoJecEeS_bNkOh34bcw" id="-09VkYkHHZAxhLaJgHNc47A" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_3tRf8JecEeS_bNkOh34bcw" id="-XJj47oDB8z895AqXqNJbUg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_3tSuEJecEeS_bNkOh34bcw" id="-RcM2Pgwr2SmWs02vRwHi_Q" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_3tTVIJecEeS_bNkOh34bcw" id="-3FrP6YQR7O1OWPlu4C6Zvw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_3tVKUJecEeS_bNkOh34bcw" id="-sPrZKoJIY2WyTGa74F4SGg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="__O1-gJedEeS_bNkOh34bcw" id="-X5kBBsV9xvR-AVTIL6rr0g" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="__O2lkJedEeS_bNkOh34bcw" id="-C_bx1WdrT_hQQVpUaANrWg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="__O3zsJedEeS_bNkOh34bcw" id="-4-h4WZJ6zlgMPxeX12GoWQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="__O5B0JedEeS_bNkOh34bcw" id="-lc_r-TVpa80mtN7t8N5_QA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_VQ1PAJeeEeS_bNkOh34bcw" id="-5ziAgExp4kV-vBtZwHoopg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_VQ12EJeeEeS_bNkOh34bcw" id="-CgSnZabr2z7QcEvt9rYt1g" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_VQ3EMJeeEeS_bNkOh34bcw" id="-xqWEqVLXiKOKOCqmTAmQQA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_VQ45YJeeEeS_bNkOh34bcw" id="-au19G9siAsSNUrPMocAfag" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_JvJiQJejEeS_bNkOh34bcw" id="-p2QkgQWswDQvCI6PTP9IrA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_JvLXcJejEeS_bNkOh34bcw" id="-CsrqPvmoZqpaosaLcVN-Iw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_JvL-gJejEeS_bNkOh34bcw" id="-PyNTnzgiZ5yxRvUATgNxoA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_JvNMoJejEeS_bNkOh34bcw" id="-zDT3bhhEZQ9mRCdy2oSBoA" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_EKU0sLmtEeOjhZ-MtCWe2g" name="OpenCycle" guid="_EKU0sLmtEeOjhZ-MtCWe2g">
+    <methodElementProperty xmi:id="_EKd-oLmtEeOjhZ-MtCWe2g" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_Ip5XULmtEeOjhZ-MtCWe2g" name="me_edited" value="true"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Tuls0Ln6EeOQdtvIEJnSPg" guid="_Tuls0Ln6EeOQdtvIEJnSPg"/>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_JbQ0YJeMEeSov--_NpfHvg" name="PMLC_develop_project_charter" guid="_JbQ0YJeMEeSov--_NpfHvg" presentationName="Develop Project Charter" briefDescription="The Project Charter provides the high-level project description and product characteristics." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g" isRepeatable="true" isEventDriven="true" additionallyPerformedBy="_8LhCUZebEeS_bNkOh34bcw" mandatoryInput="_8LgbQZebEeS_bNkOh34bcw _8LgbRJebEeS_bNkOh34bcw _8LgbR5ebEeS_bNkOh34bcw" output="_8LhCVJebEeS_bNkOh34bcw _8LhpYZebEeS_bNkOh34bcw" performedPrimarilyBy="_8Lf0MZebEeS_bNkOh34bcw">
+      <methodElementProperty xmi:id="_BzUYUJecEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-Zo1BO2UP0WdCUez4xndXag" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-Zo1BO2UP0WdCUez4xndXag"/>
+      <guidelines href="uma://_pgIasLlDEeO53_TX_uVt6w#_H8Mq8DuuEeSIrOwVunFgpg"/>
+      <Task href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_9WcCgDD_EeSHm971buwRxw"/>
+      <selectedSteps href="uma://-4z00bDOZVHke_qR00BVzFQ#_UcL2EDEAEeSHm971buwRxw"/>
+      <selectedSteps href="uma://-4z00bDOZVHke_qR00BVzFQ#_VUjBcDEAEeSHm971buwRxw"/>
+      <selectedSteps href="uma://-4z00bDOZVHke_qR00BVzFQ#_XBpccDEAEeSHm971buwRxw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_N68rwJeMEeSov--_NpfHvg" name="PMLC_identify_stakeholders" guid="_N68rwJeMEeSov--_NpfHvg" presentationName="Identify Stakeholders" briefDescription=" The process of identifying the people, groups, or organizations that could impact or be impacted by a decision, activity, or outcome of the project." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g" isRepeatable="true" isEventDriven="true" linkToPredecessor="_cXJPkJeMEeSov--_NpfHvg" additionallyPerformedBy="_8LhCUZebEeS_bNkOh34bcw" mandatoryInput="_8LgbRJebEeS_bNkOh34bcw _8LhCVJebEeS_bNkOh34bcw" output="_8LnI8ZebEeS_bNkOh34bcw" performedPrimarilyBy="_8Lf0MZebEeS_bNkOh34bcw">
+      <methodElementProperty xmi:id="_Et5TEJecEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-6bK6ZjrSoO_A6QGXZ2ga6Q" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-6bK6ZjrSoO_A6QGXZ2ga6Q"/>
+      <guidelines href="uma://_pgIasLlDEeO53_TX_uVt6w#_65YKUDusEeSIrOwVunFgpg"/>
+      <Task href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_qmNyUDwDEeSGc6ZYf7rWrg"/>
+      <selectedSteps href="uma://-cqO7jQxCIHrBUpbiukk0kg#_2YtwADwDEeSGc6ZYf7rWrg"/>
+      <selectedSteps href="uma://-cqO7jQxCIHrBUpbiukk0kg#_3Dw4IDwDEeSGc6ZYf7rWrg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_cXJPkJeMEeSov--_NpfHvg" guid="_cXJPkJeMEeSov--_NpfHvg" pred="_JbQ0YJeMEeSov--_NpfHvg"/>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_8h1OYJeMEeSov--_NpfHvg" name="REQT_collect_requirements" guid="_8h1OYJeMEeSov--_NpfHvg" presentationName="Collect Requirements" superActivities="_EKU0sbmtEeOjhZ-MtCWe2g" isRepeatable="true" isEventDriven="true" linkToPredecessor="_YgTGkJecEeS_bNkOh34bcw" additionallyPerformedBy="_8Lf0MZebEeS_bNkOh34bcw _xWwp1JecEeS_bNkOh34bcw" mandatoryInput="_8LhCVJebEeS_bNkOh34bcw _8LnI8ZebEeS_bNkOh34bcw" output="_xWwCwZecEeS_bNkOh34bcw" performedPrimarilyBy="_xWwp0ZecEeS_bNkOh34bcw">
+      <methodElementProperty xmi:id="_-CNMQJedEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <Task href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_tXkscFsMEeS_CZ16mrmYFw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_-_s_AJeMEeSov--_NpfHvg" name="PMLC_define_scope" guid="_-_s_AJeMEeSov--_NpfHvg" presentationName="Define Scope" briefDescription="Define Scope is the process of developing a detailed description and the boundaries of the project and product so the necessary requirements can be captured." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g" isRepeatable="true" isEventDriven="true" linkToPredecessor="_Kg3VEJeNEeSov--_NpfHvg" additionallyPerformedBy="_xWwp0ZecEeS_bNkOh34bcw _xWwp1JecEeS_bNkOh34bcw" mandatoryInput="_8LhCVJebEeS_bNkOh34bcw _xWwCwZecEeS_bNkOh34bcw" output="_8LnwAZebEeS_bNkOh34bcw" performedPrimarilyBy="_8Lf0MZebEeS_bNkOh34bcw">
+      <methodElementProperty xmi:id="_xW7B4JecEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-QP-yynqJ8X79vn8MQ2PeLg" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-QP-yynqJ8X79vn8MQ2PeLg"/>
+      <Task href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_QBBAQDxOEeSGc6ZYf7rWrg"/>
+      <selectedSteps href="uma://-PYl5wzwz9zWLP8p8sHrQSA#_m_NaUDxOEeSGc6ZYf7rWrg"/>
+      <selectedSteps href="uma://-PYl5wzwz9zWLP8p8sHrQSA#_pKtBgDxOEeSGc6ZYf7rWrg"/>
+      <selectedSteps href="uma://-PYl5wzwz9zWLP8p8sHrQSA#_sq_4cDxOEeSGc6ZYf7rWrg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_D7Q6EJeNEeSov--_NpfHvg" name="PMLC_create_wbs" guid="_D7Q6EJeNEeSov--_NpfHvg" presentationName="Create WBS" briefDescription="Create a work breakdown relates project deliverables and elements to each other and to the end product or service allowing for project cost and schedule estimation." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g" isRepeatable="true" isEventDriven="true" linkToPredecessor="_LHSb4JeNEeSov--_NpfHvg" additionallyPerformedBy="_0DxpsZecEeS_bNkOh34bcw _0DyQwZecEeS_bNkOh34bcw" mandatoryInput="_8LnwAZebEeS_bNkOh34bcw _8LgbRJebEeS_bNkOh34bcw _xWwCwZecEeS_bNkOh34bcw" output="_8LoXEZebEeS_bNkOh34bcw _8LoXFJebEeS_bNkOh34bcw _8LoXF5ebEeS_bNkOh34bcw _8LqMRJebEeS_bNkOh34bcw" performedPrimarilyBy="_8Lf0MZebEeS_bNkOh34bcw">
+      <methodElementProperty xmi:id="_0EFLsJecEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-AGKaZA13lNfxjRdTGk-E-w" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-AGKaZA13lNfxjRdTGk-E-w"/>
+      <guidelines href="uma://_pgIasLlDEeO53_TX_uVt6w#_n7RjEEkJEeSWLfgUXTkAlg"/>
+      <Task href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_6V4rIFpKEeS2t6WG90MSuA"/>
+      <selectedSteps href="uma://-XzhmT7kXR9lA2vqhQtGq9Q#_R4yUwFpLEeS2t6WG90MSuA"/>
+      <selectedSteps href="uma://-XzhmT7kXR9lA2vqhQtGq9Q#_TKsokFpLEeS2t6WG90MSuA"/>
+      <selectedSteps href="uma://-XzhmT7kXR9lA2vqhQtGq9Q#_WqJyAFpLEeS2t6WG90MSuA"/>
+      <selectedSteps href="uma://-XzhmT7kXR9lA2vqhQtGq9Q#_Yc_ooFpLEeS2t6WG90MSuA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_Gp4ccJeNEeSov--_NpfHvg" name="PMLC_create_schedule" guid="_Gp4ccJeNEeSov--_NpfHvg" presentationName="Create Schedule" briefDescription="The Create Schedule tasks applies the results of the Develop Work Breakdown task to the business calendar to determine start and finish dates of tasks and activities." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g" isRepeatable="true" isEventDriven="true" linkToPredecessor="_LkPdoJeNEeSov--_NpfHvg" additionallyPerformedBy="_0DyQwZecEeS_bNkOh34bcw _xWwp1JecEeS_bNkOh34bcw _0DxpsZecEeS_bNkOh34bcw" mandatoryInput="_8LoXEZebEeS_bNkOh34bcw _8LoXFJebEeS_bNkOh34bcw _8LoXF5ebEeS_bNkOh34bcw _8LqMRJebEeS_bNkOh34bcw" output="_8LqMQZebEeS_bNkOh34bcw" performedPrimarilyBy="_8Lf0MZebEeS_bNkOh34bcw">
+      <methodElementProperty xmi:id="_2WtVoJecEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-09VkYkHHZAxhLaJgHNc47A" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-09VkYkHHZAxhLaJgHNc47A"/>
+      <Task href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_xw8jsFpMEeS2t6WG90MSuA"/>
+      <selectedSteps href="uma://-OWF1J7M22LkjZb0wT76JhQ#_Mk3SIFpNEeS2t6WG90MSuA"/>
+      <selectedSteps href="uma://-OWF1J7M22LkjZb0wT76JhQ#_OPuRcFpNEeS2t6WG90MSuA"/>
+      <selectedSteps href="uma://-OWF1J7M22LkjZb0wT76JhQ#_QrqIYFpNEeS2t6WG90MSuA"/>
+      <selectedSteps href="uma://-OWF1J7M22LkjZb0wT76JhQ#_R81cYFpNEeS2t6WG90MSuA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Kg3VEJeNEeSov--_NpfHvg" guid="_Kg3VEJeNEeSov--_NpfHvg" pred="_8h1OYJeMEeSov--_NpfHvg"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_LHSb4JeNEeSov--_NpfHvg" guid="_LHSb4JeNEeSov--_NpfHvg" pred="_-_s_AJeMEeSov--_NpfHvg"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_LkPdoJeNEeSov--_NpfHvg" guid="_LkPdoJeNEeSov--_NpfHvg" pred="_D7Q6EJeNEeSov--_NpfHvg"/>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_8Lf0MZebEeS_bNkOh34bcw" name="PMLC_project_manager" guid="_8Lf0MZebEeS_bNkOh34bcw" presentationName="Project Manager" briefDescription="Individual responsible for managing a project. " superActivities="_EKU0sbmtEeOjhZ-MtCWe2g" modifies="_8LhCVJebEeS_bNkOh34bcw _8LhpYZebEeS_bNkOh34bcw _8LnI8ZebEeS_bNkOh34bcw _8LnwAZebEeS_bNkOh34bcw _8LoXEZebEeS_bNkOh34bcw _8LoXFJebEeS_bNkOh34bcw _8LoXF5ebEeS_bNkOh34bcw _8LqMRJebEeS_bNkOh34bcw _8LqMQZebEeS_bNkOh34bcw _8LnwBJebEeS_bNkOh34bcw _8Lo-IZebEeS_bNkOh34bcw _8LplMZebEeS_bNkOh34bcw _8LplNJebEeS_bNkOh34bcw _8LqzUZebEeS_bNkOh34bcw _8LsBcZebEeS_bNkOh34bcw _8LraZJebEeS_bNkOh34bcw _OjZGoZeeEeS_bNkOh34bcw _OjZtsZeeEeS_bNkOh34bcw _8LraYZebEeS_bNkOh34bcw _-3ifgZeiEeS_bNkOh34bcw _-3jtoZeiEeS_bNkOh34bcw" responsibleFor="_8LhCVJebEeS_bNkOh34bcw _8LhpYZebEeS_bNkOh34bcw _8LnI8ZebEeS_bNkOh34bcw _8LnI9JebEeS_bNkOh34bcw _8LnwAZebEeS_bNkOh34bcw _8LnwBJebEeS_bNkOh34bcw _8LoXEZebEeS_bNkOh34bcw _8LoXFJebEeS_bNkOh34bcw _8LoXF5ebEeS_bNkOh34bcw _8Lo-IZebEeS_bNkOh34bcw _8LplMZebEeS_bNkOh34bcw _8LplNJebEeS_bNkOh34bcw _8LqMQZebEeS_bNkOh34bcw _8LqMRJebEeS_bNkOh34bcw _8LqzUZebEeS_bNkOh34bcw _8LraYZebEeS_bNkOh34bcw _8LraZJebEeS_bNkOh34bcw _8LsBcZebEeS_bNkOh34bcw _8LsogZebEeS_bNkOh34bcw">
+      <methodElementProperty xmi:id="_8Lf0MpebEeS_bNkOh34bcw" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_8LtPkJebEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-y9uXY-cOaUt8ZrkLipu21w" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-y9uXY-cOaUt8ZrkLipu21w"/>
+      <guidelines href="uma://_pgIasLlDEeO53_TX_uVt6w#_T7CQ8DutEeSIrOwVunFgpg"/>
+      <Role href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_zij6wLm4EeOjhZ-MtCWe2g"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_8LgbQZebEeS_bNkOh34bcw" name="PMLC_business_case" guid="_8LgbQZebEeS_bNkOh34bcw" presentationName="Business Case" briefDescription="A justification for a proposed project or undertaking on the basis of its expected commercial benefit." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g">
+      <methodElementProperty xmi:id="_8LgbQpebEeS_bNkOh34bcw" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_8MFDAJebEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="--dL5MWzlgjZXW-PYj8LqSA" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#--dL5MWzlgjZXW-PYj8LqSA"/>
+      <WorkProduct href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_ANpLEDD-EeSHm971buwRxw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_8LgbRJebEeS_bNkOh34bcw" name="PMLC_organizational_process_assets" guid="_8LgbRJebEeS_bNkOh34bcw" presentationName="Organizational Process Assets" briefDescription="Organizational process assets include any or all process related assets from any or all organizations involved in the project that can be used to have an influence on the project outcome." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g">
+      <methodElementProperty xmi:id="_8LgbRZebEeS_bNkOh34bcw" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_8MB_sJebEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-Dwk5xap3QPqwYkbmfU8LGg" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-Dwk5xap3QPqwYkbmfU8LGg"/>
+      <WorkProduct href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_HelekDD9EeSHm971buwRxw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_8LgbR5ebEeS_bNkOh34bcw" name="PMLC_project_statement_of_work" guid="_8LgbR5ebEeS_bNkOh34bcw" presentationName="Project Statement of Work" briefDescription="The project statement of work, or SOW as it is often referred, is a description of products and services to be delivered for the project." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g">
+      <methodElementProperty xmi:id="_8LgbSJebEeS_bNkOh34bcw" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_8MDN0JebEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-4RtJ5HBoMM9fCpg42afILw" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-4RtJ5HBoMM9fCpg42afILw"/>
+      <WorkProduct href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_6V44EDD-EeSHm971buwRxw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_8LhCUZebEeS_bNkOh34bcw" name="PMLC_project_sponsor" guid="_8LhCUZebEeS_bNkOh34bcw" presentationName="Project Sponsor" briefDescription="Project Sponsor is the key person on the project management team to interact with organization's executive management." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g" responsibleFor="_8LgbQZebEeS_bNkOh34bcw _8LgbR5ebEeS_bNkOh34bcw">
+      <methodElementProperty xmi:id="_8LhCUpebEeS_bNkOh34bcw" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_8MEb8JebEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-oyhoOQdl3KqFgr59FVei4w" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-oyhoOQdl3KqFgr59FVei4w"/>
+      <Role href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_ZjEPgLmPEeO--ZV6XkvztQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_8LhCVJebEeS_bNkOh34bcw" name="PMLC_project_charter" guid="_8LhCVJebEeS_bNkOh34bcw" presentationName="Project Charter" briefDescription="A project charter is a statement of the scope, objectives, and participants in a project&#xA;" superActivities="_EKU0sbmtEeOjhZ-MtCWe2g">
+      <methodElementProperty xmi:id="_8LhCVZebEeS_bNkOh34bcw" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_8MAKgJebEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-MeIDmFXDKGenSTwRVrbhOQ" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-MeIDmFXDKGenSTwRVrbhOQ"/>
+      <templates href="uma://_pgIasLlDEeO53_TX_uVt6w#_0pndgGlAEeS-9dAp19yOyQ"/>
+      <WorkProduct href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_dWCqsLm3EeOjhZ-MtCWe2g"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_8LhpYZebEeS_bNkOh34bcw" name="PMLC_project_manager_assigned" guid="_8LhpYZebEeS_bNkOh34bcw" presentationName="Project Manager Assigned" briefDescription="Once the project is defined to some level either informally or formally, a project manager is assigned." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g">
+      <methodElementProperty xmi:id="_8LhpYpebEeS_bNkOh34bcw" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_8L1ycJebEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-ceNwcp8ehyoEMWwCVqJRvA" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-ceNwcp8ehyoEMWwCVqJRvA"/>
+      <WorkProduct href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_R9C28DD8EeSHm971buwRxw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_8LnI8ZebEeS_bNkOh34bcw" name="PMLC_stakeholder_register" guid="_8LnI8ZebEeS_bNkOh34bcw" presentationName="Stakeholder Register" briefDescription="A Stakholder Register is a document that lists key stakeholders.  It also is used to capture the key requirements and expectations of each stakeholders." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g">
+      <methodElementProperty xmi:id="_8LnI8pebEeS_bNkOh34bcw" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_8Lw58JebEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-jN9fKhH-wymFIHBye-B2LQ" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-jN9fKhH-wymFIHBye-B2LQ"/>
+      <WorkProduct href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_5V2v0DuxEeSIrOwVunFgpg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_8LnI9JebEeS_bNkOh34bcw" name="PMLC_project_management_plan" guid="_8LnI9JebEeS_bNkOh34bcw" presentationName="Project Management Plan" briefDescription=" The project management plan is the document that describes how the project will be executed, monitored, and controlled. It integrates and consolidates all of the individual plans (ex. Risk Mgt Plan, Communications Plan, etc.) from the planning processes." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g">
+      <methodElementProperty xmi:id="_8LnI9ZebEeS_bNkOh34bcw" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_8L-VUJebEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-VN6m4eToa7zeFOggVRNwnw" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-VN6m4eToa7zeFOggVRNwnw"/>
+      <WorkProduct href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_KRV8oLm1EeOjhZ-MtCWe2g"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_8LnwAZebEeS_bNkOh34bcw" name="PMLC_project_scope_statement" guid="_8LnwAZebEeS_bNkOh34bcw" presentationName="Project Scope Statement" briefDescription="The project charter contains high-level information, while the project scope statement contains a detailed description of the scope elements in contrast to the project charter which contains high-level information. These elements are progressively elaborated throughout the project." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g">
+      <methodElementProperty xmi:id="_8LnwApebEeS_bNkOh34bcw" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_8MBYoJebEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-1HqC3RHwONNVc8gfV0MM4A" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-1HqC3RHwONNVc8gfV0MM4A"/>
+      <WorkProduct href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_Egh_4DuvEeSIrOwVunFgpg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_8LnwBJebEeS_bNkOh34bcw" name="PMLC_activity_cost_estimates" guid="_8LnwBJebEeS_bNkOh34bcw" presentationName="Activity Cost Estimates" briefDescription="Activity Cost estimates the projects costs of the schedule activity including costs for all resources required to complete them.  These are then aggregated to obtain a cost estimate for the project." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g">
+      <methodElementProperty xmi:id="_8LnwBZebEeS_bNkOh34bcw" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_8L3noJebEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-W5H4yYuFTRMFv0r1B-i8LQ" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-W5H4yYuFTRMFv0r1B-i8LQ"/>
+      <WorkProduct href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_yHoBkFmMEeSnr-1nkoLXsg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_8LoXEZebEeS_bNkOh34bcw" name="PMLC_activity_durations" guid="_8LoXEZebEeS_bNkOh34bcw" presentationName="Activity Durations" briefDescription="Activity Durations is the estimated period of time necessary to complete specific activities." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g">
+      <methodElementProperty xmi:id="_8LoXEpebEeS_bNkOh34bcw" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_8L3AkJebEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-0mtE2V8RjSM7yNzFkVplGQ" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-0mtE2V8RjSM7yNzFkVplGQ"/>
+      <WorkProduct href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_J1n68FocEeSUmaNkcwFqUg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_8LoXFJebEeS_bNkOh34bcw" name="PMLC_activity_list" guid="_8LoXFJebEeS_bNkOh34bcw" presentationName="Activity List" briefDescription="An activity list is the result of the Work Breakdown Structure (WBS) task activity.  This is a list of all key activies that need to be accomplished to complete the project.  It is a detailed scope of work description so the team members understand what work is to be done." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g">
+      <methodElementProperty xmi:id="_8LoXFZebEeS_bNkOh34bcw" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_8Lvr0JebEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-exhuIW34qz2SrNHGojlGWA" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-exhuIW34qz2SrNHGojlGWA"/>
+      <WorkProduct href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_28us4FocEeSUmaNkcwFqUg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_8LoXF5ebEeS_bNkOh34bcw" name="PMLC_activity_sequence" guid="_8LoXF5ebEeS_bNkOh34bcw" presentationName="Activity Sequence" briefDescription="The activity sequence defines the relationship between the necessary activities of the project." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g">
+      <methodElementProperty xmi:id="_8LoXGJebEeS_bNkOh34bcw" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_8Lz9QJebEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-8OvMgczWGsodQ5TVaPIhXQ" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-8OvMgczWGsodQ5TVaPIhXQ"/>
+      <WorkProduct href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_cbVR0FocEeSUmaNkcwFqUg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_8Lo-IZebEeS_bNkOh34bcw" name="PMLC_basis_of_estimate" guid="_8Lo-IZebEeS_bNkOh34bcw" presentationName="Basis of Estimate" briefDescription="The Basis of Estimates is the supporting documentation providing the details used to establish the project estimates including; assumptions, constraints, level of detail, ranges, and confidence levels." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g">
+      <methodElementProperty xmi:id="_8Lo-IpebEeS_bNkOh34bcw" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_8L0kUJebEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-_rARmpFKxqBeanFUSguEdw" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-_rARmpFKxqBeanFUSguEdw"/>
+      <WorkProduct href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_AtiJAFQREeStpcwZ0CyxeQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_8LplMZebEeS_bNkOh34bcw" name="PMLC_cost_baseline" guid="_8LplMZebEeS_bNkOh34bcw" presentationName="Cost Baseline" briefDescription="The cost baseline is the approved version of the project budget.  It excludes management reserves and is project-phased based." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g">
+      <methodElementProperty xmi:id="_8LplMpebEeS_bNkOh34bcw" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_8L7SAJebEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-XKGAI44ksD-FRFLpJ6sWyQ" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-XKGAI44ksD-FRFLpJ6sWyQ"/>
+      <WorkProduct href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_RBLlIFmMEeSnr-1nkoLXsg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_8LplNJebEeS_bNkOh34bcw" name="PMLC_project_funding_requirements" guid="_8LplNJebEeS_bNkOh34bcw" presentationName="Project Funding Requirements" briefDescription="The project funding requirements include all projected expenditures along with the anticipated projected liabilities." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g">
+      <methodElementProperty xmi:id="_8LplNZebEeS_bNkOh34bcw" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_8LxhAJebEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-J7q3APwrPHnq5p4ysCy_Jw" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-J7q3APwrPHnq5p4ysCy_Jw"/>
+      <WorkProduct href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_oUTi0FmLEeSnr-1nkoLXsg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_8LqMQZebEeS_bNkOh34bcw" name="PMLC_project_schedule" guid="_8LqMQZebEeS_bNkOh34bcw" presentationName="Project Schedule" briefDescription="The project schedule is the result of linking activities with planned dates, durations, milestones, and resources." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g">
+      <methodElementProperty xmi:id="_8LqMQpebEeS_bNkOh34bcw" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_8LudsJebEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-YuUWq33dHX4hGVUxtiEsdQ" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-YuUWq33dHX4hGVUxtiEsdQ"/>
+      <WorkProduct href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_zjLk4EkKEeSWLfgUXTkAlg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_8LqMRJebEeS_bNkOh34bcw" name="PMLC_resource_requirements" guid="_8LqMRJebEeS_bNkOh34bcw" presentationName="Resource Requirements" briefDescription="Resource requirements identify the types and quantities of resources required for each activity." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g">
+      <methodElementProperty xmi:id="_8LqMRZebEeS_bNkOh34bcw" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_8L6D4JebEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-v5jpPqhzocef1hOFtdQxQw" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-v5jpPqhzocef1hOFtdQxQw"/>
+      <WorkProduct href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_zTEP0EkLEeSWLfgUXTkAlg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_8LqzUZebEeS_bNkOh34bcw" name="PMLC_risk_management_plan" guid="_8LqzUZebEeS_bNkOh34bcw" presentationName="Risk Management Plan" briefDescription="The risk management plan describes how risk management activities are to be structured and performed." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g">
+      <methodElementProperty xmi:id="_8LqzUpebEeS_bNkOh34bcw" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_8L75EJebEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-vEZrNc-TvsPAsE39s6BEeg" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-vEZrNc-TvsPAsE39s6BEeg"/>
+      <WorkProduct href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_Vmz3AFmNEeSnr-1nkoLXsg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_8LraYZebEeS_bNkOh34bcw" name="PMLC_work_performance_reports" guid="_8LraYZebEeS_bNkOh34bcw" presentationName="Work Performance Reports" briefDescription="Work performance reports are either physical or electronic representation of work progress/performance compiled in project documents, intended to generate decisions or raise issues, actions, or awareness." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g">
+      <methodElementProperty xmi:id="_8LraYpebEeS_bNkOh34bcw" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_8L9HMJebEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-WdhjIw_sqzExStcCnsa3hQ" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-WdhjIw_sqzExStcCnsa3hQ"/>
+      <WorkProduct href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_Q7CxQGVbEeSOQ-wuYUyV_g"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_8LraZJebEeS_bNkOh34bcw" name="PMLC_project_staff_assignments" guid="_8LraZJebEeS_bNkOh34bcw" presentationName="Project Staff Assignments" briefDescription="The project staff assignments is a document (or part of a document) that specifies which resources are assigned to each activity." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g">
+      <methodElementProperty xmi:id="_8LraZZebEeS_bNkOh34bcw" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_8L-8YJebEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-lcQTWIAQQ_S9zpiXbBSZ1w" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-lcQTWIAQQ_S9zpiXbBSZ1w"/>
+      <WorkProduct href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_qiJuUGVbEeSOQ-wuYUyV_g"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_8LsBcZebEeS_bNkOh34bcw" name="PMLC_communications_management_plan" guid="_8LsBcZebEeS_bNkOh34bcw" presentationName="Communications Management Plan" briefDescription="The Communications Management Plan describes how project communicaions will be structured, monitored, and controlled." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g">
+      <methodElementProperty xmi:id="_8LsBcpebEeS_bNkOh34bcw" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_8LyvIJebEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-Jk5FMQl-psWmH3SuZmn_yQ" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-Jk5FMQl-psWmH3SuZmn_yQ"/>
+      <WorkProduct href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_0w554GYiEeSeMbOi5SCXJQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_8LsogZebEeS_bNkOh34bcw" name="QUALITY_quality_management_plan" guid="_8LsogZebEeS_bNkOh34bcw" presentationName="Quality Management Plan" superActivities="_EKU0sbmtEeOjhZ-MtCWe2g">
+      <methodElementProperty xmi:id="_8LsogpebEeS_bNkOh34bcw" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_8L41wJebEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <WorkProduct href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_K5HsoFmKEeSnr-1nkoLXsg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_M43JYJecEeS_bNkOh34bcw" name="PMLC_develop_project_management_plan" guid="_M43JYJecEeS_bNkOh34bcw" presentationName="Develop Project Management Plan" briefDescription="Develop Project Management Plan is the process of developing and coordinating all individual plans and integrating them into a comprehensive project management plan." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g" isRepeatable="true" isEventDriven="true" mandatoryInput="_8LgbRJebEeS_bNkOh34bcw _8LhCVJebEeS_bNkOh34bcw" performedPrimarilyBy="_8Lf0MZebEeS_bNkOh34bcw">
+      <methodElementProperty xmi:id="_crtXEJecEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-XJj47oDB8z895AqXqNJbUg" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-XJj47oDB8z895AqXqNJbUg"/>
+      <Task href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_szRN0DwFEeSGc6ZYf7rWrg"/>
+      <selectedSteps href="uma://-M_N0mSQR7gJNkBDTAI3A3w#_cKTd8GYqEeSeMbOi5SCXJQ"/>
+      <selectedSteps href="uma://-M_N0mSQR7gJNkBDTAI3A3w#_d0Wk8GYqEeSeMbOi5SCXJQ"/>
+      <selectedSteps href="uma://-M_N0mSQR7gJNkBDTAI3A3w#_fWftIGYqEeSeMbOi5SCXJQ"/>
+      <selectedSteps href="uma://-M_N0mSQR7gJNkBDTAI3A3w#_mQwqcGzWEeS3VKD_mIj3NQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_YgTGkJecEeS_bNkOh34bcw" guid="_YgTGkJecEeS_bNkOh34bcw" pred="_M43JYJecEeS_bNkOh34bcw"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_xWwCwZecEeS_bNkOh34bcw" name="REQT_requirements_documentation" guid="_xWwCwZecEeS_bNkOh34bcw" presentationName="Requirements Documentation" superActivities="_EKU0sbmtEeOjhZ-MtCWe2g">
+      <methodElementProperty xmi:id="_xWwCwpecEeS_bNkOh34bcw" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_xW-sQJecEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <WorkProduct href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_6IJaUDuvEeSIrOwVunFgpg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_xWwp0ZecEeS_bNkOh34bcw" name="REQT_business_analyst" guid="_xWwp0ZecEeS_bNkOh34bcw" presentationName="Business Analyst" superActivities="_EKU0sbmtEeOjhZ-MtCWe2g" modifies="_xWwCwZecEeS_bNkOh34bcw" responsibleFor="_xWwCwZecEeS_bNkOh34bcw _xW8QAZecEeS_bNkOh34bcw">
+      <methodElementProperty xmi:id="_xWwp0pecEeS_bNkOh34bcw" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_xW83EJecEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <Role href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_llBiQDu0EeSIrOwVunFgpg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_xWwp1JecEeS_bNkOh34bcw" name="PMLC_project_stakeholder" guid="_xWwp1JecEeS_bNkOh34bcw" presentationName="Project Stakeholder" briefDescription="Project stakeholders are individuals, groups or organizations who may have an affect or be affected by the outcome of a project." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g">
+      <methodElementProperty xmi:id="_xWwp1ZecEeS_bNkOh34bcw" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_xW_TUJecEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-RcM2Pgwr2SmWs02vRwHi_Q" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-RcM2Pgwr2SmWs02vRwHi_Q"/>
+      <Role href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_pfAyMLm4EeOjhZ-MtCWe2g"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_xW8QAZecEeS_bNkOh34bcw" name="REQT_requirements_traceability_matrix" guid="_xW8QAZecEeS_bNkOh34bcw" presentationName="Requirements Traceability Matrix" superActivities="_EKU0sbmtEeOjhZ-MtCWe2g">
+      <methodElementProperty xmi:id="_xW8QApecEeS_bNkOh34bcw" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_xW9eIJecEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <WorkProduct href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_mhcrEDuwEeSIrOwVunFgpg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_0DxpsZecEeS_bNkOh34bcw" name="PMLC_subject_matter_expert" guid="_0DxpsZecEeS_bNkOh34bcw" presentationName="Subject Matter Expert" briefDescription="A subject-matter expert or SME is a person who is an authority in a particular area, topic or domain." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g">
+      <methodElementProperty xmi:id="_0DxpspecEeS_bNkOh34bcw" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_0EHA4JecEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-3FrP6YQR7O1OWPlu4C6Zvw" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-3FrP6YQR7O1OWPlu4C6Zvw"/>
+      <Role href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#__HzJgFofEeSUmaNkcwFqUg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_0DyQwZecEeS_bNkOh34bcw" name="PMLC_resource_manager" guid="_0DyQwZecEeS_bNkOh34bcw" presentationName="Resource Manager" briefDescription=" The resource manager manages or directs specific resources with similar skills often, in a given area or domain such as engineers, software developers or accountants." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g" responsibleFor="_8LraZJebEeS_bNkOh34bcw">
+      <methodElementProperty xmi:id="_0DyQwpecEeS_bNkOh34bcw" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_0EGZ0JecEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-sPrZKoJIY2WyTGa74F4SGg" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-sPrZKoJIY2WyTGa74F4SGg"/>
+      <Role href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_b3X-QFoeEeSUmaNkcwFqUg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_8jOiQJecEeS_bNkOh34bcw" name="PMLC_estimate_costs" guid="_8jOiQJecEeS_bNkOh34bcw" presentationName="Estimate Costs" briefDescription="The process of developing a rough calculation of the necessary financial dollars needed to complete project activities." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g" isRepeatable="true" isEventDriven="true" linkToPredecessor="__s2loJecEeS_bNkOh34bcw" additionallyPerformedBy="_xWwp1JecEeS_bNkOh34bcw _0DyQwZecEeS_bNkOh34bcw _0DxpsZecEeS_bNkOh34bcw" mandatoryInput="_8LqMQZebEeS_bNkOh34bcw _8LnwAZebEeS_bNkOh34bcw _8LgbRJebEeS_bNkOh34bcw _8LqMRJebEeS_bNkOh34bcw" output="_8LnwBJebEeS_bNkOh34bcw _8Lo-IZebEeS_bNkOh34bcw" performedPrimarilyBy="_8Lf0MZebEeS_bNkOh34bcw">
+      <methodElementProperty xmi:id="_qeYAQJedEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-X5kBBsV9xvR-AVTIL6rr0g" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-X5kBBsV9xvR-AVTIL6rr0g"/>
+      <Task href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_JUmYEFpJEeS2t6WG90MSuA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="__s2loJecEeS_bNkOh34bcw" guid="__s2loJecEeS_bNkOh34bcw" pred="_Gp4ccJeNEeSov--_NpfHvg"/>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_AgmWwJedEeS_bNkOh34bcw" name="PMLC_determine_budget" guid="_AgmWwJedEeS_bNkOh34bcw" presentationName=" Determine Budget" briefDescription="Determine Budget is the process of consolidating the estimated costs of individual activities to establish the cost baseline." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g" isRepeatable="true" isEventDriven="true" linkToPredecessor="_FsjeQJedEeS_bNkOh34bcw" additionallyPerformedBy="_xWwp1JecEeS_bNkOh34bcw" mandatoryInput="_8LnwBJebEeS_bNkOh34bcw _8Lo-IZebEeS_bNkOh34bcw _8LgbRJebEeS_bNkOh34bcw _8LqMQZebEeS_bNkOh34bcw _8LnwAZebEeS_bNkOh34bcw" output="_8LplMZebEeS_bNkOh34bcw _8LplNJebEeS_bNkOh34bcw" performedPrimarilyBy="_8Lf0MZebEeS_bNkOh34bcw">
+      <methodElementProperty xmi:id="_s0m30JedEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-C_bx1WdrT_hQQVpUaANrWg" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-C_bx1WdrT_hQQVpUaANrWg"/>
+      <Task href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_hzIeIFo2EeSV2sVK0fHiPA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_Ds5ToZedEeS_bNkOh34bcw" name="PMLC_plan_risk_management" guid="_Ds5ToZedEeS_bNkOh34bcw" presentationName="Plan Risk Management" briefDescription="Managing risks involves risk management planning, identification, analysis, response planning, and controlling risk on a project." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g" isRepeatable="true" isEventDriven="true" linkToPredecessor="_GaHH0JedEeS_bNkOh34bcw" additionallyPerformedBy="_xWwp1JecEeS_bNkOh34bcw _0DyQwZecEeS_bNkOh34bcw _0DxpsZecEeS_bNkOh34bcw" mandatoryInput="_8LgbRJebEeS_bNkOh34bcw _8LnI8ZebEeS_bNkOh34bcw _8LhCVJebEeS_bNkOh34bcw" output="_8LqzUZebEeS_bNkOh34bcw" performedPrimarilyBy="_8Lf0MZebEeS_bNkOh34bcw">
+      <methodElementProperty xmi:id="_vtLAYJedEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-4-h4WZJ6zlgMPxeX12GoWQ" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-4-h4WZJ6zlgMPxeX12GoWQ"/>
+      <guidelines href="uma://_pgIasLlDEeO53_TX_uVt6w#_OJcxAFQQEeStpcwZ0CyxeQ"/>
+      <Task href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_wK9zYFsHEeS_CZ16mrmYFw"/>
+      <selectedSteps href="uma://-0Qw6c5ibdrLFM1AeW9C7Kg#_GH0sQFsIEeS_CZ16mrmYFw"/>
+      <selectedSteps href="uma://-0Qw6c5ibdrLFM1AeW9C7Kg#_Hy4f4FsIEeS_CZ16mrmYFw"/>
+      <selectedSteps href="uma://-0Qw6c5ibdrLFM1AeW9C7Kg#_KKqPkFsIEeS_CZ16mrmYFw"/>
+      <selectedSteps href="uma://-0Qw6c5ibdrLFM1AeW9C7Kg#_M4lOYFsIEeS_CZ16mrmYFw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_FsjeQJedEeS_bNkOh34bcw" guid="_FsjeQJedEeS_bNkOh34bcw" pred="_8jOiQJecEeS_bNkOh34bcw"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_GaHH0JedEeS_bNkOh34bcw" guid="_GaHH0JedEeS_bNkOh34bcw" pred="_AgmWwJedEeS_bNkOh34bcw"/>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_J9a2gJedEeS_bNkOh34bcw" name="QUALITY_plan_quality_management" guid="_J9a2gJedEeS_bNkOh34bcw" presentationName="Plan Quality Management" superActivities="_EKU0sbmtEeOjhZ-MtCWe2g" isRepeatable="true" isEventDriven="true" linkToPredecessor="_LsfAYJedEeS_bNkOh34bcw" additionallyPerformedBy="_8Lf0MZebEeS_bNkOh34bcw" mandatoryInput="_8LgbRJebEeS_bNkOh34bcw _xWwCwZecEeS_bNkOh34bcw _8LqzUZebEeS_bNkOh34bcw _8LnI8ZebEeS_bNkOh34bcw" output="_8LsogZebEeS_bNkOh34bcw" performedPrimarilyBy="_3JUB0ZedEeS_bNkOh34bcw">
+      <methodElementProperty xmi:id="_3JXsMJedEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <Task href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_WufncGYoEeSeMbOi5SCXJQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_LsfAYJedEeS_bNkOh34bcw" guid="_LsfAYJedEeS_bNkOh34bcw" pred="_Ds5ToZedEeS_bNkOh34bcw"/>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_N-UgIZedEeS_bNkOh34bcw" name="PMLC_plan_communications_management" guid="_N-UgIZedEeS_bNkOh34bcw" presentationName="Plan Communications Management" briefDescription="Plan Communications Management is the process of developing an approach and plan for project communications." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g" isRepeatable="true" isEventDriven="true" linkToPredecessor="_Qt99QJedEeS_bNkOh34bcw" additionallyPerformedBy="_8LhCUZebEeS_bNkOh34bcw _xWwp1JecEeS_bNkOh34bcw" mandatoryInput="_8LnI9JebEeS_bNkOh34bcw _8LnI8ZebEeS_bNkOh34bcw _8LgbRJebEeS_bNkOh34bcw" output="_8LsBcZebEeS_bNkOh34bcw" performedPrimarilyBy="_8Lf0MZebEeS_bNkOh34bcw">
+      <methodElementProperty xmi:id="_7iH1IJedEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-lc_r-TVpa80mtN7t8N5_QA" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-lc_r-TVpa80mtN7t8N5_QA"/>
+      <Task href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_YkACcGYmEeSeMbOi5SCXJQ"/>
+      <selectedSteps href="uma://-0N3CDC_QCZTMRcIMQMHlcg#_XZ5lkGlBEeS-9dAp19yOyQ"/>
+      <selectedSteps href="uma://-0N3CDC_QCZTMRcIMQMHlcg#_YQWscGlBEeS-9dAp19yOyQ"/>
+      <selectedSteps href="uma://-0N3CDC_QCZTMRcIMQMHlcg#_aDpPAGlBEeS-9dAp19yOyQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Qt99QJedEeS_bNkOh34bcw" guid="_Qt99QJedEeS_bNkOh34bcw" pred="_J9a2gJedEeS_bNkOh34bcw"/>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_3JUB0ZedEeS_bNkOh34bcw" name="QUALITY_quality_assurance_manager" guid="_3JUB0ZedEeS_bNkOh34bcw" presentationName="Quality Assurance Manager" superActivities="_EKU0sbmtEeOjhZ-MtCWe2g" modifies="_8LsogZebEeS_bNkOh34bcw" responsibleFor="_8LsogZebEeS_bNkOh34bcw">
+      <methodElementProperty xmi:id="_3JUB0pedEeS_bNkOh34bcw" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_3JY6UJedEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <Role href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_ottFkFogEeSUmaNkcwFqUg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_EehIYJeeEeS_bNkOh34bcw" name="PMLC_acquire_project_team" guid="_EehIYJeeEeS_bNkOh34bcw" presentationName="Acquire Project Team" briefDescription="The process of acquiring and securing team resources from resource managers." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g" isRepeatable="true" isEventDriven="true" additionallyPerformedBy="_0DyQwZecEeS_bNkOh34bcw" mandatoryInput="_8LgbRJebEeS_bNkOh34bcw _8LnI9JebEeS_bNkOh34bcw _8LqMRJebEeS_bNkOh34bcw" output="_8LraZJebEeS_bNkOh34bcw" performedPrimarilyBy="_8Lf0MZebEeS_bNkOh34bcw">
+      <methodElementProperty xmi:id="_LJd9cJeeEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-5ziAgExp4kV-vBtZwHoopg" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-5ziAgExp4kV-vBtZwHoopg"/>
+      <Task href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_Ra2MQGYXEeSwsupdiSKW2Q"/>
+      <selectedSteps href="uma://-IMi_kjXniuCznkfQDlH2vw#_hfWxsGYXEeSwsupdiSKW2Q"/>
+      <selectedSteps href="uma://-IMi_kjXniuCznkfQDlH2vw#_iugscGYXEeSwsupdiSKW2Q"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_GmDcoZeeEeS_bNkOh34bcw" name="PMLC_direct_and_manage_project_execution" guid="_GmDcoZeeEeS_bNkOh34bcw" presentationName="Direct and Manage Project Execution" briefDescription="Project executes the contents of the project plan and is therefore the most important task of a project." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g" isRepeatable="true" isEventDriven="true" linkToPredecessor="_IffqgJeeEeS_bNkOh34bcw" additionallyPerformedBy="_xWwp1JecEeS_bNkOh34bcw" mandatoryInput="_8LnI9JebEeS_bNkOh34bcw" output="_OjZGoZeeEeS_bNkOh34bcw _OjZtsZeeEeS_bNkOh34bcw" performedPrimarilyBy="_8Lf0MZebEeS_bNkOh34bcw">
+      <methodElementProperty xmi:id="_OjoXMJeeEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-CgSnZabr2z7QcEvt9rYt1g" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-CgSnZabr2z7QcEvt9rYt1g"/>
+      <Task href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_WCJ9EG4DEeSIef-3MggveQ"/>
+      <selectedSteps href="uma://-NWXZbjHZXQn-CQhUlTKuaQ#_va1ckG4DEeSIef-3MggveQ"/>
+      <selectedSteps href="uma://-NWXZbjHZXQn-CQhUlTKuaQ#_wvzEYG4DEeSIef-3MggveQ"/>
+      <selectedSteps href="uma://-NWXZbjHZXQn-CQhUlTKuaQ#_x6FtQG4DEeSIef-3MggveQ"/>
+      <selectedSteps href="uma://-NWXZbjHZXQn-CQhUlTKuaQ#_y-eicG4DEeSIef-3MggveQ"/>
+      <selectedSteps href="uma://-NWXZbjHZXQn-CQhUlTKuaQ#_z99CcG4DEeSIef-3MggveQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_IffqgJeeEeS_bNkOh34bcw" guid="_IffqgJeeEeS_bNkOh34bcw" pred="_EehIYJeeEeS_bNkOh34bcw"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_OjZGoZeeEeS_bNkOh34bcw" name="PMLC_change_request" guid="_OjZGoZeeEeS_bNkOh34bcw" presentationName="Change request" briefDescription="A formal proposal for an alteration to some scope, product or system." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g">
+      <methodElementProperty xmi:id="_OjZGopeeEeS_bNkOh34bcw" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_OjqMYJeeEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-xqWEqVLXiKOKOCqmTAmQQA" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-xqWEqVLXiKOKOCqmTAmQQA"/>
+      <WorkProduct href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_uzokkG4BEeSIef-3MggveQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_OjZtsZeeEeS_bNkOh34bcw" name="PMLC_work_results" guid="_OjZtsZeeEeS_bNkOh34bcw" presentationName="Work Results" briefDescription="Work results and deliverables may take the form of a product, the service, or a result that must be completed in order to finish the project." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g">
+      <methodElementProperty xmi:id="_OjZtspeeEeS_bNkOh34bcw" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_OjplUJeeEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-au19G9siAsSNUrPMocAfag" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-au19G9siAsSNUrPMocAfag"/>
+      <WorkProduct href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_OauuIG4CEeSIef-3MggveQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_z76fcJeiEeS_bNkOh34bcw" name="PMLC_monitor_and_control_project_work" guid="_z76fcJeiEeS_bNkOh34bcw" presentationName="Monitor and Control Project Work" briefDescription="The process of tracking, reviewing, and reporting the project or program progress against the project plan." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g" isRepeatable="true" isEventDriven="true" mandatoryInput="_8LplMZebEeS_bNkOh34bcw _8LgbRJebEeS_bNkOh34bcw _8LnI9JebEeS_bNkOh34bcw _8LqMQZebEeS_bNkOh34bcw _8LnwAZebEeS_bNkOh34bcw _8LsogZebEeS_bNkOh34bcw _8LqzUZebEeS_bNkOh34bcw _8LsBcZebEeS_bNkOh34bcw" output="_8LraYZebEeS_bNkOh34bcw" performedPrimarilyBy="_8Lf0MZebEeS_bNkOh34bcw">
+      <methodElementProperty xmi:id="_7XNMUJeiEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-p2QkgQWswDQvCI6PTP9IrA" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-p2QkgQWswDQvCI6PTP9IrA"/>
+      <Task href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_jA5H0GYVEeSwsupdiSKW2Q"/>
+      <selectedSteps href="uma://-Q7fU6V2fuWXetcSp0UFNaw#_vyAp4GYVEeSwsupdiSKW2Q"/>
+      <selectedSteps href="uma://-Q7fU6V2fuWXetcSp0UFNaw#_w32QkGYVEeSwsupdiSKW2Q"/>
+      <selectedSteps href="uma://-Q7fU6V2fuWXetcSp0UFNaw#_zFE9IGYVEeSwsupdiSKW2Q"/>
+      <selectedSteps href="uma://-Q7fU6V2fuWXetcSp0UFNaw#_0xteEGYVEeSwsupdiSKW2Q"/>
+      <selectedSteps href="uma://-Q7fU6V2fuWXetcSp0UFNaw#_2pTR0GYVEeSwsupdiSKW2Q"/>
+      <selectedSteps href="uma://-Q7fU6V2fuWXetcSp0UFNaw#_4m6OAGYVEeSwsupdiSKW2Q"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_1yg0sJeiEeS_bNkOh34bcw" name="PMLC_perform_integrated_change_control" guid="_1yg0sJeiEeS_bNkOh34bcw" presentationName="Perform Integrated Change Control" briefDescription="The task Perform Integrated Change Control is the process of reviewing all change requests, approving changes and managing changes to the appropriate deliverables and artifacts." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g" isRepeatable="true" isEventDriven="true" linkToPredecessor="_3S8FoJeiEeS_bNkOh34bcw" mandatoryInput="_8LgbRJebEeS_bNkOh34bcw _8LnI9JebEeS_bNkOh34bcw _8LraYZebEeS_bNkOh34bcw" output="_-3ifgZeiEeS_bNkOh34bcw _-3jtoZeiEeS_bNkOh34bcw" performedPrimarilyBy="_8Lf0MZebEeS_bNkOh34bcw">
+      <methodElementProperty xmi:id="_-3jto5eiEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-CsrqPvmoZqpaosaLcVN-Iw" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-CsrqPvmoZqpaosaLcVN-Iw"/>
+      <Task href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_halAUGlBEeS-9dAp19yOyQ"/>
+      <selectedSteps href="uma://-gO6rIGohPJyjYyp397mDuQ#_r5f2QGlBEeS-9dAp19yOyQ"/>
+      <selectedSteps href="uma://-gO6rIGohPJyjYyp397mDuQ#_slv4QGlBEeS-9dAp19yOyQ"/>
+      <selectedSteps href="uma://-gO6rIGohPJyjYyp397mDuQ#_t19i8GlBEeS-9dAp19yOyQ"/>
+      <selectedSteps href="uma://-gO6rIGohPJyjYyp397mDuQ#_vP4jQGlBEeS-9dAp19yOyQ"/>
+      <selectedSteps href="uma://-gO6rIGohPJyjYyp397mDuQ#_weMJcGlBEeS-9dAp19yOyQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_3S8FoJeiEeS_bNkOh34bcw" guid="_3S8FoJeiEeS_bNkOh34bcw" pred="_z76fcJeiEeS_bNkOh34bcw"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_-3ifgZeiEeS_bNkOh34bcw" name="PMLC_approved_change_requests" guid="_-3ifgZeiEeS_bNkOh34bcw" presentationName="Approved Change Requests" briefDescription="Approved change requests a result of the Perform Integrated Change Control process." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g">
+      <methodElementProperty xmi:id="_-3ifgpeiEeS_bNkOh34bcw" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_-3kUsJeiEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-PyNTnzgiZ5yxRvUATgNxoA" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-PyNTnzgiZ5yxRvUATgNxoA"/>
+      <WorkProduct href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_3OmBMGVaEeSOQ-wuYUyV_g"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_-3jtoZeiEeS_bNkOh34bcw" name="PMLC_change_log" guid="_-3jtoZeiEeS_bNkOh34bcw" presentationName="Change Log" briefDescription="A Change Log is list of changes made during the project. Often, it includes dates of the change, along with information on impacts in terms of time, cost, and risk.&#x9;" superActivities="_EKU0sbmtEeOjhZ-MtCWe2g">
+      <methodElementProperty xmi:id="_-3jtopeiEeS_bNkOh34bcw" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_-3k7wJeiEeS_bNkOh34bcw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-zDT3bhhEZQ9mRCdy2oSBoA" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-zDT3bhhEZQ9mRCdy2oSBoA"/>
+      <WorkProduct href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_dVJ-AGVaEeSOQ-wuYUyV_g"/>
+    </processElements>
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_EKU0sbmtEeOjhZ-MtCWe2g" name="OpenCycle" guid="_EKU0sbmtEeOjhZ-MtCWe2g" presentationName="OpenCycle" briefDescription="RathodMartin OpenCycle" breakdownElements="_JbQ0YJeMEeSov--_NpfHvg _N68rwJeMEeSov--_NpfHvg _8h1OYJeMEeSov--_NpfHvg _-_s_AJeMEeSov--_NpfHvg _D7Q6EJeNEeSov--_NpfHvg _Gp4ccJeNEeSov--_NpfHvg _8Lf0MZebEeS_bNkOh34bcw _8LgbQZebEeS_bNkOh34bcw _8LgbRJebEeS_bNkOh34bcw _8LgbR5ebEeS_bNkOh34bcw _8LhCUZebEeS_bNkOh34bcw _8LhCVJebEeS_bNkOh34bcw _8LhpYZebEeS_bNkOh34bcw _8LnI8ZebEeS_bNkOh34bcw _8LnI9JebEeS_bNkOh34bcw _8LnwAZebEeS_bNkOh34bcw _8LnwBJebEeS_bNkOh34bcw _8LoXEZebEeS_bNkOh34bcw _8LoXFJebEeS_bNkOh34bcw _8LoXF5ebEeS_bNkOh34bcw _8Lo-IZebEeS_bNkOh34bcw _8LplMZebEeS_bNkOh34bcw _8LplNJebEeS_bNkOh34bcw _8LqMQZebEeS_bNkOh34bcw _8LqMRJebEeS_bNkOh34bcw _8LqzUZebEeS_bNkOh34bcw _8LraYZebEeS_bNkOh34bcw _8LraZJebEeS_bNkOh34bcw _8LsBcZebEeS_bNkOh34bcw _8LsogZebEeS_bNkOh34bcw _M43JYJecEeS_bNkOh34bcw _xWwCwZecEeS_bNkOh34bcw _xWwp0ZecEeS_bNkOh34bcw _xWwp1JecEeS_bNkOh34bcw _xW8QAZecEeS_bNkOh34bcw _0DxpsZecEeS_bNkOh34bcw _0DyQwZecEeS_bNkOh34bcw _8jOiQJecEeS_bNkOh34bcw _AgmWwJedEeS_bNkOh34bcw _Ds5ToZedEeS_bNkOh34bcw _J9a2gJedEeS_bNkOh34bcw _N-UgIZedEeS_bNkOh34bcw _3JUB0ZedEeS_bNkOh34bcw _EehIYJeeEeS_bNkOh34bcw _GmDcoZeeEeS_bNkOh34bcw _OjZGoZeeEeS_bNkOh34bcw _OjZtsZeeEeS_bNkOh34bcw _z76fcJeiEeS_bNkOh34bcw _1yg0sJeiEeS_bNkOh34bcw _-3ifgZeiEeS_bNkOh34bcw _-3jtoZeiEeS_bNkOh34bcw">
+      <presentation xmi:id="-2Fv2HsDUDsOBJM_gQVi78Q" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-2Fv2HsDUDsOBJM_gQVi78Q"/>
+      <defaultContext href="uma://_T6l317ekEd-D7YZN9NgldQ#_8HDdcLmOEeO--ZV6XkvztQ"/>
+      <validContext href="uma://_T6l317ekEd-D7YZN9NgldQ#_8HDdcLmOEeO--ZV6XkvztQ"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-oBJKsYIguSvezdKxWsW73g"
+    name="tool_info_in_the_umf,_k2ahIO9JEdytFa01gNyMbA" guid="-oBJKsYIguSvezdKxWsW73g"
+    changeDate="2008-11-03T07:46:33.031-0800" version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    Tool information can come in many forms: &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/tool_D0FBC781.html&quot;&#xD;
+    guid=&quot;_BangwMaJEduMlb2cQZNTYw&quot;>tool&lt;/a>s, &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/tool_mentor_264766F3.html&quot;&#xD;
+    guid=&quot;_yYy-mdnmEdmO6L4XMImrsA&quot;>tool mentor&lt;/a>s, &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/example_9C7688B0.html&quot;&#xD;
+    guid=&quot;_nE6fsMaFEduMlb2cQZNTYw&quot;>example&lt;/a>s, &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/template_53432085.html&quot;&#xD;
+    guid=&quot;_1MLN8MaIEduMlb2cQZNTYw&quot;>template&lt;/a>s, &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/supporting_material_F91C8C5B.html&quot;&#xD;
+    guid=&quot;_SwvUgMaIEduMlb2cQZNTYw&quot;>supporting material&lt;/a>s, &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/capability_pattern_F5DDC5F.html&quot;&#xD;
+    guid=&quot;_2RUJACO4EdqaNq6Ptg8uyA&quot;>capability pattern&lt;/a>s, &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/white_paper_7231747.html&quot;&#xD;
+    guid=&quot;_Kc1IIMaJEduMlb2cQZNTYw&quot;>white paper&lt;/a>s, etc.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    In the &lt;a class=&quot;elementLink&quot; href=&quot;./../../../core.mdev.common.extend_umf/guidances/concepts/umf_C03950A8.html&quot;&#xD;
+    guid=&quot;_nrrn4GqHEdun45RPFGeYnA&quot;>Unified Method Framework (UMF)&lt;/a>, tool information is defined in multiple plug-ins.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Tools (the standard categories) are defined in the Core in a Tool Definition&amp;nbsp;Base plug-in where they can be shared&#xD;
+    between &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/concepts/practice_F5C8EAAB.html&quot;&#xD;
+    guid=&quot;_qhCTAFRREd2CWscN8Mx6rg&quot;>Practice&lt;/a>s.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Other tool information is defined according to its scope:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;em>General&lt;/em> tool information (as opposed to practice-specific tool information) is defined in the Tool&#xD;
+        Definition Base plug-in.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;em>Practice-specific&lt;/em> tool information is defined in the Practice Base (or Extend) plug-in.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    The UMF does NOT implement&amp;nbsp;a &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/delayed_assignment_24142865.html&quot;&#xD;
+    guid=&quot;_rlrykJcbEd2sTqxclDgvog&quot;>Delayed Assignment&lt;/a>&amp;nbsp;approach for &lt;strong>tools&lt;/strong> because the assignment&#xD;
+    of tool mentors to tools does not change (tool mentors are written for&amp;nbsp;a specific tool).&amp;nbsp;Thus:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Tool guidance is assigned to tasks in the Practice Base (or Extend) plug-in where the task is defined.&amp;nbsp;The&#xD;
+        assignment is done directly in the task definition.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Tool mentors are assigned to the appropriate Tool standard categories&amp;nbsp;in the plug-in where the tool mentors&#xD;
+        are defined. The assignment is done by defining a contributor to the Tool standard category (defined in a Tool&#xD;
+        Definition plug-in) and then assigning the tool mentor to the Tool in the contributor.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    For more information on Tool Definition&amp;nbsp;and Practice plug-ins, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_lib_plugin_types_3EA8002F.html&quot;&#xD;
+    guid=&quot;__428YO6cEdygKbJMUVNEtg&quot;>Concept: Practice Library Plug-In Types&lt;/a>.&amp;nbsp;For more information on Base and&#xD;
+    Extend plug-ins, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.extend_umf/guidances/concepts/practice_fw_plugin_parts_538A81D.html&quot;&#xD;
+    guid=&quot;_vgjh4PG1EdyO9sYxKNWf8A&quot;>Concept: Practice Framework Plug-In Parts&lt;/a>.&amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

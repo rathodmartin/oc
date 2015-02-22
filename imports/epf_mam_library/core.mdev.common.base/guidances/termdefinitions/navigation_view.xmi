@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-0mxJ_r0DjyvmpovRzGM9JQ"
+    name="new_term_definition,_X_hFIPAjEdyHz_B1XFOUgA" guid="-0mxJ_r0DjyvmpovRzGM9JQ"
+    changeDate="2008-03-12T03:00:21.031-0800" version="7.2.0">
+  <mainDescription>A navigation view defines a specific way to navigate method elements in a published web site.&amp;nbsp; Navigation views are&#xD;
+implemented as &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+href=&quot;./../../../core.gen.uma_concept.base/guidances/termdefinitions/custom_category_554AC4D6.html&quot;&#xD;
+guid=&quot;_eqw94MaFEduMlb2cQZNTYw&quot;>custom categories&lt;/a>&amp;nbsp;and are selected as part of a &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../core.gen.uma_concept.base/guidances/termdefinitions/method_configuration_C2B8FA8A.html&quot;&#xD;
+guid=&quot;__V7pAMaEEduMlb2cQZNTYw&quot;>method configuration&lt;/a>.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

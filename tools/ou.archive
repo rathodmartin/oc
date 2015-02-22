@@ -1,0 +1,146 @@
+#! /bin/bash
+
+# Usage: 
+# 		ou - OpenUP Utilities
+#
+# SYNOPSIS
+# 		ou -?
+# 		ou --help
+# 		ou [OPTIONS]
+#
+# DESCRIPTION
+#		ou provides a one-command interface to administer the OpenUP environment.
+#
+# COMMANDS
+# 		-a, --all
+#				execute all functions in the script
+#
+#	 	--backup-only
+#				creates and archives backup files only; does not FTP to production
+#
+#	 	-fp, --ftp-prod
+#				FTP files to production site; does not create the backup or archive files
+#
+#	 	-ft, --ftp-test
+#				FTP files to test site; does not create the backup or archive files
+#
+#		-pm, --production-mode
+#				put the site in production mode by changing the index.htm and index.html file
+#				see "under-construction-mode" to put the site for repairs
+#
+#		-ucm, --under-construction-mode
+#				put the site in construction mode by changing the index.htm and index.html file
+#				see "production-mode" to restore
+#
+#
+#
+
+# Set the Command Line Parameters
+	OPTIONS="$1"
+	case $OPTIONS in
+		# Provide Help
+		"-?"|"--help" )
+			echo -e "\n" ;
+			echo -e "Usage: FTP-OpenUP [OPTIONS]\n" ;
+			echo -e "Auto FTP and backUp file utility for OpenUP administration.\n" ;
+			echo -e "Optional arguments." ;
+			echo -e "     -?,  --help           this help page" ;
+			echo -e "     -a,  --all            execute all functions in the script" ;
+			echo -e " " ;
+			echo -e "     -b, --backup-only     create and archive backup files only; does not FTP to production" ;
+			echo -e "     -fp, --ftp-prod        FTP files to prod only; does not create backup or archive files\n" ;
+			echo -e "     -ft, --ftp-test        FTP files to test only; does not create backup or archive files\n" ;
+			exit ;
+			;;	
+		"-a"|"-all" ) 
+			user_request="ALL" ;
+			;;
+		"-b"|"--backup-only" ) 
+			user_request="BU" ;
+			;;
+		"-fp"|"--ftp-prod" )
+			user_request="FTP-PROD" ;
+			;;
+		"-ft"|"--ftp-test" )
+			user_request="FTP-TEST" ;
+			;;
+		"-ucm"|"--under-construction-mode" )
+			user_request="Under_Construction_Mode" ;
+			;;
+		"-pm"|"--production-mode" )
+			user_request="Production_Mode" ;
+			;;
+		"-rdr" )
+			user_request="rdr" ;
+			;;
+		"" )
+			user_request="NULL" ;
+			;;
+	esac
+
+# Set the Environment Vars for Filename Use
+	export strBase=/cygdrive/c/users/fnfg/epf
+	export strDate=`date +%Y%m%d%H%M%S`
+	export fnEPFC=BU-$strDate-EPFC.zip
+	export fnPUBL=BU-$strDate-OpenUP.zip
+	export fnLOG=$strBase/BackUps/BU-$strDate-Exec.log
+
+# Main Control
+	if [ "$user_request" = "ALL" ] ;  then
+		/home/014903/Tools/ou -ucm                       # put the site under construction mode
+		/home/014903/Tools/FTP-OpenUP $strDate $fnLOG    # FTP everyting up there
+		/home/014903/Tools/ou -pm                        # put the site in production mode
+		/home/014903/Tools/ou -b                         # back-up all files
+	fi
+
+# FTP The Published or Test Environment to the Server
+	if [ "$user_request" = "FTP-PROD" ]; then
+		/home/014903/Tools/ou -ucm                       # put the site under construction mode
+		/home/014903/Tools/FTP-OpenUP $strDate $fnLOG    # FTP everyting up there
+		/home/014903/Tools/ou -pm                        # put the site in production mode
+	fi
+	if [ "$user_request" = "FTP-TEST" ]; then
+		/home/014903/Tools/FTP-OpenUP $strDate $fnLOG -t    # FTP everyting up there
+	fi
+
+# Back-up the Development & Publishing Environments
+	if [ "$user_request" = "BU" ]; then
+		# Back-up the Development Environment
+		echo -e "====> Back-Up Development Environment\n" | tee -a $fnLOG
+			zip -r $strBase/BackUps/$fnEPFC $strBase/epf-composer | tee -a $fnLOG
+		# Back-up the Published Environment
+		echo -e "====> Back-Up Published Environment\n" | tee -a $fnLOG
+			zip -r $strBase/BackUps/$fnPUBL $strBase/Publish | tee -a $fnLOG
+		# Copy the Back-UPs and Back-UP log to the LAN Drive for Safe Keeping
+		echo -e "====>Copy BackUps to the LAN for SafeKeeping ....\n" | tee -a $fnLOG
+		if [ ! -d /cygdrive/m/EPF/Back-Up ]; then
+			echo "Back-up and archiving site is offline; cannot store backup files on the LAN. Please restore."
+		else
+			echo -e "          Copying .... EPFC Environment\n" | tee -a $fnLOG
+				cp $strBase/BackUps/$fnEPFC /cygdrive/m/EPF/Back-Up | tee -a $fnLOG
+			echo -e "          Copying .... Published Environment\n" | tee -a $fnLOG
+				cp $strBase/BackUps/$fnPUBL /cygdrive/m/EPF/Back-Up | tee -a $fnLOG
+			echo -e "          Copying .... Back-UP Log\n" | tee -a $fnLOG
+				cp $strBase/BackUps/$fnLOG /cygdrive/m/EPF/Back-Up
+		fi
+	fi
+	
+# Put Site in Under-Construction Mode
+	if [ "$user_request" = "Under_Construction_Mode" ]; then
+		cp /cygdrive/c/cygwin/home/014903/Tools/index-under-construction.htm /cygdrive/c/cygwin/home/014903/Tools/index.htm
+		cp /cygdrive/c/cygwin/home/014903/Tools/index-under-construction.html /cygdrive/c/cygwin/home/014903/Tools/index.html
+		ncftpput -u rakesh -p rathod openup.fnfg.com / /cygdrive/c/cygwin/home/014903/Tools/index.htm
+		ncftpput -u rakesh -p rathod openup.fnfg.com / /cygdrive/c/cygwin/home/014903/Tools/index.html
+		rm /cygdrive/c/cygwin/home/014903/Tools/index.htm
+		rm /cygdrive/c/cygwin/home/014903/Tools/index.html
+	fi
+
+# Put Site in Production Mode
+	if [ "$user_request" = "Production_Mode" ]; then
+		cp /cygdrive/c/cygwin/home/014903/Tools/index.htm.orig /cygdrive/c/cygwin/home/014903/Tools/index.htm
+		cp /cygdrive/c/cygwin/home/014903/Tools/index.html.orig /cygdrive/c/cygwin/home/014903/Tools/index.html
+		ncftpput -u rakesh -p rathod openup.fnfg.com / /cygdrive/c/cygwin/home/014903/Tools/index.htm
+		ncftpput -u rakesh -p rathod openup.fnfg.com / /cygdrive/c/cygwin/home/014903/Tools/index.html
+		rm /cygdrive/c/cygwin/home/014903/Tools/index.htm
+		rm /cygdrive/c/cygwin/home/014903/Tools/index.html
+	fi

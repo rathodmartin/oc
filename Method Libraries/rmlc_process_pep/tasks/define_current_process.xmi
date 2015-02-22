@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-2GBh2IvkpvQJ2vR_1z-s5g" name=",_4tI6sPt1EeK6X-ODr_6b9w" guid="-2GBh2IvkpvQJ2vR_1z-s5g" authors="Rakesh D. Rathod" changeDate="2014-05-29T19:38:27.650-0400" changeDescription="Baseline" version="1.0">
+  <mainDescription>&lt;font size=&quot;4&quot;>&lt;span style=&quot;font-family: Arial;&quot;>A definition of the current process by collaborating with Subject Matter
+        Experts and the Client. An interview with the Subject Matter Experts will gain an understanding of what the process is,
+        what roles are involved with it, and any outputs that it produces.&lt;/span>&lt;/font></mainDescription>
+  <sections xmi:id="_UjA1YPt2EeK6X-ODr_6b9w" name="Research existing documents" guid="_UjA1YPt2EeK6X-ODr_6b9w">
+    <sectionDescription>&lt;font size=&quot;4&quot;>&lt;span style=&quot;font-family: Arial;&quot;>Use documents previously developed by the current or former teams to
+        decribe what they do. Documentation efforts may be in the form of Microsoft Word or PowerPoint files, or in Visio swimlane
+        diagrams. Processes may have ben described in hand-written notes.&lt;/span>&lt;/font></sectionDescription>
+  </sections>
+  <sections xmi:id="_XXLmIPt2EeK6X-ODr_6b9w" name="Interview Subject Matter Experts" guid="_XXLmIPt2EeK6X-ODr_6b9w">
+    <sectionDescription>&lt;font size=&quot;4&quot;>&lt;span style=&quot;font-family: Arial;&quot;>Subject Matter Experts (SMEs) know what they do day-in and day-out. It is
+        their job and no one knows it better than the SME. Rely on SMEs to provide the most up-to-date processes descriptions of
+        the current process.&lt;/span>&lt;/font></sectionDescription>
+  </sections>
+  <sections xmi:id="_ZsCksPt2EeK6X-ODr_6b9w" name="Draft current process" guid="_ZsCksPt2EeK6X-ODr_6b9w">
+    <sectionDescription>&lt;font size=&quot;4&quot;>&lt;span style=&quot;font-family: Arial;&quot;>Write down the process as it was recorded, heard and understood. It may be
+        necessary to use non-technical, or informal language until the process is fully understood and agreed by the
+        client.&lt;/span>&lt;/font></sectionDescription>
+  </sections>
+  <sections xmi:id="_dOLOsPt2EeK6X-ODr_6b9w" name="Review process with Subject Matter Experts" guid="_dOLOsPt2EeK6X-ODr_6b9w">
+    <sectionDescription>&lt;font size=&quot;4&quot;>&lt;span style=&quot;font-family: Arial;&quot;>The drafted process will be reviewed with the SMEs to ensure what was
+        drafted is what was researched to ensure accuracy. Complex processes require more SME reviews, but it's better to get it
+        right at the beginning of the development cycle.&lt;/span>&lt;/font></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

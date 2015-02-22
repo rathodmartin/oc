@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-S31tXsLMgO0somndvGEdSA"
+    name="new_guideline,_l77zcIB-EduaS6LQ8n6xUQ" guid="-S31tXsLMgO0somndvGEdSA" changeDate="2008-10-13T10:41:14.875-0700"
+    version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    This guideline describes how to define &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/method_configuration_C2B8FA8A.html&quot;&#xD;
+    guid=&quot;__V7pAMaEEduMlb2cQZNTYw&quot;>method configuration&lt;/a>s.&amp;nbsp; Method configurations&amp;nbsp;may be defined for multiple&#xD;
+    reasons.&amp;nbsp;Some of the most common reasons are to support the &lt;em>construction of processes&lt;/em> (process&#xD;
+    construction configurations) and to support the &lt;em>publishing of the method&lt;/em> (publishable method configurations).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Defining a configuration involves identifying the configuration, naming&amp;nbsp;it and briefly describing it. For&#xD;
+    information on naming configurations, &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/guidelines/method_element_naming_conventions_4A4F743B.html&quot;&#xD;
+    guid=&quot;_lAphAF5-EduT-Px7fh0LSg&quot;>Guideline: Method Element Naming Conventions&lt;/a>. For information on how to write a&#xD;
+    brief description, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/guidelines/writing_brief_descriptions_D01D2F53.html&quot;&#xD;
+    guid=&quot;_cJbBkCAhEdy1y5bWsXfCCg&quot;>Guideline: Writing Brief Descriptions&lt;/a>.&amp;nbsp;It is also important to maintain&#xD;
+    accurate change histories (&lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/guidelines/maintaining_change_histories_and_version_numbers_B83271.html&quot;&#xD;
+     guid=&quot;_k91OkFpBEdutiI3y4Hpy9Q&quot;>Guideline: Maintaining Change Histories and Version Numbers&lt;/a>), as well as make sure&#xD;
+    your trademarks and copyrights are accurate (&lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/guidelines/trademarks_and_copyrights_F14EB70C.html&quot;&#xD;
+    guid=&quot;_OxsfkH8MEdu_ipWWZJimvQ&quot;>Guideline: Trademarks and Copyrights&lt;/a>).&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    Defining process construction configurations&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Every process must have a default configuration.&amp;nbsp;Thus, some configurations may be defined just to serve as the&#xD;
+    default configuration for a process, as opposed to being published.&amp;nbsp;Process construction configurations include&#xD;
+    just those plug-ins that contain elements that are needed to construct the process and no more. They do not have&#xD;
+    associated navigation views (they are not intended to be published).&amp;nbsp;When naming and describing construction&#xD;
+    configurations, it is recommended that you include the name of the plug-in containing the processes the configuration&#xD;
+    is the default for in the name of the configuration.&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    Defining publishable configurations&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Defining publishable configurations is where you think about how you might like to see the elements get&#xD;
+    published.&amp;nbsp;Which plug-ins should be published together? How many different web sites do you need?&amp;nbsp; A&#xD;
+    publishable configuration should be defined for each target audience/variant of the method. For example, if you need a&#xD;
+    version of the method that focuses on small projects, provide a small projects configuration. If you need a version of&#xD;
+    the method for more large, complex and formal projects, provide a configuration with more content appropriate to that&#xD;
+    context. When defining configurations that are intended to be published, try to minimize the size and maximize&#xD;
+    effectiveness of the published method. Defining configurations is a key part of method authoring. However, selecting&#xD;
+    the correct set of elements to be included in a configuration can be a difficult and time consuming activity. A few&#xD;
+    well chosen and high quality elements are worth far more to the end user than a plethora of elements that really don't&#xD;
+    address the problem at hand. Publishable configurations identify &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/termdefinitions/navigation_view_8F89044.html&quot;&#xD;
+    guid=&quot;_X_hFIPAjEdyHz_B1XFOUgA&quot;>navigation view&lt;/a>s that are to be published.&amp;nbsp;For information on defining&#xD;
+    navigation views, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/guidelines/defining_navigation_views_76A906E.html&quot;&#xD;
+    guid=&quot;_67agUEyEEdu4NY1n_hCY0w&quot;>Guideline: Defining Navigation Views&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    When defining a publishable configuration, in the Main description describe the target audience for the configuration&#xD;
+    and any other relevant details about it. This information is not published; it is intended primarily for the users of&#xD;
+    method content to decide if they want to use this configuration. “This configuration …”&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    As with all configurations, an important part of defining a publishable configuration is selecting the plug-ins and/or&#xD;
+    packages that are to be published, as well as specifying those elements that should not be published.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    In addition, the navigation views that are to be published for the configuration should be specified, as well as any&#xD;
+    publish options.&lt;br />&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

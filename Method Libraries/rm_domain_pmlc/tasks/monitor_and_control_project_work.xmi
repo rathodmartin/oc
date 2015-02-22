@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Q7fU6V2fuWXetcSp0UFNaw" name=",_iCMD4GYVEeSwsupdiSKW2Q" guid="-Q7fU6V2fuWXetcSp0UFNaw" authors="John Rozsa" changeDate="2014-11-06T19:33:22.289-0500" changeDescription="Baseline" version="BL">
+  <mainDescription>In addition to reviewing the work that is being performed, this process ensures that the deliverables are being delivered
+        according to the project management plan. It looks at the progress of the overall project, taking corrective action when
+        needed via change requests.&lt;br />
+        &lt;br />
+        The project manager should take corrective action based on how the project has been progressing. Work being undertaken is
+        compared to the baseline and appropriate adjustments made to ensure that the two are harmonized.&lt;br />
+        &lt;br />
+        Additionally, risks are being managed properly, new risks identified, and that the overall project performance remains on
+        track. This process is aligned closely with the direct and manage project execution process, and it is used throughout the
+        project.&lt;br /></mainDescription>
+  <sections xmi:id="_vyAp4GYVEeSwsupdiSKW2Q" name="Verify Scope" guid="_vyAp4GYVEeSwsupdiSKW2Q"/>
+  <sections xmi:id="_w32QkGYVEeSwsupdiSKW2Q" name="Control Costs" guid="_w32QkGYVEeSwsupdiSKW2Q"/>
+  <sections xmi:id="_zFE9IGYVEeSwsupdiSKW2Q" name="Perform Quality Control" guid="_zFE9IGYVEeSwsupdiSKW2Q"/>
+  <sections xmi:id="_0xteEGYVEeSwsupdiSKW2Q" name="Report Performance" guid="_0xteEGYVEeSwsupdiSKW2Q"/>
+  <sections xmi:id="_2pTR0GYVEeSwsupdiSKW2Q" name="Monitor and Control Risks" guid="_2pTR0GYVEeSwsupdiSKW2Q"/>
+  <sections xmi:id="_4m6OAGYVEeSwsupdiSKW2Q" name="Administer Procurements" guid="_4m6OAGYVEeSwsupdiSKW2Q">
+    <sectionDescription>&lt;br /></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

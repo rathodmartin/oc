@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-BcdJVYRxCSYXW5ddGEULJA"
+    name="practice_framework_architecting,_8Ch34D_ZEd2Ei9ySU_sUdQ" guid="-BcdJVYRxCSYXW5ddGEULJA"
+    changeDate="2008-08-02T07:11:50.125-0700" changeDescription="July 11, 2008: Created initial version"
+    version="7.5.0">
+  <problem>&lt;p>&#xD;
+    This practice provides guidance for authoring&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_configuration_CC7754F2.html&quot;&#xD;
+    guid=&quot;_0H9aAO7EEdy9EOwDlaw7Kw&quot;>Practice Configuration&lt;/a>s that are to exist within a &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_framework_6DA4D54D.html&quot;&#xD;
+    guid=&quot;__LjaEFQsEd2uvIuuFjd1Fg&quot;>Practice Framework&lt;/a>, including information on developing &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/termdefinitions/cross_practice_process_5F83B112.html&quot;&#xD;
+    guid=&quot;_9NcfoFJgEd2SzrMjC_svdw&quot;>cross-practice process&lt;/a>es and &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/termdefinitions/navigation_view_8F89044.html&quot;&#xD;
+    guid=&quot;_X_hFIPAjEdyHz_B1XFOUgA&quot;>navigation view&lt;/a>s for the configuration.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This practice enables you to assemble existing &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/concepts/practice_F5C8EAAB.html&quot;&#xD;
+    guid=&quot;_qhCTAFRREd2CWscN8Mx6rg&quot;>Practice&lt;/a>s to produce a process that addresses your business objectives and style of&#xD;
+    working.&#xD;
+&lt;/p></problem>
+  <application>&lt;p>&#xD;
+    The best way to read this practice is to first familiarize yourself with its overall structure -- what it is in it and&#xD;
+    how it is organized.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The best place to start is with the &lt;strong>Key Concepts&lt;/strong> for the practice -- those concepts that are critical&#xD;
+    to understand in order to adopt the practice.&amp;nbsp; Once you understand the key concepts, you can turn your attention&#xD;
+    to the key capabilities provided by the practice (i.e., the &lt;strong>Scenarios&lt;/strong>), from which you can access the&#xD;
+    applicable practice elements. You can also access the guidance provided by the practice directly, via the&#xD;
+    &lt;strong>Guidance&lt;/strong>&amp;nbsp;folder.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    For information on how to adopt this practice, see &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../practice.mdev.auth.practice_config_auth.base/guidances/roadmaps/how_to_adopt_practice_config_auth_8813225D.html&quot;&#xD;
+     guid=&quot;_7d3BUFGwEd2DWsgK12YtmA&quot;>How to Adopt Practice Configuration Authoring&lt;/a>.&#xD;
+&lt;/p></application>
+</org.eclipse.epf.uma:PracticeDescription>

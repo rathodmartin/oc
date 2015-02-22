@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fmDJdyYH9_9lE8mEe9hN5Q" name="new_artifact,_zEqz4GVZEeSOQ-wuYUyV_g" guid="-fmDJdyYH9_9lE8mEe9hN5Q" authors="John Rozsa" changeDate="2014-11-05T21:09:28.829-0500" changeDescription="Baseline" version="BL">
+  <mainDescription>This refers to the transition of the final product, service, or result that the project was authorized to produce (or in
+        the case of phase closure, the intermediate product, service, or result of that phase).&lt;br /></mainDescription>
+  <impactOfNotHaving>If a project does not have a final product, service or result, then it is not a success.&lt;br /></impactOfNotHaving>
+  <reasonsForNotNeeding>N/A&lt;br /></reasonsForNotNeeding>
+</org.eclipse.epf.uma:ArtifactDescription>

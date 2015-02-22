@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-CpR_S5XKVd60uvKNCQbHKA"
+    name="umf_practice_config_example,_MWqvQIM6Ed2QVrMx9wDJQQ" guid="-CpR_S5XKVd60uvKNCQbHKA"
+    changeDate="2008-09-30T12:20:54.421-0700" version="7.5.0">
+  <mainDescription>&lt;p>&#xD;
+    Figure 1 is an example of a Publishable configuration for a Practice Configuration. On the left side, you can see the&#xD;
+    contents of the &lt;strong>Plug-in and Package Selection&lt;/strong> tab, showing the selection of the applicable Practice&#xD;
+    plug-ins, the Process plug-in that includes the cross-practice processes and the Publish plug-in that includes the&#xD;
+    configuration-specific elements.&#xD;
+&lt;/p>&#xD;
+&lt;table title=&quot;Figure 1: Practice Configuration Publishable Configuration Example&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot;&#xD;
+width=&quot;85%&quot; summary=&quot;practice_configuration_publishable_configuration_example&quot; border=&quot;1&quot;>&#xD;
+    &lt;caption>&#xD;
+        Figure 1: Practice Configuration Publishable Configuration Example&#xD;
+    &lt;/caption>&#xD;
+    &lt;tbody>&#xD;
+        &lt;tr>&#xD;
+            &lt;td>&#xD;
+                &lt;img alt=&quot;practice_configuration_plugin_and_pkg_selection_tab_example&quot;&#xD;
+                src=&quot;./resources/umf_practice_config_pkg_sel_ex.gif&quot; />&#xD;
+            &lt;/td>&#xD;
+            &lt;td>&#xD;
+                &lt;img alt=&quot;umf_practice_configuration_view_selection_example&quot;&#xD;
+                src=&quot;resources/umf_practice_config_view_sel_ex.gif&quot; />&#xD;
+            &lt;/td>&#xD;
+        &lt;/tr>&#xD;
+    &lt;/tbody>&#xD;
+&lt;/table>&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;p>&#xD;
+    Figure 2 provides a closer look at the Process plug-in for the Practice Configuration shown in Figure 1. Note the&#xD;
+    cross-practice processes (capability patterns and a delivery process) that are included in the navigation views of the&#xD;
+    Practice Configuration shown in Figure 1.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Figure 2: Practice Configuration Process Plug-In Example&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img src=&quot;./resources/umf_practice_config_process_plugin_ex.gif&quot;&#xD;
+    halt=&quot;umf_practice_configuration_process_plugin_example&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;br />&#xD;
+    Figure 3 provides a closer look at the Publish plug-in for the Practice Configuration shown in Figure 1.&amp;nbsp;Note the&#xD;
+    configuration-specific welcome page and navigation views that are included in the navigation views of the Practice&#xD;
+    Configuration shown in Figure 1. Also notice that the custom categories that represent navigation view tabs for the&#xD;
+    configuration are &quot;packaged&quot; in a parent custom category with &quot;view tabs&quot; in the name. This makes it easy to identify&#xD;
+    the custom categories that were designed to serve as the navigation views for the configuration.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Figure 3: Practice Configuration Publish Plug-In Example&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img alt=&quot;umf_practice_configuration_publish_plugin_example&quot;&#xD;
+    src=&quot;./resources/umf_practice_config_publish_plugin_ex.gif&quot; />&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:GuidanceDescription>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-q962IYWxXYmM6Tk2hFhMng"
+    name="mam_for_epl_key_scenarios,_xqtVCrDWEd2-s7FS-eg9aA" guid="-q962IYWxXYmM6Tk2hFhMng"
+    changeDate="2008-11-12T08:47:31.406-0800" version="7.5.0">
+  <mainDescription>&lt;p>&#xD;
+    They are further organized into separate areas of concern.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

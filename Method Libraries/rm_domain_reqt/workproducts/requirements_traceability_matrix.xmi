@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-x8D2hmlNuLdWY64OepLZzQ" name="new_artifact,_QQoUYDuwEeSIrOwVunFgpg" guid="-x8D2hmlNuLdWY64OepLZzQ" authors="John Rozsa" changeDate="2014-09-22T20:45:57.810-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>Requirements traceability matrix helps to ensure each requirement adds value by relating it to the business and project
+        objectives. It enables product requirements to be tracked throughout the project life cycle. This helps to ensure that
+        solutions for each requirement is delivered at the end of the project. It also assists for managing changes to the product
+        scope.&lt;br style=&quot;font-family: Candara;&quot; />
+         The requirements traceability matrix also captures attributes associated with each requirement. They help to define
+        specific information about the requirement. These attributes include, but not limited to, a unique identifier the
+        description of the requirement, the owner, source, version, current status, priority, etc.&lt;br /></mainDescription>
+  <impactOfNotHaving>Not having a requirements traceabilty matrix may result in missed requirements in the finished product.&lt;br /></impactOfNotHaving>
+  <reasonsForNotNeeding>Smaller project with only a few requirements may not require a requirements traceability matrix.&lt;br /></reasonsForNotNeeding>
+</org.eclipse.epf.uma:ArtifactDescription>

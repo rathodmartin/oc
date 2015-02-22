@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-IxsuRFmuIAkfUqyI6qVz2w"
+    name="publishing_practice_configuration,_pRt_QEAQEd2Ei9ySU_sUdQ" guid="-IxsuRFmuIAkfUqyI6qVz2w"
+    changeDate="2008-09-30T09:49:03.765-0700" version="7.5.0">
+  <mainDescription>&lt;p>&#xD;
+    Publishing a &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_configuration_CC7754F2.html&quot;&#xD;
+    guid=&quot;_0H9aAO7EEdy9EOwDlaw7Kw&quot;>Practice Configuration&lt;/a>&amp;nbsp;involves publishing the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/method_configuration_C2B8FA8A.html&quot;&#xD;
+    guid=&quot;__V7pAMaEEduMlb2cQZNTYw&quot;>method configuration&lt;/a>&amp;nbsp;defined as part of the practice configuration. For&#xD;
+    information on defining a practice configurations, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/guidelines/defining_practice_configurations_743A20DB.html&quot;&#xD;
+    guid=&quot;_FnCOMAz8Ed2135n7CJzRCQ&quot;>Guideline: Defining Practice Configurations&lt;/a>. For general information on publishing a&#xD;
+    method, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/guidelines/publishing_a_method_AD8AF98A.html&quot;&#xD;
+    guid=&quot;_eJNWICBwEdy1y5bWsXfCCg&quot;>Guideline: Publishing a Method&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

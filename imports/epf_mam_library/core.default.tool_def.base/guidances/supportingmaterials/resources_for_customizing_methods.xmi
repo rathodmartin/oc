@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-SqArASoV4hTpxAprrWhS1g"
+    name="resources_for_customizing_methods,_omneEMX4EduywMSzPTUUwA" guid="-SqArASoV4hTpxAprrWhS1g"
+    changeDate="2008-08-01T15:33:32.109-0700" version="7.2.0">
+  <mainDescription>&lt;p> There are several use scenarios for &lt;a class=&quot;elementLink&quot; href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/method_configuration_C2B8FA8A.html&quot; guid=&quot;__V7pAMaEEduMlb2cQZNTYw&quot;>method configuration&lt;/a>s produced by using EPF Composer or Rational Method Composer &#xD;
+  (both referred to generically here as &quot;Method Composer&quot;). The simplest&amp;nbsp;is &#xD;
+  to use the&amp;nbsp;published content as-is (either using a prepublished Web site &#xD;
+  or by publishing one using the content that is included with Method Composer).&amp;nbsp;However, &#xD;
+  you may be&amp;nbsp;looking for&amp;nbsp;how to add, remove, suppress, or modify &lt;a class=&quot;elementLink&quot; href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/method_content_6972AE81.html&quot; guid=&quot;_Ts2joB_MEdq6CKKKq4D7YA&quot;>method content&lt;/a>&amp;nbsp;or &lt;a class=&quot;elementLink&quot; href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/process_68E308B4.html&quot; guid=&quot;_yQ5m2NnmEdmO6L4XMImrsA&quot;>process&lt;/a>&amp;nbsp;elements, &#xD;
+  or both, to make an existing method configuration more&amp;nbsp;suitable&amp;nbsp;to &#xD;
+  your teams' needs, while keeping it consistent and understandable. &lt;/p>&#xD;
+This guidance page describes typical customization scenarios and&amp;nbsp;then provides &#xD;
+references to additional information on how to customize methods. &#xD;
+&lt;h3> Customization scenarios &lt;/h3>&#xD;
+&lt;p> The following sections describe&amp;nbsp;possible customization scenarios. For &#xD;
+  information on specific tool features, consult the Method Composer online Help. &#xD;
+  For&amp;nbsp;additional information on customizing methods, see the Additional Resources &#xD;
+  section that follows here. &lt;/p>&#xD;
+&lt;h4> Use existing plug-ins and packages to build your own process &lt;/h4>&#xD;
+&lt;p> Some consider this the most straight-forward customization scenario. Based &#xD;
+  on the provided content, you can use Method Composer to pick and choose the &#xD;
+  packages with the content that you want to publish and make available to your &#xD;
+  team. Removing a method package removes all references to the content of that &#xD;
+  package from the published process. For example, you can simplify a process &#xD;
+  to have it contain a minimal subset of its content by removing packages that &#xD;
+  contain elements of work that you do not want to perform. You do this by creating &#xD;
+  a new method configuration (or copying an existing one) into your method library. &#xD;
+  You can select packages as appropriate without affecting the configuration provided. &#xD;
+&lt;/p>&#xD;
+&lt;h4> Add&amp;nbsp;method content&amp;nbsp;that your team needs &lt;/h4>&#xD;
+&lt;p> Some teams may need to perform a different task that is not covered by the &#xD;
+  standard content. Maybe they need to perform an extra step in an existing task, &#xD;
+  or they may need to add a new guideline for a given technique that they are &#xD;
+  following. Eventually, they need a new template for a document (or they may &#xD;
+  need to add or remove sections in an existing template). &lt;/p>&#xD;
+&lt;p> In such situations, the recommended approach is to create a separate plug-in &#xD;
+  in your library.&amp;nbsp;It is not a good practice&amp;nbsp;to make changes in the &#xD;
+  provided plug-in (meaning any plug-in for which you do not have control), because &#xD;
+  new versions of these plug-ins, when deployed, can override the changes that &#xD;
+  you have made. &lt;/p>&#xD;
+&lt;p> Method Composer provides a series of mechanisms that allow you to indirectly &#xD;
+  modify the content in an existing plug-in by using &lt;i>content variability&lt;/i>. &#xD;
+  In your plug-in, you can define an element that contributes, extends, or replaces &#xD;
+  an element in the existing plug-in. For example, in your plug-in, you can define &#xD;
+  a task that contributes a new step to an existing task. You can also define &#xD;
+  a new artifact that replaces an existing artifact, and this new artifact can &#xD;
+  have a different name, structure, and associated template, for example. Then &#xD;
+  all you need to do is make sure that the existing plug-in and your new plug-in &#xD;
+  are part of the configuration to be published. During publication, Method Composer &#xD;
+  will resolve the content variability that you defined by adding the new content &#xD;
+  into the existing content where appropriate, replacing existing content with &#xD;
+  the content you defined, and so on.&amp;nbsp;&amp;nbsp; &lt;/p>&#xD;
+&lt;h4> Define a different development lifecycle &lt;/h4>&#xD;
+&lt;p> Both method content and process are created independently from&amp;nbsp;each other. &#xD;
+  For example, you create tasks in the method content (and define their&amp;nbsp;inputs, &#xD;
+  outputs, and responsible roles), but you do not necessarily define the lifecycle &#xD;
+  of your process, meaning the sequence in which the various tasks will be performed. &#xD;
+  On the process side, you then define the lifecycle (such as phases, iterations, &#xD;
+  activities, and tasks), as well as the precedence among these elements. &lt;/p>&#xD;
+&lt;p> Some teams may find the method content appropriate without any further customization, &#xD;
+  but they may want to work by following a different software development lifecycle. &#xD;
+  For example, some teams may like the four development phases and iterations &#xD;
+  from the unified process, but some may want to develop iteratively, without &#xD;
+  being tied to a specific phase structure. Again, you can add, remove and replace &#xD;
+  elements in the work breakdown structure of an existing process by applying &#xD;
+  process variability. &lt;/p>&#xD;
+&lt;p> As an alternative to tailoring an existing process, you can write a completely &#xD;
+  new process that reuses activities from one or more existing processes. In cases &#xD;
+  where you cannot find any reusable material at all, you can also create a completely &#xD;
+  new process from scratch. In most cases, however, you will start developing &#xD;
+  your own process by assembling reusable building blocks from method content, &#xD;
+  as well as predefined process patterns&amp;nbsp;called &lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/capability_pattern_F5DDC5F.html&quot; guid=&quot;_2RUJACO4EdqaNq6Ptg8uyA&quot;>capability &#xD;
+  patterns&lt;/a>. The resulting assembled process is called a&amp;nbsp;&lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/delivery_process_BCDF50B7.html&quot; guid=&quot;_ZufeMCO3EdqaNq6Ptg8uyA&quot;>delivery &#xD;
+  process&lt;/a>. This newly created delivery process&amp;nbsp;is part of a configuration &#xD;
+  that you publish and make available to members of your team. &lt;/p>&#xD;
+&lt;h4> Publish the process Web site &lt;/h4>&#xD;
+&lt;p> Every customization scenario is finalized by publishing content as HTML (on &#xD;
+  a Web site). Method Composer enables you to publish&amp;nbsp;content based on a &#xD;
+  given configuration, which will publish all of the content available from the&amp;nbsp;method &#xD;
+  and process packages selected in that configuration. Another option for publishing &#xD;
+  is to select only the capability patterns or delivery process of interest. This &#xD;
+  will make available only the content related to the process packages that you &#xD;
+  select. &lt;/p>&#xD;
+&lt;p> For the published Web site look and feel, you can customize the views and &#xD;
+  nodes in the directory (tree) browser by defining &lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/custom_category_554AC4D6.html&quot; guid=&quot;_eqw94MaFEduMlb2cQZNTYw&quot;>custom &#xD;
+  categories&lt;/a> that will be part of your configuration. &lt;/p>&#xD;
+&lt;h3> Additional resources&amp;nbsp; &lt;/h3>&#xD;
+&lt;p> For more information on the fundamental concepts of method content and process, &#xD;
+  see &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../../core.default.uma_concept.base/guidances/concepts/basic_process_concepts_C90EF089.html&quot; guid=&quot;_FxJEkFUKEd2_rMtRMt_EMg&quot;>Concept: Basic Process Concepts&lt;/a>. &lt;/p>&#xD;
+&lt;p> For information on EPF Composer, see &lt;a class=&quot;elementLink&quot; href=&quot;./../../../core.default.tool_def.base/guidances/supportingmaterials/epf_resources_446F3946.html&quot; guid=&quot;_C2FS4F_lEd2zpKtX6B7lBg&quot;>EPF Resources&lt;/a>. &lt;/p>&#xD;
+&lt;p> For information on Rational Method Composer, see &lt;a class=&quot;elementLink&quot; href=&quot;./../../../core.default.tool_def.base/guidances/supportingmaterials/rational_method_composer_resources_ADE2B192.html&quot; guid=&quot;_dlGBQF_nEd2zpKtX6B7lBg&quot;>Rational Method Composer Resources&lt;/a>. &lt;/p>&#xD;
+&lt;p> For detailed customization scenarios, consult the tutorials included in the &#xD;
+  Method Composer online Help, as well the general authoring topics. &lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-6-EbAPOwgLNOseKXLyfu0A"
+    name="defining_practice_configurations,_FnCOMAz8Ed2135n7CJzRCQ" guid="-6-EbAPOwgLNOseKXLyfu0A"
+    changeDate="2008-11-01T03:51:17.343-0800" version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    &lt;a class=&quot;elementLink&quot; href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_configuration_CC7754F2.html&quot;&#xD;
+    guid=&quot;_0H9aAO7EEdy9EOwDlaw7Kw&quot;>Practice Configuration&lt;/a>s are an important artifact in a &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_fw_6DA4D54D.html&quot;&#xD;
+    guid=&quot;__LjaEFQsEd2uvIuuFjd1Fg&quot;>Practice Framework&lt;/a>&amp;nbsp;as they assemble a specific set of &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/concepts/practice_F5C8EAAB.html&quot;&#xD;
+    guid=&quot;_qhCTAFRREd2CWscN8Mx6rg&quot;>Practice&lt;/a>s into something a practitioner can use.&amp;nbsp;When defining the practice&#xD;
+    configuration, you must adhere to the architecture of the framework in which the configuration is to exist.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Thus, when trying to decide what practice configurations to produce, it is important to take the time to understand the&#xD;
+    nature of the business problem the practice configuration is intended to solve (the configuration's purpose) and who&#xD;
+    will be the primary consumers of the configuration (the configuration's intended audience). Understand what the scope&#xD;
+    of the problem is and the approach to solving it. This understanding forms the basic information that will guide many&#xD;
+    decisions that will affect the ultimate usefulness of the process configuration. It will also guide you in choosing an&#xD;
+    applicable name for the practice configuration.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    At this point, its even a good idea to identify practices that will be included in the practice configuration, as well&#xD;
+    as any &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/termdefinitions/cross_practice_process_5F83B112.html&quot;&#xD;
+    guid=&quot;_9NcfoFJgEd2SzrMjC_svdw&quot;>cross-practice process&lt;/a>es that may be included and what practices they will be&#xD;
+    assembled from.&amp;nbsp;These are not defined in detail at this stage, but identifying them can help clarify the scope of&#xD;
+    the practice configuration.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    In summary, the following are some key pieces of information that you should capture for a practice configuration and&#xD;
+    some examples for that information:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Name: MAM for Organization X&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Purpose: Describe the best practices for authoring practice frameworks at Organization X.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Scope: All MAM practice framework practices plus Organization X customizations.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Intended Audience: Process Engineers at Organization X&lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Practice configurations are physically represented by publishable configurations. Thus, defining a practice&#xD;
+    configuration involves identifying, naming and briefly describing that publishable configuration, and including the&#xD;
+    above information in the definition of the publishable configuration.&amp;nbsp;For more information on publishable&#xD;
+    configurations, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_lib_config_types_B96A959A.html&quot;&#xD;
+    guid=&quot;_1gchoO6dEdygKbJMUVNEtg&quot;>Concept: Practice Library Configuration Types&lt;/a>. For more information on defining&#xD;
+    configurations, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/guidelines/defining_method_configurations_2B25CEA5.html&quot;&#xD;
+    guid=&quot;_l77zcIB-EduaS6LQ8n6xUQ&quot;>Guideline: Defining Method Configurations&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Note: A practice configuration can be defined by mimicking an existing practice configuration. In that case, you can&#xD;
+    define the new practice configuration by copying components of the original practice configuration, including the&#xD;
+    existing practice configuration's method configuration and practice configuration-specific Publish plug-in.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

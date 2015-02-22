@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Irf7mCG9WestaIZpdB4cmg" name="new_artifact,_HI9GUFmNEeSnr-1nkoLXsg" guid="-Irf7mCG9WestaIZpdB4cmg" authors="John Rozsa" changeDate="2014-10-23T18:54:20.018-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>The risk management plan describes how risk management activities are to be structured and performed. The risk management
+        plan includes the following:&lt;br />
+        &lt;br />
+        Roles and responsibilities - Defines the risk management team members for each type of activity in the risk management
+        plan, and clarifies responsibilities.&lt;br />
+         &lt;br />
+         Methodology - Defines the tools, approaches, and data sources that will be used to perform risk management on the
+        project.&lt;br />
+         &lt;br />
+         Risk categories - Allows a way for grouping potential causes of risk. An organization can use a custom categorization
+        framework, which may take the form of a simple list of categories or a very structured outline as a hierarchical
+        representation of risks according to their risk categories.&lt;br />
+         &lt;br />
+         Budgeting - Estimates of potential funds needed, based on assigned resources, for inclusion in the cost baseline and
+        establishes protocols for application of contingency and management reserves.&lt;br />
+         &lt;br />
+         Timing - Outlines the time when and how often the risk management processes will be enacted throughout the project life
+        cycle and establishes the risk management activities for the project schedule.&lt;br />
+         &lt;br />
+         Definitions of risk probability and impact - Provides the definitions of probability levels and impact levels. It is
+        developed to the specifics of the individual project during the Plan Risk Management process.&lt;br />
+         &lt;br />
+         Probability and impact matrix - A grid for mapping the probability of each risk, the probability of occurrence and its
+        impact on project objectives if that risk occurs. They are prioritized according to their potential implications for having
+        an effect on the project's objectives. It often uses a combination of probability and impact that lead to a risk being
+        rated as &quot;high,&quot; &quot;moderate,&quot; or &quot;low&quot; importance are usually set by the organization.&lt;br /></mainDescription>
+  <impactOfNotHaving>By not considering and formally understanding and planning for potential project risks outcome of the project has a higher
+        potential of failure. Understanding the potential risks for project success in advance allows for activities that either
+        avoid or mitigates the possible issues that may arise.&lt;br /></impactOfNotHaving>
+  <reasonsForNotNeeding>Often, very small initiative with short durations and low impact if not successful do not need a formal risk management
+        process.&lt;br /></reasonsForNotNeeding>
+</org.eclipse.epf.uma:ArtifactDescription>

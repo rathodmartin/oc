@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-3XliwUXDznCtaDeMiP0XYw"
+    name="new_guideline,_OLr2MFizEd2AFZhgf_Sb-A" guid="-3XliwUXDznCtaDeMiP0XYw" changeDate="2008-10-14T10:14:18.296-0700"
+    version="7.5.0">
+  <mainDescription>&lt;p>&#xD;
+    In the &lt;a class=&quot;elementLink&quot; href=&quot;./../../../core.mdev.common.extend_umf/guidances/concepts/umf_C03950A8.html&quot;&#xD;
+    guid=&quot;_nrrn4GqHEdun45RPFGeYnA&quot;>Unified Method Framework (UMF)&lt;/a>, every Base and Extend plug-in the must have&#xD;
+    documented release information. Generally, release information is not captured for Assign plug-ins. For more&#xD;
+    information on Base and Assign plug-ins, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.extend_umf/guidances/concepts/umf_plugin_parts_538A81D.html&quot;&#xD;
+    guid=&quot;_vgjh4PG1EdyO9sYxKNWf8A&quot;>Concept: UMF Plug-In Parts&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The release information is captured in a supporting material element in a separate package&amp;nbsp;in the plug-in.&amp;nbsp;In&#xD;
+    the Release Information supporting material method element, do not include anything in the Brief description field&#xD;
+    (there is no suitable shape icon, so we don’t want any heading for these pages).&amp;nbsp;In the Main description field,&#xD;
+    capture information about what has changed for each released version of the plug-in.&amp;nbsp;Include&amp;nbsp;a separate&#xD;
+    section for each version, with the most recent version listed first. Set the Node icon to point to the node icon for&#xD;
+    release notes.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Tag the release information elements with the &quot;release information&quot; tag so that they appear in the release information&#xD;
+    list when published.&amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

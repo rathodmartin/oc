@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Vg8UBwPb76YKgkurg5y_SA" name="new_supporting_material,_91rawBAOEeOEMIGDGXUvwA" guid="-Vg8UBwPb76YKgkurg5y_SA" authors="Rakesh D. Rathod" changeDate="2014-06-10T21:36:21.674-0400" changeDescription="Baseline" version="1.0">
+  <mainDescription>&lt;p>
+            The OpenUP suite of processes,&amp;nbsp;maturity models, process elements and guidance content is organized&amp;nbsp;in a
+            specific way. The&amp;nbsp;methods, activities and tasks, work products and people&amp;nbsp;needed to describe these
+            items&amp;nbsp;make up a process.
+        &lt;/p>
+        &lt;p>
+            In short,&amp;nbsp;Process&amp;nbsp;Engineering Process is the process of describing, documenting, &amp;nbsp;designing, building,
+            testing and deplying a First Niagara process or process element.&amp;nbsp;
+        &lt;/p>
+        &lt;p>
+            Imagine the factory floor. Raw materials enter the floor from one end of the large building, twisting and turning
+            through various stations, transformed to pieces or parts of the end product that is later sold to consumers. Now,
+            imagine the same factory where each station is &lt;strong>&lt;u>not&lt;/u>&lt;/strong> integrated with other stations. In fact,
+            when material leaves one station, workers have little knowledge where to send the material for the next station or in
+            what form the next station requires for optimal processing. Imagine the chaos and quality of products leaving the
+            factory floor and the amount of time and money wasted on each unit produced.
+        &lt;/p>
+        &lt;p>
+            To avoid such a scenario, factories rely heavily on an end-to-end process that integrates stations and one that is
+            organized to streamline the manufacturing of raw materials to the end product. In fact, factories are always looking
+            for ways to speed the production process and get the finished product to the consumer in the quickest way and with high
+            quality.Raw material (business needs and requirements) must be shaped, stretched, and formed to become the application
+            or system business uses to deliver products and services to generate Client revenue.
+        &lt;/p>
+        &lt;p>
+            Without a structured approach, domain (or content) owners will develop processes using tools and techniques that are
+            inconsistent between domains (stations). Description and documentation styles vary as evidenced in swimlane diagrams,
+            use cases, or Microsoft Visio flowcharts and Microsoft Word documents. Further, without a structured approach, design
+            and development of processes may follow&amp;nbsp;a path best suited to the&amp;nbsp;description and documentation rather than a
+            process engineering discipline.
+        &lt;/p>
+        &lt;p>
+            The Process Engineering Process is a structured approach that gives domain owners the ability to focus on development
+            of comprehensive processes and process elements and associated descriptions.&amp;nbsp;The Process Engineering Process also
+            gives the methods and tools&amp;nbsp;to&amp;nbsp;present material in a consistent way&amp;nbsp;so consumers of&amp;nbsp;methodology can
+            find and use relevant information&amp;nbsp;consistently between projects.&amp;nbsp;
+        &lt;/p>
+        &lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

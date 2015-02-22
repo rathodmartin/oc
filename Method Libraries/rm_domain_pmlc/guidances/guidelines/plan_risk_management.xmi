@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-YZeHPC_wFB2WksG5hB5YZQ" name="new_guideline,_OJcxAFQQEeStpcwZ0CyxeQ" guid="-YZeHPC_wFB2WksG5hB5YZQ" authors="John Rozsa" changeDate="2014-10-14T22:10:20.461-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>&lt;p>
+            Project risk is an uncertain condition that, if it occurs, has a positive or negative effect on one or more project
+            objectives such as scope, schedule, cost, and quality. Risks result or be a result of a potential requirement,
+            assumption, constraint, or condition that creates the possibility of negative or positive outcomes. Additionally, risk
+            conditions may be a result of the project's or organization's environment that contribute to project risk, such as
+            immature project management practices, lack of integrated management systems, concurrent multiple projects, or
+            dependency on external participants who are outside the project's direct control.&lt;br />
+             Risks come out of the unknowns surrounding the project. Known risks have been identified and analyzed, making it
+            possible to plan responses for those risks. They cannot be managed proactively, but should be assigned a contingency.
+            Unknown risks can't be managed proactively and may be assigned a management reserve.&lt;br />
+        &lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

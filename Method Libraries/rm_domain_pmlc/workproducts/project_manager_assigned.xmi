@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:WorkProductDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-8z-6Ry8F649a6_H7uXmLeA" name="new_outcome,_viZAoDD7EeSHm971buwRxw" guid="-8z-6Ry8F649a6_H7uXmLeA" authors="John Rozsa" changeDate="2014-09-13T21:58:11.941-0400" changeDescription="Initial content." version="BL">
+  <mainDescription>Typically, the project sponsor, either directly or indirectly, assigns a project manager. If the organization has a pool of
+        project managers, the sponsor requests a project manager to be asigned to the project.&lt;br /></mainDescription>
+  <impactOfNotHaving>Not having a project manager affects the project in many ways. Most notably, the project will tend to have no direction or
+        sense of urgency.&lt;br /></impactOfNotHaving>
+  <reasonsForNotNeeding>The project manager provides the necessary focus and direction to effectively complete the initiative outlined in the
+        project description, typically formed as a project statement of work.&lt;br /></reasonsForNotNeeding>
+</org.eclipse.epf.uma:WorkProductDescription>

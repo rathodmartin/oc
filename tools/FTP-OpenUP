@@ -1,0 +1,80 @@
+#! /bin/bash
+
+# Usage: 
+# 		FTP-OpenUP - Auto FTP and BackUp File Utility for OpenUP Administration
+#
+# SYNOPSIS
+# 		FTP-OpenUP -?
+# 		FTP-OpenUP --help
+#		FTP-OpenUP strDate log_file_name [-t|--test] 
+#
+# DESCRIPTION
+#		FTP-OpenUP provides a one-command interface to FTP the OpenUP environment.
+#
+# COMMANDS
+# 		log_file_name  relative or absolute path name of the log file
+#       t , test       FTP Published environment to the test area
+#
+#
+#
+
+# Set the Command Line Parameters
+	OPTIONS="$1"
+	case $OPTIONS in
+		# Provide Help
+		"-?"|"--help" )
+			echo -e "\n" ;
+			echo -e "Usage: FTP-OpenUP strDate log_file_name [-t|--test] \n" ;
+			echo -e "Auto FTP and backUp file utility for OpenUP administration.\n" ;
+			echo -e "Optional arguments." ;
+			echo -e "     -?,  --help           this help page" ;
+			echo -e "     -t,  --test            execute all functions in the script" ;
+			echo -e " " ;
+			exit ;
+			;;	
+	esac
+
+
+# Provide Help
+	if [ "$OPTIONS" = "-?" -o "$OPTIONS" = "--help" ]; then
+		echo -e "\n"
+		echo -e "Usage: FTP-OpenUP\n"
+		echo -e "Auto FTP utility for OpenUP.\n"
+		echo -e "Optional arguments."
+		echo -e "     -?,  --help           this help page"
+		exit
+	fi
+	
+# Set the Environment Vars for Filename Use
+	export strBase=/cygdrive/c/users/fnfg/epf
+	export strDate=$1
+	export fnEPFC=BU-$strDate-EPFC.zip
+	export fnPUBL=BU-$strDate-OpenUP.zip
+	export fnLOG=$2
+	
+	export strSrcDir=/cygdrive/c/users/fnfg/epf/publish
+	export strDstDir=/
+	if [ "$3" = "-t" -o "$3" = "--test" ]; then
+		strDstDir=$strDstDir"test"
+	fi
+
+# Prepare the Log File
+	echo "LOG=" $fnLOG
+	if [ ! -f "$fnLOG" -o "$fnLOG" = "" ]; then
+		echo -e "Sorry, no log file to append. Output will only go to screen."
+		export fnLOG=""
+	fi
+    echo -e "Source Directory> " $strSrcDir ;
+	echo -e "Destination Direcory> " $strDstDir ;
+	
+# FTP The Published Environment to the Server
+	echo -e "====> FTP the Published Environment to the Server\n" | tee -a $fnLOG
+		ncftpput -R -u rakesh -p rathod openup.fnfg.com $strDstDir $strSrcDir/* | tee -a $fnLOG 
+	echo -e "   ... FTP index.htm to the Server\n" | tee -a $fnLOG 
+		ncftpput -u rakesh -p rathod openup.fnfg.com $strDstDir /home/014903/Tools/index.htm.orig | tee -a $fnLOG
+	echo -e "   ... FTP index.html to the Server\n" | tee -a $fnLOG 
+		ncftpput -u rakesh -p rathod openup.fnfg.com $strDstDir /home/014903/Tools/index.html.orig | tee -a $fnLOG
+	echo -e "   ... FTP OpenUP Icon to the Server\n" | tee -a $fnLOG 
+		ncftpput -u rakesh -p rathod openup.fnfg.com $strDstDir /home/014903/Tools/FNFG-OpenUP-Logo-Red.ico | tee -a $fnLOG
+		
+		

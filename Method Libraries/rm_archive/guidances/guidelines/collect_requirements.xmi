@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hCnN8fP3yfUD2vgwPOZsxw" name="new_guideline,_UTgQwDusEeSIrOwVunFgpg" guid="-hCnN8fP3yfUD2vgwPOZsxw" authors="John Rozsa" changeDate="2014-09-13T21:14:33.525-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>&lt;font size=&quot;4&quot;>&lt;span style=&quot;font-family: Candara;&quot;>Requirements are often grouped to allow for further refinement as they
+        are elaborated. These may include:&lt;/span>&lt;span style=&quot;font-family: Candara;&quot;>&lt;br />
+        &lt;/span>&lt;/font> 
+        &lt;ul>
+            &lt;li>
+                &lt;font size=&quot;4&quot;>&lt;span style=&quot;font-family: Candara;&quot;>Business requirements - the higher-level needs of the
+                organization, such as the business issues or opportunities, and reasons why a project has been &lt;font
+                size=&quot;4&quot;>undertaken.&lt;/font>&lt;/span>&lt;/font>
+            &lt;/li>
+            &lt;li>
+                &lt;font size=&quot;4&quot;>&lt;span style=&quot;font-family: Candara;&quot;>Stakeholder requirements - the needs of a
+                stakeholder(s)&lt;/span>&lt;/font>
+            &lt;/li>
+            &lt;li>
+                &lt;font size=&quot;4&quot;>&lt;span style=&quot;font-family: Candara;&quot;>Solution requirements - the features, functions, and overall
+                characteristics of the solution or product. These are often broken down into functional and nonfunctional
+                requirements:&lt;/span>&lt;/font>
+            &lt;/li>
+            &lt;li>
+                &lt;font size=&quot;4&quot;>&lt;span style=&quot;font-family: Candara;&quot;>Functional requirements - the behaviors of the
+                product.&lt;/span>&lt;/font>
+            &lt;/li>
+            &lt;li>
+                &lt;font size=&quot;4&quot;>&lt;span style=&quot;font-family: Candara;&quot;>Non-functional requirements - describes conditions and qualities
+                for the product or solution to be effective. For example; performance, level of service, reliability, security,
+                safety, supportability, etc.&lt;/span>&lt;/font>
+            &lt;/li>
+            &lt;li>
+                &lt;font size=&quot;4&quot;>&lt;span style=&quot;font-family: Candara;&quot;>Transition requirements - those temporary capabilities, such as
+                training or data conversion requirements, needed to transition from the current state to future
+                state.&lt;/span>&lt;/font>
+            &lt;/li>
+            &lt;li>
+                &lt;font size=&quot;4&quot;>&lt;span style=&quot;font-family: Candara;&quot;>Project requirements - the project norms or other conditions the
+                project needs to function&lt;/span>&lt;/font>
+            &lt;/li>
+            &lt;li>
+                &lt;font size=&quot;4&quot;>&lt;span style=&quot;font-family: Candara;&quot;>Quality requirements - conditions or criteria needed to validate
+                the successful completion of the project deliverables.&lt;/span>&lt;/font>&lt;br />
+            &lt;/li>
+        &lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FjFxfGiYAgyxyEgfkH_uYQ" name="new_artifact,_AEa-8L9CEeOxGd0QHZtQBg" guid="-FjFxfGiYAgyxyEgfkH_uYQ" authors="Patrick Martin" changeDate="2014-04-08T13:24:02.148-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>Project closure confirms completion and acceptance of project deliverables to the satisfaction of the project sponsor, and
+        communicates final project disposition and status to all participants and stakeholders. Closing activities also include
+        identification and capture of lessons learned and best practices, and archival of project deliverables for subsequent
+        reference, organizational learning and reuse.&lt;br /></mainDescription>
+  <keyConsiderations>Project closure has a positive effect on future projects if done thoughtfully and correctly.&lt;br /></keyConsiderations>
+  <impactOfNotHaving>Missed opportunity for process improvement. Possible repetition of past project failures. No understanding of delivered
+        value.&lt;br /></impactOfNotHaving>
+  <reasonsForNotNeeding>Acceptance is always required. A low risk project may not require additional closure documentation.&lt;br /></reasonsForNotNeeding>
+  <briefOutline>The project closure typically consists of:&lt;br />
+         &lt;br />
+         
+        &lt;ul>
+            &lt;li>
+                Completion &amp;amp; acceptance
+            &lt;/li>
+            &lt;li>
+                Lessons learned
+            &lt;/li>
+            &lt;li>
+                Release of resources
+            &lt;/li>
+            &lt;li>
+                Final accounting &amp;amp; reporting
+            &lt;/li>
+            &lt;li>
+                Team celebrations&lt;br />
+            &lt;/li>
+        &lt;/ul>
+        &lt;br /></briefOutline>
+</org.eclipse.epf.uma:ArtifactDescription>

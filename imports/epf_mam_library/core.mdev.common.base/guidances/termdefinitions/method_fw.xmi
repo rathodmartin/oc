@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-Zk4CmjRDfNWPgvGklgPQxQ"
+    name="new_term_definition,_q1assAvFEd2Z4aGiwM2NOA" guid="-Zk4CmjRDfNWPgvGklgPQxQ"
+    changeDate="2008-04-16T07:59:35.781-0700" version="7.2.0">
+  <mainDescription>A method framework is a method that is intended to be scaled extensively, is intended to support a number of different&#xD;
+contexts and/or layers and/or is intended to be used to produce a family of methods (i.e., is intended to be the foundation&#xD;
+for a number of different methods).&amp;nbsp;</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

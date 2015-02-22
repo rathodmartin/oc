@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-M_N0mSQR7gJNkBDTAI3A3w" name=",_V2gXIDwFEeSGc6ZYf7rWrg" guid="-M_N0mSQR7gJNkBDTAI3A3w" authors="John Rozsa" changeDate="2014-10-22T20:22:44.351-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>The project management plan defines how the project is executed and controlled. The plan's content varies depending upon
+        the complexity of the project. It is updated and refined throughout the duration of the project. It establishes specific
+        project baselines which include project scope, schedule and costs.&lt;br />
+        &lt;br />
+        Once these baselines are established, it may only be changed when a change request is generated and approved through the
+        Change Control process.&lt;br /></mainDescription>
+  <sections xmi:id="_cKTd8GYqEeSeMbOi5SCXJQ" name="Define plan components" guid="_cKTd8GYqEeSeMbOi5SCXJQ"/>
+  <sections xmi:id="_d0Wk8GYqEeSeMbOi5SCXJQ" name="Document/prepare subsidary plans" guid="_d0Wk8GYqEeSeMbOi5SCXJQ"/>
+  <sections xmi:id="_fWftIGYqEeSeMbOi5SCXJQ" name="Coordinate all subsidary plans" guid="_fWftIGYqEeSeMbOi5SCXJQ"/>
+  <sections xmi:id="_mQwqcGzWEeS3VKD_mIj3NQ" name="Integrate all subidary plans" guid="_mQwqcGzWEeS3VKD_mIj3NQ"/>
+</org.eclipse.epf.uma:TaskDescription>

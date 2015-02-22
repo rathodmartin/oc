@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-DXMJHQTwm485QzYyc5YxCg"
+    name="umf_practice_plugin_example,_g6rj8IKMEd2NQYBY1jUNtw" guid="-DXMJHQTwm485QzYyc5YxCg"
+    changeDate="2008-09-14T04:34:55.359-0700" version="7.5.0">
+  <mainDescription>&lt;p>&#xD;
+    Figure 1 is an example of a Practice Base plug-in.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Note the:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Practice-specific method content elements (tasks. work products, checklists, guidelines), especially the main&#xD;
+        practice guidance element, practice_fw_arch_practice,&amp;nbsp;and the&amp;nbsp;standard &quot;how to adopt&quot; roadmap&#xD;
+        that&amp;nbsp;is defined for every practice&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Practice-specific tool mentors in the tool_guidance package, with sub-packages for individual tools.&amp;nbsp; There&#xD;
+        are also task contributors that add the tool mentors to the tasks&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Practice-specific processes, with activities shared between processes defined in the Common Activities package.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Tool standard category contributors that add the practice tool mentors to the tool standard categories&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Figure 1: UMF Practice Base Plug-In Example&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img alt=&quot;umf_practice_base_plugin_example&quot; src=&quot;./resources/umf_practice_base_plugin_ex.gif&quot; />&lt;br />&#xD;
+&lt;/p>&lt;br /></mainDescription>
+</org.eclipse.epf.uma:GuidanceDescription>

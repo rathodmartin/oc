@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jKVwczFnNZTvdLPMYrTMCA" name="new_role,_3VMUULm3EeOjhZ-MtCWe2g" guid="-jKVwczFnNZTvdLPMYrTMCA" authors="Patrick Martin" changeDate="2014-04-08T20:42:04.829-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>Project stakeholders are individuals and organizations that are actively involved in the project, or whose interests may be&#xD;
+affected as a result of project execution or project completion. They may also exert influence over the project's&#xD;
+objectives and outcomes.</mainDescription>
+  <keyConsiderations>Stakeholders are necessary to determine project requirements and expectations, and, to the extent possible, manage and&#xD;
+influence requirements to ensure a successful project.</keyConsiderations>
+  <skills>Competent authority accountable and/or responsible for project outcomes. Accountable representative of affected groups.&#xD;
+Responsible representative of team disciplines.</skills>
+  <assignmentApproaches>Stakeholders are people who can say YES not just no. Seek authority and accountability.</assignmentApproaches>
+  <synonyms>Collaborator, Partner, Shareholder, Collegue</synonyms>
+</org.eclipse.epf.uma:RoleDescription>

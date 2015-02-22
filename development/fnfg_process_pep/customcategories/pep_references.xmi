@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qcOZ9YEwQvmBD-JlNYwQXQ" name="new_custom_category,_3EPBEBV9EeOODbTkX__Yaw" guid="-qcOZ9YEwQvmBD-JlNYwQXQ" authors="Rakesh D. Rathod" changeDate="2013-09-04T12:21:01.593-0400" changeDescription="Baseline" version="1.0">
+  <mainDescription>&lt;p>&#xD;
+    References provide common information used in methodologies and the application of discipline to develop program or&#xD;
+    project artifacts. While most references will be generic in language, it is the reader's responsibility to apply the&#xD;
+    reference to specific situations and tailor, if necessary, the details to meet the demands of the situation.&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>Key considerations in tailoring the information can include, but are not limited to, the program, project, and specific&#xD;
+user or information technology needs.</keyConsiderations>
+</org.eclipse.epf.uma:ContentDescription>

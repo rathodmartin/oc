@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-I1ZuDZxxZV-wxQWFlsf0cw"
+    name="new_practice,_2B5XACOREd2P4qHA1XIcyQ" guid="-I1ZuDZxxZV-wxQWFlsf0cw" changeDate="2008-08-06T11:45:11.343-0700"
+    changeDescription="July 1,2008: Initial version " version="7.5.0">
+  <problem>&lt;p>&#xD;
+    This practice provides guidance for authoring &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/concepts/practice_F5C8EAAB.html&quot;&#xD;
+    guid=&quot;_qhCTAFRREd2CWscN8Mx6rg&quot;>Practice&lt;/a>s that are to existing within a &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_framework_6DA4D54D.html&quot;&#xD;
+    guid=&quot;__LjaEFQsEd2uvIuuFjd1Fg&quot;>Practice Framework&lt;/a>, including information on structuring and detailing the practice.&#xD;
+&lt;/p></problem>
+  <application>&lt;p>&#xD;
+    The best way to read this practice is to first familiarize yourself with its overall structure -- what it is in it and&#xD;
+    how it is organized.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The best place to start is with the &lt;strong>Key Concepts&lt;/strong> for the practice -- those concepts that are critical&#xD;
+    to understand in order to adopt the practice.&amp;nbsp; Once you understand the key concepts, you can turn your attention&#xD;
+    to the key capabilities provided by the practice (i.e., the &lt;strong>Scenarios&lt;/strong>), from which you can access the&#xD;
+    applicable practice elements. You can also access the guidance provided by the practice directly, via the&#xD;
+    &lt;strong>Guidance&lt;/strong>&amp;nbsp;folder.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    For information on how to adopt this practice, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../practice.mdev.auth.practice_auth.base/guidances/roadmaps/how_to_adopt_practice_auth_B650BA42.html&quot;&#xD;
+    guid=&quot;_OZHJYCXKEd2dSdS2FPKaIA&quot;>Roadmap: How to Adopt Practice Authoring&lt;/a>.&#xD;
+&lt;/p></application>
+</org.eclipse.epf.uma:PracticeDescription>

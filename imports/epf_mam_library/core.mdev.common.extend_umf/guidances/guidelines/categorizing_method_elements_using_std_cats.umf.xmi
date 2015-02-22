@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-4jwQ0ggFiDlKO8M_Ic8k_g"
+    name="categorizing_method_elements_using_std_cats.pau,__i43oDGHEdyYtoht8AwS3g"
+    guid="-4jwQ0ggFiDlKO8M_Ic8k_g" changeDate="2008-11-19T07:45:54.453-0800" version="7.1.0">
+  <mainDescription>&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Special instructions when authoring in the UMF&lt;/strong>: When categorizing method elements for practices that&#xD;
+    are to exist within the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.extend_umf/guidances/concepts/umf_C03950A8.html&quot;&#xD;
+    guid=&quot;_nrrn4GqHEdun45RPFGeYnA&quot;>Unified Method Framework (UMF)&lt;/a>, there are some constraints with regards to the&#xD;
+    definition and use of standard categories.&amp;nbsp; For more information, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.extend_umf/guidances/guidelines/std_cats_in_the_umf_ADADE30D.html&quot;&#xD;
+    guid=&quot;_W44bEMeQEdyDDM3XyGAKxw&quot;>Guideline: Standard Categories in the UMF&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

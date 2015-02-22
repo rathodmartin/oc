@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-aNyy-jdb4oLomPY1Gy1WsQ"
+    name="new_concept,_Er1OcJIfEdybeduord13cg" guid="-aNyy-jdb4oLomPY1Gy1WsQ" changeDate="2008-10-12T10:04:31.703-0700"
+    version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    Work product slots are indirections for the &lt;em>inputs&lt;/em> of tasks of a &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/concepts/practice_F5C8EAAB.html&quot;&#xD;
+    guid=&quot;_qhCTAFRREd2CWscN8Mx6rg&quot;>Practice&lt;/a>&amp;nbsp;that allow practices to be documented independent of any other&#xD;
+    practice, i.e. independent of the work products produced by other practices. Practice task refer to work product slots&#xD;
+    as inputs, rather than refer directly to specific work products. Work product slots should never be listed as an output&#xD;
+    of a task.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Practices that create specific&amp;nbsp;work products indicate what work product slots those concrete work products&#xD;
+    fulfill.&amp;nbsp;Then, when both the slot fulfilling practices and the slot-consuming practices are&amp;nbsp;included in a&#xD;
+    configuration, the fulfilling work products&amp;nbsp;will be&amp;nbsp;associated with&amp;nbsp;the work product slots.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    For example, it is quite possible to write a task for creating an object-oriented analysis model for a set of&#xD;
+    requirements independent of the concrete format the requirements have been captured in and the practice that was used&#xD;
+    to elicit them. The requirements could be use cases, scenarios, user stories, stakeholder requests, an IEEE-830&#xD;
+    compliant specification or any other form. Hence, you could model an input relationship to a work product&#xD;
+    slot&amp;nbsp;such as specification and describe for the analysis task how one would look for specific properties in the&#xD;
+    input specification work product slot, such as the description of a user interaction or the description of a static&#xD;
+    structure, to denote which parts of the specification are relevant to consider for which parts of the analysis.&amp;nbsp;&#xD;
+    On the other hand, when a specific practice is selected for capturing and representing a specification such as Use-Case&#xD;
+    Based Development, and is combined with the object-oriented analysis practice, you actually want to see the concrete&#xD;
+    work products available through the selection of that use case practice, substituting the abstract specification&#xD;
+    placeholder when reviewing the analysis task. In addition, you will expect that use-case specific guidance to be&#xD;
+    available for the use case based analysis as well, refining the generic instruction of the task.&amp;nbsp; Work product&#xD;
+    slots support this.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

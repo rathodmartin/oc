@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-6kB7caWi0DC8ppujUv9RAQ"
+    name="new_term_definition,_39tdwOnwEduAapZyGeTI0Q" guid="-6kB7caWi0DC8ppujUv9RAQ"
+    changeDate="2007-04-13T11:58:41.843-0700" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    This term identifies the style used for names that users will see in the published web site.&amp;nbsp; Specifically it is a&#xD;
+    book title style, with upper case for key words and&amp;nbsp;spaces between words.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    These names are visible in the&amp;nbsp;user interface&amp;nbsp;of the application, as well as in the final published site, so&#xD;
+    they need to be easily translatable into national languages.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Example: Prepare Test Plan.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

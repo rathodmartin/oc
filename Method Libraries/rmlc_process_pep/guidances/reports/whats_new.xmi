@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-pH6pHuO0nTswbq3B-jfjXA" name="new_report,_hTZLABS5EeO836dD6FIFvQ" guid="-pH6pHuO0nTswbq3B-jfjXA" authors="Rakesh D. Rathod" changeDate="2014-06-10T21:38:44.505-0400" changeDescription="Baseline" version="1.0">
+  <mainDescription>&lt;h3 style=&quot;margin-right: 0px;&quot; dir=&quot;ltr&quot;>
+            OpenUP Releases
+        &lt;/h3>
+        &lt;blockquote style=&quot;margin-right: 0px;&quot; dir=&quot;ltr&quot;>
+            &lt;p style=&quot;margin-right: 0px;&quot; dir=&quot;ltr&quot;>
+                OpenUP releases are managed, controlled, and scheduled accordingly.&lt;br />
+            &lt;/p>
+        &lt;/blockquote>
+        &lt;h3 style=&quot;margin-right: 0px;&quot; dir=&quot;ltr&quot;>
+            What’s in the Process Engineering Process V1.0
+        &lt;/h3>
+        &lt;h5 style=&quot;margin-right: 0px;&quot; dir=&quot;ltr&quot;>
+            Enhancements in this Release Include:
+        &lt;/h5>
+        &lt;div style=&quot;margin-left: 2em;&quot; dir=&quot;ltr&quot;>
+            &lt;ul>
+                &lt;li>
+                    New process implemented this release of OpenUP.
+                &lt;/li>
+            &lt;/ul>
+        &lt;/div>
+        &lt;h5 style=&quot;margin-right: 0px;&quot;>
+            Fixes in this Release Include:
+        &lt;/h5>
+        &lt;div style=&quot;margin-left: 2em;&quot;>
+            &lt;ul>
+                &lt;li>
+                    &lt;div style=&quot;margin-right: 0px;&quot;>
+                        None.
+                    &lt;/div>
+                &lt;/li>
+            &lt;/ul>
+        &lt;/div>
+        &lt;h3 style=&quot;margin-right: 0px;&quot; dir=&quot;ltr&quot;>
+            Previous Versions
+        &lt;/h3>
+        &lt;blockquote style=&quot;margin-right: 0px;&quot; dir=&quot;ltr&quot;>
+            &lt;p style=&quot;margin-right: 0px;&quot; dir=&quot;ltr&quot;>
+                Previous version Release Notes lists the new features, enhancements and fixes. To access previous version, click
+                the version number:
+            &lt;/p>
+            &lt;table title=&quot;&quot; border=&quot;1&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot; width=&quot;50%&quot;>
+                &lt;tbody>
+                    &lt;tr>
+                        &lt;th abbr=&quot;&quot; scope=&quot;col&quot;>
+                            Version (Click to access the version in a new window)
+                        &lt;/th>
+                        &lt;th abbr=&quot;&quot; scope=&quot;col&quot;>
+                            Release Date
+                        &lt;/th>
+                    &lt;/tr>
+                    &lt;tr>
+                        &lt;td>
+                            None
+                        &lt;/td>
+                        &lt;td>
+                        &lt;/td>
+                    &lt;/tr>
+                &lt;/tbody>
+            &lt;/table>
+        &lt;/blockquote>
+        &lt;h3 style=&quot;margin-right: 0px;&quot; dir=&quot;ltr&quot;>
+            Continuous Improvement
+        &lt;/h3>
+        &lt;blockquote style=&quot;margin-right: 0px;&quot; dir=&quot;ltr&quot;>
+            &lt;p style=&quot;margin-right: 0px;&quot; dir=&quot;ltr&quot;>
+                This site will continue to evolve as part of our continuous improvement processes. Please be sure to check the site
+                regularly for updates, especially if you are working on projects.
+            &lt;/p>
+            &lt;p style=&quot;margin-right: 0px;&quot; dir=&quot;ltr&quot;>
+                If your domain or process is not yet represented here and you would like to have your processes implemented,
+                contact us. We will work with you to help your team develop your content for OpenUP.
+            &lt;/p>
+        &lt;/blockquote>
+        &lt;h3 style=&quot;margin-right: 0px;&quot; dir=&quot;ltr&quot;>
+            Contact Us
+        &lt;/h3>
+        &lt;blockquote style=&quot;margin-right: 0px;&quot; dir=&quot;ltr&quot;>
+            &lt;p style=&quot;margin-right: 0px;&quot; dir=&quot;ltr&quot;>
+                If you have questions, need help or have feedback, contact us by:&lt;br />
+            &lt;/p>
+            &lt;p style=&quot;margin-right: 0px;&quot; dir=&quot;ltr&quot;>
+                Email: &lt;a href=&quot;mailto:openup@fnfg.com&quot; target=&quot;_blank&quot;>info@rathodmartin.com&lt;/a>&lt;br />
+                &lt;br />
+            &lt;/p>
+        &lt;/blockquote></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

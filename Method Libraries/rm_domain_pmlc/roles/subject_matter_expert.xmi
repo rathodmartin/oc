@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-wy_zombul10yrowOUm_fVg" name="new_role,_-Uk80FofEeSUmaNkcwFqUg" guid="-wy_zombul10yrowOUm_fVg" authors="John Rozsa" changeDate="2014-10-22T15:19:09.567-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>A subject-matter expert or SME is a person who is an authority in a particular area, topic or domain. They have special
+        knowledge or skills in a given topic or particular area of endeavor. Often SMEs required to &quot;sign off&quot; on the documents
+        developed for the project that are specifically in his/her area of expertise, checking it for accuracy.&lt;br /></mainDescription>
+  <skills>Specific, in-depth knowledge of the area(s) to which the project is about.&lt;br />
+        &lt;br />
+        Excellent communications skills&lt;br /></skills>
+</org.eclipse.epf.uma:RoleDescription>

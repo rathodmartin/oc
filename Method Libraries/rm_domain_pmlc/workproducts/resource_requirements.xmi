@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-x9dD29o44jAtmaoSqIrzKQ" name="new_artifact,_XIZJ0EkLEeSWLfgUXTkAlg" guid="-x9dD29o44jAtmaoSqIrzKQ" authors="John Rozsa" changeDate="2014-10-23T19:06:50.827-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>Resource requirements identify the types and quantities of resources required for each activity. They are often aggregated
+        to determine the estimated resources for each work package and work period. The documentation for each activity can include
+        how the estimate was derived and assumptions made around each activity and resource. Available resources and their skill
+        levels all are considered when determining project resources.&lt;br /></mainDescription>
+  <impactOfNotHaving>Understanding the necessary resources needed to effectively staff a project is critical to its success. The more complex,
+        the more necessary is the need to have a clear understanding of project resource requirements.&lt;br /></impactOfNotHaving>
+  <reasonsForNotNeeding>Small projects with one or two resources may not require a formal resource requirement document.&lt;br /></reasonsForNotNeeding>
+</org.eclipse.epf.uma:ArtifactDescription>

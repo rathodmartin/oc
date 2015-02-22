@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jKVwczFnNZTvdLPMYrTMCA" name="project_stakeholder,_3VMUULm3EeOjhZ-MtCWe2g" guid="-jKVwczFnNZTvdLPMYrTMCA" authors="John Rozsa" changeDate="2014-09-22T21:06:59.787-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>Project stakeholders are individuals, groups or organizations who may have an affect or be affected by the outcome of a
+        project. They may be actively involved in the project or simply be positively or negatively affected by the outcome of the
+        project.&lt;br style=&quot;font-family: Candara;&quot; />
+         &lt;br style=&quot;font-family: Candara;&quot; />
+         Stakeholders include all members of the project team along with interested parties that are internal or external to the
+        organization. They may have varying levels of responsibility and authority when participating on a project. Their
+        involvement often range from occasional contributions in surveys and focus groups to full project sponsorship which
+        includes providing financial, political or other support.&lt;br /></mainDescription>
+  <keyConsiderations>Stakeholders are necessary to determine project requirements and expectations, and, to the extent possible, manage and
+        influence requirements to ensure a successful project.</keyConsiderations>
+  <skills>Effective communications skills.&lt;font size=&quot;4&quot;>&lt;span style=&quot;font-family: Candara;&quot;>&lt;br />
+        &lt;/span>&lt;/font></skills>
+  <assignmentApproaches>Stakeholders are people who can say YES not just no. Seek authority and accountability.</assignmentApproaches>
+  <synonyms>Collaborator, Partner, Shareholder, Colleague</synonyms>
+</org.eclipse.epf.uma:RoleDescription>

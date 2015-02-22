@@ -1,0 +1,8 @@
+user rakesh
+rathod
+binary
+lcd c:\users\fnfg\epf\publish
+mput *
+put index.htm
+put index.html
+quit

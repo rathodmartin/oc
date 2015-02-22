@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-NVeHK_MT_7J2jKEyHY0H9A"
+    name="new_guideline,_1gchoO6dEdygKbJMUVNEtg" guid="-NVeHK_MT_7J2jKEyHY0H9A" changeDate="2008-10-30T13:22:47.250-0800"
+    version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    When developing a practice-based library, the following types of &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/method_configuration_C2B8FA8A.html&quot;&#xD;
+    guid=&quot;__V7pAMaEEduMlb2cQZNTYw&quot;>method configuration&lt;/a>s should be defined:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Process construction&lt;/strong> configurations.&amp;nbsp;These are configurations that are used for constructing&#xD;
+        &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/process_68E308B4.html&quot;&#xD;
+        guid=&quot;_yQ5m2NnmEdmO6L4XMImrsA&quot;>process&lt;/a>es (all processes must have a default configuration). Process&#xD;
+        construction configurations only contain the elements that are needed to construct&amp;nbsp;the process. They are not&#xD;
+        intended to be published, so they do not include any navigation views.&amp;nbsp;There is usually one process&#xD;
+        construction configuration for each &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/method_plugin_190B9F5E.html&quot;&#xD;
+        guid=&quot;_D4TLgMaGEduMlb2cQZNTYw&quot;>method plug-in&lt;/a>&amp;nbsp;that contains processes.&amp;nbsp; In that case, the name of the&#xD;
+        configuration should reflect the name of the plug-in that it is associated with.&lt;br />&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Publishable configurations&lt;/strong>.&amp;nbsp; These configurations are used for publishing specific sets of &lt;a&#xD;
+        class=&quot;elementLink&quot; href=&quot;./../../../core.default.uma_concept.base/guidances/concepts/practice_F5C8EAAB.html&quot;&#xD;
+        guid=&quot;_qhCTAFRREd2CWscN8Mx6rg&quot;>Practice&lt;/a>s. Publishable configurations contain all the elements to be&#xD;
+        published.&amp;nbsp;They also specify what navigation views that are to be published. There is usually one publishable&#xD;
+        configuration for each &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_configuration_CC7754F2.html&quot;&#xD;
+        guid=&quot;_0H9aAO7EEdy9EOwDlaw7Kw&quot;>Practice Configuration&lt;/a>.&amp;nbsp;In that case, the name of the configuration should&#xD;
+        reflect the name of the practice configuration it is associated with.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Note: While process construction configurations are intended to be used as the default configurations for processes, a&#xD;
+    process may have a default configuration that is NOT a process construction configuration.&amp;nbsp;Instead, a process may&#xD;
+    have a publishable configuration as its default configuration.&amp;nbsp;In fact, &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/delivery_process_BCDF50B7.html&quot;&#xD;
+    guid=&quot;_ZufeMCO3EdqaNq6Ptg8uyA&quot;>delivery process&lt;/a>es&amp;nbsp;usually have a publishable configuration as&amp;nbsp;their&#xD;
+    default configuration, while &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/capability_pattern_F5DDC5F.html&quot;&#xD;
+    guid=&quot;_2RUJACO4EdqaNq6Ptg8uyA&quot;>capability pattern&lt;/a>s usually have a process construction configuration as&amp;nbsp;their&#xD;
+    default configuration.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The benefits of the configuration types is that they make it easy to see what configurations are just default&#xD;
+    configurations for processes in specific plug-ins and which configurations are for publishing.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    For more information on the different plug-in types, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_lib_plugin_types_3EA8002F.html&quot;&#xD;
+    guid=&quot;__428YO6cEdygKbJMUVNEtg&quot;>Concept: Practice Library Plug-In Types&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

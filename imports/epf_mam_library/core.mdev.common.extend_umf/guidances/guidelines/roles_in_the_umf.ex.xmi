@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-jSd1cEE63s3_hsCFlVgAcw"
+    name="new_guideline,_i7IdUILPEd2NQYBY1jUNtw" guid="-jSd1cEE63s3_hsCFlVgAcw" changeDate="2008-09-14T19:40:19.015-0700"
+    version="7.5.0">
+  <mainDescription>For an example of a Role Definition Base plug-in, see &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../core.mdev.common.extend_umf/guidances/examples/umf_role_def_base_plugin_example_772F02EB.html&quot;&#xD;
+guid=&quot;_bCZb8ILOEd2NQYBY1jUNtw&quot;>UMF Role Definition Base Plug-In Example&lt;/a>.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-SQ05xBXUt6AVSHaSltVFuw"
+    name="new_supporting_material,_dlGBQF_nEd2zpKtX6B7lBg" guid="-SQ05xBXUt6AVSHaSltVFuw"
+    changeDate="2008-08-06T15:30:09.425-0700" version="7.5.0">
+  <mainDescription>&lt;p> For more information on Rational Method Composer, see these sources: &lt;/p>&#xD;
+&lt;ul>&#xD;
+  &lt;li> The &lt;a href=&quot;http://www.ibm.com/software/awdtools/rmc&quot;>Rational Method &#xD;
+    Composer&lt;/a> product page on IBM developerWorks&lt;/li>&#xD;
+  &lt;li> &lt;a href=&quot;http://www.ibm.com/developerworks/rational/library/dec05/haumer/index.html%20&quot;>IBM &#xD;
+    Rational Method Composer: Part 1. Key concepts&lt;/a>, a developerWorks article &#xD;
+    by Peter Haumer (December 2005) &lt;br />&#xD;
+  &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-pPz1UDlkl_mVuzsmR5YMpA" name=",_dus28Pt4EeK6X-ODr_6b9w" guid="-pPz1UDlkl_mVuzsmR5YMpA" authors="Shane T. Ficorilli" changeDate="2013-08-02T09:36:32.190-0400" changeDescription="Baseline" version="1.0">
+  <mainDescription>A definition of the final version of the process, the Future State Process, by applying to the original defined process, a&#xD;
+definition of any improvements that can be made to the current process by locating any race conditions, analyzing the roles&#xD;
+and tasks involved, and making note of any changes in tools or technology used throughout the process.</mainDescription>
+  <sections xmi:id="_mg66gPt4EeK6X-ODr_6b9w" name="Define sequence" guid="_mg66gPt4EeK6X-ODr_6b9w">
+    <sectionDescription>&lt;p>&#xD;
+    Domain processes are seldom sequential. For parallel processes, define the sequence of events and locate any race&#xD;
+    conditions. Race conditions are when two steps are running simultaneously and come together to result in&amp;nbsp;a third&#xD;
+    step. The third step can only begin once the required information from the previous two steps have completed. If the&#xD;
+    sequence step completion is important for the third step, what governors are in place to ensure the second step does&#xD;
+    not complete early?&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img alt=&quot;&quot; src=&quot;resources/Race Condition-2.png&quot; width=&quot;525&quot; height=&quot;244&quot; />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_vCLJ4Pt4EeK6X-ODr_6b9w" name="Locate duplication of effort" guid="_vCLJ4Pt4EeK6X-ODr_6b9w">
+    <sectionDescription>Locate duplication of effort on tasks and work products by analyzing any tasks that are performing similar outputs or&#xD;
+producing similar results.</sectionDescription>
+  </sections>
+  <sections xmi:id="_zf0Z4Pt4EeK6X-ODr_6b9w" name="Identify role discrepencies" guid="_zf0Z4Pt4EeK6X-ODr_6b9w">
+    <sectionDescription>Recognize if there are too many or too few involved in the process.</sectionDescription>
+  </sections>
+  <sections xmi:id="_3xts4Pt4EeK6X-ODr_6b9w" name="Identify task discrepencies" guid="_3xts4Pt4EeK6X-ODr_6b9w">
+    <sectionDescription>Recognize if there is not enough, or too much scope per a specific role.&lt;br />&#xD;
+Recognize if there are not enough, or too many tasks per a specific role.</sectionDescription>
+  </sections>
+  <sections xmi:id="_62GD4Pt4EeK6X-ODr_6b9w" name="Recognize any changes in tools or technology used throughout the process" guid="_62GD4Pt4EeK6X-ODr_6b9w">
+    <sectionDescription>Changes in tools and technologies often times improve efficiencies, therefore it's important to identify changes in process&#xD;
+that will utilize the new tools and technologies.</sectionDescription>
+  </sections>
+  <sections xmi:id="_9jkWwPt4EeK6X-ODr_6b9w" name="Confirm improved process with Subject Matter Experts" guid="_9jkWwPt4EeK6X-ODr_6b9w">
+    <sectionDescription>Ensure SME's concur and buy in to the process improvements.</sectionDescription>
+  </sections>
+  <sections xmi:id="_AmdgAPt5EeK6X-ODr_6b9w" name="Draft Future State Process" guid="_AmdgAPt5EeK6X-ODr_6b9w">
+    <sectionDescription>&lt;p>&#xD;
+    Record the future state of the domain process and content.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

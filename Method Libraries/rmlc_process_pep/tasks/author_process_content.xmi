@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-yDC-zm94XnROagH9UWLv8Q" name="author_process_content,_IEKLMPt6EeK6X-ODr_6b9w" guid="-yDC-zm94XnROagH9UWLv8Q" authors="Rakesh D. Rathod" changeDate="2014-05-28T19:58:15.208-0400" version="1.0">
+  <mainDescription>&lt;font size=&quot;4&quot;>&lt;span style=&quot;font-family: Arial;&quot;>Creation of the process content by translating the Process Build Out
+        Inventory and UML/Process Diagram to proper Process Structure. Translated content is reviewed with any impacted
+        Clients.&lt;/span>&lt;/font></mainDescription>
+  <sections xmi:id="_SD5KwPt6EeK6X-ODr_6b9w" name="Translate the Process Build Out Inventory and UML/Process Diagram to process structure " guid="_SD5KwPt6EeK6X-ODr_6b9w">
+    <sectionDescription>Elaborate the Build Out Inventory and UML/Process Diagram into requirements for processes. Using the Systems and Software
+        Engineering Process Metamodel, construct process content for each element type to ensure relevant fields are addressed and
+        values are appropriate for the field.</sectionDescription>
+  </sections>
+  <sections xmi:id="_YP7PMPt6EeK6X-ODr_6b9w" name="Review the content with any impacted clients" guid="_YP7PMPt6EeK6X-ODr_6b9w">
+    <sectionDescription>&lt;p>
+            Any time inputs come from another client group, or outputs go to another client group, it is imparative to obtain the
+            other client group's concurrence and approval.
+        &lt;/p></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

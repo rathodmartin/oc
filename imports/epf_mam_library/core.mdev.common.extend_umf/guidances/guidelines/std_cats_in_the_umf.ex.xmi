@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-3hmfITB_xoJJIqtVIxsDgw"
+    name="new_guideline,_rznpUILBEd2NQYBY1jUNtw" guid="-3hmfITB_xoJJIqtVIxsDgw" changeDate="2008-09-14T19:20:18.734-0700"
+    version="7.5.0">
+  <mainDescription>For an example of a Category Definition Base plug-in, see &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../core.mdev.common.extend_umf/guidances/examples/umf_cat_def_base_plugin_example_7B602ECB.html&quot;&#xD;
+guid=&quot;_ttZ0cILMEd2NQYBY1jUNtw&quot;>UMF Category Definition Base Plug-In Example&lt;/a>.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

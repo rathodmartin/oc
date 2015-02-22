@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_EL0CcLmtEeOjhZ-MtCWe2g" guid="_EL0CcLmtEeOjhZ-MtCWe2g">
+    <resourceDescriptors xmi:id="_EL0CcbmtEeOjhZ-MtCWe2g" id="-2Fv2HsDUDsOBJM_gQVi78Q" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_KYYgIbmyEeOjhZ-MtCWe2g" id="-8Vm55eUW2oRIi9Z6yDSyQQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_u4dK0LmyEeOjhZ-MtCWe2g" id="-gOQFcIyCeblPC7dSmEq4-Q" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_FBW7obmzEeOjhZ-MtCWe2g" id="-NyO5_5Abi_b6BolofUmO_A" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_oq4Rcbm2EeOjhZ-MtCWe2g" id="-8YdFOyn_Bg-vHJZZBhjP6Q" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_yC71ELn6EeOQdtvIEJnSPg" id="-9kvIYtWjbmcZTgh_15jcOQ" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_EKU0sLmtEeOjhZ-MtCWe2g" name="RMLC" guid="_EKU0sLmtEeOjhZ-MtCWe2g">
+    <methodElementProperty xmi:id="_EKd-oLmtEeOjhZ-MtCWe2g" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_Ip5XULmtEeOjhZ-MtCWe2g" name="me_edited" value="true"/>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_g7B4kLmwEeOjhZ-MtCWe2g" name="initiation" guid="_g7B4kLmwEeOjhZ-MtCWe2g">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_hBQb0MMFEeOwrYul9ZErDw" name="New Phase" guid="_hBQb0MMFEeOwrYul9ZErDw">
+        <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_hBVUUMMFEeOwrYul9ZErDw" name="New Phase" guid="_hBVUUMMFEeOwrYul9ZErDw" presentationName="New Phase" superActivities="_g7UzgLmwEeOjhZ-MtCWe2g" isRepeatable="true" isEventDriven="true"/>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_jTrxcMMFEeOwrYul9ZErDw" name="New Activity" guid="_jTrxcMMFEeOwrYul9ZErDw">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_jTrxccMFEeOwrYul9ZErDw" name="New Activity" guid="_jTrxccMFEeOwrYul9ZErDw" presentationName="New Activity" superActivities="_g7UzgLmwEeOjhZ-MtCWe2g" isRepeatable="true" isEventDriven="true" linkToPredecessor="_ktdAwMMFEeOwrYul9ZErDw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_ktdAwMMFEeOwrYul9ZErDw" guid="_ktdAwMMFEeOwrYul9ZErDw" pred="_hBVUUMMFEeOwrYul9ZErDw"/>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_g7UzgLmwEeOjhZ-MtCWe2g" name="initiation" guid="_g7UzgLmwEeOjhZ-MtCWe2g" presentationName="Initiation" briefDescription="Project process for requirements gathering and feasibility analysis." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g" isRepeatable="true" isEventDriven="true" breakdownElements="_hBVUUMMFEeOwrYul9ZErDw _iuDU0MMFEeOwrYul9ZErDw _jTrxccMFEeOwrYul9ZErDw">
+        <presentation xmi:id="-8Vm55eUW2oRIi9Z6yDSyQQ" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-8Vm55eUW2oRIi9Z6yDSyQQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:Milestone" xmi:id="_iuDU0MMFEeOwrYul9ZErDw" name="New Milestone" guid="_iuDU0MMFEeOwrYul9ZErDw" presentationName="New Milestone" superActivities="_g7UzgLmwEeOjhZ-MtCWe2g" isRepeatable="true" isEventDriven="true"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_j5AFkbmwEeOjhZ-MtCWe2g" name="planning" guid="_j5AFkbmwEeOjhZ-MtCWe2g">
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_j5JPgLmwEeOjhZ-MtCWe2g" name="planning" guid="_j5JPgLmwEeOjhZ-MtCWe2g" presentationName="Planning" briefDescription="Project process for design and planning." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g" isRepeatable="true" isEventDriven="true" linkToPredecessor="_LowtcbmzEeOjhZ-MtCWe2g">
+        <presentation xmi:id="-gOQFcIyCeblPC7dSmEq4-Q" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-gOQFcIyCeblPC7dSmEq4-Q"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_LowtcbmzEeOjhZ-MtCWe2g" guid="_LowtcbmzEeOjhZ-MtCWe2g" pred="_g7UzgLmwEeOjhZ-MtCWe2g"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_kx-U8bmwEeOjhZ-MtCWe2g" name="execution" guid="_kx-U8bmwEeOjhZ-MtCWe2g">
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_kyIF9LmwEeOjhZ-MtCWe2g" name="execution" guid="_kyIF9LmwEeOjhZ-MtCWe2g" presentationName="Execution" briefDescription="Project process for build and test." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g" isRepeatable="true" isEventDriven="true" linkToPredecessor="_r-ipUbmwEeOjhZ-MtCWe2g">
+        <presentation xmi:id="-NyO5_5Abi_b6BolofUmO_A" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-NyO5_5Abi_b6BolofUmO_A"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_r-ipUbmwEeOjhZ-MtCWe2g" guid="_r-ipUbmwEeOjhZ-MtCWe2g" pred="_j5JPgLmwEeOjhZ-MtCWe2g"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_cQAFILm2EeOjhZ-MtCWe2g" name="closure" guid="_cQAFILm2EeOjhZ-MtCWe2g">
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_cQAFIbm2EeOjhZ-MtCWe2g" name="closure" guid="_cQAFIbm2EeOjhZ-MtCWe2g" presentationName="Closure" briefDescription="Project process for acceptance, documentation and verification." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g" isRepeatable="true" isEventDriven="true" linkToPredecessor="_UOt-YLn6EeOQdtvIEJnSPg">
+        <presentation xmi:id="-8YdFOyn_Bg-vHJZZBhjP6Q" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-8YdFOyn_Bg-vHJZZBhjP6Q"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_UOt-YLn6EeOQdtvIEJnSPg" guid="_UOt-YLn6EeOQdtvIEJnSPg" pred="_Rfdi0Ln6EeOQdtvIEJnSPg"/>
+    </childPackages>
+    <processElements xsi:type="org.eclipse.epf.uma:Milestone" xmi:id="_Rfdi0Ln6EeOQdtvIEJnSPg" name="implementation" guid="_Rfdi0Ln6EeOQdtvIEJnSPg" presentationName="Implementation" briefDescription="Project process for release,monitoring and controlling." superActivities="_EKU0sbmtEeOjhZ-MtCWe2g" isRepeatable="true" isEventDriven="true" linkToPredecessor="_Tuls0Ln6EeOQdtvIEJnSPg">
+      <presentation xmi:id="-9kvIYtWjbmcZTgh_15jcOQ" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-9kvIYtWjbmcZTgh_15jcOQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Tuls0Ln6EeOQdtvIEJnSPg" guid="_Tuls0Ln6EeOQdtvIEJnSPg" pred="_kyIF9LmwEeOjhZ-MtCWe2g"/>
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_EKU0sbmtEeOjhZ-MtCWe2g" name="RMLC" guid="_EKU0sbmtEeOjhZ-MtCWe2g" presentationName="RMLC" briefDescription="RathodMartin Life Cycle" breakdownElements="_g7UzgLmwEeOjhZ-MtCWe2g _j5JPgLmwEeOjhZ-MtCWe2g _kyIF9LmwEeOjhZ-MtCWe2g _Rfdi0Ln6EeOQdtvIEJnSPg _cQAFIbm2EeOjhZ-MtCWe2g">
+      <presentation xmi:id="-2Fv2HsDUDsOBJM_gQVi78Q" href="uma://-2Fv2HsDUDsOBJM_gQVi78Q#-2Fv2HsDUDsOBJM_gQVi78Q"/>
+      <defaultContext href="uma://_T6l317ekEd-D7YZN9NgldQ#_8HDdcLmOEeO--ZV6XkvztQ"/>
+      <validContext href="uma://_T6l317ekEd-D7YZN9NgldQ#_8HDdcLmOEeO--ZV6XkvztQ"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

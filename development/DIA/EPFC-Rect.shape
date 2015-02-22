@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>DIA - EPFC-Rect</name>
+  <icon>EPFC-Rect.png</icon>
+  <connections>
+    <point x="6" y="5"/>
+    <point x="10.95" y="8.3"/>
+    <point x="6" y="8.3"/>
+    <point x="6" y="6.65"/>
+    <point x="10.95" y="5"/>
+    <point x="10.95" y="6.65"/>
+    <point x="8.475" y="8.3"/>
+    <point x="8.475" y="5"/>
+    <point x="6" y="5"/>
+    <point x="10.95" y="8.3"/>
+    <point x="6" y="8.3"/>
+    <point x="6" y="6.65"/>
+    <point x="10.95" y="5"/>
+    <point x="10.95" y="6.65"/>
+    <point x="8.475" y="8.3"/>
+    <point x="8.475" y="5"/>
+    <point x="10.95" y="5"/>
+    <point x="14.25" y="6.65"/>
+    <point x="12.6" y="5.825"/>
+    <point x="10.95" y="8.3"/>
+    <point x="14.25" y="6.65"/>
+    <point x="12.6" y="7.475"/>
+    <point x="10.785" y="5.165"/>
+    <point x="10.95" y="8.135"/>
+    <point x="10.785" y="8.135"/>
+    <point x="10.785" y="6.65"/>
+    <point x="10.95" y="5.165"/>
+    <point x="10.95" y="6.65"/>
+    <point x="10.8675" y="8.135"/>
+    <point x="10.8675" y="5.165"/>
+    <point x="10.785" y="5.165"/>
+    <point x="10.95" y="8.135"/>
+    <point x="10.785" y="8.135"/>
+    <point x="10.785" y="6.65"/>
+    <point x="10.95" y="5.165"/>
+    <point x="10.95" y="6.65"/>
+    <point x="10.8675" y="8.135"/>
+    <point x="10.8675" y="5.165"/>
+    <point x="5" y="2"/>
+    <point x="14" y="2"/>
+    <point x="9.5" y="2"/>
+    <point x="14" y="2"/>
+    <point x="14" y="5"/>
+    <point x="14" y="3.5"/>
+    <point x="14" y="5"/>
+    <point x="5" y="5"/>
+    <point x="9.5" y="5"/>
+    <point x="5" y="5"/>
+    <point x="5" y="2"/>
+    <point x="5" y="3.5"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff" x="6" y="5" width="4.95" height="3.3"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.508; stroke: #ffffff" x="6" y="5" width="4.95" height="3.3"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.0508; stroke: #000000" x="6" y="5" width="4.95" height="3.3"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.0508; stroke: #000000" x1="10.95" y1="5" x2="14.25" y2="6.65"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.0508; stroke: #000000" x1="10.95" y1="8.3" x2="14.25" y2="6.65"/>
+    <svg:rect style="fill: #ffffff" x="10.785" y="5.165" width="0.165" height="2.97"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.508; stroke: #ffffff" x="10.785" y="5.165" width="0.165" height="2.97"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.0503225; stroke: #ffffff" x="10.785" y="5.165" width="0.165" height="2.97"/>
+    <svg:text style="fill: #ffffff; text-anchor:start; font-family: sans; font-style: normal; font-weight: normal" x="8" y="6" font-size="0.8" textLength="0"></svg:text>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.5; stroke: #000000" points="5,2 14,2 "/>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.5; stroke: #000000" points="14,2 14,5 "/>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.5; stroke: #000000" points="14,5 5,5 "/>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.5; stroke: #000000" points="5,5 5,2 "/>
+  </svg:svg>
+</shape>

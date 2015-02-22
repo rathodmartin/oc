@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Obl1g_nmMueYIren5Xaq0g" name="new_artifact,_1omQYDuwEeSIrOwVunFgpg" guid="-Obl1g_nmMueYIren5Xaq0g" authors="John Rozsa" changeDate="2014-09-22T20:57:28.694-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>The stakeholder register is used to identify stakeholders who can provide information on the requirements and posess an
+        interest in having an impact on quality. It contains details related to the project's stakeholders and provides an overview
+        of their roles.&lt;br style=&quot;font-family: Candara;&quot; />
+         &lt;br style=&quot;font-family: Candara;&quot; />
+         The register typically contains the following:&lt;br style=&quot;font-family: Candara;&quot; />
+         &lt;br style=&quot;font-family: Candara;&quot; />
+         
+        &lt;ul>
+            &lt;li>
+                Name, contact information, location, project role and organizational position
+            &lt;/li>
+            &lt;li>
+                Their specific key requirements and expectations
+            &lt;/li>
+            &lt;li>
+                Stakeholder type/classification
+            &lt;/li>
+        &lt;/ul>
+        The stakeholder register should be consulted and updated on a regular basis, as stakeholders may change—or new ones
+        identified—throughout the life cycle of the project.&lt;br /></mainDescription>
+  <keyConsiderations>The stakeholder register provides the information needed to plan appropriateways to engage project stakeholders.&lt;br /></keyConsiderations>
+  <impactOfNotHaving>Potential missed key requirements, resistance to accept project output.&lt;br /></impactOfNotHaving>
+  <reasonsForNotNeeding>Smaller projects where there are obviously very few, and often only one stakeholder.&lt;br /></reasonsForNotNeeding>
+</org.eclipse.epf.uma:ArtifactDescription>

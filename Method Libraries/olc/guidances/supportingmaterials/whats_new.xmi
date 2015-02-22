@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-JrcWJJFJbsL3jtXsyvzyQw" name="new_supporting_material,_gQBi0LmnEeOjhZ-MtCWe2g" guid="-JrcWJJFJbsL3jtXsyvzyQw" changeDate="2015-01-08T21:01:38.655-0500">
+  <mainDescription>&lt;h3 style=&quot;margin-right: 0px;&quot; dir=&quot;ltr&quot;>
+            OpenCycle&amp;nbsp;Releases
+        &lt;/h3>
+        &lt;blockquote style=&quot;margin-right: 0px;&quot; dir=&quot;ltr&quot;>
+            &lt;p style=&quot;margin-right: 0px;&quot; dir=&quot;ltr&quot;>
+                &amp;nbsp; &lt;font size=&quot;3&quot;>OpenCycle releases are managed, controlled, and scheduled accordingly.&lt;/font>
+            &lt;/p>
+            &lt;h3 style=&quot;margin-right: 0px;&quot; dir=&quot;ltr&quot;>
+                Version 1.0
+            &lt;/h3>
+            &lt;blockquote style=&quot;margin-right: 0px;&quot; dir=&quot;ltr&quot;>
+                &lt;h5 style=&quot;margin-right: 0px;&quot; dir=&quot;ltr&quot;>
+                    &lt;font size=&quot;3&quot;>Enhancements in this Release Include:&lt;/font>
+                &lt;/h5>
+            &lt;/blockquote>
+            &lt;div style=&quot;margin-left: 4em;&quot; dir=&quot;ltr&quot;>
+                &lt;ul>
+                    &lt;li>
+                        &lt;div style=&quot;margin-right: 0px;&quot;>
+                            &lt;font size=&quot;3&quot;>New release.&lt;/font>
+                        &lt;/div>
+                    &lt;/li>
+                    &lt;li>
+                        &lt;div style=&quot;margin-right: 0px;&quot;>
+                            &lt;font size=&quot;3&quot;>OpenCycle can be adopted by any organization, government agency, or individual.&lt;/font>
+                        &lt;/div>
+                    &lt;/li>
+                &lt;/ul>
+            &lt;/div>
+            &lt;blockquote style=&quot;margin-right: 0px;&quot; dir=&quot;ltr&quot;>
+                &lt;h5 style=&quot;margin-right: 0px;&quot;>
+                    &lt;font size=&quot;3&quot;>Fixes in this Release Include:&lt;/font>
+                &lt;/h5>
+            &lt;/blockquote>
+        &lt;/blockquote>
+        &lt;div style=&quot;margin-left: 4em;&quot;>
+            &lt;ul>
+                &lt;li style=&quot;margin-left: 2em;&quot;>
+                    &lt;font size=&quot;3&quot;>None - this is a new release.&lt;/font>
+                &lt;/li>
+            &lt;/ul>
+        &lt;/div>
+        &lt;blockquote style=&quot;margin-right: 0px;&quot; dir=&quot;ltr&quot;>
+            &lt;h3 style=&quot;margin-right: 0px;&quot; dir=&quot;ltr&quot;>
+                Continuous Improvement
+            &lt;/h3>
+            &lt;blockquote style=&quot;margin-right: 0px;&quot; dir=&quot;ltr&quot;>
+                &lt;p style=&quot;margin-right: 0px;&quot; dir=&quot;ltr&quot;>
+                    &lt;font size=&quot;3&quot;>This site will continue to evolve as part of our continuous improvement processes at
+                    RathodMartin. Please be sure to check the site regularly for updates.&amp;nbsp;You can subscribe to article updates
+                    via the &lt;a href=&quot;http://www.rathodmartin.us/index.php?format=feed&amp;amp;type=rss&quot; target=&quot;_blank&quot;>RathodMartin
+                    RSS&lt;/a>.&amp;nbsp;&lt;/font>
+                &lt;/p>
+            &lt;/blockquote>
+        &lt;/blockquote>
+        &lt;h3 style=&quot;margin-right: 0px;&quot; dir=&quot;ltr&quot;>
+            Contact Us
+        &lt;/h3>
+        &lt;blockquote style=&quot;margin-right: 0px;&quot; dir=&quot;ltr&quot;>
+            &lt;p style=&quot;margin-right: 0px;&quot; dir=&quot;ltr&quot;>
+                &lt;font size=&quot;3&quot;>If you have questions, need help or have feedback, contact us via our &lt;a
+                href=&quot;mailto:rmlc@rathodmartin.com&quot; target=&quot;_blank&quot;>RathodMartin Email&lt;/a>&amp;nbsp;&lt;/font>
+            &lt;/p>
+        &lt;/blockquote></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

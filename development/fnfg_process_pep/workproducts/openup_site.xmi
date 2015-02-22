@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:WorkProductDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-wqhOduX1HyhulXamFvMIjQ" name="new_outcome,_bTFhoPrfEeKlqMNsbbcDlQ" guid="-wqhOduX1HyhulXamFvMIjQ" authors="Shane T. Ficorilli" changeDate="2013-08-01T15:21:37.380-0400" changeDescription="Baseline" version="1.0">
+  <mainDescription>OpenUP site contains methodology content for technology based processes. The OpenUP site is located at &lt;a&#xD;
+href=&quot;http://openup.fnfg.com/&quot; target=&quot;_blank&quot;>http://openup.fnfg.com&lt;/a>.</mainDescription>
+  <impactOfNotHaving>The organization will lack a cohesive methodology.</impactOfNotHaving>
+  <reasonsForNotNeeding>The organizationizational processes do not change and all technology members are fully versed in process steps to execute&#xD;
+projects.</reasonsForNotNeeding>
+</org.eclipse.epf.uma:WorkProductDescription>

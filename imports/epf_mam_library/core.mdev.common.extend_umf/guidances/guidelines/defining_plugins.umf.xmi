@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-EQlmHMsshY6NViTClndYrw"
+    name="defining_plugins.pau,_HickEPH3Edy_EfSE8nABIA" guid="-EQlmHMsshY6NViTClndYrw"
+    changeDate="2008-11-19T07:49:11.906-0800" version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Special instructions when authoring in the UMF&lt;/strong>: When defining plug-ins that are to exist within the &lt;a&#xD;
+    class=&quot;elementLink&quot; href=&quot;./../../../core.mdev.common.extend_umf/guidances/concepts/umf_C03950A8.html&quot;&#xD;
+    guid=&quot;_nrrn4GqHEdun45RPFGeYnA&quot;>Unified Method Framework (UMF)&lt;/a>, the practice framework plug-in types need to be&#xD;
+    considered. These types affect what elements can be placed in what plug-in.&amp;nbsp; For example, base definitions for&#xD;
+    practice-specific method elements are defined in Practice Base (or Extend) plug-ins, and base definitions for&#xD;
+    non-practice-specific method elements are defined in Core Base (or Extend) plug-ins. However, assignments that are&#xD;
+    delayed are defined in Assign plug-ins.&amp;nbsp; For more information on delayed assignment, see &lt;a&#xD;
+    class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.extend_umf/guidances/guidelines/delayed_assignment_in_the_umf_11FDA840.html&quot;&#xD;
+    guid=&quot;_PPjo4PF3EdyPreM_8XDeJA&quot;>Guideline: Delayed Assignment in the UMF&lt;/a>. For more information on the plug-in types,&#xD;
+    see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_lib_plugin_types_3EA8002F.html&quot;&#xD;
+    guid=&quot;__428YO6cEdygKbJMUVNEtg&quot;>Concept: Practice Library Plug-In Types&lt;/a>.&amp;nbsp;&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    In addition, all UMF plug-ins must have a specified copyright (see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.extend_umf/guidances/guidelines/copyrights_in_the_umf_5CA84C78.html&quot;&#xD;
+    guid=&quot;_YPoMoPUkEdyNMvgj607huw&quot;>Guideline: Copyrights in the UMF&lt;/a>), as well as release information (see &lt;a&#xD;
+    class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.extend_umf/guidances/guidelines/release_info_in_the_umf_16901283.html&quot;&#xD;
+    guid=&quot;_OLr2MFizEd2AFZhgf_Sb-A&quot;>Guideline: Release Information in the UMF&lt;/a>).&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

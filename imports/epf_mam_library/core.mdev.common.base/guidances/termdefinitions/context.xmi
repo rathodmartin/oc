@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="--ziUoSn5cCgccDSegcXhqQ"
+    name="new_term_definition,_Kemu0PHZEdyO9sYxKNWf8A" guid="--ziUoSn5cCgccDSegcXhqQ"
+    version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    A context is a specific scope&amp;nbsp;in which method elements exist (sometimes referred to as a subject area). For&#xD;
+    example, project management, business, technology, method development, solution deployment, etc. Such an authoring&#xD;
+    context is not the same as a publishing context (or configuration), which is displayed as part of a published process.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

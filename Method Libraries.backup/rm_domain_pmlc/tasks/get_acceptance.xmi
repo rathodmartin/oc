@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VKoHvIWvE0cKBuaS68IC4A" name=",_flxB0L9uEeOXMtgIEj8iWg" guid="-VKoHvIWvE0cKBuaS68IC4A" authors="Patrick Martin" changeDate="2014-04-08T18:39:23.451-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>Acceptance is the formal act of receiving or acknowledging something and regarding it as being true, sound, suitable or
+        complete. Acceptance by the project sponsor of the project deliverables is a critical phase for a project manager and his
+        or her team. It will “sign off” on the success or the failure of a project.&lt;br /></mainDescription>
+  <sections xmi:id="_2mPT0L9uEeOXMtgIEj8iWg" name="Complete Transition To Operations" guid="_2mPT0L9uEeOXMtgIEj8iWg">
+    <sectionDescription>Transition to Operations has been completed. The system or product has been handed over to Operations and the transfer of
+        knowledge from the Project Team to Operations has also been completed. All training has concluded and the System Operations
+        Guide has been handed over to Operations.&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="__ZKiAL9uEeOXMtgIEj8iWg" name="Obtain Acceptance" guid="__ZKiAL9uEeOXMtgIEj8iWg">
+    <sectionDescription>Formal project acceptance requires a signature by the Project Sponsor or Customer. The Project Manager is now authorized to
+        continue with the formal close out of this project. The closeout process will include a post-project review, documentation
+        of lessons learned, release of the Project Team, close out all procurements and archive all relevant project documents.
+        Once the closing process is completed the Project Sponsor will be notified and the Project Manager will then be released
+        from the project.&lt;br /></sectionDescription>
+  </sections>
+  <purpose>Acceptance or rejection of project deleiverables is required to close a project.&lt;br /></purpose>
+</org.eclipse.epf.uma:TaskDescription>

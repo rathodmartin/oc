@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-x4aZHIIafmmc6tVMj7lrNQ" name="new_artifact,_wDtwcFmJEeSnr-1nkoLXsg" guid="-x4aZHIIafmmc6tVMj7lrNQ" authors="John Rozsa" changeDate="2014-10-21T21:22:42.953-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>The quality management plan, (a component of the project management plan) describes how the quality policies will be
+        implemented as it relates to the project. It may be formal or informal, detailed, or outlined. The layout and detail shoud
+        be determined by the requirements of the project.&lt;br />
+        &lt;br />
+        The quality management plan should be reviewed early during the initiative to ensure that decisions are based on the most
+        accurate information. This helps to ensure a sharper focus on the project’s value proposition and reductions in costs and
+        in the frequency of schedule overruns that were caused by rework or missed requirements.&lt;br />
+        &lt;br />
+        The quality management plan should include the quality assurance and continuous process improvement approaches for the
+        project. It provides a baseline of quality measures and metrics for use in identifying risks associated with the
+        project.&lt;br />
+        &lt;br />
+        The quality management plan should be updated to reflect any changes in process and practice driven by the risk responses.
+        This may include changes related to requirements, quality assurance, or quality control, as well as updates to the
+        requirements documentation.&lt;br /></mainDescription>
+  <impactOfNotHaving>Not having a Quality Management Plan, especially for complex or large project increase the risk of not meeting the
+        expectation of the stakeholders either through missed requirements, poor functionality or poor performance.&lt;br /></impactOfNotHaving>
+  <reasonsForNotNeeding>While quality planning is important for all projects, a formal Quality Management Plan may not be required for small or
+        simple/less complex initiatives.&lt;br /></reasonsForNotNeeding>
+</org.eclipse.epf.uma:ArtifactDescription>

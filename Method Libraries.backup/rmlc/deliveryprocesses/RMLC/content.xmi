@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-2Fv2HsDUDsOBJM_gQVi78Q" name="RMLC,_EKU0sbmtEeOjhZ-MtCWe2g" guid="-2Fv2HsDUDsOBJM_gQVi78Q"/>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-8Vm55eUW2oRIi9Z6yDSyQQ" name="concept,_g7UzgLmwEeOjhZ-MtCWe2g" guid="-8Vm55eUW2oRIi9Z6yDSyQQ">
+    <mainDescription>&lt;p>&#xD;
+    Processes performed to define a new project or a new phase of an existing project by obtaining authorization to start&#xD;
+    the project or phase.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Initiation process is typically limited to qualifying an idea for a project. A careful examination is conducted to&#xD;
+    determine whether or not it benefits the organization. During this phase, a decision making team will identify if the&#xD;
+    project can realistically be completed.&#xD;
+&lt;/p></mainDescription>
+    <howtoStaff>Business analysis , requirements elicitation, process mapping, IT architecture and relationship management</howtoStaff>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-gOQFcIyCeblPC7dSmEq4-Q" name="New Phase_3,_j5JPgLmwEeOjhZ-MtCWe2g" guid="-gOQFcIyCeblPC7dSmEq4-Q">
+    <mainDescription>&lt;p>&#xD;
+    Processes required to establish the scope of the project, refine the objectives, and define the course of action&#xD;
+    required to attain the objectives that the project was undertaken to achieveProcesses.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Planning process is typically limited to developing a project plan, project scope outlining the work to be performed.&#xD;
+    During this phase, a team should prioritize the project, calculate a budget and schedule, and determine what resources&#xD;
+    are needed.&#xD;
+&lt;/p></mainDescription>
+    <howtoStaff>Project management skills, estimation, forecasting, systems architecture skills, cost accounting, quality strategy and&#xD;
+change control.</howtoStaff>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-NyO5_5Abi_b6BolofUmO_A" name="New Phase_4,_kyIF9LmwEeOjhZ-MtCWe2g" guid="-NyO5_5Abi_b6BolofUmO_A">
+    <mainDescription>&lt;p>&#xD;
+    Processes performed to complete the work defined in the project management plan to satisfy the project specifications.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Execution process is typically limited to project deliverable build, development and completion , adhering to the plan&#xD;
+    as developed in the previous phases.&#xD;
+&lt;/p></mainDescription>
+    <howtoStaff>&lt;p>&#xD;
+    Build and develop skills, stick to schedule, unit test, meet deadlines.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Project Management, Architects, Developers, Testers.&#xD;
+&lt;/p></howtoStaff>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-8YdFOyn_Bg-vHJZZBhjP6Q" name=",_cQAFIbm2EeOjhZ-MtCWe2g" guid="-8YdFOyn_Bg-vHJZZBhjP6Q">
+    <mainDescription>&lt;p>&#xD;
+    Processes performed to finalize all activities across all process groups to formally close the project or phase.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Closure process is typically limited to final project accounting, documentation, lessosn learned and formal acceptance.&#xD;
+&lt;/p></mainDescription>
+    <howtoStaff>Admistrative, accounting, documentation and filing.</howtoStaff>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:BreakdownElementDescription xmi:id="-9kvIYtWjbmcZTgh_15jcOQ" name="Implementation,_Rfdi0Ln6EeOQdtvIEJnSPg" guid="-9kvIYtWjbmcZTgh_15jcOQ">
+    <mainDescription>&lt;p>&#xD;
+    Processes required to track, review, and regulate the progress and performance of the project; identify any areas in&#xD;
+    which changes to the plan are required; and initiate the corresponding changes.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Implementation process is typically limited to project quality assurance, testing, defect resolution and risk&#xD;
+    management.&#xD;
+&lt;/p></mainDescription>
+  </org.eclipse.epf.uma:BreakdownElementDescription>
+</xmi:XMI>

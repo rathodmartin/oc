@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-WqWfBRvcEc4LUF3OEtujsA"
+    name="new_guideline,_PPjo4PF3EdyPreM_8XDeJA" guid="-WqWfBRvcEc4LUF3OEtujsA" changeDate="2008-11-03T07:42:48.328-0800"
+    version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    In the &lt;a class=&quot;elementLink&quot; href=&quot;./../../../core.mdev.common.extend_umf/guidances/concepts/umf_C03950A8.html&quot;&#xD;
+    guid=&quot;_nrrn4GqHEdun45RPFGeYnA&quot;>Unified Method Framework (UMF)&lt;/a>, the following are &quot;delayed assigned&quot;:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Role assignments&lt;/strong>: Assignment of performing &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/role_37A0C602.html&quot;&#xD;
+        guid=&quot;_yUefQNnmEdmO6L4XMImrsA&quot;>role&lt;/a>s to &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/task_6C1FF051.html&quot;&#xD;
+        guid=&quot;_x459ktnmEdmO6L4XMImrsA&quot;>task&lt;/a>s and assignment of role responsibility for &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/work_product_826E4C22.html&quot;&#xD;
+        guid=&quot;_H4JXwB_SEdq6CKKKq4D7YA&quot;>work product&lt;/a>s&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Work product kind assignments&lt;/strong>: Assignment of work products to &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/work_product_kind_F04A382B.html&quot;&#xD;
+        guid=&quot;_QWhfYMaJEduMlb2cQZNTYw&quot;>work product kind&lt;/a>s&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Discipline assignments&lt;/strong>: Assignment of tasks to &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/discipline_7667F451.html&quot;&#xD;
+        guid=&quot;_yGUuidnmEdmO6L4XMImrsA&quot;>discipline&lt;/a>s&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Domain assignments&lt;/strong>: Assignment of work products to &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/domain_D8238B93.html&quot;&#xD;
+        guid=&quot;_yHEVYdnmEdmO6L4XMImrsA&quot;>domain&lt;/a>s&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    For more information on delayed assignment, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/delayed_assignment_24142865.html&quot;&#xD;
+    guid=&quot;_rlrykJcbEd2sTqxclDgvog&quot;>Concept: Delayed Assignment&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The delayed assignment&amp;nbsp;of roles, domains, work product kinds and disciplines is implemented is through the use of&#xD;
+    Assign plug-ins.&amp;nbsp;An Assign plug-in is defined for every Base plug-in that contains work products or tasks.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Assign plug-ins contain:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Role assignments: &#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                A role for every role to be assigned responsibility for a work product.&amp;nbsp; Each role is defined as a&#xD;
+                contributor to an existing role and adds the necessary &quot;role responsible for work product&quot;&#xD;
+                associations.&amp;nbsp;&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                A task for every task to be assigned a performing or a supporting role.&amp;nbsp; Each task is defined as a&#xD;
+                contributor to an existing task and adds the necessary &quot;task is is performed by role&quot; associations.&amp;nbsp;&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Standard category assignments:&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-TYPE: none&quot;>&#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                A discipline for every discipline that is to have tasks&amp;nbsp;mapped to it.&amp;nbsp; Each discipline is defined&#xD;
+                as a contributor to an existing discipline and adds the necessary &quot;discipline includes task&quot;&#xD;
+                associations.&amp;nbsp;&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                A domain for every domain that is to have work products mapped to it.&amp;nbsp; Each domain is defined as a&#xD;
+                contributor to an existing domain and adds the necessary &quot;domain includes work product&quot; associations.&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Practice-specific role, role set and standard category definitions.&amp;nbsp;Practice-specific definitions for delayed&#xD;
+        elements are defined in the Assign plug-in to make them easy to change.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    For more information on Base and Assign plug-ins, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.extend_umf/guidances/concepts/practice_fw_plugin_parts_538A81D.html&quot;&#xD;
+    guid=&quot;_vgjh4PG1EdyO9sYxKNWf8A&quot;>Concept: Practice Framework Plug-In Parts&lt;/a>. For more information on contribution, see&#xD;
+    &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/guidelines/using_method_content_variability_DCE37365.html&quot;&#xD;
+    guid=&quot;_8YIMYCNQEdycLddDalDmbA&quot;>Guideline: Using Method Content Variability&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_tsrCkIL0EeSEII7ioMjFsw" guid="_tsrCkIL0EeSEII7ioMjFsw">
+    <resourceDescriptors xmi:id="_NU-GAIL1EeSEII7ioMjFsw" id="-M7v7BEfEqeMX4IKJMROQKA" uri="customcategories/rm_domain_reqt_work_product_kinds.xmi"/>
+    <resourceDescriptors xmi:id="_Zpd9gIL1EeSEII7ioMjFsw" id="-gDQVf6fm6H7W_3jkks2pSw" uri="workproducttypes/reqt_work_product_kinds.xmi"/>
+    <resourceDescriptors xmi:id="_jXeFkDu0EeSIrOwVunFgpg" id="-MSBDqiTK7qMXENIOGZG4hg" uri="roles/business_analyst.xmi"/>
+    <resourceDescriptors xmi:id="_6L6hoFsMEeS_CZ16mrmYFw" id="-YzB52BYh41t8VaV5IpBaKw" uri="tasks/collect_requirements.xmi"/>
+    <resourceDescriptors xmi:id="_5T3dsDuvEeSIrOwVunFgpg" id="-lbfvJDCAtJRFHlLZfhWMlQ" uri="workproducts/requirements_documentation.xmi"/>
+    <resourceDescriptors xmi:id="_jhXlQDuwEeSIrOwVunFgpg" id="-x8D2hmlNuLdWY64OepLZzQ" uri="workproducts/requirements_traceability_matrix.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_tse1UIL0EeSEII7ioMjFsw" name="rm_domain_reqt" guid="_tse1UIL0EeSEII7ioMjFsw" presentationName="Requirements Domain" briefDescription="Requirements Domain" authors="Rakesh D. Rathod" changeDate="2014-12-13T13:20:41.298-0500" changeDescription="Baseline" version="BL">
+    <methodElementProperty xmi:id="_tsrpoIL0EeSEII7ioMjFsw" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_x49c0IL0EeSEII7ioMjFsw" name="me_edited" value="true"/>
+    <copyrightStatement href="uma://_hnMvkLlDEeO53_TX_uVt6w#_nLwggLmUEeO--ZV6XkvztQ"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_tse1UYL0EeSEII7ioMjFsw" name="Content" guid="_tse1UYL0EeSEII7ioMjFsw">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_tse1UoL0EeSEII7ioMjFsw" name="Categories" guid="_tse1UoL0EeSEII7ioMjFsw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_tse1U4L0EeSEII7ioMjFsw" name="Domains" guid="_tse1U4L0EeSEII7ioMjFsw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_tse1VIL0EeSEII7ioMjFsw" name="Disciplines" guid="_tse1VIL0EeSEII7ioMjFsw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_tse1VYL0EeSEII7ioMjFsw" name="RoleSets" guid="_tse1VYL0EeSEII7ioMjFsw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_tse1VoL0EeSEII7ioMjFsw" name="WP Types" guid="_tse1VoL0EeSEII7ioMjFsw">
+          <contentElements xsi:type="org.eclipse.epf.uma:WorkProductType" xmi:id="_RGnLoIL1EeSEII7ioMjFsw" name="reqt_work_product_kinds" guid="_RGnLoIL1EeSEII7ioMjFsw" presentationName="Requirements Domain Product Kinds" workProducts="_jBirIDuvEeSIrOwVunFgpg _QQoUYDuwEeSIrOwVunFgpg">
+            <methodElementProperty xmi:id="_ZpbhQIL1EeSEII7ioMjFsw" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_dKXwAIPHEeSUpYT7pnPxqg" name="CategoryElementsSortType" value="Alphabetic"/>
+            <presentation xmi:id="-gDQVf6fm6H7W_3jkks2pSw" href="uma://-gDQVf6fm6H7W_3jkks2pSw#-gDQVf6fm6H7W_3jkks2pSw"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_tse1V4L0EeSEII7ioMjFsw" name="Tools" guid="_tse1V4L0EeSEII7ioMjFsw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_tse1WIL0EeSEII7ioMjFsw" name="StandardCategories" guid="_tse1WIL0EeSEII7ioMjFsw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_tse1WYL0EeSEII7ioMjFsw" name="CustomCategories" guid="_tse1WYL0EeSEII7ioMjFsw">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_tse1WoL0EeSEII7ioMjFsw" name="Hidden" guid="_tse1WoL0EeSEII7ioMjFsw">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_tse1W4L0EeSEII7ioMjFsw" name="Custom Categories" guid="_tse1W4L0EeSEII7ioMjFsw" categorizedElements="_D3CL8IL1EeSEII7ioMjFsw"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_D3CL8IL1EeSEII7ioMjFsw" name="rm_domain_reqt_work_product_kinds" guid="_D3CL8IL1EeSEII7ioMjFsw" presentationName="RM Domain Requirements Work Products" categorizedElements="_jBirIDuvEeSIrOwVunFgpg _QQoUYDuwEeSIrOwVunFgpg">
+            <methodElementProperty xmi:id="_NU834IL1EeSEII7ioMjFsw" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_fz26wIPHEeSUpYT7pnPxqg" name="CategoryElementsSortType" value="Alphabetic"/>
+            <presentation xmi:id="-M7v7BEfEqeMX4IKJMROQKA" href="uma://-M7v7BEfEqeMX4IKJMROQKA#-M7v7BEfEqeMX4IKJMROQKA"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_tse1XIL0EeSEII7ioMjFsw" name="CoreContent" guid="_tse1XIL0EeSEII7ioMjFsw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_dpT3MIL1EeSEII7ioMjFsw" name="rm_domain_reqt_content_package" guid="_dpT3MIL1EeSEII7ioMjFsw" presentationName="RM Domain REQT Content Package" briefDescription="RM Domain REQT Content Package">
+          <methodElementProperty xmi:id="_dpT3MYL1EeSEII7ioMjFsw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_krSFIIL1EeSEII7ioMjFsw" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Qt3GIDu0EeSIrOwVunFgpg" name="business_analyst" guid="_Qt3GIDu0EeSIrOwVunFgpg" presentationName="Business Analyst" briefDescription=" A Business Analyst analyzes an organization and designs its processes and systems, assessing the business model and its integration with technology." responsibleFor="_jBirIDuvEeSIrOwVunFgpg _QQoUYDuwEeSIrOwVunFgpg">
+            <methodElementProperty xmi:id="_jXabMDu0EeSIrOwVunFgpg" name="me_edited" value="true"/>
+            <presentation xmi:id="-MSBDqiTK7qMXENIOGZG4hg" href="uma://-MSBDqiTK7qMXENIOGZG4hg#-MSBDqiTK7qMXENIOGZG4hg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_sC8b0FsMEeS_CZ16mrmYFw" name="collect_requirements" guid="_sC8b0FsMEeS_CZ16mrmYFw" presentationName="Collect Requirements" briefDescription="Collect Requirements is the process of determining, documenting, and managing stakeholder needs and requirements to meet project objectives." output="_jBirIDuvEeSIrOwVunFgpg">
+            <methodElementProperty xmi:id="_0OObMFsMEeS_CZ16mrmYFw" name="me_edited" value="true"/>
+            <presentation xmi:id="-YzB52BYh41t8VaV5IpBaKw" href="uma://-YzB52BYh41t8VaV5IpBaKw#-YzB52BYh41t8VaV5IpBaKw"/>
+            <performedBy href="#_Qt3GIDu0EeSIrOwVunFgpg"/>
+            <performedBy href="uma://_pgIasLlDEeO53_TX_uVt6w#_3VMUULm3EeOjhZ-MtCWe2g"/>
+            <mandatoryInput href="uma://_pgIasLlDEeO53_TX_uVt6w#_uVzM4Lm2EeOjhZ-MtCWe2g"/>
+            <mandatoryInput href="uma://_pgIasLlDEeO53_TX_uVt6w#_1omQYDuwEeSIrOwVunFgpg"/>
+            <additionallyPerformedBy href="uma://_pgIasLlDEeO53_TX_uVt6w#_PPHW0Lm4EeOjhZ-MtCWe2g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_jBirIDuvEeSIrOwVunFgpg" name="requirements_documentation" guid="_jBirIDuvEeSIrOwVunFgpg" presentationName="Requirements Documentation" briefDescription="Requirements documentation defines and outlines the individual requirements needed to meet the business needs for the project.">
+            <methodElementProperty xmi:id="_5T2PkDuvEeSIrOwVunFgpg" name="me_edited" value="true"/>
+            <presentation xmi:id="-lbfvJDCAtJRFHlLZfhWMlQ" href="uma://-lbfvJDCAtJRFHlLZfhWMlQ#-lbfvJDCAtJRFHlLZfhWMlQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_QQoUYDuwEeSIrOwVunFgpg" name="requirements_traceability_matrix" guid="_QQoUYDuwEeSIrOwVunFgpg" presentationName="Requirements Traceability Matrix" briefDescription="The requirements traceability matrix is a table that relates requirements from their origin to the specific deliverables that fulfills them.">
+            <methodElementProperty xmi:id="_jhVwEDuwEeSIrOwVunFgpg" name="me_edited" value="true"/>
+            <presentation xmi:id="-x8D2hmlNuLdWY64OepLZzQ" href="uma://-x8D2hmlNuLdWY64OepLZzQ#-x8D2hmlNuLdWY64OepLZzQ"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_tse1XYL0EeSEII7ioMjFsw" name="CapabilityPatterns" guid="_tse1XYL0EeSEII7ioMjFsw"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_tse1XoL0EeSEII7ioMjFsw" name="DeliveryProcesses" guid="_tse1XoL0EeSEII7ioMjFsw"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_tse1X4L0EeSEII7ioMjFsw" name="ProcessContributions" guid="_tse1X4L0EeSEII7ioMjFsw"/>
+    <bases href="uma://_hnMvkLlDEeO53_TX_uVt6w#_hnMvkLlDEeO53_TX_uVt6w"/>
+    <bases href="uma://_pgIasLlDEeO53_TX_uVt6w#_pgIasLlDEeO53_TX_uVt6w"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-uv01zwnUYYeT2BGERlgqzg" name="new_guideline,_H8Mq8DuuEeSIrOwVunFgpg" guid="-uv01zwnUYYeT2BGERlgqzg" authors="John Rozsa" changeDate="2014-09-13T21:27:28.492-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>The project charter must be clear and concise. This statement is meant to inform all proceeding requirements documents of
+        the agreement between the project sponsor and the project team.&lt;br style=&quot;font-family: Candara;&quot; />
+         The Project Charter should include:&lt;br />
+         &lt;br style=&quot;font-family: Candara;&quot; />
+         
+        &lt;ul>
+            &lt;li>
+                Project scope or boundaries
+            &lt;/li>
+            &lt;li>
+                Project purpose
+            &lt;/li>
+            &lt;li>
+                Project objectives
+            &lt;/li>
+            &lt;li>
+                High-level project description, requirements and risks
+            &lt;/li>
+            &lt;li>
+                Summary budget and milestone schedule
+            &lt;/li>
+            &lt;li>
+                Stakeholder list
+            &lt;/li>
+            &lt;li>
+                Project approval requirements (what constitutes success, who decides it, who signs off)
+            &lt;/li>
+            &lt;li>
+                Assigned project manager, responsibility, and authority level
+            &lt;/li>
+            &lt;li>
+                Name and authority of the sponsor or other person(s) authorizing the project charter
+            &lt;/li>
+        &lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

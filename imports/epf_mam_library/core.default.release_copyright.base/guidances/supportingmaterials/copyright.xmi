@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="_u_Zg4PsDEdmyhNQr5STrZQ"
+    name="copyright,_uuunoPsDEdmyhNQr5STrZQ" guid="_u_Zg4PsDEdmyhNQr5STrZQ" changeDate="2007-01-25T16:10:08.377-0800"
+    version="1.0.0">
+  <mainDescription>&lt;p> This program and the accompanying materials are made available under the&lt;br />&#xD;
+  &lt;a href=&quot;http://www.eclipse.org/org/documents/epl-v10.php&quot; target=&quot;_blank&quot;>Eclipse &#xD;
+  Public License V1.0&lt;/a>, which accompanies this distribution. &lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-XzhmT7kXR9lA2vqhQtGq9Q" name=",_5hCGwFpKEeS2t6WG90MSuA" guid="-XzhmT7kXR9lA2vqhQtGq9Q" authors="John Rozsa" changeDate="2014-11-06T21:58:37.764-0500" changeDescription="Baseline" version="BL">
+  <mainDescription>The work breakdown task builds the relationship of the work elements and the activities needed to support the project
+        schedule.&lt;br />
+         &lt;br />
+        A Work Breakdown Structure (WBS) is a deliverable based family tree matrix which organizes, defines and displays the total
+        scope of the project. Each descending level represents an increasingly detailed definition of a project element (product or
+        service). It relates the project elements to each other and end results.&lt;br />
+         &lt;br />
+         Implicit to this task is the need to define activities in such a way to meet project objectives. Cost estimates may be
+        assigned using standard rates and market prices. These will be modified with negotiated rates and prices later in the
+        process.&lt;br />
+         &lt;br />
+         Activities must be sequenced accurately to support later development of realistic and achievable schedules.&lt;br />
+         &lt;br />
+         Gather inputs from project teammates, stakeholders and people and groups familiar with the nature of specific activities.
+        Duration estimates become progressively more elaborates as input data quality improves.&lt;br /></mainDescription>
+  <sections xmi:id="_R4yUwFpLEeS2t6WG90MSuA" name="Define Activities" guid="_R4yUwFpLEeS2t6WG90MSuA"/>
+  <sections xmi:id="_TKsokFpLEeS2t6WG90MSuA" name="Estimate Activity Resources" guid="_TKsokFpLEeS2t6WG90MSuA"/>
+  <sections xmi:id="_WqJyAFpLEeS2t6WG90MSuA" name="Estimate Activity Duration" guid="_WqJyAFpLEeS2t6WG90MSuA"/>
+  <sections xmi:id="_Yc_ooFpLEeS2t6WG90MSuA" name="Sequence Activities" guid="_Yc_ooFpLEeS2t6WG90MSuA"/>
+</org.eclipse.epf.uma:TaskDescription>

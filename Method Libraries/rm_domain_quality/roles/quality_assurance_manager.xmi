@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-RVmy1yc6IF6fO6IsxeGS1A" name="new_role,_nxTuwFogEeSUmaNkcwFqUg" guid="-RVmy1yc6IF6fO6IsxeGS1A" authors="John Rozsa" changeDate="2014-10-22T15:22:17.673-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>A Quality Assurance Managers helps businesses remain productive and profitable by implementing and monitoring programs that
+        ensure continuous quality. Whether working in manufacturing, software development, healthcare delivery or retail, quality
+        assurance managers are valued members of the business management team.&lt;br /></mainDescription>
+  <skills>Process Improvement, Analyzing Information , Strategic Planning, Verbal Communication, Informing Others, Quality
+        Engineering, Emphasizing Excellence, Attention to Detail, Thoroughness, Dealing with Complexity&lt;br /></skills>
+</org.eclipse.epf.uma:RoleDescription>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-vyx9_UUFDV_oQtjLt3YBCA" name="new_artifact,_pOm48DD8EeSHm971buwRxw" guid="-vyx9_UUFDV_oQtjLt3YBCA" authors="John Rozsa" changeDate="2014-09-13T21:56:48.430-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>These are the processes or process-related assets from any of the organizations involved in the project that can be used to
+        help the project succeed. Some processes might look like an overhead or overkill but as responsible project managers, we
+        are supposed to follow them religiously, period... The organizational process assets are typically grouped into two
+        categories: 1. Processes and procedures for conducting work, and 2. A corporate knowledge base for storing and retrieving
+        information. For example, the performing organization might have its own guidelines, policies, and procedures, whose effect
+        on the project must be considered while developing the project charter and other project documents that will follow.
+        Another example of an organization's process assets are the knowledge and learning base acquired from previous
+        projects.&lt;br /></mainDescription>
+  <impactOfNotHaving>If there are existing processes, the project may suffer either because it did not follow lessons learned (as embedded in
+        the rationale of the documented process), or the project could be considered out of compliance.&lt;br /></impactOfNotHaving>
+  <reasonsForNotNeeding>If organizational processes exist for a given task or project, they may not need to be followed if (typically) prior
+        authorization is given not to follow them because of some extenuating circumstances.&lt;br /></reasonsForNotNeeding>
+</org.eclipse.epf.uma:ArtifactDescription>

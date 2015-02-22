@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-tH5eL6g0SPT8xXfCo1Nkzg"
+    name="new_guideline,_2ydy8KdUEd2XsY8-UtPVvw" guid="-tH5eL6g0SPT8xXfCo1Nkzg" changeDate="2008-10-31T06:10:04.437-0800"
+    version="7.5.0">
+  <mainDescription>&lt;p>&#xD;
+    When setting up your tooling, make sure that the tool is installed and configuration, including any necessary&#xD;
+    integrations to other products. For example, integrations with configuration management and version control tools. This&#xD;
+    is especially important if a team of people will be working on the same method.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    In addition to the actual tooling, you need to make sure that you have access to the content that you will need to do&#xD;
+    your authoring. For example, if the method you are authoring is an extension to an existing method, then you need to&#xD;
+    have access to the existing content in its authored form (as opposed to its published form). In addition, if you have&#xD;
+    existing content that you want to include in your method, make sure you have access to that, as well, to either be&#xD;
+    linked to or incorporated directly in the method you are authoring.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It is strongly recommended that you &quot;lock&quot; any content that you are using but that you dod not own so that you don't&#xD;
+    unexpectedly edit something that is not yours.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

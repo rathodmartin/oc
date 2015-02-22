@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-UTtCtywDy3IIoHcPbmC_Fw"
+    name="whats_new_ibm_mam_for_umf_config,_Wb44Q8V7EdysMqkA3CCYsg" guid="-UTtCtywDy3IIoHcPbmC_Fw"
+    changeDate="2008-07-16T00:53:55.859-0700" version="1.0.0">
+  <mainDescription>&lt;h3>&#xD;
+    v1.0&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Initial release of the configuration.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

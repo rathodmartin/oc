@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_RuUkwLgREd2VBqezzK7PZw"
+      guid="_RuUkwLgREd2VBqezzK7PZw">
+    <resourceDescriptors xmi:id="_RuUkwrgREd2VBqezzK7PZw" id="-RMvx7XMGb0_jzrOAlRm6gg"
+        uri="guidances/guidelines/customizing_practice_fw_core_element.umf.xmi"/>
+    <resourceDescriptors xmi:id="_RudusLgREd2VBqezzK7PZw" id="-3YFvP2HXq3CdZTM4I7mgmQ"
+        uri="guidances/guidelines/structuring_practice_fw_core.umf.xmi"/>
+    <resourceDescriptors xmi:id="_RunfsLgREd2VBqezzK7PZw" id="-PyWKu8wtwZzpUbvnoHZUiA"
+        uri="guidances/supportingmaterials/release_info_practice_fw_arch.umf.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_NMf88KA3Ed2nI52VLwUMxA" name="practice.mdev.auth.practice_fw_arch.extend_umf"
+      guid="_NMf88KA3Ed2nI52VLwUMxA" authors="Kelli Houston" changeDate="2008-10-22T05:46:55.593-0700"
+      version="1.0">
+    <copyrightStatement href="uma://_iVydgENdEdy245g62lfWcA#_uuunoPsDEdmyhNQr5STrZQ"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NMf88aA3Ed2nI52VLwUMxA"
+        name="Content" guid="_NMf88aA3Ed2nI52VLwUMxA">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NMf88qA3Ed2nI52VLwUMxA"
+          name="Categories" guid="_NMf88qA3Ed2nI52VLwUMxA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NMf886A3Ed2nI52VLwUMxA"
+            name="Domains" guid="_NMf886A3Ed2nI52VLwUMxA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NMf89KA3Ed2nI52VLwUMxA"
+            name="Disciplines" guid="_NMf89KA3Ed2nI52VLwUMxA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NMf89aA3Ed2nI52VLwUMxA"
+            name="RoleSets" guid="_NMf89aA3Ed2nI52VLwUMxA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NMf89qA3Ed2nI52VLwUMxA"
+            name="WP Types" guid="_NMf89qA3Ed2nI52VLwUMxA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NMf896A3Ed2nI52VLwUMxA"
+            name="Tools" guid="_NMf896A3Ed2nI52VLwUMxA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NMf8-KA3Ed2nI52VLwUMxA"
+            name="StandardCategories" guid="_NMf8-KA3Ed2nI52VLwUMxA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NMf8-aA3Ed2nI52VLwUMxA"
+            name="CustomCategories" guid="_NMf8-aA3Ed2nI52VLwUMxA">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NMf8-qA3Ed2nI52VLwUMxA"
+              name="Hidden" guid="_NMf8-qA3Ed2nI52VLwUMxA">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_NMf8-6A3Ed2nI52VLwUMxA"
+                name="Custom Categories" guid="_NMf8-6A3Ed2nI52VLwUMxA" categorizedElements="_EN0bcKnfEd2eRp4Z7dEEOQ"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_EN0bcKnfEd2eRp4Z7dEEOQ"
+              name="do_not_pubish.pfa_umf" guid="_EN0bcKnfEd2eRp4Z7dEEOQ" variabilityType="contributes">
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CustomCategory"
+                href="uma://_vsno4EKmEdyrauqpmnA8jQ#_O3UtkMRdEdyD76CYS6Ta7A"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NMf8_KA3Ed2nI52VLwUMxA"
+          name="CoreContent" guid="_NMf8_KA3Ed2nI52VLwUMxA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_VsPwcKA3Ed2nI52VLwUMxA"
+            name="umf_ext_to_practice_fw_arch" guid="_VsPwcKA3Ed2nI52VLwUMxA" presentationName="UMF Extensions to Practice Framework Architecting">
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_K4FgkKnKEd2eRp4Z7dEEOQ"
+              name="customizing_practice_fw_core_element.umf" guid="_K4FgkKnKEd2eRp4Z7dEEOQ"
+              variabilityType="contributes">
+            <presentation xmi:id="-RMvx7XMGb0_jzrOAlRm6gg" href="uma://-RMvx7XMGb0_jzrOAlRm6gg#-RMvx7XMGb0_jzrOAlRm6gg"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_eSzlUKAxEd2nI52VLwUMxA#_-WfTIKnHEd2eRp4Z7dEEOQ"/>
+            <guidelines href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#__BMv0JorEd2fi9zUq_rRtg"/>
+            <guidelines href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_YPoMoPUkEdyNMvgj607huw"/>
+            <guidelines href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_apOmQMj7EdyoXMhaXAJ-6g"/>
+            <guidelines href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_OLr2MFizEd2AFZhgf_Sb-A"/>
+            <guidelines href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_Arih4MdeEdySeI1LYmvOGg"/>
+            <guidelines href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_W44bEMeQEdyDDM3XyGAKxw"/>
+            <guidelines href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_k2ahIO9JEdytFa01gNyMbA"/>
+            <guidelines href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_eWJtwPRaEdy6Y8ced-PvYw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_OnwqwKnfEd2eRp4Z7dEEOQ"
+              name="structuring_practice_fw_core.umf" guid="_OnwqwKnfEd2eRp4Z7dEEOQ"
+              variabilityType="contributes">
+            <presentation xmi:id="-3YFvP2HXq3CdZTM4I7mgmQ" href="uma://-3YFvP2HXq3CdZTM4I7mgmQ#-3YFvP2HXq3CdZTM4I7mgmQ"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_eSzlUKAxEd2nI52VLwUMxA#_InSicKmlEd2eRp4Z7dEEOQ"/>
+            <guidelines href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_YPoMoPUkEdyNMvgj607huw"/>
+            <guidelines href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_apOmQMj7EdyoXMhaXAJ-6g"/>
+            <guidelines href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_OLr2MFizEd2AFZhgf_Sb-A"/>
+            <guidelines href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_Arih4MdeEdySeI1LYmvOGg"/>
+            <guidelines href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_W44bEMeQEdyDDM3XyGAKxw"/>
+            <guidelines href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_k2ahIO9JEdytFa01gNyMbA"/>
+            <guidelines href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_eWJtwPRaEdy6Y8ced-PvYw"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ZFgLQKA3Ed2nI52VLwUMxA"
+            name="release_info" guid="_ZFgLQKA3Ed2nI52VLwUMxA" presentationName="Release Info"
+            briefDescription="This content package contains the release information for this plug-in.  For example, the version number, release notes, etc.">
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_ZFgLQaA3Ed2nI52VLwUMxA"
+              name="release_info_practice_fw_arch.umf" guid="_ZFgLQaA3Ed2nI52VLwUMxA"
+              variabilityType="contributes">
+            <presentation xmi:id="-PyWKu8wtwZzpUbvnoHZUiA" href="uma://-PyWKu8wtwZzpUbvnoHZUiA#-PyWKu8wtwZzpUbvnoHZUiA"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:SupportingMaterial"
+                href="uma://_eSzlUKAxEd2nI52VLwUMxA#_C3x-IaAyEd2nI52VLwUMxA"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_NMf8_aA3Ed2nI52VLwUMxA"
+          name="CapabilityPatterns" guid="_NMf8_aA3Ed2nI52VLwUMxA"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_NMf8_qA3Ed2nI52VLwUMxA"
+        name="DeliveryProcesses" guid="_NMf8_qA3Ed2nI52VLwUMxA"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_NMf8_6A3Ed2nI52VLwUMxA"
+        name="ProcessContributions" guid="_NMf8_6A3Ed2nI52VLwUMxA"/>
+    <bases href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_TQMyAAyNEd2RbdLDHU6BqQ"/>
+    <bases href="uma://_eSzlUKAxEd2nI52VLwUMxA#_eSzlUKAxEd2nI52VLwUMxA"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FA9hzJoSSWQEAMbAFHcsqg" name="new_role,_PPHW0Lm4EeOjhZ-MtCWe2g" guid="-FA9hzJoSSWQEAMbAFHcsqg" authors="Patrick Martin" changeDate="2014-04-08T20:41:39.546-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>Project Manager develops the Project Plan with the team and manages the team's performance of project tasks. Project&#xD;
+Manager secures acceptance and approval of deliverables from the Project Sponsor and Stakeholders. The Project Manager is&#xD;
+responsible for communication, including status reporting, risk management, escalation of issues that cannot be resolved in&#xD;
+the team, and, in general, making sure the project is delivered in budget, on schedule, and within scope.</mainDescription>
+  <skills>Highly organized multi-tasker. Take charge leader. Effective communicator. Good negotiator. Problem solver. Detail&#xD;
+orientated.</skills>
+  <assignmentApproaches>Risk based assignments. Riskier projects have more expereinced project managers.</assignmentApproaches>
+  <synonyms>Administrator, Executive</synonyms>
+</org.eclipse.epf.uma:RoleDescription>

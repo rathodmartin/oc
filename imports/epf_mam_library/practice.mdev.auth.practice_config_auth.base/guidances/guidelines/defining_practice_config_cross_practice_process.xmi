@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-MEGYsPST7NvK6reYOTZiZA"
+    name="defining_practice_config_cross_practice_process,_URR4AMbSEdy9YushbOcFQA"
+    guid="-MEGYsPST7NvK6reYOTZiZA" changeDate="2008-11-17T22:49:53.125-0800" version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    Defining a &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/termdefinitions/cross_practice_process_5F83B112.html&quot;&#xD;
+    guid=&quot;_9NcfoFJgEd2SzrMjC_svdw&quot;>cross-practice process&lt;/a> is where you turn your attention to the process/lifecycle&#xD;
+    side of things. How should the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/task_6C1FF051.html&quot;&#xD;
+    guid=&quot;_x459ktnmEdmO6L4XMImrsA&quot;>task&lt;/a>s and/or &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/activity_1D028230.html&quot;&#xD;
+    guid=&quot;_yoVhMB_IEdq6CKKKq4D7YA&quot;>activities&lt;/a> (i.e., &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/capability_pattern_F5DDC5F.html&quot;&#xD;
+    guid=&quot;_2RUJACO4EdqaNq6Ptg8uyA&quot;>capability pattern&lt;/a>s) from the individual &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/concepts/practice_F5C8EAAB.html&quot;&#xD;
+    guid=&quot;_qhCTAFRREd2CWscN8Mx6rg&quot;>Practice&lt;/a>s &quot;flow&quot; together? Are there any activities that always appear together and&#xD;
+    in what order do they appear? Are there specific sets of activities that can be reused together in more course-grained&#xD;
+    flows?&amp;nbsp;What does an overall lifecycle look like? Define cross-practice processes to&amp;nbsp;reflect these&#xD;
+    decisions.&amp;nbsp;Specifically, define&amp;nbsp;capability patterns for sets of capability patterns that always appear&#xD;
+    together and can be reused in other capability patterns, and define &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/delivery_process_BCDF50B7.html&quot;&#xD;
+    guid=&quot;_ZufeMCO3EdqaNq6Ptg8uyA&quot;>delivery process&lt;/a>es for overall lifecycles. Defining cross-practice&#xD;
+    processes&amp;nbsp;defines an overall flow through the practices and validates that you have the right practice content&#xD;
+    with the right separation of concerns.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Perform the following steps to create a cross-practice process:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        If one does not exist, create a Publish Base plug-in to contain the new process.&amp;nbsp;&lt;a&#xD;
+        class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../practice.mdev.auth.practice_config_auth.base/guidances/roadmaps/customize_existing_practice_config_2642DD24.html&quot;&#xD;
+         guid=&quot;_u5j3MFcqEd2N4vZAlUIPvw&quot;>Roadmap: Customize an Existing Practice Configuration&lt;/a> information on Publish&#xD;
+        Base plug-ins, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_lib_plugin_types_3EA8002F.html&quot;&#xD;
+        guid=&quot;__428YO6cEdygKbJMUVNEtg&quot;>Concept: Practice Library Plug-In Types&lt;/a>.&lt;br />&#xD;
+        &amp;nbsp;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Create a Publishable&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/method_configuration_C2B8FA8A.html&quot;&#xD;
+        guid=&quot;__V7pAMaEEduMlb2cQZNTYw&quot;>method configuration&lt;/a>&amp;nbsp;that includes the the necessary core plug-ins (include&#xD;
+        role and standard category definitions), the&amp;nbsp;new Publish plug-in, the practices (including the desired&#xD;
+        practice role assignments),&amp;nbsp;and any cross-practice processes you are interested in including in your&#xD;
+        cross-practice process (remember all processes must have a default configuration). For more information on the&#xD;
+        practice library configuration types, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_lib_config_types_B96A959A.html&quot;&#xD;
+        guid=&quot;_1gchoO6dEdygKbJMUVNEtg&quot;>Concept: Practice Library Configuration Types&lt;/a>. For more information on defining&#xD;
+        configurations, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.base/guidances/guidelines/defining_method_configurations_2B25CEA5.html&quot;&#xD;
+        guid=&quot;_l77zcIB-EduaS6LQ8n6xUQ&quot;>Guideline: Defining Method Configurations&lt;/a>.&lt;br />&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Create the cross-practice process, specifying the new configuration as the default configuration. Assemble the&#xD;
+        cross-practice process using the method elements (&lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/task_6C1FF051.html&quot;&#xD;
+        guid=&quot;_x459ktnmEdmO6L4XMImrsA&quot;>task&lt;/a>s, &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/capability_pattern_F5DDC5F.html&quot;&#xD;
+        guid=&quot;_2RUJACO4EdqaNq6Ptg8uyA&quot;>capability pattern&lt;/a>s) from the Process Construction configuration, defining as&#xD;
+        many levels (i.e., nested activities) as are needed. In some cases, there may even be reference workflows from the&#xD;
+        individual practices that you can use for ideas for the process you are building. When assembling cross-practice&#xD;
+        processes, the processes that are used (i.e., the capability patterns that are applied) from the practices must be&#xD;
+        &lt;u>&lt;em>copied&lt;/em>&lt;/u> instead of &lt;u>&lt;em>extended&lt;/em>&lt;/u> so that the process descriptors are built using the&#xD;
+        default configuration for the cross-practice process. For information on assembling processes, see &lt;a&#xD;
+        class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.base/guidances/guidelines/defining_processes_756EDFA.html&quot;&#xD;
+        guid=&quot;_Y_JroEyDEdu4NY1n_hCY0w&quot;>Guideline: Defining Processes&lt;/a>.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    In summary, practices provide the pieces parts (tasks and capability patterns) and may even provide some good process&#xD;
+    patterns e.g., reference workflows), but in the end, it is the person creating the a process that must decide the order&#xD;
+    and levels (the level of nesting of the activities) of the process, using any and all available method content elements&#xD;
+    and/or process patterns.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

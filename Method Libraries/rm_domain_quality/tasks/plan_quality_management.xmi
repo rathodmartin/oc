@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-BzKY6ejovSrSNsFI0CxJIg" name=",_VkkK8GYoEeSeMbOi5SCXJQ" guid="-BzKY6ejovSrSNsFI0CxJIg" authors="John Rozsa" changeDate="2014-11-06T21:48:08.340-0500" changeDescription="Baseline" version="BL">
+  <mainDescription>Plan Quality Management develops a comprehensive plan to identify objectives and strategies, interface with customers, and
+        organize and coordinate process control activities. It identifies the quality requirements and/or standards for the project
+        and its deliverables. It documents how the project will show compliance with quality requirements.&lt;br />
+        &lt;br />
+        Project Quality Management uses policies and procedures to implement the organization's quality management methodology and
+        supports continuous process improvement activities. It helps to ensure that the project and product requirements are met
+        and validated. Additionally, it provides guidance and direction on how quality will be managed and validated throughout the
+        life of the project.&lt;br />
+        &lt;br />
+        Key benefits of meeting quality requirements include; less rework, higher productivity, lower costs, increased stakeholder
+        satisfaction, and increased profitability.&lt;br /></mainDescription>
+  <sections xmi:id="_qBgJMGYoEeSeMbOi5SCXJQ" name="Review requirements - defect prevention" guid="_qBgJMGYoEeSeMbOi5SCXJQ"/>
+  <sections xmi:id="_rVUhgGYoEeSeMbOi5SCXJQ" name="Review Project Process (gating) - defect removal" guid="_rVUhgGYoEeSeMbOi5SCXJQ"/>
+  <sections xmi:id="_sfhq0GYoEeSeMbOi5SCXJQ" name="Define and Document the Quality Approach" guid="_sfhq0GYoEeSeMbOi5SCXJQ"/>
+</org.eclipse.epf.uma:TaskDescription>

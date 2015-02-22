@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-umGbPWvT56IZ_9eN4zN4XQ"
+    name="how_to_adopt_team_based_method_auth_env,__IsVACv4Ed2HiavZWDwUwQ" guid="-umGbPWvT56IZ_9eN4zN4XQ"
+    changeDate="2008-09-30T18:55:57.906-0700" version="7.2.0">
+  <mainDescription>&lt;h3>&#xD;
+    Getting started&amp;nbsp;&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Make sure that the users of the environment (the process engineers) are comfortable with the&amp;nbsp;environment&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    As you apply the recommendations described in the practice, capture what you have learned, what worked for your team&#xD;
+    and what didn't so that you can continually fine-tune how your team applies the practice.&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    Common pitfalls&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The following are some common pitfalls when adopting this practice.&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Spending too much time making sure the environment is perfect. Define just enough environment to get started.&amp;nbsp;&#xD;
+        Then gather feedback on how the environment is working, refining, as needed.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Having a team that is unfamiliar with the environment and is therefore hesitant to &quot;jump right in&quot; and start&#xD;
+        working.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

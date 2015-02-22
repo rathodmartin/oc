@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-FAaHexe-jczQJsMGxeZwZw"
+    name="new_guideline,_5gbCAIM5Ed2QVrMx9wDJQQ" guid="-FAaHexe-jczQJsMGxeZwZw" changeDate="2008-09-15T09:02:57.906-0700"
+    version="7.5.0">
+  <mainDescription>For an example of how practice configurations are implemented in the UMF, see &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../core.mdev.common.extend_umf/guidances/examples/umf_practice_config_example_8417C258.html&quot;&#xD;
+guid=&quot;_MWqvQIM6Ed2QVrMx9wDJQQ&quot;>UMF Practice Configuration Example&lt;/a>.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

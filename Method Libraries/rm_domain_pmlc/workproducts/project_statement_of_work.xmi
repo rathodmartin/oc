@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7XNSJyB_U6AQenSLA-h9BA" name="new_artifact,_XELd8DD-EeSHm971buwRxw" guid="-7XNSJyB_U6AQenSLA-h9BA" authors="John Rozsa" changeDate="2014-09-22T21:03:20.649-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>The project statement of work, or SOW as it is often referred, is a description of products and services to be delivered
+        for the project. The SOW is based on business needs, products or service requirements is provided by the project initiator
+        or sponsor.&lt;br /></mainDescription>
+  <impactOfNotHaving>Not having a Statement of Work may cause possible confusion over purpose, scope &amp;amp; objectives of the project.&lt;br /></impactOfNotHaving>
+  <reasonsForNotNeeding>A Statement of Work may not be necessary if the proposed project is small and well defined.&lt;br /></reasonsForNotNeeding>
+</org.eclipse.epf.uma:ArtifactDescription>

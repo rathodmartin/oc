@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-gp9N5j81QzhnL7aeXjpe8A"
+    name="sketching_a_method,_h3njMAU1EdyxoIOVWQ896Q" guid="-gp9N5j81QzhnL7aeXjpe8A"
+    changeDate="2008-11-17T21:42:57.296-0800" version="7.1.0">
+  <mainDescription>&lt;p>&#xD;
+    Sketching a method is all about brainstorming about what the method should contain and how it should be&#xD;
+    organized.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Sketching is usually performed in a team environment in the context of a series of brainstorming sessions involving&#xD;
+    method SMEs.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    When sketching a method, it is important to identify the key method elements and their relationships, as well as an&#xD;
+    early draft of a brief description. The key method elements may include any or all of the following:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Key content areas&lt;/strong>, especially if the method&amp;nbsp;is large&amp;nbsp;(these may evolve into domains and&#xD;
+        disciplines)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Key method content elements and their relationships&lt;/strong>: what work products are produced and what&#xD;
+        roles are responsible for them?&amp;nbsp; What work products are consumed by the process (e.g., what are the input work&#xD;
+        products)?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Key activities&lt;/strong>: What activities are performed to produce the work products, what work products do&#xD;
+        those activities produce and consume?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Overall lifecycle and milestones&lt;/strong>.&amp;nbsp;What is the overall lifecycle that you are trying to&#xD;
+        represent, organized by key milestones and milestone criteria?&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    When sketching a method, it is important to leverage as much existing content as you can, both from the current&#xD;
+    context, as well as from existing methods.&amp;nbsp;This is especially important if the ultimate objective is to customize&#xD;
+    an existing method for the current context.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The following describes an approach for&amp;nbsp;sketching a method:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Identify key work products&lt;/strong>. Sometimes starting with the key work products can be easiest, as this&#xD;
+        gives you a set of terms to start working with. What are the key work products that are produced? Provide a brief&#xD;
+        description that indicates their purpose and key contents. If the work products have significant state, it is a&#xD;
+        good idea to capture that, as well. In addition to the work products that are produce by the method, it is&#xD;
+        important to identify work products that are consumed by the method. What are the inputs to the method? What is&#xD;
+        their expected contents? Can they be refined in any way, or should they be treated as input only?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Identify key activities&lt;/strong>. Once you have an initial list of work products, you can turn your&#xD;
+        attention to the key activities that are performed and how those activities produce/consume the work products. If&#xD;
+        they produce or refine a work product, what is the work product's resulting state after the activity is complete?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Identify key roles&lt;/strong>. You can also start thinking about what key roles that participate in the&#xD;
+        process, what work products they are responsible for and any key activities they participate in.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Outline overall lifecycle, including key milestones&lt;/strong>. Once you have an idea of the key activities,&#xD;
+        you can start to organize them into an overall lifecycle. First identify the key milestones and describe the&#xD;
+        milestone criteria in terms of the work products produced and their state. You can then map the identified&#xD;
+        activities to the milestones they support (i.e., the activities that support the reaching of the goal of the&#xD;
+        milestone). This may result in additional activities. At this point, don't worry too much about individual tasks,&#xD;
+        just capture the overall lifecycle in terms of milestones, key activities and their affect on key work products.&#xD;
+    &lt;/li>&#xD;
+&lt;/ol>&#xD;
+&lt;p>&#xD;
+    Applying the above approach results in a high-level definition of an end-to-end process, including work products,&#xD;
+    roles, activities,&amp;nbsp;milestones and overall lifecycle.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

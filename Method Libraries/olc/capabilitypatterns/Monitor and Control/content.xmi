@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-Oi4l0rNbVsw5yaPM52yvhA" name="Monitor and Control,_aHp0AZeeEeS_bNkOh34bcw" guid="-Oi4l0rNbVsw5yaPM52yvhA"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-T2NLmV157o1wOAAZDw2qZQ" name="PMLC_monitor_and_control_project_work,_eo05IZeeEeS_bNkOh34bcw" guid="-T2NLmV157o1wOAAZDw2qZQ">
+    <refinedDescription>In addition to reviewing the work that is being performed, this process ensures that the deliverables are being delivered
+        according to the project management plan. It looks at the progress of the overall project, taking corrective action when
+        needed via change requests.&lt;br />
+        &lt;br />
+        The project manager should take corrective action based on how the project has been progressing. Work being undertaken is
+        compared to the baseline and appropriate adjustments made to ensure that the two are harmonized.&lt;br />
+        &lt;br />
+        Additionally, risks are being managed properly, new risks identified, and that the overall project performance remains on
+        track. This process is aligned closely with the direct and manage project execution process, and it is used throughout the
+        project.&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-i7Z2lD0OSAzmETxXlNUulA" name="PMLC_perform_integrated_change_control,_f4w3AZeeEeS_bNkOh34bcw" guid="-i7Z2lD0OSAzmETxXlNUulA">
+    <refinedDescription>Perform Integrated Change Control is the process of reviewing all change requests, approving changes and managing changes
+        to the appropriate deliverables and artifacts. These include organizational process assets, project documents, and the
+        project management plan. Additionally, this entails communicating their disposition to the respective audience&lt;br />
+        &lt;br />
+        This process allows for documented changes within the project to be considered holistically, while reducing project risk,
+        which often arises from changes made without considering the overall project objectives.&lt;br />
+        &lt;br />
+        This Change Control process starts from the project's inception and continues through completion. Changes may be submitted
+        by any stakeholder involved with the project. All changes should be recorded in writing and entered into the change
+        management system. Often such change request may require information on estimated time impacts and estimated cost
+        impacts.&lt;br />
+        &lt;br />
+        Typically, the project sponsor or project manager approves or rejects each change request. This approver shall be
+        identified in the project management plan or by organizational procedures. Often, approved change requests require new or
+        revised cost estimates, activity sequences, schedule dates, resource requirements, analysis of risk response alternatives,
+        etc.&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-CLfrEcvqFwUnaW2StLx8NA" name="PMLC_project_manager,_kS3DwJeeEeS_bNkOh34bcw" guid="-CLfrEcvqFwUnaW2StLx8NA">
+    <refinedDescription>The Project Manager will generally plan, coordinate, implement, and finalize projects according to the specifications and
+        deadlines all while keeping the project within budget.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-dbN0CIwlwdxI-5FCEqrDjg" name="PMLC_cost_baseline,_kS3q0ZeeEeS_bNkOh34bcw" guid="-dbN0CIwlwdxI-5FCEqrDjg">
+    <refinedDescription>The cost baseline is the approved version of the project budget. It excludes management reserves and is project-phased
+        based which change must follow a formal change control procedures and is used as a basis for comparison to actual
+        results.&lt;br />
+         &lt;br />
+        The cost baseline is developed as a summary of the approved budgets for the different schedule activities. It will include
+        projected expenditures along with anticipated liabilities.&lt;br />
+        &lt;br />
+        The cost baseline is used to compare with with actual results to determine if a change, corrective action, or preventive
+        action is necessary. Once approved, these changes to the cost baseline are incorporated in response to approved changes in
+        scope, activity resources, or cost estimates. In the extreme case of significant change, a new cost baseline might be
+        deemed necessary.&lt;br />
+         &lt;br />
+         Because of new or omitted work identified by the risk responses, the cost baseline may be updated to reflect those changes
+        as well.&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-2jzQ3Lxn5yduxVhDAoYvww" name="PMLC_organizational_process_assets,_kS3q1JeeEeS_bNkOh34bcw" guid="-2jzQ3Lxn5yduxVhDAoYvww">
+    <refinedDescription>These are the processes or process-related assets from any of the organizations involved in the project that can be used to
+        help the project succeed. Some processes might look like an overhead or overkill but as responsible project managers, we
+        are supposed to follow them religiously, period... The organizational process assets are typically grouped into two
+        categories: 1. Processes and procedures for conducting work, and 2. A corporate knowledge base for storing and retrieving
+        information. For example, the performing organization might have its own guidelines, policies, and procedures, whose effect
+        on the project must be considered while developing the project charter and other project documents that will follow.
+        Another example of an organization's process assets are the knowledge and learning base acquired from previous
+        projects.&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-LLugVLufOugVxwMWzaVHNg" name="PMLC_project_management_plan,_kS4R4ZeeEeS_bNkOh34bcw" guid="-LLugVLufOugVxwMWzaVHNg">
+    <keyConsiderations>&lt;br /></keyConsiderations>
+    <refinedDescription>The project management plan is the document that describes how the project will be executed, monitored, and controlled. It
+        integrates and consolidates all of the individual plans from the planning processes. Project baselines and plans include,
+        but are not limited to:&lt;br />
+         &lt;br style=&quot;font-family: Candara;&quot; />
+         
+        &lt;ul style=&quot;font-family: Candara;&quot;>
+            &lt;li>
+                Scope, Cost and Schedule baseline
+            &lt;/li>
+            &lt;li>
+                Scope management plan
+            &lt;/li>
+            &lt;li>
+                Communications management plan
+            &lt;/li>
+            &lt;li>
+                Risk management plan
+            &lt;/li>
+            &lt;li>
+                Requirements management plan
+            &lt;/li>
+            &lt;li>
+                Schedule management plan
+            &lt;/li>
+            &lt;li>
+                Procurement management plan
+            &lt;/li>
+            &lt;li>
+                Cost management plan
+            &lt;/li>
+            &lt;li>
+                Quality management plan
+            &lt;/li>
+            &lt;li>
+                Human resource management plan
+            &lt;/li>
+        &lt;/ul></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-lyVOBM218967v5Z7PiH6mA" name="PMLC_project_schedule,_kS4R5JeeEeS_bNkOh34bcw" guid="-lyVOBM218967v5Z7PiH6mA">
+    <refinedDescription>The project schedule is the result of linking activities with planned dates, durations, milestones, and resources.
+        Minimally, the project schedule includes targeted start and finish dates for each activity.&lt;br />
+        &lt;br />
+        The project schedule may be presented in summary form (often called the master schedule) or displayed in detail. While
+        project schedulesl can be presented in tabular form, it is most often presented in a graphical form known as Gantt
+        charts.&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Dpymjw9Unezbz-Xvf6HniA" name="PMLC_project_scope_statement,_kS448ZeeEeS_bNkOh34bcw" guid="-Dpymjw9Unezbz-Xvf6HniA">
+    <refinedDescription>The project charter contains high-level information, while the project scope statement contains a detailed description of
+        the scope elements in contrast to the project charter which contains high-level information. These elements are
+        progressively elaborated throughout the project.&lt;br style=&quot;font-family: Candara;&quot; />
+         &lt;br style=&quot;font-family: Candara;&quot; />
+         The level of detail which the project scope statement defines the work that will be performed can help determine how well
+        the project management team can control the overall project scope. The project scope statement, either directly or by
+        reference to other documents, includes the following:&lt;br style=&quot;font-family: Candara;&quot; />
+         &lt;br style=&quot;font-family: Candara;&quot; />
+         
+        &lt;ul>
+            &lt;li>
+                Product scope description - Progressively elaborates the characteristics of the product, service or result
+                described in the project charter and requirements documentation.
+            &lt;/li>
+            &lt;li>
+                Acceptance criteria - A set of conditions that's required to be met before deliverables are accepted.
+            &lt;/li>
+            &lt;li>
+                Deliverable - Any verifiable product, result or capability to perform a service that is required to be produced to
+                complete a process, phase or project. They may be described at a summary level or in great detail.
+            &lt;/li>
+            &lt;li>
+                Project exclusion - Identifies what is excluded from the project. Explicitly stating what is out of scope for the
+                project.
+            &lt;/li>
+            &lt;li>
+                Constraint - Limiting factors that affect the execution of a project or process.
+            &lt;/li>
+            &lt;li>
+                Assumptions - A factor in the planning process considered to be true without proof or demonstration.
+            &lt;/li>
+        &lt;/ul></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-X-sTb0ltq-MJzk80HHY6_Q" name="PMLC_risk_management_plan,_kS5gAZeeEeS_bNkOh34bcw" guid="-X-sTb0ltq-MJzk80HHY6_Q">
+    <refinedDescription>The risk management plan describes how risk management activities are to be structured and performed. The risk management
+        plan includes the following:&lt;br />
+        &lt;br />
+        Roles and responsibilities - Defines the risk management team members for each type of activity in the risk management
+        plan, and clarifies responsibilities.&lt;br />
+         &lt;br />
+         Methodology - Defines the tools, approaches, and data sources that will be used to perform risk management on the
+        project.&lt;br />
+         &lt;br />
+         Risk categories - Allows a way for grouping potential causes of risk. An organization can use a custom categorization
+        framework, which may take the form of a simple list of categories or a very structured outline as a hierarchical
+        representation of risks according to their risk categories.&lt;br />
+         &lt;br />
+         Budgeting - Estimates of potential funds needed, based on assigned resources, for inclusion in the cost baseline and
+        establishes protocols for application of contingency and management reserves.&lt;br />
+         &lt;br />
+         Timing - Outlines the time when and how often the risk management processes will be enacted throughout the project life
+        cycle and establishes the risk management activities for the project schedule.&lt;br />
+         &lt;br />
+         Definitions of risk probability and impact - Provides the definitions of probability levels and impact levels. It is
+        developed to the specifics of the individual project during the Plan Risk Management process.&lt;br />
+         &lt;br />
+         Probability and impact matrix - A grid for mapping the probability of each risk, the probability of occurrence and its
+        impact on project objectives if that risk occurs. They are prioritized according to their potential implications for having
+        an effect on the project's objectives. It often uses a combination of probability and impact that lead to a risk being
+        rated as &quot;high,&quot; &quot;moderate,&quot; or &quot;low&quot; importance are usually set by the organization.&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-SlZB3A_9gUY4g4AIiuQ5vA" name="PMLC_communications_management_plan,_kS5gBJeeEeS_bNkOh34bcw" guid="-SlZB3A_9gUY4g4AIiuQ5vA">
+    <refinedDescription>The communications management plan is part of the project management plan. It describes how project communications will be
+        structured, monitored, and controlled.&lt;br />
+         &lt;br />
+         Often, the communications management plan includes templates and guidelines to be used throughout the project to ensure
+        some levels of standardization along with a repository for such information.&lt;br />
+         &lt;br />
+         Typically, the communications management plan includes:&lt;br />
+         &lt;br />
+         
+        &lt;ul>
+            &lt;li>
+                The purpose for the providing such information
+            &lt;/li>
+            &lt;li>
+                The frequency and duration for the distribution of required information
+            &lt;/li>
+            &lt;li>
+                Stakeholder communication needs
+            &lt;/li>
+            &lt;li>
+                The receiptients of the targeted information
+            &lt;/li>
+            &lt;li>
+                Escalation process
+            &lt;/li>
+            &lt;li>
+                Information to be dispersed (this often addresses language, content, levels of detail, etc.)
+            &lt;/li>
+            &lt;li>
+                The person responsible for communicating the specific information
+            &lt;/li>
+            &lt;li>
+                The person approving the release of the information, especially if it is confidential
+            &lt;/li>
+            &lt;li>
+                The format and mode of delivery of the information (ex meeting, email, etc.)
+            &lt;/li>
+            &lt;li>
+                Estimated effort, resources and budgeted costs for providing project communications
+            &lt;/li>
+            &lt;li>
+                Glossary of terms
+            &lt;/li>
+        &lt;/ul></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-AOovvojUcMiOc6g9aZQ7-A" name="PMLC_work_performance_reports,_kS6uIZeeEeS_bNkOh34bcw" guid="-AOovvojUcMiOc6g9aZQ7-A">
+    <refinedDescription>Work performance reports are either physical or electronic representation of work progress/performance compiled in project
+        documents, intended to generate decisions or raise issues, actions, or awareness. Some examples include status reports,
+        memos, justifications, information notes, electronic dashboards, recommendations, and updates.&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-5Jwj1oBhXqZeXkcn-myo6w" name="PMLC_project_charter,_kTLz4ZeeEeS_bNkOh34bcw" guid="-5Jwj1oBhXqZeXkcn-myo6w">
+    <keyConsiderations>&lt;br /></keyConsiderations>
+    <refinedDescription>A project charter provides a preliminary delineation of roles and responsibilities, outlines the project objectives,
+        identifies the main stakeholders, and defines the authority of the project manager. It serves as a reference of authority
+        for the future of the project.&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-HkvPZrxqx8Y7vNOWOZWtjQ" name="PMLC_project_manager_assigned,_kTLz5JeeEeS_bNkOh34bcw" guid="-HkvPZrxqx8Y7vNOWOZWtjQ">
+    <refinedDescription>Typically, the project sponsor, either directly or indirectly, assigns a project manager. If the organization has a pool of
+        project managers, the sponsor requests a project manager to be asigned to the project.&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-8RiL8RB4m_cNLdEYA_f8iQ" name="PMLC_stakeholder_register,_kTLz55eeEeS_bNkOh34bcw" guid="-8RiL8RB4m_cNLdEYA_f8iQ">
+    <keyConsiderations>The stakeholder register provides the information needed to plan appropriateways to engage project stakeholders.&lt;br /></keyConsiderations>
+    <refinedDescription>The stakeholder register is used to identify stakeholders who can provide information on the requirements and posess an
+        interest in having an impact on quality. It contains details related to the project's stakeholders and provides an overview
+        of their roles.&lt;br style=&quot;font-family: Candara;&quot; />
+         &lt;br style=&quot;font-family: Candara;&quot; />
+         The register typically contains the following:&lt;br style=&quot;font-family: Candara;&quot; />
+         &lt;br style=&quot;font-family: Candara;&quot; />
+         
+        &lt;ul>
+            &lt;li>
+                Name, contact information, location, project role and organizational position
+            &lt;/li>
+            &lt;li>
+                Their specific key requirements and expectations
+            &lt;/li>
+            &lt;li>
+                Stakeholder type/classification
+            &lt;/li>
+        &lt;/ul>
+        The stakeholder register should be consulted and updated on a regular basis, as stakeholders may change—or new ones
+        identified—throughout the life cycle of the project.&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ZW_yTRDdMbqBAQ5I8X0UwA" name="PMLC_activity_cost_estimates,_kTMa8ZeeEeS_bNkOh34bcw" guid="-ZW_yTRDdMbqBAQ5I8X0UwA">
+    <refinedDescription>Activity Cost estimates the projects costs of the schedule activity including costs for all resources required to complete
+        them. These are then aggregated to obtain a cost estimate for the project. These estimates are quantitative assessments of
+        the probable costs required to complete project. They are often documented in summary form or in detail.&lt;br />
+         &lt;br />
+         Costs are estimated for all resources that are applied including; direct labor, materials, equipment, facilities, and
+        information technology. &lt;br />
+         &lt;br />
+         Activity cost estimate reviews are recommended to identify possible risks. The review may result in projections noting
+        estimates are either sufficient or insufficient to complete the activity.&lt;br />
+         &lt;br />
+         Cost estimates for each activity within a work package are rolled up to a cost estimate for each work package which, in
+        turn, is rolled up again to provide an estimate for the project&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-UuBCIvd3xbqVPSfYZvklvA" name="PMLC_activity_durations,_kTMa9JeeEeS_bNkOh34bcw" guid="-UuBCIvd3xbqVPSfYZvklvA">
+    <refinedDescription>Activity Durations is the estimated period of time necessary to complete specific activities. This provides input in
+        developig the schedule. The estimates typically come from the person or group on the project team who are most familiar
+        with the nature of the work in the specific activity. The estimate is progressively elaborated, and the process considering
+        the quality and availability of the input. As more detailed and acurate data is available about the project, the accuracy
+        of the duration estimates improve.&lt;br />
+        The data and assumptions that support this activity are documented for each iterative estimate of activity duration.&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Z5gxxFLTcU1_atJ1jMykow" name="PMLC_activity_list,_kTNCAZeeEeS_bNkOh34bcw" guid="-Z5gxxFLTcU1_atJ1jMykow">
+    <refinedDescription>The activity list is a complete list that includes all activities required on the project. The activity. It can be the
+        result of the Work Breakdown Structure (WBS) task activity or can be developed along side of the task exercise.&lt;br />
+         &lt;br />
+         The activity list contains all schedule activities required on the project, which:&lt;br />
+         &lt;br />
+         
+        &lt;ul>
+            &lt;li>
+                Are to be sequenced
+            &lt;/li>
+            &lt;li>
+                Which will need resources
+            &lt;/li>
+            &lt;li>
+                Will need duration estimates
+            &lt;/li>
+        &lt;/ul>
+        &lt;br />
+         The activity list identifies those activities tobe included in the schedule model.&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-6UQsmogGSwUeu8QdiOj9_w" name="PMLC_activity_sequence,_kTNCBJeeEeS_bNkOh34bcw" guid="-6UQsmogGSwUeu8QdiOj9_w">
+    <refinedDescription>The activity sequence defines the relationship between the necessary activities of the project. It helps to outline which
+        activitie need to be completed before the next one(s) can be started. Other sequencing might define that two or more
+        activities need to start simultaneously or x number of days after the start of a previous one. Still other activities take
+        on a recurring relationship to other activities.&lt;br />
+        &lt;br />
+        This activity sequence is an essential element whend developing the project schedule.&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-CAC5eVfJuBhBeLnLl5Owgw" name="PMLC_basis_of_estimate,_kTNpEZeeEeS_bNkOh34bcw" guid="-CAC5eVfJuBhBeLnLl5Owgw">
+    <refinedDescription>The Basis of Estimates is the supporting documentation providing the details used to establish the project estimates
+        including; assumptions, constraints, level of detail, ranges, and confidence levels. This information should specify any
+        basic assumptions dealing with the inclusion or exclusion of costs in the project budget.&lt;br />
+         &lt;br />
+         The level of detail supporting the cost estimate often vary by area. The supporting documentation should provide a clear
+        and complete understanding of how the etimates were derived.&lt;br />
+         &lt;br />
+         This supporting information/documentation includes but is not limited to:&lt;br />
+         &lt;br />
+         
+        &lt;ul>
+            &lt;li>
+                The basis of the estimate or how it was developed
+            &lt;/li>
+            &lt;li>
+                All assumptions made
+            &lt;/li>
+            &lt;li>
+                All known constraints
+            &lt;/li>
+            &lt;li>
+                Ranges of possible estimates indicating that the item was considered to be between a range of values
+            &lt;/li>
+            &lt;li>
+                Confidence level of the estimate
+            &lt;/li>
+        &lt;/ul></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-s293kGVArLnHbTL-YMgwvw" name="PMLC_project_funding_requirements,_kTNpFJeeEeS_bNkOh34bcw" guid="-s293kGVArLnHbTL-YMgwvw">
+    <refinedDescription>The project funding requirements include all projected expenditures along with the anticipated projected liabilities. They
+        outline the amount of total funding needed for the project. Often these requirements are overlaid on the cost baseline for
+        each time period. While project expenditures typically occur relatively smoothly, the funding often occurs in chunks. It is
+        often displayed against a cost baseline in a stair-step fashion.&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-7oXD5klCt14ZKqXdZwCb1Q" name="PMLC_resource_requirements,_kTOQIZeeEeS_bNkOh34bcw" guid="-7oXD5klCt14ZKqXdZwCb1Q">
+    <refinedDescription>Resource requirements identify the types and quantities of resources required for each activity. They are often aggregated
+        to determine the estimated resources for each work package and work period. The documentation for each activity can include
+        how the estimate was derived and assumptions made around each activity and resource. Available resources and their skill
+        levels all are considered when determining project resources.&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-jsvgLzqNFoOrw7SlBvHgpQ" name="PMLC_project_staff_assignments,_kTO3MZeeEeS_bNkOh34bcw" guid="-jsvgLzqNFoOrw7SlBvHgpQ">
+    <refinedDescription>The project staff assignments is a document (or part of a document) that specifies which resources are assigned to each
+        activity. It often includes a listing of the project team, memos defining assignments, and artifacts or portions of
+        documentation such as project organization charts and schedules.&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ciDNMuua0G8H7ub6pemLrQ" name="PMLC_approved_change_requests,_nFaD4ZeeEeS_bNkOh34bcw" guid="-ciDNMuua0G8H7ub6pemLrQ">
+    <refinedDescription>Approved change requests a result of the Perform Integrated Change Control process. They are scheduled and implemented by
+        the project team. &lt;br />
+        &lt;br />
+        Change requests are processed according to the approved change control system by the project manager or other predefined
+        entity. The status of all change requests, approved or not, shall be updated in the change log.&lt;br />
+        &lt;br />
+         Approved change requests may include modifications such as defect repairs, revised work methods, and revised schedule.
+        Change requests that have been approved can include modifications to the terms and conditions of the contract, pricing, and
+        descriptions of the products, services, or results to be provided.&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ssy0DY7SEFkQdEUoygmn_w" name="PMLC_change_log,_nFaq8ZeeEeS_bNkOh34bcw" guid="-ssy0DY7SEFkQdEUoygmn_w">
+    <refinedDescription>A Change Log is list of changes made during the project. Often, it includes dates of the change, along with information on
+        impacts in terms of time, cost, and risk. This information is communicated to the appropriate stakeholders.&lt;br />
+        &lt;br />
+        Information is also captured for rejected change requests.&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+</xmi:XMI>

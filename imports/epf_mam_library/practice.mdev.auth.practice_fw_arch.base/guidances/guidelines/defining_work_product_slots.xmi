@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-i7HYm9ifC47vVQK8TdUJ2g"
+    name="defining_work_product_slots,_F2CmQJK4EdymiveLU5l8fA" guid="-i7HYm9ifC47vVQK8TdUJ2g"
+    changeDate="2008-11-13T14:35:43.750-0800" version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    &lt;a class=&quot;elementLink&quot; href=&quot;./../../../core.mdev.common.base/guidances/concepts/work_product_slot_D5B44CE7.html&quot;&#xD;
+    guid=&quot;_Er1OcJIfEdybeduord13cg&quot;>Work Product Slot&lt;/a>s &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/work_product_slot_D5B44CE7.html&quot;&#xD;
+    guid=&quot;_Er1OcJIfEdybeduord13cg&quot;>when&lt;/a> are defined when you need to pass information between &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/concepts/practice_F5C8EAAB.html&quot;&#xD;
+    guid=&quot;_qhCTAFRREd2CWscN8Mx6rg&quot;>Practice&lt;/a>s.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Work product slots are defined in Core plug-ins where their definition can be shared.&amp;nbsp;For more information on the&#xD;
+    practice library plug-in types, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_lib_plugin_types_3EA8002F.html&quot;&#xD;
+    guid=&quot;__428YO6cEdygKbJMUVNEtg&quot;>Concept: Practice Library Plug-In Types&lt;/a>.&amp;nbsp; For more information on defining&#xD;
+    plug-ins, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/guidelines/defining_plugins_CF19789C.html&quot;&#xD;
+    guid=&quot;_OIOSQF_zEduYvI5nsNyVYA&quot;>Guideline: Defining Plugins&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Work product slots are implemented as &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/work_product_826E4C22.html&quot;&#xD;
+    guid=&quot;_H4JXwB_SEdq6CKKKq4D7YA&quot;>work product&lt;/a>s. However, they are &quot;special&quot; work products in that they are&#xD;
+    implementation/representation agnostic. Thus, for general information on defining work products, see &lt;a&#xD;
+    class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/guidelines/defining_method_content_elements_21A491E3.html&quot;&#xD;
+    guid=&quot;_XQqJkCAmEdy1y5bWsXfCCg&quot;>Guideline: Defining Method Content Elements&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It&amp;nbsp;is important to remember that work products slots are not “real” elements, in the method sense.&amp;nbsp;Thus,&#xD;
+    there are some additional authoring guidelines:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Work product slots may appear as inputs to tasks&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Work product slots may not appear as an output to tasks&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Work product slots are filled by real work products in specific practices&amp;nbsp;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Work product slots should not be categorized using standard categories&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        When naming separate work product slots, use a descriptive name that indicates explicitly that the element is a&#xD;
+        slot.&amp;nbsp;Specifically, the slot's presentation name should be between brackets and it's internal name should end&#xD;
+        in (“_slot”).&amp;nbsp; Such conventions make it easy to see what is a slot and what is an actual artifact that fills a&#xD;
+        slot.&amp;nbsp;&lt;br />&#xD;
+        For example:&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-TYPE: none&quot;>&#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                Presentation Name: [Specified System]&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                Name: specified_system_slot&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-wT6LyxIvA-OVSw9h6ys0IQ" name="new_artifact,_kZo78DuuEeSIrOwVunFgpg" guid="-wT6LyxIvA-OVSw9h6ys0IQ" authors="John Rozsa" changeDate="2014-09-22T20:31:47.792-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>The project charter contains high-level information, while the project scope statement contains a detailed description of
+        the scope elements in contrast to the project charter which contains high-level information. These elements are
+        progressively elaborated throughout the project.&lt;br style=&quot;font-family: Candara;&quot; />
+         &lt;br style=&quot;font-family: Candara;&quot; />
+         The level of detail which the project scope statement defines the work that will be performed can help determine how well
+        the project management team can control the overall project scope. The project scope statement, either directly or by
+        reference to other documents, includes the following:&lt;br style=&quot;font-family: Candara;&quot; />
+         &lt;br style=&quot;font-family: Candara;&quot; />
+         
+        &lt;ul>
+            &lt;li>
+                Product scope description - Progressively elaborates the characteristics of the product, service or result
+                described in the project charter and requirements documentation.
+            &lt;/li>
+            &lt;li>
+                Acceptance criteria - A set of conditions that's required to be met before deliverables are accepted.
+            &lt;/li>
+            &lt;li>
+                Deliverable - Any verifiable product, result or capability to perform a service that is required to be produced to
+                complete a process, phase or project. They may be described at a summary level or in great detail.
+            &lt;/li>
+            &lt;li>
+                Project exclusion - Identifies what is excluded from the project. Explicitly stating what is out of scope for the
+                project.
+            &lt;/li>
+            &lt;li>
+                Constraint - Limiting factors that affect the execution of a project or process.
+            &lt;/li>
+            &lt;li>
+                Assumptions - A factor in the planning process considered to be true without proof or demonstration.
+            &lt;/li>
+        &lt;/ul></mainDescription>
+  <impactOfNotHaving>Not having a scope statement may cause confusion as to what needs to be done and what might be excluded.&lt;br /></impactOfNotHaving>
+  <reasonsForNotNeeding>A project scope statement may not be needed for smaller initiatives where the specific goal of the project is well defined
+        and little room for misunderstanding what needs to be done.&lt;br /></reasonsForNotNeeding>
+</org.eclipse.epf.uma:ArtifactDescription>

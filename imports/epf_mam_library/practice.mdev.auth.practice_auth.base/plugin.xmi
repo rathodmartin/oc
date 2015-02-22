@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_RlFJMLgREd2VBqezzK7PZw"
+      guid="_RlFJMLgREd2VBqezzK7PZw">
+    <resourceDescriptors xmi:id="_RlFJMrgREd2VBqezzK7PZw" id="-cvnJo9HGm2CFuHsaY8MAAw"
+        uri="guidances/roadmaps/author_new_practice.xmi"/>
+    <resourceDescriptors xmi:id="_RlO6MLgREd2VBqezzK7PZw" id="-J1LhOmJPnEm6jvpPduIblw"
+        uri="guidances/roadmaps/customize_existing_practice.xmi"/>
+    <resourceDescriptors xmi:id="_RlYEILgREd2VBqezzK7PZw" id="-0z-Uxv57_5cIS3Q0Jim8HA"
+        uri="guidances/roadmaps/how_to_adopt_practice_auth.xmi"/>
+    <resourceDescriptors xmi:id="_RlYEIbgREd2VBqezzK7PZw" id="-9oNtk9wFgJxGzEpG-AvUNg"
+        uri="guidances/guidelines/structuring_practice.xmi"/>
+    <resourceDescriptors xmi:id="_Rlh1ILgREd2VBqezzK7PZw" id="-v0rOhex7bmb04EPLEIbcMA"
+        uri="guidances/guidelines/detailing_practice_elements.xmi"/>
+    <resourceDescriptors xmi:id="_RlrmILgREd2VBqezzK7PZw" id="-ThyVhkfDEnIehUp8Gu_3Sw"
+        uri="guidances/guidelines/sketching_practice.xmi"/>
+    <resourceDescriptors xmi:id="_RlrmIbgREd2VBqezzK7PZw" id="-xtm18OUVZqv0Tc6CcsUTNA"
+        uri="guidances/guidelines/publishing_practice.xmi"/>
+    <resourceDescriptors xmi:id="_Rl0wELgREd2VBqezzK7PZw" id="-I1ZuDZxxZV-wxQWFlsf0cw"
+        uri="guidances/practices/practice_auth_practice.xmi"/>
+    <resourceDescriptors xmi:id="_Rl0wEbgREd2VBqezzK7PZw" id="-YRgyEeV_QsrodfBCb-U-Xg"
+        uri="guidances/guidelines/detailing_guidance.pa.xmi"/>
+    <resourceDescriptors xmi:id="_Rl0wErgREd2VBqezzK7PZw" id="-I4UMQVeS-fzpOhgrCHdKFw"
+        uri="guidances/guidelines/customizing_practice.xmi"/>
+    <resourceDescriptors xmi:id="_Rl-hELgREd2VBqezzK7PZw" id="-EOmd689QYQYX7I2Uw4Omqg"
+        uri="guidances/supportingmaterials/release_info_practice_auth_practice.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_0AD2ECJoEd2elMIxXedw0g" name="practice.mdev.auth.practice_auth.base"
+      guid="_0AD2ECJoEd2elMIxXedw0g" presentationName="Practice Authoring Practice"
+      briefDescription="This practice provides best practices for identifying, designing and detailing practices.  The inputs to this practice are an existing practice library and the requirements.  The output is a practice."
+      authors="Kelli Houston" changeDate="2008-09-14T05:18:40.515-0700" version="1.0">
+    <copyrightStatement href="uma://_iVydgENdEdy245g62lfWcA#_uuunoPsDEdmyhNQr5STrZQ"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_0AD2ESJoEd2elMIxXedw0g"
+        name="Content" guid="_0AD2ESJoEd2elMIxXedw0g">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_0AD2EiJoEd2elMIxXedw0g"
+          name="Categories" guid="_0AD2EiJoEd2elMIxXedw0g">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_0AD2EyJoEd2elMIxXedw0g"
+            name="Domains" guid="_0AD2EyJoEd2elMIxXedw0g"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_0AD2FCJoEd2elMIxXedw0g"
+            name="Disciplines" guid="_0AD2FCJoEd2elMIxXedw0g"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_0AD2FSJoEd2elMIxXedw0g"
+            name="RoleSets" guid="_0AD2FSJoEd2elMIxXedw0g"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_0AD2FiJoEd2elMIxXedw0g"
+            name="WP Types" guid="_0AD2FiJoEd2elMIxXedw0g"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_0AD2FyJoEd2elMIxXedw0g"
+            name="Tools" guid="_0AD2FyJoEd2elMIxXedw0g"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_0AD2GCJoEd2elMIxXedw0g"
+            name="StandardCategories" guid="_0AD2GCJoEd2elMIxXedw0g"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_0AD2GSJoEd2elMIxXedw0g"
+            name="CustomCategories" guid="_0AD2GSJoEd2elMIxXedw0g">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_0AD2GiJoEd2elMIxXedw0g"
+              name="Hidden" guid="_0AD2GiJoEd2elMIxXedw0g">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_0AD2GyJoEd2elMIxXedw0g"
+                name="Custom Categories" guid="_0AD2GyJoEd2elMIxXedw0g" categorizedElements="_IdGy0I9mEd2wx6IEleUeCQ"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_IdGy0I9mEd2wx6IEleUeCQ"
+              name="do_not_publish.pa" guid="_IdGy0I9mEd2wx6IEleUeCQ" variabilityType="contributes"
+              categorizedElements="_cTs20KzREduOqvpk_MDLfQ _UaGfECcTEduSX6N2jUafGA">
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CustomCategory"
+                href="uma://_vsno4EKmEdyrauqpmnA8jQ#_O3UtkMRdEdyD76CYS6Ta7A"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_0AD2HCJoEd2elMIxXedw0g"
+          name="CoreContent" guid="_0AD2HCJoEd2elMIxXedw0g">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2G604CJoEd2elMIxXedw0g"
+            name="practice_auth_practice" guid="_2G604CJoEd2elMIxXedw0g" presentationName="Practice Authoring Practice">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6Ybv4KnMEd2eRp4Z7dEEOQ"
+              name="practice_capabilities" guid="_6Ybv4KnMEd2eRp4Z7dEEOQ" presentationName="Practice Capabilities"
+              briefDescription="These roadmaps describe the key capabilities that the practice provides. They provide a structured walkthrough of the practice elements in support of those capabilities.">
+            <contentElements xsi:type="org.eclipse.epf.uma:Roadmap" xmi:id="_t8M_4CXOEd2dSdS2FPKaIA"
+                name="author_new_practice" guid="_t8M_4CXOEd2dSdS2FPKaIA" presentationName="Author a New Practice"
+                briefDescription="This roadmap describes how to author a new practice."
+                guidelines="_tkYzcCXnEd2dSdS2FPKaIA _F2l88JSGEdyCzN0eHC4CLA _xovb0JQ-EdyOprQk0vnmNg _oOSgsD9-Ed2fM_dR3V_v1A">
+              <presentation xmi:id="-cvnJo9HGm2CFuHsaY8MAAw" href="uma://-cvnJo9HGm2CFuHsaY8MAAw#-cvnJo9HGm2CFuHsaY8MAAw"/>
+              <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#__LjaEFQsEd2uvIuuFjd1Fg"/>
+              <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_Er1OcJIfEdybeduord13cg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Roadmap" xmi:id="_1DeVACYEEd2Hqsxn1d0Dyg"
+                name="customize_existing_practice" guid="_1DeVACYEEd2Hqsxn1d0Dyg"
+                presentationName="Customize an Existing Practice" briefDescription="This roadmap describes how to customize an existing practice."
+                conceptsAndPapers="_qhCTAFRREd2CWscN8Mx6rg" guidelines="_oOSgsD9-Ed2fM_dR3V_v1A _tkYzcCXnEd2dSdS2FPKaIA _sfzMkKlSEd2XsY8-UtPVvw _xovb0JQ-EdyOprQk0vnmNg">
+              <presentation xmi:id="-J1LhOmJPnEm6jvpPduIblw" href="uma://-J1LhOmJPnEm6jvpPduIblw#-J1LhOmJPnEm6jvpPduIblw"/>
+            </contentElements>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:Roadmap" xmi:id="_OZHJYCXKEd2dSdS2FPKaIA"
+              name="how_to_adopt_practice_auth" guid="_OZHJYCXKEd2dSdS2FPKaIA" presentationName="How to Adopt Practice Authoring"
+              briefDescription="This roadmap describes the recommended approach for adopting the Practice Authoring practice.">
+            <presentation xmi:id="-0z-Uxv57_5cIS3Q0Jim8HA" href="uma://-0z-Uxv57_5cIS3Q0Jim8HA#-0z-Uxv57_5cIS3Q0Jim8HA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_F2l88JSGEdyCzN0eHC4CLA"
+              name="structuring_practice" guid="_F2l88JSGEdyCzN0eHC4CLA" presentationName="Structuring a Practice"
+              briefDescription="This guideline provides recommendations for structuring a new practice or a practice customization.">
+            <presentation xmi:id="-9oNtk9wFgJxGzEpG-AvUNg" href="uma://-9oNtk9wFgJxGzEpG-AvUNg#-9oNtk9wFgJxGzEpG-AvUNg"/>
+            <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_Er1OcJIfEdybeduord13cg"/>
+            <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#__428YO6cEdygKbJMUVNEtg"/>
+            <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_1gchoO6dEdygKbJMUVNEtg"/>
+            <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#__LjaEFQsEd2uvIuuFjd1Fg"/>
+            <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_rlrykJcbEd2sTqxclDgvog"/>
+            <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_vgjh4PG1EdyO9sYxKNWf8A"/>
+            <guidelines href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_OIOSQF_zEduYvI5nsNyVYA"/>
+            <guidelines href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_XQqJkCAmEdy1y5bWsXfCCg"/>
+            <guidelines href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_Y_JroEyDEdu4NY1n_hCY0w"/>
+            <guidelines href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_l77zcIB-EduaS6LQ8n6xUQ"/>
+            <guidelines href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_V7qwIMjpEdyoXMhaXAJ-6g"/>
+            <guidelines href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_thsRIMjnEdyoXMhaXAJ-6g"/>
+            <guidelines href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_8YIMYCNQEdycLddDalDmbA"/>
+            <guidelines href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_lAphAF5-EduT-Px7fh0LSg"/>
+            <guidelines href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_cJbBkCAhEdy1y5bWsXfCCg"/>
+            <guidelines href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_5cHsoFJsEd2SzrMjC_svdw"/>
+            <guidelines href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_5e_qMFTMEd2N4vZAlUIPvw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_xovb0JQ-EdyOprQk0vnmNg"
+              name="detailing_practice_elements" guid="_xovb0JQ-EdyOprQk0vnmNg" presentationName="Detailing Practice Elements"
+              briefDescription="This guideline provides recommendations for writing the detailed description of an element that resides in a practice.">
+            <presentation xmi:id="-v0rOhex7bmb04EPLEIbcMA" href="uma://-v0rOhex7bmb04EPLEIbcMA#-v0rOhex7bmb04EPLEIbcMA"/>
+            <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_Er1OcJIfEdybeduord13cg"/>
+            <guidelines href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_7ZLhcIEpEduh5eWFWxp_YQ"/>
+            <guidelines href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_60WTkJkoEd2Al9G_gP7uDg"/>
+            <guidelines href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_Akb_sJklEd2Al9G_gP7uDg"/>
+            <guidelines href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_DRI2gJklEd2Al9G_gP7uDg"/>
+            <guidelines href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_F0wCwJklEd2Al9G_gP7uDg"/>
+            <guidelines href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_jLqqIOFIEdumFeaOJSgmnQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_tkYzcCXnEd2dSdS2FPKaIA"
+              name="sketching_practice" guid="_tkYzcCXnEd2dSdS2FPKaIA" presentationName="Sketching a Practice"
+              briefDescription="This guideline provides recommendations on how to sketch a practice.">
+            <presentation xmi:id="-ThyVhkfDEnIehUp8Gu_3Sw" href="uma://-ThyVhkfDEnIehUp8Gu_3Sw#-ThyVhkfDEnIehUp8Gu_3Sw"/>
+            <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_Er1OcJIfEdybeduord13cg"/>
+            <guidelines href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_h3njMAU1EdyxoIOVWQ896Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_oOSgsD9-Ed2fM_dR3V_v1A"
+              name="publishing_practice" guid="_oOSgsD9-Ed2fM_dR3V_v1A" presentationName="Publishing a Practice"
+              briefDescription="This guideline provides recommendations on how to publish an individual practice."
+              conceptsAndPapers="_qhCTAFRREd2CWscN8Mx6rg">
+            <presentation xmi:id="-xtm18OUVZqv0Tc6CcsUTNA" href="uma://-xtm18OUVZqv0Tc6CcsUTNA#-xtm18OUVZqv0Tc6CcsUTNA"/>
+            <guidelines href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_eJNWICBwEdy1y5bWsXfCCg"/>
+            <guidelines href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_l77zcIB-EduaS6LQ8n6xUQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_yVzoIE91Ed2SAuyoRuCemA"
+              name="practice_auth_practice" guid="_yVzoIE91Ed2SAuyoRuCemA" presentationName="Practice Authoring"
+              briefDescription="This practice provides guidance for authoring a practice within a practice framework.  It assumes that the practice framework, including a shared core, already exists.">
+            <presentation xmi:id="-I1ZuDZxxZV-wxQWFlsf0cw" href="uma://-I1ZuDZxxZV-wxQWFlsf0cw#-I1ZuDZxxZV-wxQWFlsf0cw"/>
+            <contentReferences xsi:type="org.eclipse.epf.uma:Roadmap" href="#_OZHJYCXKEd2dSdS2FPKaIA"/>
+            <contentReferences xsi:type="org.eclipse.epf.uma:Concept" href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_Er1OcJIfEdybeduord13cg"/>
+            <contentReferences xsi:type="org.eclipse.epf.uma:Roadmap" href="#_t8M_4CXOEd2dSdS2FPKaIA"/>
+            <contentReferences xsi:type="org.eclipse.epf.uma:Roadmap" href="#_1DeVACYEEd2Hqsxn1d0Dyg"/>
+            <contentReferences xsi:type="org.eclipse.epf.uma:Guideline" href="#_tkYzcCXnEd2dSdS2FPKaIA"/>
+            <contentReferences xsi:type="org.eclipse.epf.uma:Guideline" href="#_F2l88JSGEdyCzN0eHC4CLA"/>
+            <contentReferences xsi:type="org.eclipse.epf.uma:Guideline" href="#_sfzMkKlSEd2XsY8-UtPVvw"/>
+            <contentReferences xsi:type="org.eclipse.epf.uma:Guideline" href="#_xovb0JQ-EdyOprQk0vnmNg"/>
+            <contentReferences xsi:type="org.eclipse.epf.uma:Guideline" href="#_oOSgsD9-Ed2fM_dR3V_v1A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_JGfC0JkxEd2Al9G_gP7uDg"
+              name="detailing_guidance.pa" guid="_JGfC0JkxEd2Al9G_gP7uDg" variabilityType="contributes"
+              guidelines="_F2l88JSGEdyCzN0eHC4CLA">
+            <presentation xmi:id="-YRgyEeV_QsrodfBCb-U-Xg" href="uma://-YRgyEeV_QsrodfBCb-U-Xg#-YRgyEeV_QsrodfBCb-U-Xg"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_60WTkJkoEd2Al9G_gP7uDg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_sfzMkKlSEd2XsY8-UtPVvw"
+              name="customizing_practice" guid="_sfzMkKlSEd2XsY8-UtPVvw" presentationName="Customizing a Practice"
+              briefDescription="This guideline provides recommendations on how to structure a customization to an existing practice.">
+            <presentation xmi:id="-I4UMQVeS-fzpOhgrCHdKFw" href="uma://-I4UMQVeS-fzpOhgrCHdKFw#-I4UMQVeS-fzpOhgrCHdKFw"/>
+            <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_rlrykJcbEd2sTqxclDgvog"/>
+            <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#__428YO6cEdygKbJMUVNEtg"/>
+            <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_Er1OcJIfEdybeduord13cg"/>
+            <guidelines href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_TNlCkKkfEd2XsY8-UtPVvw"/>
+            <guidelines href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_5cHsoFJsEd2SzrMjC_svdw"/>
+            <guidelines href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_a4wzIKj_Ed2XsY8-UtPVvw"/>
+            <guidelines href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_5e_qMFTMEd2N4vZAlUIPvw"/>
+            <guidelines href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_Y_tk0KkVEd2XsY8-UtPVvw"/>
+            <guidelines href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_Y_JroEyDEdu4NY1n_hCY0w"/>
+            <guidelines href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_XQqJkCAmEdy1y5bWsXfCCg"/>
+            <guidelines href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_thsRIMjnEdyoXMhaXAJ-6g"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_60hMcCJoEd2elMIxXedw0g"
+            name="release_info" guid="_60hMcCJoEd2elMIxXedw0g" presentationName="Release Information">
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_SMjMsE91Ed2SAuyoRuCemA"
+              name="release_info_practice_auth_practice" guid="_SMjMsE91Ed2SAuyoRuCemA"
+              presentationName="Practice Authoring Practice Release Information" briefDescription="This page describes the release information for the Practice Authoring Practice."
+              shapeicon="guidances/supportingmaterials/resources/whats_new.gif" nodeicon="guidances/supportingmaterials/resources/whats_new_obj.gif">
+            <presentation xmi:id="-EOmd689QYQYX7I2Uw4Omqg" href="uma://-EOmd689QYQYX7I2Uw4Omqg#-EOmd689QYQYX7I2Uw4Omqg"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_0AD2HSJoEd2elMIxXedw0g"
+          name="CapabilityPatterns" guid="_0AD2HSJoEd2elMIxXedw0g"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_0AD2HiJoEd2elMIxXedw0g"
+        name="DeliveryProcesses" guid="_0AD2HiJoEd2elMIxXedw0g"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_0AD2HyJoEd2elMIxXedw0g"
+        name="ProcessContributions" guid="_0AD2HyJoEd2elMIxXedw0g"/>
+    <bases href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_HQW1wAvmEd2Z4aGiwM2NOA"/>
+    <bases href="uma://_vsno4EKmEdyrauqpmnA8jQ#_vsno4EKmEdyrauqpmnA8jQ"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

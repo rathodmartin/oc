@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-thGnnb0nXo2SGJ4Nxdc2tw"
+    name="customizing_processes.umf,_l4YZUJuAEd2fi9zUq_rRtg" guid="-thGnnb0nXo2SGJ4Nxdc2tw"
+    changeDate="2008-11-19T07:48:00.468-0800" version="7.5.0">
+  <mainDescription>&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Special instructions when authoring in the UMF&lt;/strong>: When customizing processes that are to existing within&#xD;
+    the &lt;a class=&quot;elementLink&quot; href=&quot;./../../../core.mdev.common.extend_umf/guidances/concepts/umf_C03950A8.html&quot;&#xD;
+    guid=&quot;_nrrn4GqHEdun45RPFGeYnA&quot;>Unified Method Framework (UMF)&lt;/a>, the UMF plug-in types need to be&#xD;
+    considered.&amp;nbsp;These types affect what elements can be placed in what plug-in.&amp;nbsp;For example, customizations of&#xD;
+    process elements are defined in Extend plug-ins.&amp;nbsp;For more information on these plug-in types, see &lt;a&#xD;
+    class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_lib_plugin_types_3EA8002F.html&quot;&#xD;
+    guid=&quot;__428YO6cEdygKbJMUVNEtg&quot;>Concept: Practice Library Plug-In Types&lt;/a>. However, If you find that rather than&#xD;
+    customizing the base UMF elements in separate plug-ins (the recommended approach) that you would like a change to the&#xD;
+    UMF element itself, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.extend_umf/guidances/guidelines/requesting_change_to_umf_173F0AC7.html&quot;&#xD;
+    guid=&quot;__BMv0JorEd2fi9zUq_rRtg&quot;>Guideline: Requesting a Change to the Unified Method Framework&lt;/a>.&lt;br />&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

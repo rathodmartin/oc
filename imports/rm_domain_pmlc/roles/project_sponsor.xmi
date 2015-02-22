@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ldGZwiK1cPLEcITUpgKKog" name="new_role,_y3iO8LlDEeO53_TX_uVt6w" guid="-ldGZwiK1cPLEcITUpgKKog" authors="Patrick Martin" changeDate="2014-04-01T07:13:23.373-0400" version="BL">
+  <mainDescription>Project Sponsor &quot;owns&quot; the project and has the ultimate responsibility for seeing that the intended benefits are realized&#xD;
+to create the value forecast in the business case. Project Sponsor facilitates the necessary organizational support needed&#xD;
+to make strategic decisions and create a successful project. Project Sponsor escalates project issues and risks effectively&#xD;
+at the organizational and executive levels. This includes decisions on changes, risks, conflicting objectives and any other&#xD;
+issue that is outside of the project manager's designated authority.</mainDescription>
+  <skills>Understand business cases, corporate strategy and business requirements. Executive level communication skills .&#xD;
+Organiational negotiator and project cheerleader. Executive and board level confidence.</skills>
+  <assignmentApproaches>Sponsor must have the authority to accept or avoid project risks.</assignmentApproaches>
+  <synonyms>Executive, Partner , Owner</synonyms>
+</org.eclipse.epf.uma:RoleDescription>

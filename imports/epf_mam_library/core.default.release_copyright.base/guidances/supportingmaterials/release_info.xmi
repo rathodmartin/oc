@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-z3T-2PNgPoac2T9BEVXDNQ"
+    name="release_info,_YOPJwGmJEd2wW88Ut0zE5w" guid="-z3T-2PNgPoac2T9BEVXDNQ" changeDate="2008-08-15T13:23:28.046-0700"
+    version="7.2.0">
+  <mainDescription>&lt;h3> EPF base &lt;/h3>&#xD;
+&lt;h4> 1.5&amp;nbsp; &lt;/h4>&#xD;
+&lt;p> This is the initial release of the practices library, which is included as &#xD;
+  part of the Eclipse Process Framework (EPF) 1.5. &lt;/p>&#xD;
+&lt;p> Most of the open source content derives from OpenUP 1.0, refactored to support &#xD;
+  independent practices. &lt;/p>&#xD;
+&lt;p> These are the key new features in the core: &lt;/p>&#xD;
+&lt;ul>&#xD;
+  &lt;li> Work product slots to allow practices to be independent of each other &lt;/li>&#xD;
+  &lt;li> Default navigation view so that &lt;i>ad hoc&lt;/i> configurations of practices &#xD;
+    can be published easily with a view &lt;/li>&#xD;
+  &lt;li> Guidance and work products&amp;nbsp;reusable across practices have been moved &#xD;
+    into common plug-ins &lt;/li>&#xD;
+  &lt;li> Category, role, and tool definitions separated into separate plug-ins to &#xD;
+    allow them to be easily removed and replaced&amp;nbsp;by alternative categorizations. &#xD;
+  &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

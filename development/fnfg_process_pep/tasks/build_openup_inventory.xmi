@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-J-15a1TUZbUOHs9tPUZLEA" name=",_Znt-APt5EeK6X-ODr_6b9w" guid="-J-15a1TUZbUOHs9tPUZLEA" authors="Shane T. Ficorilli" changeDate="2013-08-02T09:43:18.323-0400" changeDescription="Baseline" version="1.0">
+  <mainDescription>The creation of the OpenUP Inventory for a Future State Process by determining the Tasks, Roles and Work Products utilized&#xD;
+throughout the process. The Process Engineer builds the inventory to assist content developers in elaborating the&#xD;
+requirements.</mainDescription>
+  <sections xmi:id="_jFrGMPt5EeK6X-ODr_6b9w" name="Build Inventory " guid="_jFrGMPt5EeK6X-ODr_6b9w">
+    <sectionDescription>&lt;p>&#xD;
+    Determine all Tasks, Roles and Work Products that are associated with the Future State Process. To build the inventory,&#xD;
+    refer back to the UML Process diagrams for each task. It is recommended to build inventories by:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        Defining the task&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        For each task, identify&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-TYPE: none&quot;>&#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                the role(s) performing the work&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                the inputs required to complete the task&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                outputs resulting from a complete task&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                any guidnace for the task, the roles, inputs, or output&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        For any element, refer to its name using&amp;nbsp;a standard naming convention&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

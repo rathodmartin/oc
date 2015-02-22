@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_HcBxoLmPEeO--ZV6XkvztQ" guid="_HcBxoLmPEeO--ZV6XkvztQ">
+    <subManagers xmi:id="_EL0CcLmtEeOjhZ-MtCWe2g" href="uma://_EKU0sLmtEeOjhZ-MtCWe2g#_EL0CcLmtEeOjhZ-MtCWe2g"/>
+    <subManagers xmi:id="_aI-CoJeeEeS_bNkOh34bcw" href="uma://_aHp0AJeeEeS_bNkOh34bcw#_aI-CoJeeEeS_bNkOh34bcw"/>
+    <resourceDescriptors xmi:id="_jAucwLmPEeO--ZV6XkvztQ" id="-zyWa591FtuUDYxj2qqAfPA" uri="roles/pmlc_project_sponsor.xmi"/>
+    <resourceDescriptors xmi:id="_KttvYLmQEeO--ZV6XkvztQ" id="-6luRaGNRyP3MmGqtjuSfog" uri="customcategories/olc_custom_category.xmi"/>
+    <resourceDescriptors xmi:id="_MYNlgbmUEeO--ZV6XkvztQ" id="-uMx9z-IsHV6WIbtkVLnRkQ" uri="rolesets/pmlc_role_set.xmi"/>
+    <resourceDescriptors xmi:id="_fsaaErmUEeO--ZV6XkvztQ" id="-5C3XI0UolnYb_OVloYGC9A" uri="guidances/supportingmaterials/welcome.xmi"/>
+    <resourceDescriptors xmi:id="_euBIELmoEeOjhZ-MtCWe2g" id="-JrcWJJFJbsL3jtXsyvzyQw" uri="guidances/supportingmaterials/whats_new.xmi"/>
+    <resourceDescriptors xmi:id="_EKnvoLmtEeOjhZ-MtCWe2g" id="_EKU0sLmtEeOjhZ-MtCWe2g" uri="deliveryprocesses/OpenCycle/model.xmi"/>
+    <resourceDescriptors xmi:id="_tYMEMLmtEeOjhZ-MtCWe2g" id="-UQzTQu_CsnrpTJVhTtvHpA" uri="customcategories/tasks.xmi"/>
+    <resourceDescriptors xmi:id="_EU8T0bmuEeOjhZ-MtCWe2g" id="-G_ENcpICwysAkvKCXefBZQ" uri="disciplines/pmlc_discipline.xmi"/>
+    <resourceDescriptors xmi:id="_F0Y34rmvEeOjhZ-MtCWe2g" id="-P1sMSAvaTm8rgfZ02q8eSg" uri="workproducttypes/olc_pmlc_workproduct_kind.xmi"/>
+    <resourceDescriptors xmi:id="_WxLJIbmvEeOjhZ-MtCWe2g" id="-TSi3pG5ewFSkanh9YquAPQ" uri="customcategories/work_products.xmi"/>
+    <resourceDescriptors xmi:id="_iJba0bmvEeOjhZ-MtCWe2g" id="-SKIE0xP0Qb_DOGSSJ8L6eg" uri="customcategories/templates.xmi"/>
+    <resourceDescriptors xmi:id="_obDJ4rmvEeOjhZ-MtCWe2g" id="-g5edbQ8cQCgctyqv1hFdUg" uri="customcategories/reference.xmi"/>
+    <resourceDescriptors xmi:id="_SHI0MLm1EeOjhZ-MtCWe2g" id="-C0NjOMlTBcH6kIVgQotU1w" uri="workproducts/PMLC_project_management_plan.xmi"/>
+    <resourceDescriptors xmi:id="_lfxK4Lm3EeOjhZ-MtCWe2g" id="-5Gf3zgrIvi46pbPhDlhEeQ" uri="workproducts/PMLC_project_charter.xmi"/>
+    <resourceDescriptors xmi:id="_yTh70bm4EeOjhZ-MtCWe2g" id="-pPNLeGChPmh0Jg2xt2PSHA" uri="roles/PMLC_project_stakeholder.xmi"/>
+    <resourceDescriptors xmi:id="_69IO4Lm4EeOjhZ-MtCWe2g" id="-eQxYo9kVUjUuQnRwNeEo0A" uri="roles/PMLC_project_manager.xmi"/>
+    <resourceDescriptors xmi:id="_yXPhsrm5EeOjhZ-MtCWe2g" id="-iVbw1PI5oAyC5qO9eoPa1w" uri="customcategories/roles.xmi"/>
+    <resourceDescriptors xmi:id="_Kc4uwL8aEeOxGd0QHZtQBg" id="-CRFmJYvA40Kv8Ry1MWIyrg" uri="workproducts/PMLC_implementation_plan.xmi"/>
+    <resourceDescriptors xmi:id="_tfvQ4L9DEeOxGd0QHZtQBg" id="-nDIDt89aMvwfPfX7azws0g" uri="workproducts/PMLC_project_closure.xmi"/>
+    <resourceDescriptors xmi:id="_cyAOUDD8EeSHm971buwRxw" id="-PSk3llsAeYsmzZXpsKcGig" uri="workproducts/PMLC_project_manager_assigned.xmi"/>
+    <resourceDescriptors xmi:id="_WaIQ0DD9EeSHm971buwRxw" id="-eAVGfVlFqRo5N1sS42hdzQ" uri="workproducts/PMLC_organizational_process_assets.xmi"/>
+    <resourceDescriptors xmi:id="_HnqFkDD-EeSHm971buwRxw" id="-ce-LYXqfjW4QjdEb0Aefmg" uri="workproducts/PMLC_business_case.xmi"/>
+    <resourceDescriptors xmi:id="_Duvd0DD_EeSHm971buwRxw" id="-S2rhBds1s_QSwYCb4gVGbQ" uri="workproducts/PMLC_project_statement_of_work.xmi"/>
+    <resourceDescriptors xmi:id="_VDGFEDEAEeSHm971buwRxw" id="-4z00bDOZVHke_qR00BVzFQ" uri="tasks/PMLC_develop_project_charter.xmi"/>
+    <resourceDescriptors xmi:id="_aigCQDuvEeSIrOwVunFgpg" id="-omAdgD20VCzXoZcarS9sJA" uri="workproducts/PMLC_project_scope_statement.xmi"/>
+    <resourceDescriptors xmi:id="_DVmBUDuwEeSIrOwVunFgpg" id="-dThGC7ZBht4CMQlc0k0h2g" uri="workproducts/REQT_requirements_documentation.xmi"/>
+    <resourceDescriptors xmi:id="_vhJxADuwEeSIrOwVunFgpg" id="-ZB_UC551QzQf0l-ukTkdbw" uri="workproducts/REQT_requirements_traceability_matrix.xmi"/>
+    <resourceDescriptors xmi:id="_B-_v4DuyEeSIrOwVunFgpg" id="-UeaNxG33SOEiiH-6AzQzRA" uri="workproducts/PMLC_stakeholder_register.xmi"/>
+    <resourceDescriptors xmi:id="_t_Tm8Du0EeSIrOwVunFgpg" id="-wxNvu6qhzuqTE0KgPL52YQ" uri="roles/REQT_business_analyst.xmi"/>
+    <resourceDescriptors xmi:id="_KIWjYDwEEeSGc6ZYf7rWrg" id="-cqO7jQxCIHrBUpbiukk0kg" uri="tasks/PMLC_identify_stakeholders.xmi"/>
+    <resourceDescriptors xmi:id="_A3LoEDwGEeSGc6ZYf7rWrg" id="-Srz4PyoN-3DdQysB4bZTQA" uri="tasks/PMLC_develop_project_management_plan.xmi"/>
+    <resourceDescriptors xmi:id="_tRwWcDxOEeSGc6ZYf7rWrg" id="-PYl5wzwz9zWLP8p8sHrQSA" uri="tasks/PMLC_define_scope.xmi"/>
+    <resourceDescriptors xmi:id="_FgamgEkLEeSWLfgUXTkAlg" id="-Cz6FGZu7E3fJalXUPaWV3g" uri="workproducts/PMLC_project_schedule.xmi"/>
+    <resourceDescriptors xmi:id="_-GiZcEkLEeSWLfgUXTkAlg" id="-dLnUn9t1SHNOyxO66WuU6g" uri="workproducts/PMLC_resource_requirements.xmi"/>
+    <resourceDescriptors xmi:id="_Oa0YYFQREeStpcwZ0CyxeQ" id="-9ag4mCE-xvZ9YowOHTBRhw" uri="workproducts/PMLC_basis_of_estimate.xmi"/>
+    <resourceDescriptors xmi:id="_ZxJQ0FmKEeSnr-1nkoLXsg" id="-K_dk3sgbJpdq72sC3FtrSA" uri="workproducts/QUALITY_quality_management_plan.xmi"/>
+    <resourceDescriptors xmi:id="_xLrzMFmLEeSnr-1nkoLXsg" id="-SM4eI5F4CU1rZTJWmzcEQg" uri="workproducts/PMLC_project_funding_requirements.xmi"/>
+    <resourceDescriptors xmi:id="_ZfQksFmMEeSnr-1nkoLXsg" id="-KgVCsbW0cOLu7MIdf93G5g" uri="workproducts/PMLC_cost_baseline.xmi"/>
+    <resourceDescriptors xmi:id="_8nQCIFmMEeSnr-1nkoLXsg" id="-P-rVArRtDlSIBV7ErzwZOQ" uri="workproducts/PMLC_activity_cost_estimates.xmi"/>
+    <resourceDescriptors xmi:id="_eMky8FmNEeSnr-1nkoLXsg" id="-36I01xg_GVUNgB3RfSoG-Q" uri="workproducts/PMLC_risk_management_plan.xmi"/>
+    <resourceDescriptors xmi:id="_UcJ0wFocEeSUmaNkcwFqUg" id="-GbEnqwNj80ubgi1kaLQU_w" uri="workproducts/PMLC_activity_durations.xmi"/>
+    <resourceDescriptors xmi:id="_w0p7YFocEeSUmaNkcwFqUg" id="-b5TkYOL8UljEZihvnDgxnw" uri="workproducts/PMLC_activity_sequence.xmi"/>
+    <resourceDescriptors xmi:id="_SEVMUFodEeSUmaNkcwFqUg" id="-EdXP7xGS_7gheQmIn2KJtw" uri="workproducts/PMLC_activity_list.xmi"/>
+    <resourceDescriptors xmi:id="_zsVoQFoeEeSUmaNkcwFqUg" id="-cAtEGi0UdbO522WHi9nzEQ" uri="roles/PMLC_resource_manager.xmi"/>
+    <resourceDescriptors xmi:id="_eUU28FogEeSUmaNkcwFqUg" id="-n9pSnVbMcfD-Km-peEoCPQ" uri="roles/PMLC_subject_matter_expert.xmi"/>
+    <resourceDescriptors xmi:id="_-uCJMFogEeSUmaNkcwFqUg" id="-UDgVpmcjalSGrgmSjwP20A" uri="roles/QUALITY_quality_assurance_manager.xmi"/>
+    <resourceDescriptors xmi:id="_oGv70Fo3EeSV2sVK0fHiPA" id="-LuFt_WPiqbDx-urfSXpOqA" uri="tasks/PMLC_determine_budget.xmi"/>
+    <resourceDescriptors xmi:id="_tCrlIFpJEeS2t6WG90MSuA" id="-J7mzXYlFRdlNWJ26gDOPVA" uri="tasks/PMLC_estimate_costs.xmi"/>
+    <resourceDescriptors xmi:id="_IPA-IFpLEeS2t6WG90MSuA" id="-H1cPTXy4XWB1Qr5DgjHk-Q" uri="tasks/PMLC_create_wbs.xmi"/>
+    <resourceDescriptors xmi:id="_AjvCkFpNEeS2t6WG90MSuA" id="-xsgi2M06CiiF1qG3De1dkA" uri="tasks/PMLC_create_schedule.xmi"/>
+    <resourceDescriptors xmi:id="_DiXF4FsIEeS_CZ16mrmYFw" id="-VrpSN4LlNV6EizFCJSJsOQ" uri="tasks/PMLC_plan_risk_management.xmi"/>
+    <resourceDescriptors xmi:id="_-uD3IFsMEeS_CZ16mrmYFw" id="-RObIcBIvsLNsyel_uJxl6A" uri="tasks/REQT_collect_requirements.xmi"/>
+    <resourceDescriptors xmi:id="_Txq1kGVaEeSOQ-wuYUyV_g" id="-0FzAXtAsp0vGAXjzo79KIQ" uri="workproducts/PMLC_final_product_service_or_result_transition.xmi"/>
+    <resourceDescriptors xmi:id="_xBovsGVaEeSOQ-wuYUyV_g" id="-JqD_z0RMxlRLmndmT2h0xQ" uri="workproducts/PMLC_change_log.xmi"/>
+    <resourceDescriptors xmi:id="_HKxKAGVbEeSOQ-wuYUyV_g" id="-Oz-gQbzwTm7pZJOdF12Jlw" uri="workproducts/PMLC_approved_change_requests.xmi"/>
+    <resourceDescriptors xmi:id="_j1tEcGVbEeSOQ-wuYUyV_g" id="-_MCKQ_jh4z1RY1BDzdAyPg" uri="workproducts/PMLC_work_performance_reports.xmi"/>
+    <resourceDescriptors xmi:id="_7dE-YGVbEeSOQ-wuYUyV_g" id="-TLgOL2gWeuceVfvQK9gLwg" uri="workproducts/PMLC_project_staff_assignments.xmi"/>
+    <resourceDescriptors xmi:id="_8x-q0GYWEeSwsupdiSKW2Q" id="-vwbIsPXAjYqn454f9GVzVw" uri="tasks/PMLC_monitor_and_control_project_work.xmi"/>
+    <resourceDescriptors xmi:id="_5u6tAGYXEeSwsupdiSKW2Q" id="-WLRT4_pTsD6GfQiVUEBdVg" uri="tasks/PMLC_acquire_project_team.xmi"/>
+    <resourceDescriptors xmi:id="_7W26MGYiEeSeMbOi5SCXJQ" id="-Bd9ZpuHvY33YXh0iVmbf2g" uri="workproducts/PMLC_communications_management_plan.xmi"/>
+    <resourceDescriptors xmi:id="_1a25AGYmEeSeMbOi5SCXJQ" id="-QhzsWQT6vMOog0fAfhWDyw" uri="tasks/PMLC_plan_communications_management.xmi"/>
+    <resourceDescriptors xmi:id="_CKhXoGYpEeSeMbOi5SCXJQ" id="-3N4Xm1X__OzsrdOURMSKUg" uri="tasks/QUALITY_plan_quality_management.xmi"/>
+    <resourceDescriptors xmi:id="_7nq_UGlBEeS-9dAp19yOyQ" id="-ta8VyUCLMu16Y-M5esxJZA" uri="tasks/PMLC_perform_integrated_change_control.xmi"/>
+    <resourceDescriptors xmi:id="_AGHEEGlDEeS-9dAp19yOyQ" id="-KnjGU51qccSVmyzfFAw0xA" uri="tasks/PMLC_close_project_or_phase.xmi"/>
+    <resourceDescriptors xmi:id="_CXMDwG4CEeSIef-3MggveQ" id="-NN00ZrT-0yZuwHayDtV48A" uri="workproducts/PMLC_change_request.xmi"/>
+    <resourceDescriptors xmi:id="_kkCHkG4CEeSIef-3MggveQ" id="-wnNQB1oPreIUrzXS5qvJdA" uri="workproducts/PMLC_work_results.xmi"/>
+    <resourceDescriptors xmi:id="_7H4H8G4CEeSIef-3MggveQ" id="--VlGFdHzm3DcJkJteMTRuQ" uri="workproducts/PMLC_working_project_team.xmi"/>
+    <resourceDescriptors xmi:id="_SOmy8G4DEeSIef-3MggveQ" id="-QYrkO4B1nE83NdlLyRV2LQ" uri="workproducts/PMLC_resource_description.xmi"/>
+    <resourceDescriptors xmi:id="_tIg0oG4DEeSIef-3MggveQ" id="-G-cb8P9AHY2ZEj0kfjfy6w" uri="tasks/PMLC_direct_and_manage_project_execution.xmi"/>
+    <resourceDescriptors xmi:id="_Xh-usIPIEeSUpYT7pnPxqg" id="-JJC15AeQPPjdsIHz_IbY8w" uri="workproducttypes/olc_reqt_work_product_kind.xmi"/>
+    <resourceDescriptors xmi:id="_cUk7AIPIEeSUpYT7pnPxqg" id="-xYO-o72tV6maZvkA-bHTog" uri="workproducttypes/olc_quality_work_product_kind.xmi"/>
+    <resourceDescriptors xmi:id="__KETMIPIEeSUpYT7pnPxqg" id="-FYrVPWj_KqCN32dei6Sh2A" uri="rolesets/reqt_role_set.xmi"/>
+    <resourceDescriptors xmi:id="_JIDmUIPJEeSUpYT7pnPxqg" id="-VbsoArEVMiShgB2CJqrGqQ" uri="rolesets/quality_role_set.xmi"/>
+    <resourceDescriptors xmi:id="_w43B8IPJEeSUpYT7pnPxqg" id="-y8RsND4SMA-V3xl_LENq4g" uri="disciplines/reqt_discipline.xmi"/>
+    <resourceDescriptors xmi:id="_4hxUEIPJEeSUpYT7pnPxqg" id="-BK1fL_qzAUKaNLvtkgHyAA" uri="disciplines/quality_discipline.xmi"/>
+    <resourceDescriptors xmi:id="_SQ8A8IPKEeSUpYT7pnPxqg" id="-8aP3qPUUzgri145p_L574w" uri="customcategories/olc_reqts_workproduct_kind.xmi"/>
+    <resourceDescriptors xmi:id="_aHusgJeeEeS_bNkOh34bcw" id="_aHp0AJeeEeS_bNkOh34bcw" uri="capabilitypatterns/Monitor%20and%20Control/model.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_Hb4AoLmPEeO--ZV6XkvztQ" name="olc" guid="_Hb4AoLmPEeO--ZV6XkvztQ" presentationName="OpenCycle" briefDescription="RathodMartin OpenCycle" authors="RathodMartin" changeDate="2014-10-19T21:11:14.375-0400" changeDescription="Baseline" version="BL">
+    <methodElementProperty xmi:id="_HcBxormPEeO--ZV6XkvztQ" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_SGjaoLmPEeO--ZV6XkvztQ" name="me_edited" value="true"/>
+    <copyrightStatement href="uma://_hnMvkLlDEeO53_TX_uVt6w#_nLwggLmUEeO--ZV6XkvztQ"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Hb4AobmPEeO--ZV6XkvztQ" name="Content" guid="_Hb4AobmPEeO--ZV6XkvztQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Hb4AormPEeO--ZV6XkvztQ" name="Categories" guid="_Hb4AormPEeO--ZV6XkvztQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Hb4Ao7mPEeO--ZV6XkvztQ" name="Domains" guid="_Hb4Ao7mPEeO--ZV6XkvztQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Hb4ApLmPEeO--ZV6XkvztQ" name="Disciplines" guid="_Hb4ApLmPEeO--ZV6XkvztQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_0PodILmtEeOjhZ-MtCWe2g" name="pmlc_discipline" guid="_0PodILmtEeOjhZ-MtCWe2g" presentationName="Project Management Discipline" briefDescription="Project management discipline addresses all tasks related to program and project management." tasks="_9WcCgDD_EeSHm971buwRxw _qmNyUDwDEeSGc6ZYf7rWrg _szRN0DwFEeSGc6ZYf7rWrg _QBBAQDxOEeSGc6ZYf7rWrg _hzIeIFo2EeSV2sVK0fHiPA _JUmYEFpJEeS2t6WG90MSuA _6V4rIFpKEeS2t6WG90MSuA _xw8jsFpMEeS2t6WG90MSuA _wK9zYFsHEeS_CZ16mrmYFw _tXkscFsMEeS_CZ16mrmYFw _jA5H0GYVEeSwsupdiSKW2Q _Ra2MQGYXEeSwsupdiSKW2Q _YkACcGYmEeSeMbOi5SCXJQ _WufncGYoEeSeMbOi5SCXJQ _halAUGlBEeS-9dAp19yOyQ _aCzsEGlCEeS-9dAp19yOyQ _WCJ9EG4DEeSIef-3MggveQ">
+            <methodElementProperty xmi:id="_EUzJ4LmuEeOjhZ-MtCWe2g" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_LHIEsFmQEeSnr-1nkoLXsg" name="CategoryElementsSortType" value="Alphabetic"/>
+            <presentation xmi:id="-G_ENcpICwysAkvKCXefBZQ" href="uma://-G_ENcpICwysAkvKCXefBZQ#-G_ENcpICwysAkvKCXefBZQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_qmH4kIPJEeSUpYT7pnPxqg" name="reqt_discipline" guid="_qmH4kIPJEeSUpYT7pnPxqg" presentationName="Requirements Discipline" tasks="_tXkscFsMEeS_CZ16mrmYFw">
+            <methodElementProperty xmi:id="_w41MwIPJEeSUpYT7pnPxqg" name="me_edited" value="true"/>
+            <presentation xmi:id="-y8RsND4SMA-V3xl_LENq4g" href="uma://-y8RsND4SMA-V3xl_LENq4g#-y8RsND4SMA-V3xl_LENq4g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_0CP0wIPJEeSUpYT7pnPxqg" name="quality_discipline" guid="_0CP0wIPJEeSUpYT7pnPxqg" presentationName="Quality Discipline" tasks="_WufncGYoEeSeMbOi5SCXJQ">
+            <methodElementProperty xmi:id="_4hu30IPJEeSUpYT7pnPxqg" name="me_edited" value="true"/>
+            <presentation xmi:id="-BK1fL_qzAUKaNLvtkgHyAA" href="uma://-BK1fL_qzAUKaNLvtkgHyAA#-BK1fL_qzAUKaNLvtkgHyAA"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Hb4ApbmPEeO--ZV6XkvztQ" name="RoleSets" guid="_Hb4ApbmPEeO--ZV6XkvztQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_L4_2wLmQEeO--ZV6XkvztQ" name="pmlc_role_set" guid="_L4_2wLmQEeO--ZV6XkvztQ" presentationName="Project Management Roles" briefDescription="All project management roles participating in OpenCycle" roles="_ZjEPgLmPEeO--ZV6XkvztQ _pfAyMLm4EeOjhZ-MtCWe2g _zij6wLm4EeOjhZ-MtCWe2g _b3X-QFoeEeSUmaNkcwFqUg __HzJgFofEeSUmaNkcwFqUg">
+            <methodElementProperty xmi:id="_OQcPQLmQEeO--ZV6XkvztQ" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_NU-cUFmQEeSnr-1nkoLXsg" name="CategoryElementsSortType" value="Alphabetic"/>
+            <presentation xmi:id="-uMx9z-IsHV6WIbtkVLnRkQ" href="uma://-uMx9z-IsHV6WIbtkVLnRkQ#-uMx9z-IsHV6WIbtkVLnRkQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_qDVKAIPIEeSUpYT7pnPxqg" name="reqt_role_set" guid="_qDVKAIPIEeSUpYT7pnPxqg" presentationName="Requirement Roles" briefDescription="All requirements roles participating in OpenCycle" roles="_llBiQDu0EeSIrOwVunFgpg">
+            <methodElementProperty xmi:id="_-Vie8IPIEeSUpYT7pnPxqg" name="CategoryElementsSortType" value="Alphabetic"/>
+            <methodElementProperty xmi:id="__KB28IPIEeSUpYT7pnPxqg" name="me_edited" value="true"/>
+            <presentation xmi:id="-FYrVPWj_KqCN32dei6Sh2A" href="uma://-FYrVPWj_KqCN32dei6Sh2A#-FYrVPWj_KqCN32dei6Sh2A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_AeiLwIPJEeSUpYT7pnPxqg" name="quality_role_set" guid="_AeiLwIPJEeSUpYT7pnPxqg" presentationName="Quality Roles" briefDescription="All quality roles participating in OpenCycle" roles="_ottFkFogEeSUmaNkcwFqUg">
+            <methodElementProperty xmi:id="_JIBKEIPJEeSUpYT7pnPxqg" name="me_edited" value="true"/>
+            <presentation xmi:id="-VbsoArEVMiShgB2CJqrGqQ" href="uma://-VbsoArEVMiShgB2CJqrGqQ#-VbsoArEVMiShgB2CJqrGqQ"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Hb4AprmPEeO--ZV6XkvztQ" name="WP Types" guid="_Hb4AprmPEeO--ZV6XkvztQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:WorkProductType" xmi:id="_KlkkYLmuEeOjhZ-MtCWe2g" name="olc_pmlc_workproduct_kind" guid="_KlkkYLmuEeOjhZ-MtCWe2g" presentationName="Project Management Work Product Kinds" workProducts="_KRV8oLm1EeOjhZ-MtCWe2g _dWCqsLm3EeOjhZ-MtCWe2g _AArOkL8aEeOxGd0QHZtQBg _jDIIEL9DEeOxGd0QHZtQBg _R9C28DD8EeSHm971buwRxw _HelekDD9EeSHm971buwRxw _ANpLEDD-EeSHm971buwRxw _6V44EDD-EeSHm971buwRxw _Egh_4DuvEeSIrOwVunFgpg _5V2v0DuxEeSIrOwVunFgpg _zjLk4EkKEeSWLfgUXTkAlg _zTEP0EkLEeSWLfgUXTkAlg _AtiJAFQREeStpcwZ0CyxeQ _oUTi0FmLEeSnr-1nkoLXsg _RBLlIFmMEeSnr-1nkoLXsg _yHoBkFmMEeSnr-1nkoLXsg _Vmz3AFmNEeSnr-1nkoLXsg _J1n68FocEeSUmaNkcwFqUg _cbVR0FocEeSUmaNkcwFqUg _28us4FocEeSUmaNkcwFqUg _JQWy8GVaEeSOQ-wuYUyV_g _dVJ-AGVaEeSOQ-wuYUyV_g _3OmBMGVaEeSOQ-wuYUyV_g _Q7CxQGVbEeSOQ-wuYUyV_g _qiJuUGVbEeSOQ-wuYUyV_g _0w554GYiEeSeMbOi5SCXJQ _uzokkG4BEeSIef-3MggveQ _OauuIG4CEeSIef-3MggveQ _qsesgG4CEeSIef-3MggveQ __9OtUG4CEeSIef-3MggveQ">
+            <methodElementProperty xmi:id="_F0Y34LmvEeOjhZ-MtCWe2g" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_HlE6QFmQEeSnr-1nkoLXsg" name="CategoryElementsSortType" value="Alphabetic"/>
+            <presentation xmi:id="-P1sMSAvaTm8rgfZ02q8eSg" href="uma://-P1sMSAvaTm8rgfZ02q8eSg#-P1sMSAvaTm8rgfZ02q8eSg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:WorkProductType" xmi:id="_LDZHEIPIEeSUpYT7pnPxqg" name="olc_reqt_work_product_kind" guid="_LDZHEIPIEeSUpYT7pnPxqg" presentationName="Requirements Work Product Kinds" workProducts="_6IJaUDuvEeSIrOwVunFgpg _mhcrEDuwEeSIrOwVunFgpg">
+            <methodElementProperty xmi:id="_cuDyAIPIEeSUpYT7pnPxqg" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_if3_oIPIEeSUpYT7pnPxqg" name="CategoryElementsSortType" value="Alphabetic"/>
+            <presentation xmi:id="-JJC15AeQPPjdsIHz_IbY8w" href="uma://-JJC15AeQPPjdsIHz_IbY8w#-JJC15AeQPPjdsIHz_IbY8w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:WorkProductType" xmi:id="_Xh52MIPIEeSUpYT7pnPxqg" name="olc_quality_work_product_kind" guid="_Xh52MIPIEeSUpYT7pnPxqg" presentationName="Quality Work Product Kinds" workProducts="_K5HsoFmKEeSnr-1nkoLXsg">
+            <methodElementProperty xmi:id="_cUjF0IPIEeSUpYT7pnPxqg" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_klRl4IPIEeSUpYT7pnPxqg" name="CategoryElementsSortType" value="Alphabetic"/>
+            <presentation xmi:id="-xYO-o72tV6maZvkA-bHTog" href="uma://-xYO-o72tV6maZvkA-bHTog#-xYO-o72tV6maZvkA-bHTog"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Hb4Ap7mPEeO--ZV6XkvztQ" name="Tools" guid="_Hb4Ap7mPEeO--ZV6XkvztQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Hb4AqLmPEeO--ZV6XkvztQ" name="StandardCategories" guid="_Hb4AqLmPEeO--ZV6XkvztQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Hb4AqbmPEeO--ZV6XkvztQ" name="CustomCategories" guid="_Hb4AqbmPEeO--ZV6XkvztQ">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Hb4AqrmPEeO--ZV6XkvztQ" name="Hidden" guid="_Hb4AqrmPEeO--ZV6XkvztQ">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Hb4Aq7mPEeO--ZV6XkvztQ" name="Custom Categories" guid="_Hb4Aq7mPEeO--ZV6XkvztQ" categorizedElements="_BQDiILmQEeO--ZV6XkvztQ _9cuyMIPJEeSUpYT7pnPxqg"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_BQDiILmQEeO--ZV6XkvztQ" name="olc_custom_category" guid="_BQDiILmQEeO--ZV6XkvztQ" presentationName="OpenCycle">
+            <methodElementProperty xmi:id="_Ktj-YLmQEeO--ZV6XkvztQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-6luRaGNRyP3MmGqtjuSfog" href="uma://-6luRaGNRyP3MmGqtjuSfog#-6luRaGNRyP3MmGqtjuSfog"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" href="#_X_FiALmUEeO--ZV6XkvztQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" href="#_gQBi0LmnEeOjhZ-MtCWe2g"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_EKU0sLmtEeOjhZ-MtCWe2g#_EKU0sbmtEeOjhZ-MtCWe2g"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_ZgBwgLm5EeOjhZ-MtCWe2g"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_ky_I8LmtEeOjhZ-MtCWe2g"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_NOn00LmvEeOjhZ-MtCWe2g"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_eHUQQLmvEeOjhZ-MtCWe2g"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_lX3swLmvEeOjhZ-MtCWe2g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_ky_I8LmtEeOjhZ-MtCWe2g" name="tasks" guid="_ky_I8LmtEeOjhZ-MtCWe2g" presentationName="Tasks" categorizedElements="_0PodILmtEeOjhZ-MtCWe2g _qmH4kIPJEeSUpYT7pnPxqg _0CP0wIPJEeSUpYT7pnPxqg">
+            <methodElementProperty xmi:id="_tYCTMLmtEeOjhZ-MtCWe2g" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_6hoTAIPJEeSUpYT7pnPxqg" name="CategoryElementsSortType" value="Alphabetic"/>
+            <presentation xmi:id="-UQzTQu_CsnrpTJVhTtvHpA" href="uma://-UQzTQu_CsnrpTJVhTtvHpA#-UQzTQu_CsnrpTJVhTtvHpA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_NOn00LmvEeOjhZ-MtCWe2g" name="work_products" guid="_NOn00LmvEeOjhZ-MtCWe2g" presentationName="Work Products" categorizedElements="_KlkkYLmuEeOjhZ-MtCWe2g _LDZHEIPIEeSUpYT7pnPxqg _Xh52MIPIEeSUpYT7pnPxqg">
+            <methodElementProperty xmi:id="_WxBYILmvEeOjhZ-MtCWe2g" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_Zhh5sIPKEeSUpYT7pnPxqg" name="CategoryElementsSortType" value="Alphabetic"/>
+            <presentation xmi:id="-TSi3pG5ewFSkanh9YquAPQ" href="uma://-TSi3pG5ewFSkanh9YquAPQ#-TSi3pG5ewFSkanh9YquAPQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_eHUQQLmvEeOjhZ-MtCWe2g" name="templates" guid="_eHUQQLmvEeOjhZ-MtCWe2g" presentationName="Templates">
+            <methodElementProperty xmi:id="_iJSQ4LmvEeOjhZ-MtCWe2g" name="me_edited" value="true"/>
+            <presentation xmi:id="-SKIE0xP0Qb_DOGSSJ8L6eg" href="uma://-SKIE0xP0Qb_DOGSSJ8L6eg#-SKIE0xP0Qb_DOGSSJ8L6eg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_lX3swLmvEeOjhZ-MtCWe2g" name="reference" guid="_lX3swLmvEeOjhZ-MtCWe2g" presentationName="Reference">
+            <methodElementProperty xmi:id="_obDJ4LmvEeOjhZ-MtCWe2g" name="me_edited" value="true"/>
+            <presentation xmi:id="-g5edbQ8cQCgctyqv1hFdUg" href="uma://-g5edbQ8cQCgctyqv1hFdUg#-g5edbQ8cQCgctyqv1hFdUg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_4ulTgMg7EdyXeo04os5BOw#_-VOD4CB3Ed2BC837SW9yQQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_ZgBwgLm5EeOjhZ-MtCWe2g" name="roles" guid="_ZgBwgLm5EeOjhZ-MtCWe2g" presentationName="Roles" briefDescription="All roles participating in the RathodMartin Life Cycle." categorizedElements="_qDVKAIPIEeSUpYT7pnPxqg _L4_2wLmQEeO--ZV6XkvztQ _AeiLwIPJEeSUpYT7pnPxqg">
+            <methodElementProperty xmi:id="_yXPhsLm5EeOjhZ-MtCWe2g" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_YPKvYIPJEeSUpYT7pnPxqg" name="CategoryElementsSortType" value="Alphabetic"/>
+            <presentation xmi:id="-iVbw1PI5oAyC5qO9eoPa1w" href="uma://-iVbw1PI5oAyC5qO9eoPa1w#-iVbw1PI5oAyC5qO9eoPa1w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_9cuyMIPJEeSUpYT7pnPxqg" name="olc_reqts_workproduct_kind" guid="_9cuyMIPJEeSUpYT7pnPxqg" presentationName="Requirements Work Product Kinds" categorizedElements="_6IJaUDuvEeSIrOwVunFgpg _mhcrEDuwEeSIrOwVunFgpg">
+            <methodElementProperty xmi:id="_RPRvoIPKEeSUpYT7pnPxqg" name="CategoryElementsSortType" value="Alphabetic"/>
+            <methodElementProperty xmi:id="_SQ4WkIPKEeSUpYT7pnPxqg" name="me_edited" value="true"/>
+            <presentation xmi:id="-8aP3qPUUzgri145p_L574w" href="uma://-8aP3qPUUzgri145p_L574w#-8aP3qPUUzgri145p_L574w"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Hb4ArLmPEeO--ZV6XkvztQ" name="CoreContent" guid="_Hb4ArLmPEeO--ZV6XkvztQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_UbBXoLmPEeO--ZV6XkvztQ" name="rmlc_content_package" guid="_UbBXoLmPEeO--ZV6XkvztQ" presentationName="RathodMartin Life Cycle Content Package" briefDescription="RathodMartin Life Cycle Content Package">
+          <methodElementProperty xmi:id="_UbBXobmPEeO--ZV6XkvztQ" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_YguBsLmPEeO--ZV6XkvztQ" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_ZjEPgLmPEeO--ZV6XkvztQ" name="PMLC_project_sponsor" guid="_ZjEPgLmPEeO--ZV6XkvztQ" presentationName="Project Sponsor" variabilityType="extendsReplaces" responsibleFor="_ANpLEDD-EeSHm971buwRxw _6V44EDD-EeSHm971buwRxw">
+            <methodElementProperty xmi:id="_jAbh0LmPEeO--ZV6XkvztQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-zyWa591FtuUDYxj2qqAfPA" href="uma://-zyWa591FtuUDYxj2qqAfPA#-zyWa591FtuUDYxj2qqAfPA"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_pgIasLlDEeO53_TX_uVt6w#_y3iO8LlDEeO53_TX_uVt6w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_X_FiALmUEeO--ZV6XkvztQ" name="welcome" guid="_X_FiALmUEeO--ZV6XkvztQ" presentationName="Welcome to OpenCycle">
+            <methodElementProperty xmi:id="_fsaaELmUEeO--ZV6XkvztQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-5C3XI0UolnYb_OVloYGC9A" href="uma://-5C3XI0UolnYb_OVloYGC9A#-5C3XI0UolnYb_OVloYGC9A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_gQBi0LmnEeOjhZ-MtCWe2g" name="whats_new" guid="_gQBi0LmnEeOjhZ-MtCWe2g" presentationName="What's New in This Release" briefDescription="The What's New report describes new features, functionality, changes, corrections, etc. for the current release of OpenCycle.">
+            <methodElementProperty xmi:id="_ngVHsLmnEeOjhZ-MtCWe2g" name="me_edited" value="true"/>
+            <presentation xmi:id="-JrcWJJFJbsL3jtXsyvzyQw" href="uma://-JrcWJJFJbsL3jtXsyvzyQw#-JrcWJJFJbsL3jtXsyvzyQw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_KRV8oLm1EeOjhZ-MtCWe2g" name="PMLC_project_management_plan" guid="_KRV8oLm1EeOjhZ-MtCWe2g" presentationName="Project Management Plan" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_SG_qQLm1EeOjhZ-MtCWe2g" name="me_edited" value="true"/>
+            <presentation xmi:id="-C0NjOMlTBcH6kIVgQotU1w" href="uma://-C0NjOMlTBcH6kIVgQotU1w#-C0NjOMlTBcH6kIVgQotU1w"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_pgIasLlDEeO53_TX_uVt6w#_jvgrALmzEeOjhZ-MtCWe2g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_dWCqsLm3EeOjhZ-MtCWe2g" name="PMLC_project_charter" guid="_dWCqsLm3EeOjhZ-MtCWe2g" presentationName="Project Charter" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_lfoA8Lm3EeOjhZ-MtCWe2g" name="me_edited" value="true"/>
+            <presentation xmi:id="-5Gf3zgrIvi46pbPhDlhEeQ" href="uma://-5Gf3zgrIvi46pbPhDlhEeQ#-5Gf3zgrIvi46pbPhDlhEeQ"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_pgIasLlDEeO53_TX_uVt6w#_uVzM4Lm2EeOjhZ-MtCWe2g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_pfAyMLm4EeOjhZ-MtCWe2g" name="PMLC_project_stakeholder" guid="_pfAyMLm4EeOjhZ-MtCWe2g" presentationName="Project Stakeholder" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_yTYK0Lm4EeOjhZ-MtCWe2g" name="me_edited" value="true"/>
+            <presentation xmi:id="-pPNLeGChPmh0Jg2xt2PSHA" href="uma://-pPNLeGChPmh0Jg2xt2PSHA#-pPNLeGChPmh0Jg2xt2PSHA"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_pgIasLlDEeO53_TX_uVt6w#_3VMUULm3EeOjhZ-MtCWe2g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_zij6wLm4EeOjhZ-MtCWe2g" name="PMLC_project_manager" guid="_zij6wLm4EeOjhZ-MtCWe2g" presentationName="Project Manager" variabilityType="extendsReplaces" responsibleFor="_dWCqsLm3EeOjhZ-MtCWe2g _R9C28DD8EeSHm971buwRxw _5V2v0DuxEeSIrOwVunFgpg _KRV8oLm1EeOjhZ-MtCWe2g _Egh_4DuvEeSIrOwVunFgpg _yHoBkFmMEeSnr-1nkoLXsg _J1n68FocEeSUmaNkcwFqUg _28us4FocEeSUmaNkcwFqUg _cbVR0FocEeSUmaNkcwFqUg _AtiJAFQREeStpcwZ0CyxeQ _RBLlIFmMEeSnr-1nkoLXsg _oUTi0FmLEeSnr-1nkoLXsg _zjLk4EkKEeSWLfgUXTkAlg _zTEP0EkLEeSWLfgUXTkAlg _Vmz3AFmNEeSnr-1nkoLXsg _Q7CxQGVbEeSOQ-wuYUyV_g _qiJuUGVbEeSOQ-wuYUyV_g _0w554GYiEeSeMbOi5SCXJQ">
+            <methodElementProperty xmi:id="_68_E8Lm4EeOjhZ-MtCWe2g" name="me_edited" value="true"/>
+            <presentation xmi:id="-eQxYo9kVUjUuQnRwNeEo0A" href="uma://-eQxYo9kVUjUuQnRwNeEo0A#-eQxYo9kVUjUuQnRwNeEo0A"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_pgIasLlDEeO53_TX_uVt6w#_PPHW0Lm4EeOjhZ-MtCWe2g"/>
+            <guidelines href="uma://_pgIasLlDEeO53_TX_uVt6w#_T7CQ8DutEeSIrOwVunFgpg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_AArOkL8aEeOxGd0QHZtQBg" name="PMLC_implementation_plan" guid="_AArOkL8aEeOxGd0QHZtQBg" presentationName="Implementation Plan" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_Kc25kL8aEeOxGd0QHZtQBg" name="me_edited" value="true"/>
+            <presentation xmi:id="-CRFmJYvA40Kv8Ry1MWIyrg" href="uma://-CRFmJYvA40Kv8Ry1MWIyrg#-CRFmJYvA40Kv8Ry1MWIyrg"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_pgIasLlDEeO53_TX_uVt6w#_XFEpML8YEeOxGd0QHZtQBg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_jDIIEL9DEeOxGd0QHZtQBg" name="PMLC_project_closure" guid="_jDIIEL9DEeOxGd0QHZtQBg" presentationName="Project Closure" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_tfpxUL9DEeOxGd0QHZtQBg" name="me_edited" value="true"/>
+            <presentation xmi:id="-nDIDt89aMvwfPfX7azws0g" href="uma://-nDIDt89aMvwfPfX7azws0g#-nDIDt89aMvwfPfX7azws0g"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_pgIasLlDEeO53_TX_uVt6w#_AEa-8L9CEeOxGd0QHZtQBg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_R9C28DD8EeSHm971buwRxw" name="PMLC_project_manager_assigned" guid="_R9C28DD8EeSHm971buwRxw" presentationName="Project Manager Assigned" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_cx3EYDD8EeSHm971buwRxw" name="me_edited" value="true"/>
+            <presentation xmi:id="-PSk3llsAeYsmzZXpsKcGig" href="uma://-PSk3llsAeYsmzZXpsKcGig#-PSk3llsAeYsmzZXpsKcGig"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Outcome" href="uma://_pgIasLlDEeO53_TX_uVt6w#_viZAoDD7EeSHm971buwRxw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_HelekDD9EeSHm971buwRxw" name="PMLC_organizational_process_assets" guid="_HelekDD9EeSHm971buwRxw" presentationName="Organizational Process Assets" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_WaCKMDD9EeSHm971buwRxw" name="me_edited" value="true"/>
+            <presentation xmi:id="-eAVGfVlFqRo5N1sS42hdzQ" href="uma://-eAVGfVlFqRo5N1sS42hdzQ#-eAVGfVlFqRo5N1sS42hdzQ"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_pgIasLlDEeO53_TX_uVt6w#_pOm48DD8EeSHm971buwRxw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_ANpLEDD-EeSHm971buwRxw" name="PMLC_business_case" guid="_ANpLEDD-EeSHm971buwRxw" presentationName="Business Case" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_HnkmADD-EeSHm971buwRxw" name="me_edited" value="true"/>
+            <presentation xmi:id="-ce-LYXqfjW4QjdEb0Aefmg" href="uma://-ce-LYXqfjW4QjdEb0Aefmg#-ce-LYXqfjW4QjdEb0Aefmg"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_pgIasLlDEeO53_TX_uVt6w#_dQbaQDD9EeSHm971buwRxw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_6V44EDD-EeSHm971buwRxw" name="PMLC_project_statement_of_work" guid="_6V44EDD-EeSHm971buwRxw" presentationName="Project Statement of Work" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_DupXMDD_EeSHm971buwRxw" name="me_edited" value="true"/>
+            <presentation xmi:id="-S2rhBds1s_QSwYCb4gVGbQ" href="uma://-S2rhBds1s_QSwYCb4gVGbQ#-S2rhBds1s_QSwYCb4gVGbQ"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_pgIasLlDEeO53_TX_uVt6w#_XELd8DD-EeSHm971buwRxw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_9WcCgDD_EeSHm971buwRxw" name="PMLC_develop_project_charter" guid="_9WcCgDD_EeSHm971buwRxw" presentationName="Develop Project Charter" variabilityType="extendsReplaces" performedBy="_zij6wLm4EeOjhZ-MtCWe2g" mandatoryInput="_ANpLEDD-EeSHm971buwRxw _HelekDD9EeSHm971buwRxw _6V44EDD-EeSHm971buwRxw" output="_dWCqsLm3EeOjhZ-MtCWe2g _R9C28DD8EeSHm971buwRxw" additionallyPerformedBy="_ZjEPgLmPEeO--ZV6XkvztQ">
+            <methodElementProperty xmi:id="_VC_-cDEAEeSHm971buwRxw" name="me_edited" value="true"/>
+            <presentation xmi:id="-4z00bDOZVHke_qR00BVzFQ" href="uma://-4z00bDOZVHke_qR00BVzFQ#-4z00bDOZVHke_qR00BVzFQ"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_pgIasLlDEeO53_TX_uVt6w#_Rrx14DD-EeSHm971buwRxw"/>
+            <guidelines href="uma://_pgIasLlDEeO53_TX_uVt6w#_H8Mq8DuuEeSIrOwVunFgpg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Egh_4DuvEeSIrOwVunFgpg" name="PMLC_project_scope_statement" guid="_Egh_4DuvEeSIrOwVunFgpg" presentationName="Project Scope Statement" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_aieNEDuvEeSIrOwVunFgpg" name="me_edited" value="true"/>
+            <presentation xmi:id="-omAdgD20VCzXoZcarS9sJA" href="uma://-omAdgD20VCzXoZcarS9sJA#-omAdgD20VCzXoZcarS9sJA"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_pgIasLlDEeO53_TX_uVt6w#_kZo78DuuEeSIrOwVunFgpg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_6IJaUDuvEeSIrOwVunFgpg" name="REQT_requirements_documentation" guid="_6IJaUDuvEeSIrOwVunFgpg" presentationName="Requirements Documentation" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_DVkMIDuwEeSIrOwVunFgpg" name="me_edited" value="true"/>
+            <presentation xmi:id="-dThGC7ZBht4CMQlc0k0h2g" href="uma://-dThGC7ZBht4CMQlc0k0h2g#-dThGC7ZBht4CMQlc0k0h2g"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_tse1UIL0EeSEII7ioMjFsw#_jBirIDuvEeSIrOwVunFgpg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_mhcrEDuwEeSIrOwVunFgpg" name="REQT_requirements_traceability_matrix" guid="_mhcrEDuwEeSIrOwVunFgpg" presentationName="Requirements Traceability Matrix" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_vhE4gDuwEeSIrOwVunFgpg" name="me_edited" value="true"/>
+            <presentation xmi:id="-ZB_UC551QzQf0l-ukTkdbw" href="uma://-ZB_UC551QzQf0l-ukTkdbw#-ZB_UC551QzQf0l-ukTkdbw"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_tse1UIL0EeSEII7ioMjFsw#_QQoUYDuwEeSIrOwVunFgpg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_5V2v0DuxEeSIrOwVunFgpg" name="PMLC_stakeholder_register" guid="_5V2v0DuxEeSIrOwVunFgpg" presentationName="Stakeholder Register" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_B-96sDuyEeSIrOwVunFgpg" name="me_edited" value="true"/>
+            <presentation xmi:id="-UeaNxG33SOEiiH-6AzQzRA" href="uma://-UeaNxG33SOEiiH-6AzQzRA#-UeaNxG33SOEiiH-6AzQzRA"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_pgIasLlDEeO53_TX_uVt6w#_1omQYDuwEeSIrOwVunFgpg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_llBiQDu0EeSIrOwVunFgpg" name="REQT_business_analyst" guid="_llBiQDu0EeSIrOwVunFgpg" presentationName="Business Analyst" variabilityType="extendsReplaces" responsibleFor="_6IJaUDuvEeSIrOwVunFgpg _mhcrEDuwEeSIrOwVunFgpg">
+            <methodElementProperty xmi:id="_t_RxwDu0EeSIrOwVunFgpg" name="me_edited" value="true"/>
+            <presentation xmi:id="-wxNvu6qhzuqTE0KgPL52YQ" href="uma://-wxNvu6qhzuqTE0KgPL52YQ#-wxNvu6qhzuqTE0KgPL52YQ"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_tse1UIL0EeSEII7ioMjFsw#_Qt3GIDu0EeSIrOwVunFgpg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_qmNyUDwDEeSGc6ZYf7rWrg" name="PMLC_identify_stakeholders" guid="_qmNyUDwDEeSGc6ZYf7rWrg" presentationName="Identify Stakeholders" variabilityType="extendsReplaces" performedBy="_zij6wLm4EeOjhZ-MtCWe2g" mandatoryInput="_HelekDD9EeSHm971buwRxw _dWCqsLm3EeOjhZ-MtCWe2g" output="_5V2v0DuxEeSIrOwVunFgpg" additionallyPerformedBy="_ZjEPgLmPEeO--ZV6XkvztQ">
+            <methodElementProperty xmi:id="_KIOnkDwEEeSGc6ZYf7rWrg" name="me_edited" value="true"/>
+            <presentation xmi:id="-cqO7jQxCIHrBUpbiukk0kg" href="uma://-cqO7jQxCIHrBUpbiukk0kg#-cqO7jQxCIHrBUpbiukk0kg"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_pgIasLlDEeO53_TX_uVt6w#_BnhnQDwDEeSGc6ZYf7rWrg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_szRN0DwFEeSGc6ZYf7rWrg" name="PMLC_develop_project_management_plan" guid="_szRN0DwFEeSGc6ZYf7rWrg" presentationName="Develop Project Management Plan" variabilityType="extendsReplaces" performedBy="_zij6wLm4EeOjhZ-MtCWe2g" mandatoryInput="_HelekDD9EeSHm971buwRxw _dWCqsLm3EeOjhZ-MtCWe2g">
+            <methodElementProperty xmi:id="_A3B3EDwGEeSGc6ZYf7rWrg" name="me_edited" value="true"/>
+            <presentation xmi:id="-Srz4PyoN-3DdQysB4bZTQA" href="uma://-Srz4PyoN-3DdQysB4bZTQA#-Srz4PyoN-3DdQysB4bZTQA"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_pgIasLlDEeO53_TX_uVt6w#_V2gXIDwFEeSGc6ZYf7rWrg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_QBBAQDxOEeSGc6ZYf7rWrg" name="PMLC_define_scope" guid="_QBBAQDxOEeSGc6ZYf7rWrg" presentationName="Define Scope" variabilityType="extendsReplaces" performedBy="_zij6wLm4EeOjhZ-MtCWe2g" mandatoryInput="_dWCqsLm3EeOjhZ-MtCWe2g _6IJaUDuvEeSIrOwVunFgpg" output="_Egh_4DuvEeSIrOwVunFgpg" additionallyPerformedBy="_llBiQDu0EeSIrOwVunFgpg _pfAyMLm4EeOjhZ-MtCWe2g">
+            <methodElementProperty xmi:id="_tRpowDxOEeSGc6ZYf7rWrg" name="me_edited" value="true"/>
+            <presentation xmi:id="-PYl5wzwz9zWLP8p8sHrQSA" href="uma://-PYl5wzwz9zWLP8p8sHrQSA#-PYl5wzwz9zWLP8p8sHrQSA"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_pgIasLlDEeO53_TX_uVt6w#_MGV6cDxOEeSGc6ZYf7rWrg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_zjLk4EkKEeSWLfgUXTkAlg" name="PMLC_project_schedule" guid="_zjLk4EkKEeSWLfgUXTkAlg" presentationName="Project Schedule" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_FgTRwEkLEeSWLfgUXTkAlg" name="me_edited" value="true"/>
+            <presentation xmi:id="-Cz6FGZu7E3fJalXUPaWV3g" href="uma://-Cz6FGZu7E3fJalXUPaWV3g#-Cz6FGZu7E3fJalXUPaWV3g"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_pgIasLlDEeO53_TX_uVt6w#_JFV7QEkKEeSWLfgUXTkAlg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_zTEP0EkLEeSWLfgUXTkAlg" name="PMLC_resource_requirements" guid="_zTEP0EkLEeSWLfgUXTkAlg" presentationName="Resource Requirements" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_-GbEsEkLEeSWLfgUXTkAlg" name="me_edited" value="true"/>
+            <presentation xmi:id="-dLnUn9t1SHNOyxO66WuU6g" href="uma://-dLnUn9t1SHNOyxO66WuU6g#-dLnUn9t1SHNOyxO66WuU6g"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_pgIasLlDEeO53_TX_uVt6w#_XIZJ0EkLEeSWLfgUXTkAlg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_AtiJAFQREeStpcwZ0CyxeQ" name="PMLC_basis_of_estimate" guid="_AtiJAFQREeStpcwZ0CyxeQ" presentationName="Basis of Estimate" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_OatDoFQREeStpcwZ0CyxeQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-9ag4mCE-xvZ9YowOHTBRhw" href="uma://-9ag4mCE-xvZ9YowOHTBRhw#-9ag4mCE-xvZ9YowOHTBRhw"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_pgIasLlDEeO53_TX_uVt6w#_ntbhkFQQEeStpcwZ0CyxeQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_K5HsoFmKEeSnr-1nkoLXsg" name="QUALITY_quality_management_plan" guid="_K5HsoFmKEeSnr-1nkoLXsg" presentationName="Quality Management Plan" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_Zw_f0FmKEeSnr-1nkoLXsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-K_dk3sgbJpdq72sC3FtrSA" href="uma://-K_dk3sgbJpdq72sC3FtrSA#-K_dk3sgbJpdq72sC3FtrSA"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_YmU54IPDEeSUpYT7pnPxqg#_wDtwcFmJEeSnr-1nkoLXsg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_oUTi0FmLEeSnr-1nkoLXsg" name="PMLC_project_funding_requirements" guid="_oUTi0FmLEeSnr-1nkoLXsg" presentationName="Project Funding Requirements" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_xLj3YFmLEeSnr-1nkoLXsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-SM4eI5F4CU1rZTJWmzcEQg" href="uma://-SM4eI5F4CU1rZTJWmzcEQg#-SM4eI5F4CU1rZTJWmzcEQg"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_pgIasLlDEeO53_TX_uVt6w#_W2-JQFmLEeSnr-1nkoLXsg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_RBLlIFmMEeSnr-1nkoLXsg" name="PMLC_cost_baseline" guid="_RBLlIFmMEeSnr-1nkoLXsg" presentationName="Cost Baseline" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_ZfIo4FmMEeSnr-1nkoLXsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-KgVCsbW0cOLu7MIdf93G5g" href="uma://-KgVCsbW0cOLu7MIdf93G5g#-KgVCsbW0cOLu7MIdf93G5g"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_pgIasLlDEeO53_TX_uVt6w#_Cdmm8FmMEeSnr-1nkoLXsg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_yHoBkFmMEeSnr-1nkoLXsg" name="PMLC_activity_cost_estimates" guid="_yHoBkFmMEeSnr-1nkoLXsg" presentationName="Activity Cost Estimates" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_8nJ7gFmMEeSnr-1nkoLXsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-P-rVArRtDlSIBV7ErzwZOQ" href="uma://-P-rVArRtDlSIBV7ErzwZOQ#-P-rVArRtDlSIBV7ErzwZOQ"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_pgIasLlDEeO53_TX_uVt6w#_if9JIFmMEeSnr-1nkoLXsg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Vmz3AFmNEeSnr-1nkoLXsg" name="PMLC_risk_management_plan" guid="_Vmz3AFmNEeSnr-1nkoLXsg" presentationName="Risk Management Plan" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_eMesUFmNEeSnr-1nkoLXsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-36I01xg_GVUNgB3RfSoG-Q" href="uma://-36I01xg_GVUNgB3RfSoG-Q#-36I01xg_GVUNgB3RfSoG-Q"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_pgIasLlDEeO53_TX_uVt6w#_HI9GUFmNEeSnr-1nkoLXsg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_J1n68FocEeSUmaNkcwFqUg" name="PMLC_activity_durations" guid="_J1n68FocEeSUmaNkcwFqUg" presentationName="Activity Durations" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_UcGxcFocEeSUmaNkcwFqUg" name="me_edited" value="true"/>
+            <presentation xmi:id="-GbEnqwNj80ubgi1kaLQU_w" href="uma://-GbEnqwNj80ubgi1kaLQU_w#-GbEnqwNj80ubgi1kaLQU_w"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_pgIasLlDEeO53_TX_uVt6w#_4vijwFobEeSUmaNkcwFqUg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_cbVR0FocEeSUmaNkcwFqUg" name="PMLC_activity_sequence" guid="_cbVR0FocEeSUmaNkcwFqUg" presentationName="Activity Sequence" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_w0nfIFocEeSUmaNkcwFqUg" name="me_edited" value="true"/>
+            <presentation xmi:id="-b5TkYOL8UljEZihvnDgxnw" href="uma://-b5TkYOL8UljEZihvnDgxnw#-b5TkYOL8UljEZihvnDgxnw"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_pgIasLlDEeO53_TX_uVt6w#_bYR5YFocEeSUmaNkcwFqUg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_28us4FocEeSUmaNkcwFqUg" name="PMLC_activity_list" guid="_28us4FocEeSUmaNkcwFqUg" presentationName="Activity List" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_SETXIFodEeSUmaNkcwFqUg" name="me_edited" value="true"/>
+            <presentation xmi:id="-EdXP7xGS_7gheQmIn2KJtw" href="uma://-EdXP7xGS_7gheQmIn2KJtw#-EdXP7xGS_7gheQmIn2KJtw"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_pgIasLlDEeO53_TX_uVt6w#_2KmsYFocEeSUmaNkcwFqUg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_b3X-QFoeEeSUmaNkcwFqUg" name="PMLC_resource_manager" guid="_b3X-QFoeEeSUmaNkcwFqUg" presentationName="Resource Manager" variabilityType="extendsReplaces" responsibleFor="_qiJuUGVbEeSOQ-wuYUyV_g">
+            <methodElementProperty xmi:id="_zsTzEFoeEeSUmaNkcwFqUg" name="me_edited" value="true"/>
+            <presentation xmi:id="-cAtEGi0UdbO522WHi9nzEQ" href="uma://-cAtEGi0UdbO522WHi9nzEQ#-cAtEGi0UdbO522WHi9nzEQ"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_pgIasLlDEeO53_TX_uVt6w#_ac8noFoeEeSUmaNkcwFqUg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="__HzJgFofEeSUmaNkcwFqUg" name="PMLC_subject_matter_expert" guid="__HzJgFofEeSUmaNkcwFqUg" presentationName="Subject Matter Expert" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_ZswO4FogEeSUmaNkcwFqUg" name="me_edited" value="true"/>
+            <presentation xmi:id="-n9pSnVbMcfD-Km-peEoCPQ" href="uma://-n9pSnVbMcfD-Km-peEoCPQ#-n9pSnVbMcfD-Km-peEoCPQ"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_pgIasLlDEeO53_TX_uVt6w#_-Uk80FofEeSUmaNkcwFqUg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_ottFkFogEeSUmaNkcwFqUg" name="QUALITY_quality_assurance_manager" guid="_ottFkFogEeSUmaNkcwFqUg" presentationName="Quality Assurance Manager" variabilityType="extendsReplaces" responsibleFor="_K5HsoFmKEeSnr-1nkoLXsg">
+            <methodElementProperty xmi:id="_-uAUAFogEeSUmaNkcwFqUg" name="me_edited" value="true"/>
+            <presentation xmi:id="-UDgVpmcjalSGrgmSjwP20A" href="uma://-UDgVpmcjalSGrgmSjwP20A#-UDgVpmcjalSGrgmSjwP20A"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_YmU54IPDEeSUpYT7pnPxqg#_nxTuwFogEeSUmaNkcwFqUg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_hzIeIFo2EeSV2sVK0fHiPA" name="PMLC_determine_budget" guid="_hzIeIFo2EeSV2sVK0fHiPA" presentationName=" Determine Budget" variabilityType="extendsReplaces" performedBy="_zij6wLm4EeOjhZ-MtCWe2g" mandatoryInput="_yHoBkFmMEeSnr-1nkoLXsg _AtiJAFQREeStpcwZ0CyxeQ _HelekDD9EeSHm971buwRxw _zjLk4EkKEeSWLfgUXTkAlg _Egh_4DuvEeSIrOwVunFgpg" output="_RBLlIFmMEeSnr-1nkoLXsg _oUTi0FmLEeSnr-1nkoLXsg" additionallyPerformedBy="_pfAyMLm4EeOjhZ-MtCWe2g">
+            <methodElementProperty xmi:id="_oGljwFo3EeSV2sVK0fHiPA" name="me_edited" value="true"/>
+            <presentation xmi:id="-LuFt_WPiqbDx-urfSXpOqA" href="uma://-LuFt_WPiqbDx-urfSXpOqA#-LuFt_WPiqbDx-urfSXpOqA"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_pgIasLlDEeO53_TX_uVt6w#_gCY5QFo2EeSV2sVK0fHiPA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_JUmYEFpJEeS2t6WG90MSuA" name="PMLC_estimate_costs" guid="_JUmYEFpJEeS2t6WG90MSuA" presentationName="Estimate Costs" variabilityType="extendsReplaces" performedBy="_zij6wLm4EeOjhZ-MtCWe2g" mandatoryInput="_zjLk4EkKEeSWLfgUXTkAlg _Egh_4DuvEeSIrOwVunFgpg _HelekDD9EeSHm971buwRxw _zTEP0EkLEeSWLfgUXTkAlg" output="_yHoBkFmMEeSnr-1nkoLXsg _AtiJAFQREeStpcwZ0CyxeQ" additionallyPerformedBy="_pfAyMLm4EeOjhZ-MtCWe2g _b3X-QFoeEeSUmaNkcwFqUg __HzJgFofEeSUmaNkcwFqUg">
+            <methodElementProperty xmi:id="_tCpI4FpJEeS2t6WG90MSuA" name="me_edited" value="true"/>
+            <presentation xmi:id="-J7mzXYlFRdlNWJ26gDOPVA" href="uma://-J7mzXYlFRdlNWJ26gDOPVA#-J7mzXYlFRdlNWJ26gDOPVA"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_pgIasLlDEeO53_TX_uVt6w#_IaC0UFpJEeS2t6WG90MSuA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_6V4rIFpKEeS2t6WG90MSuA" name="PMLC_create_wbs" guid="_6V4rIFpKEeS2t6WG90MSuA" presentationName="Create WBS" variabilityType="extendsReplaces" performedBy="_zij6wLm4EeOjhZ-MtCWe2g" mandatoryInput="_Egh_4DuvEeSIrOwVunFgpg _HelekDD9EeSHm971buwRxw _6IJaUDuvEeSIrOwVunFgpg" output="_J1n68FocEeSUmaNkcwFqUg _28us4FocEeSUmaNkcwFqUg _cbVR0FocEeSUmaNkcwFqUg _zTEP0EkLEeSWLfgUXTkAlg" additionallyPerformedBy="__HzJgFofEeSUmaNkcwFqUg _b3X-QFoeEeSUmaNkcwFqUg">
+            <methodElementProperty xmi:id="_IO8ssFpLEeS2t6WG90MSuA" name="me_edited" value="true"/>
+            <presentation xmi:id="-H1cPTXy4XWB1Qr5DgjHk-Q" href="uma://-H1cPTXy4XWB1Qr5DgjHk-Q#-H1cPTXy4XWB1Qr5DgjHk-Q"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_pgIasLlDEeO53_TX_uVt6w#_5hCGwFpKEeS2t6WG90MSuA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_xw8jsFpMEeS2t6WG90MSuA" name="PMLC_create_schedule" guid="_xw8jsFpMEeS2t6WG90MSuA" presentationName="Create Schedule" variabilityType="extendsReplaces" performedBy="_zij6wLm4EeOjhZ-MtCWe2g" mandatoryInput="_J1n68FocEeSUmaNkcwFqUg _28us4FocEeSUmaNkcwFqUg _cbVR0FocEeSUmaNkcwFqUg _zTEP0EkLEeSWLfgUXTkAlg" output="_zjLk4EkKEeSWLfgUXTkAlg" additionallyPerformedBy="_b3X-QFoeEeSUmaNkcwFqUg _pfAyMLm4EeOjhZ-MtCWe2g __HzJgFofEeSUmaNkcwFqUg">
+            <methodElementProperty xmi:id="_Ajo78FpNEeS2t6WG90MSuA" name="me_edited" value="true"/>
+            <presentation xmi:id="-xsgi2M06CiiF1qG3De1dkA" href="uma://-xsgi2M06CiiF1qG3De1dkA#-xsgi2M06CiiF1qG3De1dkA"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_pgIasLlDEeO53_TX_uVt6w#_vt9YQFpMEeS2t6WG90MSuA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_wK9zYFsHEeS_CZ16mrmYFw" name="PMLC_plan_risk_management" guid="_wK9zYFsHEeS_CZ16mrmYFw" presentationName="Plan Risk Management" variabilityType="extendsReplaces" performedBy="_zij6wLm4EeOjhZ-MtCWe2g" mandatoryInput="_HelekDD9EeSHm971buwRxw _5V2v0DuxEeSIrOwVunFgpg _dWCqsLm3EeOjhZ-MtCWe2g" output="_Vmz3AFmNEeSnr-1nkoLXsg" additionallyPerformedBy="_pfAyMLm4EeOjhZ-MtCWe2g _b3X-QFoeEeSUmaNkcwFqUg __HzJgFofEeSUmaNkcwFqUg">
+            <methodElementProperty xmi:id="_DiLfsFsIEeS_CZ16mrmYFw" name="me_edited" value="true"/>
+            <presentation xmi:id="-VrpSN4LlNV6EizFCJSJsOQ" href="uma://-VrpSN4LlNV6EizFCJSJsOQ#-VrpSN4LlNV6EizFCJSJsOQ"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_pgIasLlDEeO53_TX_uVt6w#_uPBrIFsHEeS_CZ16mrmYFw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_tXkscFsMEeS_CZ16mrmYFw" name="REQT_collect_requirements" guid="_tXkscFsMEeS_CZ16mrmYFw" presentationName="Collect Requirements" variabilityType="extendsReplaces" performedBy="_llBiQDu0EeSIrOwVunFgpg" mandatoryInput="_dWCqsLm3EeOjhZ-MtCWe2g _5V2v0DuxEeSIrOwVunFgpg" output="_6IJaUDuvEeSIrOwVunFgpg" additionallyPerformedBy="_zij6wLm4EeOjhZ-MtCWe2g _pfAyMLm4EeOjhZ-MtCWe2g">
+            <methodElementProperty xmi:id="_-t8iYFsMEeS_CZ16mrmYFw" name="me_edited" value="true"/>
+            <presentation xmi:id="-RObIcBIvsLNsyel_uJxl6A" href="uma://-RObIcBIvsLNsyel_uJxl6A#-RObIcBIvsLNsyel_uJxl6A"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_tse1UIL0EeSEII7ioMjFsw#_sC8b0FsMEeS_CZ16mrmYFw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_JQWy8GVaEeSOQ-wuYUyV_g" name="PMLC_final_product_service_or_result_transition" guid="_JQWy8GVaEeSOQ-wuYUyV_g" presentationName="Final Product Service or ResultTransition" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_TxnyQGVaEeSOQ-wuYUyV_g" name="me_edited" value="true"/>
+            <presentation xmi:id="-0FzAXtAsp0vGAXjzo79KIQ" href="uma://-0FzAXtAsp0vGAXjzo79KIQ#-0FzAXtAsp0vGAXjzo79KIQ"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_pgIasLlDEeO53_TX_uVt6w#_zEqz4GVZEeSOQ-wuYUyV_g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_dVJ-AGVaEeSOQ-wuYUyV_g" name="PMLC_change_log" guid="_dVJ-AGVaEeSOQ-wuYUyV_g" presentationName="Change Log" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_xBm6gGVaEeSOQ-wuYUyV_g" name="me_edited" value="true"/>
+            <presentation xmi:id="-JqD_z0RMxlRLmndmT2h0xQ" href="uma://-JqD_z0RMxlRLmndmT2h0xQ#-JqD_z0RMxlRLmndmT2h0xQ"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_pgIasLlDEeO53_TX_uVt6w#_clUcgGVaEeSOQ-wuYUyV_g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_3OmBMGVaEeSOQ-wuYUyV_g" name="PMLC_approved_change_requests" guid="_3OmBMGVaEeSOQ-wuYUyV_g" presentationName="Approved Change Requests" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_HKvU0GVbEeSOQ-wuYUyV_g" name="me_edited" value="true"/>
+            <presentation xmi:id="-Oz-gQbzwTm7pZJOdF12Jlw" href="uma://-Oz-gQbzwTm7pZJOdF12Jlw#-Oz-gQbzwTm7pZJOdF12Jlw"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_pgIasLlDEeO53_TX_uVt6w#_2HOJcGVaEeSOQ-wuYUyV_g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Q7CxQGVbEeSOQ-wuYUyV_g" name="PMLC_work_performance_reports" guid="_Q7CxQGVbEeSOQ-wuYUyV_g" presentationName="Work Performance Reports" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_j1rPQGVbEeSOQ-wuYUyV_g" name="me_edited" value="true"/>
+            <presentation xmi:id="-_MCKQ_jh4z1RY1BDzdAyPg" href="uma://-_MCKQ_jh4z1RY1BDzdAyPg#-_MCKQ_jh4z1RY1BDzdAyPg"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_pgIasLlDEeO53_TX_uVt6w#_QRIRkGVbEeSOQ-wuYUyV_g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_qiJuUGVbEeSOQ-wuYUyV_g" name="PMLC_project_staff_assignments" guid="_qiJuUGVbEeSOQ-wuYUyV_g" presentationName="Project Staff Assignments" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_7dAs8GVbEeSOQ-wuYUyV_g" name="me_edited" value="true"/>
+            <presentation xmi:id="-TLgOL2gWeuceVfvQK9gLwg" href="uma://-TLgOL2gWeuceVfvQK9gLwg#-TLgOL2gWeuceVfvQK9gLwg"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_pgIasLlDEeO53_TX_uVt6w#_p5Lp0GVbEeSOQ-wuYUyV_g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_jA5H0GYVEeSwsupdiSKW2Q" name="PMLC_monitor_and_control_project_work" guid="_jA5H0GYVEeSwsupdiSKW2Q" presentationName="Monitor and Control Project Work" variabilityType="extendsReplaces" performedBy="_zij6wLm4EeOjhZ-MtCWe2g" mandatoryInput="_RBLlIFmMEeSnr-1nkoLXsg _HelekDD9EeSHm971buwRxw _KRV8oLm1EeOjhZ-MtCWe2g _zjLk4EkKEeSWLfgUXTkAlg _Egh_4DuvEeSIrOwVunFgpg _K5HsoFmKEeSnr-1nkoLXsg _Vmz3AFmNEeSnr-1nkoLXsg _0w554GYiEeSeMbOi5SCXJQ" output="_Q7CxQGVbEeSOQ-wuYUyV_g">
+            <methodElementProperty xmi:id="_8xydkGYWEeSwsupdiSKW2Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-vwbIsPXAjYqn454f9GVzVw" href="uma://-vwbIsPXAjYqn454f9GVzVw#-vwbIsPXAjYqn454f9GVzVw"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_pgIasLlDEeO53_TX_uVt6w#_iCMD4GYVEeSwsupdiSKW2Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Ra2MQGYXEeSwsupdiSKW2Q" name="PMLC_acquire_project_team" guid="_Ra2MQGYXEeSwsupdiSKW2Q" presentationName="Acquire Project Team" variabilityType="extendsReplaces" performedBy="_zij6wLm4EeOjhZ-MtCWe2g" mandatoryInput="_HelekDD9EeSHm971buwRxw _KRV8oLm1EeOjhZ-MtCWe2g _zTEP0EkLEeSWLfgUXTkAlg" output="_qiJuUGVbEeSOQ-wuYUyV_g" additionallyPerformedBy="_b3X-QFoeEeSUmaNkcwFqUg">
+            <methodElementProperty xmi:id="_5uxjEGYXEeSwsupdiSKW2Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-WLRT4_pTsD6GfQiVUEBdVg" href="uma://-WLRT4_pTsD6GfQiVUEBdVg#-WLRT4_pTsD6GfQiVUEBdVg"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_pgIasLlDEeO53_TX_uVt6w#_QwXr4GYXEeSwsupdiSKW2Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_0w554GYiEeSeMbOi5SCXJQ" name="PMLC_communications_management_plan" guid="_0w554GYiEeSeMbOi5SCXJQ" presentationName="Communications Management Plan" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_7WwMgGYiEeSeMbOi5SCXJQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-Bd9ZpuHvY33YXh0iVmbf2g" href="uma://-Bd9ZpuHvY33YXh0iVmbf2g#-Bd9ZpuHvY33YXh0iVmbf2g"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_pgIasLlDEeO53_TX_uVt6w#_YnGWkGYiEeSeMbOi5SCXJQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_YkACcGYmEeSeMbOi5SCXJQ" name="PMLC_plan_communications_management" guid="_YkACcGYmEeSeMbOi5SCXJQ" presentationName="Plan Communications Management" variabilityType="extendsReplaces" mandatoryInput="_KRV8oLm1EeOjhZ-MtCWe2g _5V2v0DuxEeSIrOwVunFgpg _HelekDD9EeSHm971buwRxw" output="_0w554GYiEeSeMbOi5SCXJQ" additionallyPerformedBy="_ZjEPgLmPEeO--ZV6XkvztQ _pfAyMLm4EeOjhZ-MtCWe2g">
+            <methodElementProperty xmi:id="_1azOoGYmEeSeMbOi5SCXJQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-QhzsWQT6vMOog0fAfhWDyw" href="uma://-QhzsWQT6vMOog0fAfhWDyw#-QhzsWQT6vMOog0fAfhWDyw"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_pgIasLlDEeO53_TX_uVt6w#_UmCYEGYmEeSeMbOi5SCXJQ"/>
+            <performedBy href="uma://_pgIasLlDEeO53_TX_uVt6w#_PPHW0Lm4EeOjhZ-MtCWe2g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_WufncGYoEeSeMbOi5SCXJQ" name="QUALITY_plan_quality_management" guid="_WufncGYoEeSeMbOi5SCXJQ" presentationName="Plan Quality Management" variabilityType="extendsReplaces" performedBy="_ottFkFogEeSUmaNkcwFqUg" mandatoryInput="_HelekDD9EeSHm971buwRxw _6IJaUDuvEeSIrOwVunFgpg _Vmz3AFmNEeSnr-1nkoLXsg _5V2v0DuxEeSIrOwVunFgpg" output="_K5HsoFmKEeSnr-1nkoLXsg" additionallyPerformedBy="_zij6wLm4EeOjhZ-MtCWe2g">
+            <methodElementProperty xmi:id="_b7SccGYoEeSeMbOi5SCXJQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-3N4Xm1X__OzsrdOURMSKUg" href="uma://-3N4Xm1X__OzsrdOURMSKUg#-3N4Xm1X__OzsrdOURMSKUg"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_YmU54IPDEeSUpYT7pnPxqg#_VkkK8GYoEeSeMbOi5SCXJQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_halAUGlBEeS-9dAp19yOyQ" name="PMLC_perform_integrated_change_control" guid="_halAUGlBEeS-9dAp19yOyQ" presentationName="Perform Integrated Change Control" variabilityType="extendsReplaces" performedBy="_zij6wLm4EeOjhZ-MtCWe2g" mandatoryInput="_HelekDD9EeSHm971buwRxw _KRV8oLm1EeOjhZ-MtCWe2g _Q7CxQGVbEeSOQ-wuYUyV_g" output="_3OmBMGVaEeSOQ-wuYUyV_g _dVJ-AGVaEeSOQ-wuYUyV_g">
+            <methodElementProperty xmi:id="_7nojEGlBEeS-9dAp19yOyQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-ta8VyUCLMu16Y-M5esxJZA" href="uma://-ta8VyUCLMu16Y-M5esxJZA#-ta8VyUCLMu16Y-M5esxJZA"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_pgIasLlDEeO53_TX_uVt6w#_fwk8oGlBEeS-9dAp19yOyQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_aCzsEGlCEeS-9dAp19yOyQ" name="PMLC_close_project_or_phase" guid="_aCzsEGlCEeS-9dAp19yOyQ" presentationName="Close Project or Phase" variabilityType="extendsReplaces" performedBy="_zij6wLm4EeOjhZ-MtCWe2g" mandatoryInput="_KRV8oLm1EeOjhZ-MtCWe2g _HelekDD9EeSHm971buwRxw" output="_JQWy8GVaEeSOQ-wuYUyV_g" additionallyPerformedBy="_pfAyMLm4EeOjhZ-MtCWe2g">
+            <methodElementProperty xmi:id="_AGAWYGlDEeS-9dAp19yOyQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-KnjGU51qccSVmyzfFAw0xA" href="uma://-KnjGU51qccSVmyzfFAw0xA#-KnjGU51qccSVmyzfFAw0xA"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_pgIasLlDEeO53_TX_uVt6w#_ZJrrsGlCEeS-9dAp19yOyQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_uzokkG4BEeSIef-3MggveQ" name="PMLC_change_request" guid="_uzokkG4BEeSIef-3MggveQ" presentationName="Change request" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_CXEH8G4CEeSIef-3MggveQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-NN00ZrT-0yZuwHayDtV48A" href="uma://-NN00ZrT-0yZuwHayDtV48A#-NN00ZrT-0yZuwHayDtV48A"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_pgIasLlDEeO53_TX_uVt6w#_t3OmsG4BEeSIef-3MggveQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_OauuIG4CEeSIef-3MggveQ" name="PMLC_work_results" guid="_OauuIG4CEeSIef-3MggveQ" presentationName="Work Results" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_kkASYG4CEeSIef-3MggveQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-wnNQB1oPreIUrzXS5qvJdA" href="uma://-wnNQB1oPreIUrzXS5qvJdA#-wnNQB1oPreIUrzXS5qvJdA"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Outcome" href="uma://_pgIasLlDEeO53_TX_uVt6w#_Ni4gIG4CEeSIef-3MggveQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_qsesgG4CEeSIef-3MggveQ" name="PMLC_working_project_team" guid="_qsesgG4CEeSIef-3MggveQ" presentationName="Working Project Team" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_7HxaQG4CEeSIef-3MggveQ" name="me_edited" value="true"/>
+            <presentation xmi:id="--VlGFdHzm3DcJkJteMTRuQ" href="uma://--VlGFdHzm3DcJkJteMTRuQ#--VlGFdHzm3DcJkJteMTRuQ"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Outcome" href="uma://_pgIasLlDEeO53_TX_uVt6w#_pT_PkG4CEeSIef-3MggveQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="__9OtUG4CEeSIef-3MggveQ" name="PMLC_resource_description" guid="__9OtUG4CEeSIef-3MggveQ" presentationName="Resource Description" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_SOk9wG4DEeSIef-3MggveQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-QYrkO4B1nE83NdlLyRV2LQ" href="uma://-QYrkO4B1nE83NdlLyRV2LQ#-QYrkO4B1nE83NdlLyRV2LQ"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_pgIasLlDEeO53_TX_uVt6w#__G6JUG4CEeSIef-3MggveQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_WCJ9EG4DEeSIef-3MggveQ" name="PMLC_direct_and_manage_project_execution" guid="_WCJ9EG4DEeSIef-3MggveQ" presentationName="Direct and Manage Project Execution" variabilityType="extendsReplaces" performedBy="_zij6wLm4EeOjhZ-MtCWe2g" mandatoryInput="_KRV8oLm1EeOjhZ-MtCWe2g" output="_uzokkG4BEeSIef-3MggveQ _OauuIG4CEeSIef-3MggveQ" additionallyPerformedBy="_pfAyMLm4EeOjhZ-MtCWe2g">
+            <methodElementProperty xmi:id="_tIe_cG4DEeSIef-3MggveQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-G-cb8P9AHY2ZEj0kfjfy6w" href="uma://-G-cb8P9AHY2ZEj0kfjfy6w#-G-cb8P9AHY2ZEj0kfjfy6w"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_pgIasLlDEeO53_TX_uVt6w#_XEEtEG4DEeSIef-3MggveQ"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_Hb4ArbmPEeO--ZV6XkvztQ" name="CapabilityPatterns" guid="_Hb4ArbmPEeO--ZV6XkvztQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_aHp0AJeeEeS_bNkOh34bcw" href="uma://_aHp0AJeeEeS_bNkOh34bcw#_aHp0AJeeEeS_bNkOh34bcw"/>
+      </childPackages>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_Hb4ArrmPEeO--ZV6XkvztQ" name="DeliveryProcesses" guid="_Hb4ArrmPEeO--ZV6XkvztQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_EKU0sLmtEeOjhZ-MtCWe2g" href="uma://_EKU0sLmtEeOjhZ-MtCWe2g#_EKU0sLmtEeOjhZ-MtCWe2g"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_Hb4Ar7mPEeO--ZV6XkvztQ" name="ProcessContributions" guid="_Hb4Ar7mPEeO--ZV6XkvztQ"/>
+    <bases href="uma://_pgIasLlDEeO53_TX_uVt6w#_pgIasLlDEeO53_TX_uVt6w"/>
+    <bases href="uma://_hnMvkLlDEeO53_TX_uVt6w#_hnMvkLlDEeO53_TX_uVt6w"/>
+    <bases href="uma://_Z7teANQ1EdyQ89W1tgswSQ#_Z7teANQ1EdyQ89W1tgswSQ"/>
+    <bases href="uma://_4ulTgMg7EdyXeo04os5BOw#_4ulTgMg7EdyXeo04os5BOw"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

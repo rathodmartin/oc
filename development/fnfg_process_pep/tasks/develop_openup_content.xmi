@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-M9lefPm2IshNmtGkBxAklg" name=",_2H6yoPt6EeK6X-ODr_6b9w" guid="-M9lefPm2IshNmtGkBxAklg" authors="Shane T. Ficorilli" changeDate="2013-08-02T09:53:35.497-0400" changeDescription="Baseline" version="1.0">
+  <mainDescription>The translation of OpenUP requirements into process content. Unit Testing is also performed; content must pass before&#xD;
+content development can be finalized.</mainDescription>
+  <sections xmi:id="_-KrIIPt6EeK6X-ODr_6b9w" name="Develop content " guid="_-KrIIPt6EeK6X-ODr_6b9w">
+    <sectionDescription>Translate requirements into process content.</sectionDescription>
+  </sections>
+  <sections xmi:id="__xoe4Pt6EeK6X-ODr_6b9w" name="Perform Unit Test" guid="__xoe4Pt6EeK6X-ODr_6b9w">
+    <sectionDescription>Ensure the requirements have been properly translated into process content by Unit Testing OpenUP elements, such as Roles,&#xD;
+Tasks and Work Products among others.</sectionDescription>
+  </sections>
+  <sections xmi:id="_FgEBUPt7EeK6X-ODr_6b9w" name="Finalize content development" guid="_FgEBUPt7EeK6X-ODr_6b9w">
+    <sectionDescription>Issues discovered in Unit Testing and content gaps must be resolved to finalize content.&lt;br /></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

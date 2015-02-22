@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-PYl5wzwz9zWLP8p8sHrQSA" name=",_QBBAQDxOEeSGc6ZYf7rWrg" guid="-PYl5wzwz9zWLP8p8sHrQSA" authors="Rakesh D. Rathod" changeDate="2014-09-14T16:33:28.109-0400" changeDescription="Baseline" version="BL">
+  <sections xmi:id="_m_NaUDxOEeSGc6ZYf7rWrg" name="Assess/Inventory known requirements" guid="_m_NaUDxOEeSGc6ZYf7rWrg"/>
+  <sections xmi:id="_pKtBgDxOEeSGc6ZYf7rWrg" name="Gain agreement on project inclusions and exclusions" guid="_pKtBgDxOEeSGc6ZYf7rWrg"/>
+  <sections xmi:id="_sq_4cDxOEeSGc6ZYf7rWrg" name="Document and gain formal approval" guid="_sq_4cDxOEeSGc6ZYf7rWrg"/>
+</org.eclipse.epf.uma:TaskDescription>

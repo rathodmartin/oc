@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-IMi_kjXniuCznkfQDlH2vw" name=",_QwXr4GYXEeSwsupdiSKW2Q" guid="-IMi_kjXniuCznkfQDlH2vw" authors="John Rozsa" changeDate="2014-11-10T20:22:50.651-0500" changeDescription="Baseline" version="BL">
+  <mainDescription>The task of Aquire Project Team is getting the right project resources at the right project time by negotiating with
+        resource managers and competing project managers. The project manager should fight to secure the best resources available
+        for their project at the time they are needed. One should not accept any substitutes without negotiations. Having the right
+        people on your team will make you successful.&lt;br /></mainDescription>
+  <sections xmi:id="_hfWxsGYXEeSwsupdiSKW2Q" name="Contact resource managers to secure the right resources for the right times" guid="_hfWxsGYXEeSwsupdiSKW2Q"/>
+  <sections xmi:id="_iugscGYXEeSwsupdiSKW2Q" name="Negotiate with resource managers and competing project managers for your resources" guid="_iugscGYXEeSwsupdiSKW2Q"/>
+</org.eclipse.epf.uma:TaskDescription>

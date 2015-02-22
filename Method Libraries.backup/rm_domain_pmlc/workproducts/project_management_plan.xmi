@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-PddxI5bN1qcJqociK3YQdA" name="new_artifact,_jvgrALmzEeOjhZ-MtCWe2g" guid="-PddxI5bN1qcJqociK3YQdA" authors="Patrick Martin" changeDate="2014-04-08T20:43:02.664-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>The project management plan is the formal document that lays out how a project is to be managed, executed and controlled.&#xD;
+Throughout the project, it is continually refined, revised and updated.</mainDescription>
+  <keyConsiderations>This document belongs to the whole project team. The project manager is the final editor and sometime author of the project&#xD;
+management plan.</keyConsiderations>
+  <impactOfNotHaving>Project chaos, increased process risks and possible project failure.</impactOfNotHaving>
+  <reasonsForNotNeeding>The project management plan should be tailored to risk. The lower the risk the fewer process restrictions. Some low risk&#xD;
+project may use very simple plans.</reasonsForNotNeeding>
+  <briefOutline>&lt;p>&#xD;
+    The project management plan typically consists of:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        3 baselines; Cost, Schedule and Scope&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        10 management plans; requirements, scope, cost, quality, risk, change, configuration, schedule, procurement, and&#xD;
+        communications&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        1 human resource plan&lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></briefOutline>
+</org.eclipse.epf.uma:ArtifactDescription>

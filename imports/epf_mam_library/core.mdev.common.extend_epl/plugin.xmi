@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_Rf3SALgREd2VBqezzK7PZw"
+      guid="_Rf3SALgREd2VBqezzK7PZw">
+    <resourceDescriptors xmi:id="_Rf3SArgREd2VBqezzK7PZw" id="-3Fi6rAv8Fp_WlbJMHIadGw"
+        uri="guidances/reusableassets/epl_arch_description.xmi"/>
+    <resourceDescriptors xmi:id="_RgBDALgREd2VBqezzK7PZw" id="-8AT4_nLXCmLMATXVoSqUYA"
+        uri="guidances/concepts/epl.xmi"/>
+    <resourceDescriptors xmi:id="_RgK0ALgREd2VBqezzK7PZw" id="-JkyUSgXrfM7SuztDhLqJ4A"
+        uri="guidances/guidelines/translating_epf_content.xmi"/>
+    <resourceDescriptors xmi:id="_RgK0AbgREd2VBqezzK7PZw" id="-kBDnTqrp6FjlDIegJt_zlg"
+        uri="guidances/supportingmaterials/release_info_mdev_common_elements.epl.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_hh7xAH_2Ed2IdZmkTP19bw" name="core.mdev.common.extend_epl"
+      guid="_hh7xAH_2Ed2IdZmkTP19bw" presentationName="EPL Extensions to Method Development Common"
+      briefDescription="This plug-in contains extensions to common to support the authoring of elements in the EPF Practice Library (EPL)."
+      authors="Kelli Houston" changeDate="2008-11-14T22:23:09.687-0800" version="1.0">
+    <copyrightStatement href="uma://_iVydgENdEdy245g62lfWcA#_uuunoPsDEdmyhNQr5STrZQ"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hh7xAn_2Ed2IdZmkTP19bw"
+        name="Content" guid="_hh7xAn_2Ed2IdZmkTP19bw">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hh7xDH_2Ed2IdZmkTP19bw"
+          name="Categories" guid="_hh7xDH_2Ed2IdZmkTP19bw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hh7xE3_2Ed2IdZmkTP19bw"
+            name="Domains" guid="_hh7xE3_2Ed2IdZmkTP19bw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hh7xEH_2Ed2IdZmkTP19bw"
+            name="Disciplines" guid="_hh7xEH_2Ed2IdZmkTP19bw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hh7xEX_2Ed2IdZmkTP19bw"
+            name="RoleSets" guid="_hh7xEX_2Ed2IdZmkTP19bw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hh7xFX_2Ed2IdZmkTP19bw"
+            name="WP Types" guid="_hh7xFX_2Ed2IdZmkTP19bw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hh7xFH_2Ed2IdZmkTP19bw"
+            name="Tools" guid="_hh7xFH_2Ed2IdZmkTP19bw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hh7xEn_2Ed2IdZmkTP19bw"
+            name="StandardCategories" guid="_hh7xEn_2Ed2IdZmkTP19bw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hh7xDX_2Ed2IdZmkTP19bw"
+            name="CustomCategories" guid="_hh7xDX_2Ed2IdZmkTP19bw">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hh7xDn_2Ed2IdZmkTP19bw"
+              name="Hidden" guid="_hh7xDn_2Ed2IdZmkTP19bw">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_hh7xD3_2Ed2IdZmkTP19bw"
+                name="Custom Categories" guid="_hh7xD3_2Ed2IdZmkTP19bw" categorizedElements="_w1d8wIAHEd2IdZmkTP19bw"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_w1d8wIAHEd2IdZmkTP19bw"
+              name="do_not_publish.mdev_common_epl" guid="_w1d8wIAHEd2IdZmkTP19bw"
+              variabilityType="contributes" categorizedElements="_hh7xC3_2Ed2IdZmkTP19bw">
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CustomCategory"
+                href="uma://_vsno4EKmEdyrauqpmnA8jQ#_O3UtkMRdEdyD76CYS6Ta7A"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hh7xBH_2Ed2IdZmkTP19bw"
+          name="CoreContent" guid="_hh7xBH_2Ed2IdZmkTP19bw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hh7xB3_2Ed2IdZmkTP19bw"
+            name="epl_ext_mdev_common" guid="_hh7xB3_2Ed2IdZmkTP19bw" presentationName="EPL Extensions to Method Development Common">
+          <contentElements xsi:type="org.eclipse.epf.uma:ReusableAsset" xmi:id="_hh7xC3_2Ed2IdZmkTP19bw"
+              name="epl_arch_description" guid="_hh7xC3_2Ed2IdZmkTP19bw" presentationName="EPL Architecture Description"
+              briefDescription="This reusable asset is the architecture description for the Eclipse Process Framework (EPF) practice library (EPL). ">
+            <presentation xmi:id="-3Fi6rAv8Fp_WlbJMHIadGw" href="uma://-3Fi6rAv8Fp_WlbJMHIadGw#-3Fi6rAv8Fp_WlbJMHIadGw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_sLATYH_0Ed2IdZmkTP19bw"
+              name="epl" guid="_sLATYH_0Ed2IdZmkTP19bw" presentationName="EPF Practice Library (EPL)"
+              briefDescription="The Eclipse Process Framework (EPF) practice library (EPL) is a practice library that exists within the Unified Method Framework (UMF)."
+              supportingMaterials="_C2FS4F_lEd2zpKtX6B7lBg">
+            <presentation xmi:id="-8AT4_nLXCmLMATXVoSqUYA" href="uma://-8AT4_nLXCmLMATXVoSqUYA#-8AT4_nLXCmLMATXVoSqUYA"/>
+            <conceptsAndPapers href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_nrrn4GqHEdun45RPFGeYnA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_WYPNwIC8Ed2RgsZLwhqsAA"
+              name="translating_epf_content" guid="_WYPNwIC8Ed2RgsZLwhqsAA" presentationName="Translating EPF Content"
+              briefDescription="This guideline recommends an approach for translating method content created under the Eclipse Process Framework project(EPF). ">
+            <presentation xmi:id="-JkyUSgXrfM7SuztDhLqJ4A" href="uma://-JkyUSgXrfM7SuztDhLqJ4A#-JkyUSgXrfM7SuztDhLqJ4A"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hh7xBX_2Ed2IdZmkTP19bw"
+            name="release_info" guid="_hh7xBX_2Ed2IdZmkTP19bw" presentationName="Release Information"
+            briefDescription="This package groups all guidance for the plug-in as a whole.">
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_hh7xBn_2Ed2IdZmkTP19bw"
+              name="release_info_mdev_common_elements.epl" guid="_hh7xBn_2Ed2IdZmkTP19bw"
+              variabilityType="contributes">
+            <presentation xmi:id="-kBDnTqrp6FjlDIegJt_zlg" href="uma://-kBDnTqrp6FjlDIegJt_zlg#-kBDnTqrp6FjlDIegJt_zlg"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:SupportingMaterial"
+                href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_2a5hQQv1Ed2Z4aGiwM2NOA"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_hh7xA3_2Ed2IdZmkTP19bw"
+          name="CapabilityPatterns" guid="_hh7xA3_2Ed2IdZmkTP19bw"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_hh7xFn_2Ed2IdZmkTP19bw"
+        name="DeliveryProcesses" guid="_hh7xFn_2Ed2IdZmkTP19bw"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_hh7xAX_2Ed2IdZmkTP19bw"
+        name="ProcessContributions" guid="_hh7xAX_2Ed2IdZmkTP19bw"/>
+    <bases href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_HQW1wAvmEd2Z4aGiwM2NOA"/>
+    <bases href="uma://_TQMyAAyNEd2RbdLDHU6BqQ#_TQMyAAyNEd2RbdLDHU6BqQ"/>
+    <bases href="uma://_XlEIkF_TEd2zpKtX6B7lBg#_XlEIkF_TEd2zpKtX6B7lBg"/>
+    <bases href="uma://_vsno4EKmEdyrauqpmnA8jQ#_vsno4EKmEdyrauqpmnA8jQ"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

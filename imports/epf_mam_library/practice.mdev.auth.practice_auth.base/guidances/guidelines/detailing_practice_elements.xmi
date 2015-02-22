@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-v0rOhex7bmb04EPLEIbcMA"
+    name="detailing_practice_elements,_xovb0JQ-EdyOprQk0vnmNg" guid="-v0rOhex7bmb04EPLEIbcMA"
+    changeDate="2008-11-21T02:58:15.078-0800" version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    Detailing a&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/concepts/practice_F5C8EAAB.html&quot;&#xD;
+    guid=&quot;_qhCTAFRREd2CWscN8Mx6rg&quot;>Practice&lt;/a>&amp;nbsp;is all about fleshing out the details of the individual practice&#xD;
+    elements.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    All&amp;nbsp;practice detailing work must adhere to the constraints defined for the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_fw_6DA4D54D.html&quot;&#xD;
+    guid=&quot;__LjaEFQsEd2uvIuuFjd1Fg&quot;>Practice Framework&lt;/a>&amp;nbsp;and for the practice&amp;nbsp;itself.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    When detailing any element that physically resides in a practice, do not refer to elements outside of the&#xD;
+    practice.&lt;br />&#xD;
+    Exception: practice elements may refer to &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/work_product_slot_D5B44CE7.html&quot;&#xD;
+    guid=&quot;_Er1OcJIfEdybeduord13cg&quot;>Work Product Slot&lt;/a>s and other core elements.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    In addition to the method elements included in a practice (for example, tasks, guidance, and so on), every practice&#xD;
+    should include the following guidance elements:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        how-to-adopt &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/roadmap_466C36E0.html&quot;&#xD;
+        guid=&quot;_19dWYMaHEduMlb2cQZNTYw&quot;>roadmap&lt;/a>: describess how to adopt the practice&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/practice_94B5C550.html&quot;&#xD;
+        guid=&quot;_wxYvkMaGEduMlb2cQZNTYw&quot;>practice&lt;/a>&amp;nbsp;guidance element&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    For information on detailing these elements, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/guidelines/detailing_guidance_C37C61B6.html&quot;&#xD;
+    guid=&quot;_60WTkJkoEd2Al9G_gP7uDg&quot;>Guideline: Detailing Guidance&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This guideline provides practice-specific detailing guidelines. For more information on detailing method elements, see&#xD;
+    the following:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.base/guidances/guidelines/detailing_method_elements_general_B2500E20.html&quot;&#xD;
+        guid=&quot;_jLqqIOFIEdumFeaOJSgmnQ&quot;>Guideline: Detailing Method Elements (General)&lt;/a>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.base/guidances/guidelines/detailing_roles_53BF36DB.html&quot;&#xD;
+        guid=&quot;_Akb_sJklEd2Al9G_gP7uDg&quot;>Guideline: Detailing Roles&lt;/a>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.base/guidances/guidelines/detailing_tasks_AFC8B577.html&quot;&#xD;
+        guid=&quot;_DRI2gJklEd2Al9G_gP7uDg&quot;>Guideline: Detailing Tasks&lt;/a>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.base/guidances/guidelines/detailing_work_products_A106B466.html&quot;&#xD;
+        guid=&quot;_F0wCwJklEd2Al9G_gP7uDg&quot;>Guideline: Detailing Work Products&lt;/a>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.base/guidances/guidelines/detailing_guidance_C37C61B6.html&quot;&#xD;
+        guid=&quot;_60WTkJkoEd2Al9G_gP7uDg&quot;>Guideline: Detailing Guidance&lt;/a>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.base/guidances/guidelines/detailing_processes_CE596648.html&quot;&#xD;
+        guid=&quot;_7ZLhcIEpEduh5eWFWxp_YQ&quot;>Guideline: Detailing Processes&lt;/a>&lt;br />&#xD;
+        &lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:WorkProductDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-O5GD0vYKhi6y_58HFxHiGw" name="new_outcome,_Ni4gIG4CEeSIef-3MggveQ" guid="-O5GD0vYKhi6y_58HFxHiGw" authors="John Rozsa" changeDate="2014-11-16T21:35:10.244-0500" changeDescription="Baseline" version="BL">
+  <mainDescription>Projects are undertaken to realize business benefits through project work results. Deliverables may take the form of a
+        product, the service, or a result that must be completed in order to finish the project. Project execution tasks extend to
+        'perform quality control' and 'verify scope' until such time deliverables demonstrate satisfactory completeness and
+        correctness of the anticipated business benefits.&lt;br /></mainDescription>
+  <impactOfNotHaving>Failed project, loss of investment and unrealized business benefit.&lt;br /></impactOfNotHaving>
+  <reasonsForNotNeeding>None.&lt;br /></reasonsForNotNeeding>
+</org.eclipse.epf.uma:WorkProductDescription>

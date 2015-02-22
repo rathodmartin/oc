@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-B6nujkQwc_jcqftjJN3aqg"
+    name="new_concept,_nrrn4GqHEdun45RPFGeYnA" guid="-B6nujkQwc_jcqftjJN3aqg" changeDate="2008-10-12T10:12:46.750-0700"
+    version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    The Unified Method Framework (UMF) is an extensible integration framework that defines a “common language” for&#xD;
+    the&amp;nbsp;interoperation of &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/concepts/practice_F5C8EAAB.html&quot;&#xD;
+    guid=&quot;_qhCTAFRREd2CWscN8Mx6rg&quot;>Practice&lt;/a>s .&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img alt=&quot;umf_graphic&quot; src=&quot;./resources/umf.jpg&quot; />&amp;nbsp;&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;p>&#xD;
+    The UMF provides:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        A common library structure for plug-ins&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Shared categorization schemes and standardized views&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Common standards and QA criteria&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Common development guidance linked to &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.base/guidances/termdefinitions/licensing_level_746E1470.html&quot;&#xD;
+        guid=&quot;_47cn8PU3EdyNMvgj607huw&quot;>licensing level&lt;/a>s, governance and overall approach to quality&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Compatible and cooperative authoring processes&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        A shared set of core method elements for building related processes&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    In its broadest sense, the UMF is a virtual library of all methods developed within its constraints.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The benefits of the UMF are the same as for any practice framework.&amp;nbsp; Specifically:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Defines a &lt;strong>&lt;em>consistent approach&lt;/em>&lt;/strong> for how plug-ins are structured that allows&#xD;
+        &lt;strong>&lt;em>true plug-and-play&lt;/em>&lt;/strong> between content authored by different groups and ensures that remotely&#xD;
+        authored content integrates seamlessly into the overall library&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>&lt;em>Reduces complexity&lt;/em>&lt;/strong> and &lt;strong>&lt;em>increases understandability&lt;/em>&lt;/strong> of the&#xD;
+        methods&amp;nbsp;as all methods are constructed/structured in a similar way&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>&lt;em>Maximizes reuse&lt;/em>&lt;/strong> as common elements are shared across practices and practices are shared&#xD;
+        across processes.&amp;nbsp; Practices also provide a coarser-grained unit of reuse and customization than just work&#xD;
+        products&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;em>&lt;strong>Increases configurability&lt;/strong>&lt;/em> as practices can be easily configured to produce many different&#xD;
+        types of method assets (i.e., processes) to match specific needs. Practices are &lt;strong>&lt;em>loosely&#xD;
+        coupled&lt;/em>&lt;/strong> and &lt;strong>&lt;em>interchangeable&lt;/em>&lt;/strong>.&amp;nbsp; Practices are easily “swapped out” and&#xD;
+        can be &quot;mixed and matched&quot; to create the best solution.&amp;nbsp;&amp;nbsp;Specifically, processes can be assembled to best&#xD;
+        suit the end user's needs -- specific practices, role assignments, categorization (domains, work product kinds,&#xD;
+        disciplines, work products, role sets), etc.&amp;nbsp; Processes can be assembled to best suit your needs -- specific&#xD;
+        practices, role assignments, categorization (domains, work product kinds, disciplines, work products, role sets),&#xD;
+        etc.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Supports &lt;strong>&lt;em>incremental method authoring&lt;/em>&lt;/strong>.&amp;nbsp;Practices are written independently from each&#xD;
+        other.&amp;nbsp; Practices are dependent on a shared core and not on each other.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Supports &lt;strong>&lt;em>incremental adoption of a process&lt;/em>&lt;/strong>. The process is divided into practices that&#xD;
+        can be adopted individually and incrementally.&amp;nbsp; You can start small with a few practices and then grow/scale,&#xD;
+        adopting one practice at a time&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

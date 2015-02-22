@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_Ym9zEIPDEeSUpYT7pnPxqg" guid="_Ym9zEIPDEeSUpYT7pnPxqg">
+    <resourceDescriptors xmi:id="_P7mI8IPEEeSUpYT7pnPxqg" id="-M_WB7OqtPQV-AqyiimZILQ" uri="workproducttypes/quality_work_product_kinds.xmi"/>
+    <resourceDescriptors xmi:id="_abeoMIPEEeSUpYT7pnPxqg" id="-fcf2rwPd19sypX6Sa_-3Ew" uri="customcategories/rm_domain_quality_work_product_kinds.xmi"/>
+    <resourceDescriptors xmi:id="_2mUbMFogEeSUmaNkcwFqUg" id="-RVmy1yc6IF6fO6IsxeGS1A" uri="roles/quality_assurance_manager.xmi"/>
+    <resourceDescriptors xmi:id="_i7-Q8GYoEeSeMbOi5SCXJQ" id="-BzKY6ejovSrSNsFI0CxJIg" uri="tasks/plan_quality_management.xmi"/>
+    <resourceDescriptors xmi:id="_I2twAFmKEeSnr-1nkoLXsg" id="-x4aZHIIafmmc6tVMj7lrNQ" uri="workproducts/quality_management_plan.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_YmU54IPDEeSUpYT7pnPxqg" name="rm_domain_quality" guid="_YmU54IPDEeSUpYT7pnPxqg" briefDescription="Quality Domain" authors="Rakesh D. Rathod" changeDate="2014-12-21T12:00:46.072-0500" changeDescription="Baseline" version="BL">
+    <methodElementProperty xmi:id="_Ym_BMIPDEeSUpYT7pnPxqg" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_a4kCQIPDEeSUpYT7pnPxqg" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_YmU54YPDEeSUpYT7pnPxqg" name="Content" guid="_YmU54YPDEeSUpYT7pnPxqg">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_YmU54oPDEeSUpYT7pnPxqg" name="Categories" guid="_YmU54oPDEeSUpYT7pnPxqg">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_YmU544PDEeSUpYT7pnPxqg" name="Domains" guid="_YmU544PDEeSUpYT7pnPxqg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_YmU55IPDEeSUpYT7pnPxqg" name="Disciplines" guid="_YmU55IPDEeSUpYT7pnPxqg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_YmU55YPDEeSUpYT7pnPxqg" name="RoleSets" guid="_YmU55YPDEeSUpYT7pnPxqg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_YmU55oPDEeSUpYT7pnPxqg" name="WP Types" guid="_YmU55oPDEeSUpYT7pnPxqg">
+          <contentElements xsi:type="org.eclipse.epf.uma:WorkProductType" xmi:id="_LCrSMIPEEeSUpYT7pnPxqg" name="quality_work_product_kinds" guid="_LCrSMIPEEeSUpYT7pnPxqg" presentationName="Quality Work Product Kinds" workProducts="_wDtwcFmJEeSnr-1nkoLXsg">
+            <methodElementProperty xmi:id="_P7jssIPEEeSUpYT7pnPxqg" name="me_edited" value="true"/>
+            <presentation xmi:id="-M_WB7OqtPQV-AqyiimZILQ" href="uma://-M_WB7OqtPQV-AqyiimZILQ#-M_WB7OqtPQV-AqyiimZILQ"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_YmU554PDEeSUpYT7pnPxqg" name="Tools" guid="_YmU554PDEeSUpYT7pnPxqg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_YmU56IPDEeSUpYT7pnPxqg" name="StandardCategories" guid="_YmU56IPDEeSUpYT7pnPxqg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_YmU56YPDEeSUpYT7pnPxqg" name="CustomCategories" guid="_YmU56YPDEeSUpYT7pnPxqg">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_YmU56oPDEeSUpYT7pnPxqg" name="Hidden" guid="_YmU56oPDEeSUpYT7pnPxqg">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_YmU564PDEeSUpYT7pnPxqg" name="Custom Categories" guid="_YmU564PDEeSUpYT7pnPxqg" categorizedElements="_SsCQQIPEEeSUpYT7pnPxqg"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_SsCQQIPEEeSUpYT7pnPxqg" name="rm_domain_quality_work_product_kinds" guid="_SsCQQIPEEeSUpYT7pnPxqg" presentationName="RM Domain Quality Work Products" categorizedElements="_wDtwcFmJEeSnr-1nkoLXsg">
+            <methodElementProperty xmi:id="_X_pe8IPEEeSUpYT7pnPxqg" name="me_edited" value="true"/>
+            <presentation xmi:id="-fcf2rwPd19sypX6Sa_-3Ew" href="uma://-fcf2rwPd19sypX6Sa_-3Ew#-fcf2rwPd19sypX6Sa_-3Ew"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_YmU57IPDEeSUpYT7pnPxqg" name="CoreContent" guid="_YmU57IPDEeSUpYT7pnPxqg">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_36gugIPDEeSUpYT7pnPxqg" name="rm_domain_quality_content_package" guid="_36gugIPDEeSUpYT7pnPxqg" presentationName="RM Domain Quality Content Package" briefDescription="RM Domain Quality Content Package">
+          <methodElementProperty xmi:id="_36ijsIPDEeSUpYT7pnPxqg" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_B_YFsIPEEeSUpYT7pnPxqg" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_nxTuwFogEeSUmaNkcwFqUg" name="quality_assurance_manager" guid="_nxTuwFogEeSUmaNkcwFqUg" presentationName="Quality Assurance Manager" briefDescription="Assures consistent quality by developing and enforcing effective quality guidelines and practices." responsibleFor="_wDtwcFmJEeSnr-1nkoLXsg">
+            <methodElementProperty xmi:id="_2mQJwFogEeSUmaNkcwFqUg" name="me_edited" value="true"/>
+            <presentation xmi:id="-RVmy1yc6IF6fO6IsxeGS1A" href="uma://-RVmy1yc6IF6fO6IsxeGS1A#-RVmy1yc6IF6fO6IsxeGS1A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_VkkK8GYoEeSeMbOi5SCXJQ" name="plan_quality_management" guid="_VkkK8GYoEeSeMbOi5SCXJQ" presentationName="Plan Quality Management" briefDescription="Plan Quality Management develops a comprehensive plan to identify objectives and strategies, interface with customers, and organize and coordinate process control activities." performedBy="_nxTuwFogEeSUmaNkcwFqUg" output="_wDtwcFmJEeSnr-1nkoLXsg">
+            <methodElementProperty xmi:id="_ccZlcGYoEeSeMbOi5SCXJQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-BzKY6ejovSrSNsFI0CxJIg" href="uma://-BzKY6ejovSrSNsFI0CxJIg#-BzKY6ejovSrSNsFI0CxJIg"/>
+            <mandatoryInput href="uma://_tse1UIL0EeSEII7ioMjFsw#_jBirIDuvEeSIrOwVunFgpg"/>
+            <mandatoryInput href="uma://_pgIasLlDEeO53_TX_uVt6w#_pOm48DD8EeSHm971buwRxw"/>
+            <mandatoryInput href="uma://_pgIasLlDEeO53_TX_uVt6w#_1omQYDuwEeSIrOwVunFgpg"/>
+            <mandatoryInput href="uma://_pgIasLlDEeO53_TX_uVt6w#_HI9GUFmNEeSnr-1nkoLXsg"/>
+            <additionallyPerformedBy href="uma://_pgIasLlDEeO53_TX_uVt6w#_PPHW0Lm4EeOjhZ-MtCWe2g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_wDtwcFmJEeSnr-1nkoLXsg" name="quality_management_plan" guid="_wDtwcFmJEeSnr-1nkoLXsg" presentationName="Quality Management Plan" briefDescription="The quality management plan, (a component of the project management plan) describes how the quality policies will be implemented as it relates to the project.">
+            <methodElementProperty xmi:id="_I2iJ0FmKEeSnr-1nkoLXsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-x4aZHIIafmmc6tVMj7lrNQ" href="uma://-x4aZHIIafmmc6tVMj7lrNQ#-x4aZHIIafmmc6tVMj7lrNQ"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_YmU57YPDEeSUpYT7pnPxqg" name="CapabilityPatterns" guid="_YmU57YPDEeSUpYT7pnPxqg"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_YmU57oPDEeSUpYT7pnPxqg" name="DeliveryProcesses" guid="_YmU57oPDEeSUpYT7pnPxqg"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_YmU574PDEeSUpYT7pnPxqg" name="ProcessContributions" guid="_YmU574PDEeSUpYT7pnPxqg"/>
+    <bases href="uma://_pgIasLlDEeO53_TX_uVt6w#_pgIasLlDEeO53_TX_uVt6w"/>
+    <bases href="uma://_hnMvkLlDEeO53_TX_uVt6w#_hnMvkLlDEeO53_TX_uVt6w"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

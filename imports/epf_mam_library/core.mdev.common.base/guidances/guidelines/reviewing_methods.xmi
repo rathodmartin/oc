@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-OjWXYjOE5a7KQfU1TY5N4w"
+    name="reviewing_methods,_iFoK0MrGEdyOGKOa5tPdeg" guid="-OjWXYjOE5a7KQfU1TY5N4w"
+    changeDate="2008-09-11T19:09:58.187-0700" version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    When reviewing a method, it is important to examine the method realization in authored and published form, as well as&#xD;
+    any supporting documentation.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The following are some general things to consider when reviewing authored content:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Ensure that there is an acceptable level of quality in content prior to releasing that content for initial customer&#xD;
+    evaluation. This is a list of proposed reviews that should be performed on the content before it can be considered&#xD;
+    ready for initial release.&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Review for readability and consistent voice &#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                Make sure the authoring guidelines have been adhered to.&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                Check the visual layout/flow of text&lt;br />&#xD;
+                &amp;nbsp;&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Review for content correctness and consistency&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-TYPE: none&quot;>&#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                Review the content focusing on a vertical slice, such as per process, per scenario, and so on.&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                Make sure the content has appropriate links to other content&lt;br />&#xD;
+                &amp;nbsp;&amp;nbsp;&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Copy-edit review&lt;br />&#xD;
+        &amp;nbsp;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Review for usability&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;list-style: none&quot;>&#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                Check the layout of the navigation views&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                Make sure that a critical portion of guidance is &quot;above the fold&quot;, meaning it can be seen on main portion&#xD;
+                of the screen without need for scrolling the page down.&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                User scenarios: Have the reviewers put themselves in one or more roles below and try to accomplish the&#xD;
+                actions described.&amp;nbsp; For example:&#xD;
+            &lt;/li>&#xD;
+            &lt;li style=&quot;list-style: none&quot;>&#xD;
+                &lt;ul>&#xD;
+                    &lt;li>&#xD;
+                        See if the project manager can use the content to plan the project&#xD;
+                    &lt;/li>&#xD;
+                    &lt;li>&#xD;
+                        See if the developer can find specific content&#xD;
+                    &lt;/li>&#xD;
+                    &lt;li>&#xD;
+                        See if process engineer can customize the content by adding company-specific content&#xD;
+                    &lt;/li>&#xD;
+                    &lt;li>&#xD;
+                        See if a first time user can easily&amp;nbsp;navigate and follow the process (is there enough&#xD;
+                        introductory content)&#xD;
+                    &lt;/li>&#xD;
+                &lt;/ul>&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

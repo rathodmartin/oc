@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-R6HiVHDdcnljtpz_SVlAnw" name="new_reusable_asset,_R1WBMBWAEeOODbTkX__Yaw" guid="-R6HiVHDdcnljtpz_SVlAnw" authors="Rakesh D. Rathod" changeDate="2013-09-04T12:39:39.056-0400" changeDescription="Baseline" version="1.0">
+  <mainDescription>The Systems and Software Engineering Process Metamodel specification provides complete details on the SPEM version 2.0&#xD;
+specification. The document is published by the Object Management Group and is an integral part of the OpenUP framework.</mainDescription>
+  <attachments>resources/SPEM-Specification-V2.0.pdf</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

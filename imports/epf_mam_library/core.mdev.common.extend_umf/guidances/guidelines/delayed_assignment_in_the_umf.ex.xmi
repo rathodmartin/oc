@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-FMGY0KH8RrxBT37vP9Hx3g"
+    name="delayed_assignment_in_the_umf.ex,_Eu0CYIJQEd2sTeTIQhu12Q" guid="-FMGY0KH8RrxBT37vP9Hx3g"
+    changeDate="2008-09-14T07:31:26.875-0700" version="7.5.0">
+  <mainDescription>For an example of an Assign plug-in, see &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../core.mdev.common.extend_umf/guidances/examples/umf_assign_plugin_example_D9D72F87.html&quot;&#xD;
+guid=&quot;_JoLlEIJQEd2sTeTIQhu12Q&quot;>UMF Assign Plug-In Example&lt;/a>.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

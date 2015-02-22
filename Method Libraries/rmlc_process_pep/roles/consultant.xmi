@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hFNL534cQPCDesfijreknA" name="consultant,_5on4QPuFEeK6X-ODr_6b9w" guid="-hFNL534cQPCDesfijreknA" authors="Rakesh D. Rathod" changeDate="2014-05-29T19:36:21.631-0400" changeDescription="Baseline" version="1.0">
+  <mainDescription>&lt;p style=&quot;font-family: Arial;&quot;>
+            &lt;font size=&quot;4&quot;>The Consultant works with Subject Matter Experts and Clients to create and establish thorough and
+            accurate descriptions of a process. The finalized process is translated to process standards, and developed into
+            requirements.&lt;/font>
+        &lt;/p></mainDescription>
+  <skills>&lt;ul style=&quot;font-family: Arial;&quot;>
+            &lt;li>
+                &lt;font size=&quot;4&quot;>Must have outstanding written and verbal communication skills&lt;br />
+                &lt;/font>
+            &lt;/li>
+            &lt;li>
+                &lt;font size=&quot;4&quot;>Must be able to clarify the specific details of a process&lt;br />
+                &lt;/font>
+            &lt;/li>
+            &lt;li>
+                &lt;font size=&quot;4&quot;>Should understand process development&lt;br />
+                &lt;/font>
+            &lt;/li>
+            &lt;li>
+                &lt;font size=&quot;4&quot;>Preferred Skills Include: background in SPEM&lt;/font>
+            &lt;/li>
+        &lt;/ul></skills>
+</org.eclipse.epf.uma:RoleDescription>

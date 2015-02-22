@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-JufMf-JXNpd1na0MaDPrEg" name="new_artifact,_DYO88PrdEeKlqMNsbbcDlQ" guid="-JufMf-JXNpd1na0MaDPrEg" authors="Shane T. Ficorilli" changeDate="2013-08-01T15:07:03.991-0400" changeDescription="Baseline&#x9;" version="1.0">
+  <mainDescription>Content from the Process UML/OpenUP Diagram organized into OpenUP structure, including Roles, Tasks, Work Products and&#xD;
+Guidance.</mainDescription>
+  <impactOfNotHaving>The Process UML/OpenUP Diagram content would not be compatible with OpenUP standards.</impactOfNotHaving>
+  <reasonsForNotNeeding>The OpenUP Build Out Inventory is always needed.</reasonsForNotNeeding>
+</org.eclipse.epf.uma:ArtifactDescription>

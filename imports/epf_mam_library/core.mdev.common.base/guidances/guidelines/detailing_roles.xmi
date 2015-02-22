@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-ZQ26_9O6yzgLcaWkAYY8GQ"
+    name="detailing_roles,_Akb_sJklEd2Al9G_gP7uDg" guid="-ZQ26_9O6yzgLcaWkAYY8GQ"
+    changeDate="2008-10-13T05:50:00.703-0700" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    This guideline provides guidelines for detailing &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/role_37A0C602.html&quot;&#xD;
+    guid=&quot;_yUefQNnmEdmO6L4XMImrsA&quot;>role&lt;/a>s. For general detailing guidelines that are common to all method elements, see&#xD;
+    &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/guidelines/detailing_method_elements_general_B2500E20.html&quot;&#xD;
+    guid=&quot;_jLqqIOFIEdumFeaOJSgmnQ&quot;>Guideline: Detailing Method Elements (General)&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;font size=&quot;4&quot;>Keep in mind the following guidelines when completing each of the&amp;nbsp;&lt;/font>role-specific text fields&#xD;
+    (for guidelines regarding the common fields, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/guidelines/detailing_common_method_element_fields_940D3CE0.html&quot;&#xD;
+    guid=&quot;_zVLrkJZwEd2ireJkqESkdQ&quot;>Guideline: Detailing Common Method Element Fields&lt;/a>):&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;ul dir=&quot;ltr&quot;>&#xD;
+    &lt;li>&#xD;
+        &lt;div>&#xD;
+            &lt;strong>Key Considerations&lt;/strong>:&amp;nbsp; This field&amp;nbsp;contains useful material that does not easily fit&#xD;
+            into any of the other sections, such as advice and guidance of a critical nature. as well as warnings,&#xD;
+            cautions, pitfalls and dangers.&lt;br />&#xD;
+            &amp;nbsp;&amp;nbsp;&amp;nbsp;&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Skills:&lt;/strong>&amp;nbsp; This field identifies specific skills needed to fulfill this role.&amp;nbsp;List the&#xD;
+        skills for the role in bullet form. Ensure that each bullet addresses a separate skill.&lt;br />&#xD;
+        &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Assignment approaches:&lt;/strong>&amp;nbsp; Enter any assignment considerations of which the delivery&#xD;
+        practitioners should be aware. For example, this field might be used to provide advice to the project manager&#xD;
+        running&amp;nbsp;an engagement.&lt;br />&#xD;
+        &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Synonyms:&lt;/strong>&amp;nbsp; This field identifies alternate names for the role. Identify different terminology&#xD;
+        an organization may have. Role names more familiar to the users of the process may be identified here. This&#xD;
+        clarifies vocabulary and helps users of the published process clarify and transition to terminology provided in&#xD;
+        base content.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

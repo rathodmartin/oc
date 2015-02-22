@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gO6rIGohPJyjYyp397mDuQ" name=",_fwk8oGlBEeS-9dAp19yOyQ" guid="-gO6rIGohPJyjYyp397mDuQ" authors="John Rozsa" changeDate="2014-11-10T20:25:32.549-0500" changeDescription="Baseline" version="BL">
+  <mainDescription>Perform Integrated Change Control is the process of reviewing all change requests, approving changes and managing changes
+        to the appropriate deliverables and artifacts. These include organizational process assets, project documents, and the
+        project management plan. Additionally, this entails communicating their disposition to the respective audience&lt;br />
+        &lt;br />
+        This process allows for documented changes within the project to be considered holistically, while reducing project risk,
+        which often arises from changes made without considering the overall project objectives.&lt;br />
+        &lt;br />
+        This Change Control process starts from the project's inception and continues through completion. Changes may be submitted
+        by any stakeholder involved with the project. All changes should be recorded in writing and entered into the change
+        management system. Often such change request may require information on estimated time impacts and estimated cost
+        impacts.&lt;br />
+        &lt;br />
+        Typically, the project sponsor or project manager approves or rejects each change request. This approver shall be
+        identified in the project management plan or by organizational procedures. Often, approved change requests require new or
+        revised cost estimates, activity sequences, schedule dates, resource requirements, analysis of risk response alternatives,
+        etc.&lt;br /></mainDescription>
+  <sections xmi:id="_r5f2QGlBEeS-9dAp19yOyQ" name="Log change request" guid="_r5f2QGlBEeS-9dAp19yOyQ"/>
+  <sections xmi:id="_slv4QGlBEeS-9dAp19yOyQ" name="Determine impact of change to project" guid="_slv4QGlBEeS-9dAp19yOyQ"/>
+  <sections xmi:id="_t19i8GlBEeS-9dAp19yOyQ" name="Facilitate approval (or disapproval) of change request" guid="_t19i8GlBEeS-9dAp19yOyQ"/>
+  <sections xmi:id="_vP4jQGlBEeS-9dAp19yOyQ" name="Manage changes to project deliverables introduced by change request" guid="_vP4jQGlBEeS-9dAp19yOyQ"/>
+  <sections xmi:id="_weMJcGlBEeS-9dAp19yOyQ" name="Update project documents to reflect change(s)" guid="_weMJcGlBEeS-9dAp19yOyQ"/>
+</org.eclipse.epf.uma:TaskDescription>

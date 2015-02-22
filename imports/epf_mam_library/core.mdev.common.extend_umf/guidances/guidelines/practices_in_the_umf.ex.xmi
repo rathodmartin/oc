@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-Yc7uf-LNH5LKATmoeglQGg"
+    name="new_guideline,_iW84MIKNEd2NQYBY1jUNtw" guid="-Yc7uf-LNH5LKATmoeglQGg" changeDate="2008-09-14T11:48:22.390-0700"
+    version="7.5.0">
+  <mainDescription>For an example of a Practice Base plug-in in the UMF, see &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../core.mdev.common.extend_umf/guidances/examples/umf_practice_base_plugin_example_33DA508.html&quot;&#xD;
+guid=&quot;_g6rj8IKMEd2NQYBY1jUNtw&quot;>UMF Practice Base Plug-In Example&lt;/a>.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

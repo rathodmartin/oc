@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-98o6TUhe7kJxXXlXAxbRSg" name="new_template,_0pndgGlAEeS-9dAp19yOyQ" guid="-98o6TUhe7kJxXXlXAxbRSg" authors="John Rozsa" changeDate="2014-11-10T20:20:22.420-0500" changeDescription="Baseline" version="BL">
+  <mainDescription>Template for capturing project charter information.&lt;br /></mainDescription>
+  <attachments>resources/RMLC-PM-Template-001-001-ProjectCharter-2.docx</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

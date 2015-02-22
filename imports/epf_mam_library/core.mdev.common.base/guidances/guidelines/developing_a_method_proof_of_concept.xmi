@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-Vvu-cdC2cq5fpcrKGNE3fw"
+    name="developing_a_method_proof_of_concept,_dEp88AqQEd2ffKRm_DXTyQ" guid="-Vvu-cdC2cq5fpcrKGNE3fw"
+    changeDate="2008-10-14T08:29:48.515-0700" version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    The proof-of-concept of a &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/termdefinitions/method_DEA76035.html&quot;&#xD;
+    guid=&quot;_VFAQwAw7Ed2Dzp6jX9I91Q&quot;>method&lt;/a>&amp;nbsp;should be done using the implementation environment you plan to use to&#xD;
+    author the actual method. That way you can test the technical feasibility of your architectural ideas in the actual&#xD;
+    implementation environment.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The following are some things that you may want to test out:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Your proposed library structure, including the types of plug-ins you are considering creating, their relationships&#xD;
+        and the types of configurations you are considering creating.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Strategy for defining navigation views, identifying any common navigation elements that you may want to share&#xD;
+        between views and configurations&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Strategy for handling copyrights and release information&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        and so on.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    As you develop the proof-of-concept, it is important to document any issues and risks that you encounter so that these&#xD;
+    can be addressed when more formally defining the method.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

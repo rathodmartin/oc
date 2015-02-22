@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_RaqB4LgREd2VBqezzK7PZw"
+      guid="_RaqB4LgREd2VBqezzK7PZw">
+    <resourceDescriptors xmi:id="_RazL0LgREd2VBqezzK7PZw" id="-0Ue-9ueiK5Rs6QUVt-CE-g"
+        uri="guidances/supportingmaterials/release_info_mdev_common_elements.xmi"/>
+    <resourceDescriptors xmi:id="_RazL0bgREd2VBqezzK7PZw" id="-6eTC3y4TXNXS4n71kSySjw"
+        uri="guidances/guidelines/detailing_method_content_using_templates.xmi"/>
+    <resourceDescriptors xmi:id="_RazL0rgREd2VBqezzK7PZw" id="-8m7FBotgWiBdSnmd383viQ"
+        uri="guidances/guidelines/detailing_method_elements_general.xmi"/>
+    <resourceDescriptors xmi:id="_Ra880LgREd2VBqezzK7PZw" id="-adbF-QxzS7vEeinRbxwZ_Q"
+        uri="guidances/guidelines/detailing_processes.xmi"/>
+    <resourceDescriptors xmi:id="_Ra880bgREd2VBqezzK7PZw" id="-B1Bw5L_j1EXDXFbgGxCo_g"
+        uri="guidances/guidelines/detailing_common_method_element_fields.xmi"/>
+    <resourceDescriptors xmi:id="_Ra880rgREd2VBqezzK7PZw" id="-ZQ26_9O6yzgLcaWkAYY8GQ"
+        uri="guidances/guidelines/detailing_roles.xmi"/>
+    <resourceDescriptors xmi:id="_Ra8807gREd2VBqezzK7PZw" id="-3ur1d5wEMKqeZdPnErf_Ug"
+        uri="guidances/guidelines/detailing_tasks.xmi"/>
+    <resourceDescriptors xmi:id="_RbGGwLgREd2VBqezzK7PZw" id="-i-m_UCiyvP_of5odu9C2Bw"
+        uri="guidances/guidelines/detailing_work_products.xmi"/>
+    <resourceDescriptors xmi:id="_RbGGwbgREd2VBqezzK7PZw" id="-oU9Eo7WO9ooJKChDS3FhlA"
+        uri="guidances/guidelines/detailing_guidance.xmi"/>
+    <resourceDescriptors xmi:id="_RbP3wLgREd2VBqezzK7PZw" id="-rJ1PPkqyt_7Ip-7JieI7iA"
+        uri="guidances/reusableassets/formatting_and_writing_tips_for_method_authors.xmi"/>
+    <resourceDescriptors xmi:id="_RbP3wbgREd2VBqezzK7PZw" id="-wMEsDV9c3gx9FM1LZd2PHg"
+        uri="guidances/guidelines/maintaining_change_histories_and_version_numbers.xmi"/>
+    <resourceDescriptors xmi:id="_RbP3wrgREd2VBqezzK7PZw" id="-rlFNO28TCfp3hfPBJt_XAQ"
+        uri="guidances/guidelines/publishing_a_method.xmi"/>
+    <resourceDescriptors xmi:id="_RbP3w7gREd2VBqezzK7PZw" id="-OjWXYjOE5a7KQfU1TY5N4w"
+        uri="guidances/guidelines/reviewing_methods.xmi"/>
+    <resourceDescriptors xmi:id="_RbZowLgREd2VBqezzK7PZw" id="-cdx4WswkMCRDUrL121DKXg"
+        uri="guidances/guidelines/trademarks_and_copyrights.xmi"/>
+    <resourceDescriptors xmi:id="_RbZowbgREd2VBqezzK7PZw" id="-gp9N5j81QzhnL7aeXjpe8A"
+        uri="guidances/guidelines/sketching_a_method.xmi"/>
+    <resourceDescriptors xmi:id="_RbZowrgREd2VBqezzK7PZw" id="-BM4ojokYczyHhUGq2ABN_w"
+        uri="guidances/guidelines/writing_brief_descriptions.xmi"/>
+    <resourceDescriptors xmi:id="_RbiysLgREd2VBqezzK7PZw" id="-qxtaR_hQ6SR_o4S3KT6zrQ"
+        uri="guidances/guidelines/categorizing_method_elements_using_custom_cats.xmi"/>
+    <resourceDescriptors xmi:id="_RbsjsLgREd2VBqezzK7PZw" id="-KfBg9rn4AHpkTwnVjEFpKw"
+        uri="guidances/guidelines/defining_navigation_views.xmi"/>
+    <resourceDescriptors xmi:id="_RbsjsbgREd2VBqezzK7PZw" id="-9dyAwJH3l0cxLrzWrgsniw"
+        uri="guidances/guidelines/method_element_naming_conventions.xmi"/>
+    <resourceDescriptors xmi:id="_Rb2UsLgREd2VBqezzK7PZw" id="-V_0kmI76XRz-UHHq2rP2Ag"
+        uri="guidances/guidelines/using_method_content_variability.xmi"/>
+    <resourceDescriptors xmi:id="_Rb2UsbgREd2VBqezzK7PZw" id="-rkXYoYQpmc2gj81K_J6wbw"
+        uri="guidances/guidelines/categorizing_method_elements_using_std_cats.xmi"/>
+    <resourceDescriptors xmi:id="_Rb_eoLgREd2VBqezzK7PZw" id="-S31tXsLMgO0somndvGEdSA"
+        uri="guidances/guidelines/defining_method_configurations.xmi"/>
+    <resourceDescriptors xmi:id="_Rb_eobgREd2VBqezzK7PZw" id="-3bATgUtB7jHUdPqdHsZkfQ"
+        uri="guidances/guidelines/defining_method_content_elements.xmi"/>
+    <resourceDescriptors xmi:id="_RcJPoLgREd2VBqezzK7PZw" id="-qg1DmRrMT9oYmnekhEjabA"
+        uri="guidances/guidelines/defining_plugins.xmi"/>
+    <resourceDescriptors xmi:id="_RcJPobgREd2VBqezzK7PZw" id="-UOT3NdbL4E3lsaVCiKFOtw"
+        uri="guidances/guidelines/defining_processes.xmi"/>
+    <resourceDescriptors xmi:id="_RcSZkLgREd2VBqezzK7PZw" id="-Vvu-cdC2cq5fpcrKGNE3fw"
+        uri="guidances/guidelines/developing_a_method_proof_of_concept.xmi"/>
+    <resourceDescriptors xmi:id="_RccKkLgREd2VBqezzK7PZw" id="-iX4p3xdGFx7HgBxeSG1_uA"
+        uri="guidances/guidelines/customizing_method_content_element.xmi"/>
+    <resourceDescriptors xmi:id="_Rcl7kLgREd2VBqezzK7PZw" id="-JkSC1YDXGrB9_LWawZTXQQ"
+        uri="guidances/guidelines/customizing_process.xmi"/>
+    <resourceDescriptors xmi:id="_Rc42gLgREd2VBqezzK7PZw" id="-fr4NS-AIAVE2DWBEN30Zaw"
+        uri="guidances/guidelines/packaging_method_elements.xmi"/>
+    <resourceDescriptors xmi:id="_RdCngLgREd2VBqezzK7PZw" id="-jNCe_FLK0R3j0NhNU2zoEA"
+        uri="guidances/guidelines/customizing_navigation_view.xmi"/>
+    <resourceDescriptors xmi:id="_RdCngbgREd2VBqezzK7PZw" id="-2Vi1KjWxO7_4YSVPhYdIgA"
+        uri="guidances/guidelines/customizing_std_cat.xmi"/>
+    <resourceDescriptors xmi:id="_RdLxcLgREd2VBqezzK7PZw" id="-ip4DsYLn7L_pBfKKD8wxRw"
+        uri="guidances/guidelines/customizing_custom_cat.xmi"/>
+    <resourceDescriptors xmi:id="_RdLxcbgREd2VBqezzK7PZw" id="-6kB7caWi0DC8ppujUv9RAQ"
+        uri="guidances/termdefinitions/friendly_name.xmi"/>
+    <resourceDescriptors xmi:id="_RdVicLgREd2VBqezzK7PZw" id="-KOEp2IK6ORG6q8ftFWpFWg"
+        uri="guidances/termdefinitions/internal_name.xmi"/>
+    <resourceDescriptors xmi:id="_RdVicbgREd2VBqezzK7PZw" id="-hvHqltM5QTk-rBWgf99_mw"
+        uri="guidances/termdefinitions/method.xmi"/>
+    <resourceDescriptors xmi:id="_RdVicrgREd2VBqezzK7PZw" id="--ziUoSn5cCgccDSegcXhqQ"
+        uri="guidances/termdefinitions/context.xmi"/>
+    <resourceDescriptors xmi:id="_RdVic7gREd2VBqezzK7PZw" id="-ozlNB9-9uIoq16e4s-U7zQ"
+        uri="guidances/termdefinitions/licensing_level.xmi"/>
+    <resourceDescriptors xmi:id="_RdVidLgREd2VBqezzK7PZw" id="-HgipSm3l2rC_0gf9tzAJdA"
+        uri="guidances/termdefinitions/local_process_change.xmi"/>
+    <resourceDescriptors xmi:id="_RdesYLgREd2VBqezzK7PZw" id="-0mxJ_r0DjyvmpovRzGM9JQ"
+        uri="guidances/termdefinitions/navigation_view.xmi"/>
+    <resourceDescriptors xmi:id="_RdesYbgREd2VBqezzK7PZw" id="--7n1snUvCj-ImWY7X2kjqA"
+        uri="guidances/termdefinitions/cross_practice_process.xmi"/>
+    <resourceDescriptors xmi:id="_RdesYrgREd2VBqezzK7PZw" id="-vJbX8U3M-nd-sXkooLg2CA"
+        uri="guidances/termdefinitions/practice_based.xmi"/>
+    <resourceDescriptors xmi:id="_RdesY7gREd2VBqezzK7PZw" id="-LeNVqYtsaVePHQG86p6iAA"
+        uri="guidances/termdefinitions/practice_fw.xmi"/>
+    <resourceDescriptors xmi:id="_RdodYLgREd2VBqezzK7PZw" id="-LX50wMIA5BdnvORx4ZaYQw"
+        uri="guidances/termdefinitions/practice.mdev.xmi"/>
+    <resourceDescriptors xmi:id="_RdodYbgREd2VBqezzK7PZw" id="-AogSaM7zcdGKOWSzvEHdUQ"
+        uri="guidances/concepts/practice_config.xmi"/>
+    <resourceDescriptors xmi:id="_RdodYrgREd2VBqezzK7PZw" id="-dQ6ixDU035Y7rBfGB8rCjw"
+        uri="guidances/concepts/practice.mdev.xmi"/>
+    <resourceDescriptors xmi:id="_RdyOYLgREd2VBqezzK7PZw" id="-aNyy-jdb4oLomPY1Gy1WsQ"
+        uri="guidances/concepts/work_product_slot.xmi"/>
+    <resourceDescriptors xmi:id="_RdyOYbgREd2VBqezzK7PZw" id="-NVeHK_MT_7J2jKEyHY0H9A"
+        uri="guidances/concepts/practice_lib_config_types.xmi"/>
+    <resourceDescriptors xmi:id="_RdyOYrgREd2VBqezzK7PZw" id="-rsHCan4NDJUYJeoK5s-DBA"
+        uri="guidances/concepts/practice_lib_plugin_types.xmi"/>
+    <resourceDescriptors xmi:id="_Rd7YULgREd2VBqezzK7PZw" id="-ZnSf2PLryJzZ-nyokEwLzw"
+        uri="guidances/concepts/practice_fw.xmi"/>
+    <resourceDescriptors xmi:id="_Rd7YUbgREd2VBqezzK7PZw" id="-_jh-jrwL6I8Q8ATiIh5eeQ"
+        uri="guidances/guidelines/detailing_method_elements_general.pfw.xmi"/>
+    <resourceDescriptors xmi:id="_Rd7YUrgREd2VBqezzK7PZw" id="-KMs0edThk3xs9MAS7GAxng"
+        uri="guidances/concepts/delayed_assignment.xmi"/>
+    <resourceDescriptors xmi:id="_ReFJULgREd2VBqezzK7PZw" id="-5CLdH3UFH1QyioMJKjggvg"
+        uri="guidances/concepts/practice_lib_plugin_parts.xmi"/>
+    <resourceDescriptors xmi:id="_ReFJUbgREd2VBqezzK7PZw" id="-Zk4CmjRDfNWPgvGklgPQxQ"
+        uri="guidances/termdefinitions/method_fw.xmi"/>
+    <resourceDescriptors xmi:id="_ReFJUrgREd2VBqezzK7PZw" id="-OCMeTKeHXaPsR__gIKhxyQ"
+        uri="guidances/concepts/method_auth.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_HQW1wAvmEd2Z4aGiwM2NOA" name="core.mdev.common.base"
+      guid="_HQW1wAvmEd2Z4aGiwM2NOA" presentationName="Method Development Common"
+      briefDescription="This plug-in contains those method elements that are shared amongst the method development practices.&#xD;&#xA;This plug-in is dependent on the following plug-ins:&#xD;&#xA;+ Copyright plug-in for access to the appropiate copyright&#xD;&#xA;+ Navigation View plug-in for access to the navigation view building blocks&#xD;&#xA;+ UMA concepts for access to the UMA concepts"
+      authors="Margaret Hedstrom: Developing a Method Proof-of-Concept, Writing Brief Descriptions, initial draft of Defining Method Content Elements; Jim Ruehlin: ~25% of the detailing content; Kelli Houston: The remaining elements"
+      changeDate="2008-09-14T07:01:08.250-0700" version="1.0">
+    <copyrightStatement href="uma://_iVydgENdEdy245g62lfWcA#_uuunoPsDEdmyhNQr5STrZQ"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_HQW1wQvmEd2Z4aGiwM2NOA"
+        name="Content" guid="_HQW1wQvmEd2Z4aGiwM2NOA">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_HQW1wgvmEd2Z4aGiwM2NOA"
+          name="Categories" guid="_HQW1wgvmEd2Z4aGiwM2NOA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_HQW1wwvmEd2Z4aGiwM2NOA"
+            name="Domains" guid="_HQW1wwvmEd2Z4aGiwM2NOA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_HQW1xAvmEd2Z4aGiwM2NOA"
+            name="Disciplines" guid="_HQW1xAvmEd2Z4aGiwM2NOA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_HQW1xQvmEd2Z4aGiwM2NOA"
+            name="RoleSets" guid="_HQW1xQvmEd2Z4aGiwM2NOA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_HQW1xgvmEd2Z4aGiwM2NOA"
+            name="WP Types" guid="_HQW1xgvmEd2Z4aGiwM2NOA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_HQW1xwvmEd2Z4aGiwM2NOA"
+            name="Tools" guid="_HQW1xwvmEd2Z4aGiwM2NOA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_HQW1yAvmEd2Z4aGiwM2NOA"
+            name="StandardCategories" guid="_HQW1yAvmEd2Z4aGiwM2NOA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_HQW1yQvmEd2Z4aGiwM2NOA"
+            name="CustomCategories" guid="_HQW1yQvmEd2Z4aGiwM2NOA">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_HQW1ygvmEd2Z4aGiwM2NOA"
+              name="Hidden" guid="_HQW1ygvmEd2Z4aGiwM2NOA">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_HQW1ywvmEd2Z4aGiwM2NOA"
+                name="Custom Categories" guid="_HQW1ywvmEd2Z4aGiwM2NOA" categorizedElements="_zU0xgI9lEd2wx6IEleUeCQ"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_zU0xgI9lEd2wx6IEleUeCQ"
+              name="do_not_publish.mdev_common" guid="_zU0xgI9lEd2wx6IEleUeCQ" variabilityType="contributes"
+              categorizedElements="_cTs20KzREduOqvpk_MDLfQ _UaGfECcTEduSX6N2jUafGA">
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CustomCategory"
+                href="uma://_vsno4EKmEdyrauqpmnA8jQ#_O3UtkMRdEdyD76CYS6Ta7A"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_HQW1zAvmEd2Z4aGiwM2NOA"
+          name="CoreContent" guid="_HQW1zAvmEd2Z4aGiwM2NOA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2a5hQAv1Ed2Z4aGiwM2NOA"
+            name="release_info" guid="_2a5hQAv1Ed2Z4aGiwM2NOA" presentationName="Release Information"
+            briefDescription="This package groups all guidance for the plug-in as a whole.">
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_2a5hQQv1Ed2Z4aGiwM2NOA"
+              name="release_info_mdev_common_elements" guid="_2a5hQQv1Ed2Z4aGiwM2NOA"
+              presentationName="Method Development Common Release Information" briefDescription="This page describes the release information for Method Development Common."
+              shapeicon="guidances/supportingmaterials/resources/whats_new.gif" nodeicon="guidances/supportingmaterials/resources/whats_new_obj.gif">
+            <presentation xmi:id="-0Ue-9ueiK5Rs6QUVt-CE-g" href="uma://-0Ue-9ueiK5Rs6QUVt-CE-g#-0Ue-9ueiK5Rs6QUVt-CE-g"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ybKAYC2CEd2wFc42YmTg_g"
+            name="common_auth_guidance" guid="_ybKAYC2CEd2wFc42YmTg_g" presentationName="Common Authoring Guidance"
+            briefDescription="This package contains authoring guidance that intended to be shared across the authoring practices.">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_4Px54CHbEd2rNrbWq-QpwA"
+              name="common_core_auth_guidance" guid="_4Px54CHbEd2rNrbWq-QpwA" presentationName="Common Core Authoring Guidance"
+              briefDescription="This package contains authoring guidance that is applicable to all types of method authoring.">
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ZwdWAO9tEdyzLcleYtxbrg"
+                name="common_detailing_guidance" guid="_ZwdWAO9tEdyzLcleYtxbrg" presentationName="Common Detailing Guidance"
+                briefDescription="This content package contains the guidance that supports the detailing of the method elements.">
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_mHp3UOurEdydutqrlpQKOw"
+                  name="detailing_method_content_using_templates" guid="_mHp3UOurEdydutqrlpQKOw"
+                  presentationName="Detailing Method Content Using Templates">
+                <presentation xmi:id="-6eTC3y4TXNXS4n71kSySjw" href="uma://-6eTC3y4TXNXS4n71kSySjw#-6eTC3y4TXNXS4n71kSySjw"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_jLqqIOFIEdumFeaOJSgmnQ"
+                  name="detailing_method_elements_general" guid="_jLqqIOFIEdumFeaOJSgmnQ"
+                  presentationName="Detailing Method Elements (General)" briefDescription="This guideline includes method detailing guidelines that are common for all method elements. "
+                  guidelines="_k91OkFpBEdutiI3y4Hpy9Q _mHp3UOurEdydutqrlpQKOw _zVLrkJZwEd2ireJkqESkdQ"
+                  assets="_sEOcoJcDEd2sTqxclDgvog">
+                <presentation xmi:id="-8m7FBotgWiBdSnmd383viQ" href="uma://-8m7FBotgWiBdSnmd383viQ#-8m7FBotgWiBdSnmd383viQ"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_7ZLhcIEpEduh5eWFWxp_YQ"
+                  name="detailing_processes" guid="_7ZLhcIEpEduh5eWFWxp_YQ" presentationName="Detailing Processes"
+                  briefDescription="This guideline describes recommendations for detailing processes (e.g., capability patterns and delivery processes)."
+                  guidelines="_jLqqIOFIEdumFeaOJSgmnQ">
+                <presentation xmi:id="-adbF-QxzS7vEeinRbxwZ_Q" href="uma://-adbF-QxzS7vEeinRbxwZ_Q#-adbF-QxzS7vEeinRbxwZ_Q"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_zVLrkJZwEd2ireJkqESkdQ"
+                  name="detailing_common_method_element_fields" guid="_zVLrkJZwEd2ireJkqESkdQ"
+                  presentationName="Detailing Common Method Element Fields" briefDescription="This guideline provides recommendations for detailing text fields that are common to all method elements. ">
+                <presentation xmi:id="-B1Bw5L_j1EXDXFbgGxCo_g" href="uma://-B1Bw5L_j1EXDXFbgGxCo_g#-B1Bw5L_j1EXDXFbgGxCo_g"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_Akb_sJklEd2Al9G_gP7uDg"
+                  name="detailing_roles" guid="_Akb_sJklEd2Al9G_gP7uDg" presentationName="Detailing Roles"
+                  briefDescription="This guideline provides a recommendations on detailing roles."
+                  guidelines="_jLqqIOFIEdumFeaOJSgmnQ _zVLrkJZwEd2ireJkqESkdQ">
+                <presentation xmi:id="-ZQ26_9O6yzgLcaWkAYY8GQ" href="uma://-ZQ26_9O6yzgLcaWkAYY8GQ#-ZQ26_9O6yzgLcaWkAYY8GQ"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_DRI2gJklEd2Al9G_gP7uDg"
+                  name="detailing_tasks" guid="_DRI2gJklEd2Al9G_gP7uDg" presentationName="Detailing Tasks"
+                  briefDescription="This guideline provides a recommendations on detailing tasks."
+                  guidelines="_jLqqIOFIEdumFeaOJSgmnQ _XQqJkCAmEdy1y5bWsXfCCg _zVLrkJZwEd2ireJkqESkdQ">
+                <presentation xmi:id="-3ur1d5wEMKqeZdPnErf_Ug" href="uma://-3ur1d5wEMKqeZdPnErf_Ug#-3ur1d5wEMKqeZdPnErf_Ug"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_F0wCwJklEd2Al9G_gP7uDg"
+                  name="detailing_work_products" guid="_F0wCwJklEd2Al9G_gP7uDg" presentationName="Detailing Work Products"
+                  briefDescription="This guideline provides a recommendations on detailing work products."
+                  guidelines="_jLqqIOFIEdumFeaOJSgmnQ _XQqJkCAmEdy1y5bWsXfCCg _zVLrkJZwEd2ireJkqESkdQ">
+                <presentation xmi:id="-i-m_UCiyvP_of5odu9C2Bw" href="uma://-i-m_UCiyvP_of5odu9C2Bw#-i-m_UCiyvP_of5odu9C2Bw"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_60WTkJkoEd2Al9G_gP7uDg"
+                  name="detailing_guidance" guid="_60WTkJkoEd2Al9G_gP7uDg" presentationName="Detailing Guidance"
+                  briefDescription="This guideline provides a recommendations on detailing guidance."
+                  guidelines="_jLqqIOFIEdumFeaOJSgmnQ _XQqJkCAmEdy1y5bWsXfCCg _zVLrkJZwEd2ireJkqESkdQ">
+                <presentation xmi:id="-oU9Eo7WO9ooJKChDS3FhlA" href="uma://-oU9Eo7WO9ooJKChDS3FhlA#-oU9Eo7WO9ooJKChDS3FhlA"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:ReusableAsset" xmi:id="_sEOcoJcDEd2sTqxclDgvog"
+                  name="formatting_and_writing_tips_for_method_authors" guid="_sEOcoJcDEd2sTqxclDgvog"
+                  presentationName="Formatting and Writing Tips for Method Authors"
+                  briefDescription="This guidance describes what method authors need to know about writing and formatting text in method elements.">
+                <presentation xmi:id="-rJ1PPkqyt_7Ip-7JieI7iA" href="uma://-rJ1PPkqyt_7Ip-7JieI7iA#-rJ1PPkqyt_7Ip-7JieI7iA"/>
+              </contentElements>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_CwtAQO9uEdyzLcleYtxbrg"
+                name="common_general_guidance" guid="_CwtAQO9uEdyzLcleYtxbrg" presentationName="Common General Guidance"
+                briefDescription="This content package contains guidance that is shared across authoring tasks.">
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_k91OkFpBEdutiI3y4Hpy9Q"
+                  name="maintaining_change_histories_and_version_numbers" guid="_k91OkFpBEdutiI3y4Hpy9Q"
+                  presentationName="Maintaining Change Histories and Version Numbers"
+                  briefDescription="This guideline provides recommendations on how to decide what elements should be versioned, how to record the version of an element (the format of the version code) and how to track what has changed between versions.">
+                <presentation xmi:id="-wMEsDV9c3gx9FM1LZd2PHg" href="uma://-wMEsDV9c3gx9FM1LZd2PHg#-wMEsDV9c3gx9FM1LZd2PHg"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_eJNWICBwEdy1y5bWsXfCCg"
+                  name="publishing_a_method" guid="_eJNWICBwEdy1y5bWsXfCCg" presentationName="Publishing a Method"
+                  briefDescription="This guideline provides recommendations for publishing a method."
+                  guidelines="_l77zcIB-EduaS6LQ8n6xUQ">
+                <presentation xmi:id="-rlFNO28TCfp3hfPBJt_XAQ" href="uma://-rlFNO28TCfp3hfPBJt_XAQ#-rlFNO28TCfp3hfPBJt_XAQ"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_iFoK0MrGEdyOGKOa5tPdeg"
+                  name="reviewing_methods" guid="_iFoK0MrGEdyOGKOa5tPdeg" presentationName="Reviewing Methods"
+                  briefDescription="This guideline provides recommendations for reviewing methods.">
+                <presentation xmi:id="-OjWXYjOE5a7KQfU1TY5N4w" href="uma://-OjWXYjOE5a7KQfU1TY5N4w#-OjWXYjOE5a7KQfU1TY5N4w"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_OxsfkH8MEdu_ipWWZJimvQ"
+                  name="trademarks_and_copyrights" guid="_OxsfkH8MEdu_ipWWZJimvQ"
+                  presentationName="Trademarks and Copyrights" briefDescription="This guideline provides recommendations for using trademarks and copyrights (i.e., trademark symbol and the registered trademark) in the method. >"
+                  assets="_sEOcoJcDEd2sTqxclDgvog">
+                <presentation xmi:id="-cdx4WswkMCRDUrL121DKXg" href="uma://-cdx4WswkMCRDUrL121DKXg#-cdx4WswkMCRDUrL121DKXg"/>
+              </contentElements>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_rP7bcAvmEd2Z4aGiwM2NOA"
+                name="common_structuring_guidance" guid="_rP7bcAvmEd2Z4aGiwM2NOA"
+                presentationName="Common Structuring Guidance">
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_h3njMAU1EdyxoIOVWQ896Q"
+                  name="sketching_a_method" guid="_h3njMAU1EdyxoIOVWQ896Q" presentationName="Sketching a Method"
+                  briefDescription="This guideline provides some recommendations for sketching a method using multiple approaches.">
+                <presentation xmi:id="-gp9N5j81QzhnL7aeXjpe8A" href="uma://-gp9N5j81QzhnL7aeXjpe8A#-gp9N5j81QzhnL7aeXjpe8A"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_cJbBkCAhEdy1y5bWsXfCCg"
+                  name="writing_brief_descriptions" guid="_cJbBkCAhEdy1y5bWsXfCCg"
+                  presentationName="Writing Brief Descriptions" briefDescription="This guideline provides recommendations on how to write brief descriptions for method elements.">
+                <presentation xmi:id="-BM4ojokYczyHhUGq2ABN_w" href="uma://-BM4ojokYczyHhUGq2ABN_w#-BM4ojokYczyHhUGq2ABN_w"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_V7qwIMjpEdyoXMhaXAJ-6g"
+                  name="categorizing_method_elements_using_custom_cats" guid="_V7qwIMjpEdyoXMhaXAJ-6g"
+                  presentationName="Categorizing Method Elements Using Custom Categories"
+                  briefDescription="This guideline describes how to define custom categories and assign elements to these categories."
+                  guidelines="_lAphAF5-EduT-Px7fh0LSg _67agUEyEEdu4NY1n_hCY0w">
+                <presentation xmi:id="-qxtaR_hQ6SR_o4S3KT6zrQ" href="uma://-qxtaR_hQ6SR_o4S3KT6zrQ#-qxtaR_hQ6SR_o4S3KT6zrQ"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_67agUEyEEdu4NY1n_hCY0w"
+                  name="defining_navigation_views" guid="_67agUEyEEdu4NY1n_hCY0w"
+                  presentationName="Defining Navigation Views" briefDescription="This guideline explains how to organize content into views to obtain a quality published web site."
+                  guidelines="_V7qwIMjpEdyoXMhaXAJ-6g">
+                <presentation xmi:id="-KfBg9rn4AHpkTwnVjEFpKw" href="uma://-KfBg9rn4AHpkTwnVjEFpKw#-KfBg9rn4AHpkTwnVjEFpKw"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_lAphAF5-EduT-Px7fh0LSg"
+                  name="method_element_naming_conventions" guid="_lAphAF5-EduT-Px7fh0LSg"
+                  presentationName="Method Element Naming Conventions" briefDescription="This guideline provides recommendations on how to name method elements."
+                  variabilityType="replaces">
+                <presentation xmi:id="-9dyAwJH3l0cxLrzWrgsniw" href="uma://-9dyAwJH3l0cxLrzWrgsniw#-9dyAwJH3l0cxLrzWrgsniw"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_8YIMYCNQEdycLddDalDmbA"
+                  name="using_method_content_variability" guid="_8YIMYCNQEdycLddDalDmbA"
+                  presentationName="Using Method Content Variability" briefDescription="This guideline provides recommendations on how to use method content variability to structure a method to maximize the reuse between method content elements.">
+                <presentation xmi:id="-V_0kmI76XRz-UHHq2rP2Ag" href="uma://-V_0kmI76XRz-UHHq2rP2Ag#-V_0kmI76XRz-UHHq2rP2Ag"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_thsRIMjnEdyoXMhaXAJ-6g"
+                  name="categorizing_method_elements_using_std_cats" guid="_thsRIMjnEdyoXMhaXAJ-6g"
+                  presentationName="Categorizing Method Elements Using Standard Categories"
+                  briefDescription="This guideline describes how to define standard categories and assign elements to these categories."
+                  guidelines="_lAphAF5-EduT-Px7fh0LSg _V7qwIMjpEdyoXMhaXAJ-6g">
+                <presentation xmi:id="-rkXYoYQpmc2gj81K_J6wbw" href="uma://-rkXYoYQpmc2gj81K_J6wbw#-rkXYoYQpmc2gj81K_J6wbw"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_l77zcIB-EduaS6LQ8n6xUQ"
+                  name="defining_method_configurations" guid="_l77zcIB-EduaS6LQ8n6xUQ"
+                  presentationName="Defining Method Configurations" briefDescription="This guideline provides recommendations on how to define configurations of method elements."
+                  guidelines="_cJbBkCAhEdy1y5bWsXfCCg _k91OkFpBEdutiI3y4Hpy9Q _lAphAF5-EduT-Px7fh0LSg _OxsfkH8MEdu_ipWWZJimvQ _67agUEyEEdu4NY1n_hCY0w">
+                <presentation xmi:id="-S31tXsLMgO0somndvGEdSA" href="uma://-S31tXsLMgO0somndvGEdSA#-S31tXsLMgO0somndvGEdSA"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_XQqJkCAmEdy1y5bWsXfCCg"
+                  name="defining_method_content_elements" guid="_XQqJkCAmEdy1y5bWsXfCCg"
+                  presentationName="Defining Method Content Elements" briefDescription="This guideline provides recommendations for identifying and structuring method content elements (e.g., roles, tasks, work products and guidance)."
+                  guidelines="_lAphAF5-EduT-Px7fh0LSg _cJbBkCAhEdy1y5bWsXfCCg _k91OkFpBEdutiI3y4Hpy9Q _OxsfkH8MEdu_ipWWZJimvQ _8YIMYCNQEdycLddDalDmbA _bAjgIIAhEd2RgsZLwhqsAA _Y_JroEyDEdu4NY1n_hCY0w _OIOSQF_zEduYvI5nsNyVYA">
+                <presentation xmi:id="-3bATgUtB7jHUdPqdHsZkfQ" href="uma://-3bATgUtB7jHUdPqdHsZkfQ#-3bATgUtB7jHUdPqdHsZkfQ"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_OIOSQF_zEduYvI5nsNyVYA"
+                  name="defining_plugins" guid="_OIOSQF_zEduYvI5nsNyVYA" presentationName="Defining Plugins"
+                  briefDescription="This guideline explains how to name and briefly describe a method plugin."
+                  guidelines="_lAphAF5-EduT-Px7fh0LSg _cJbBkCAhEdy1y5bWsXfCCg _bAjgIIAhEd2RgsZLwhqsAA _k91OkFpBEdutiI3y4Hpy9Q _OxsfkH8MEdu_ipWWZJimvQ">
+                <presentation xmi:id="-qg1DmRrMT9oYmnekhEjabA" href="uma://-qg1DmRrMT9oYmnekhEjabA#-qg1DmRrMT9oYmnekhEjabA"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_Y_JroEyDEdu4NY1n_hCY0w"
+                  name="defining_processes" guid="_Y_JroEyDEdu4NY1n_hCY0w" presentationName="Defining Processes"
+                  briefDescription="This guideline provides some recommendations for identifying and structuring processes."
+                  guidelines="_lAphAF5-EduT-Px7fh0LSg _cJbBkCAhEdy1y5bWsXfCCg _k91OkFpBEdutiI3y4Hpy9Q _OxsfkH8MEdu_ipWWZJimvQ _l77zcIB-EduaS6LQ8n6xUQ _bAjgIIAhEd2RgsZLwhqsAA _OIOSQF_zEduYvI5nsNyVYA">
+                <presentation xmi:id="-UOT3NdbL4E3lsaVCiKFOtw" href="uma://-UOT3NdbL4E3lsaVCiKFOtw#-UOT3NdbL4E3lsaVCiKFOtw"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_dEp88AqQEd2ffKRm_DXTyQ"
+                  name="developing_a_method_proof_of_concept" guid="_dEp88AqQEd2ffKRm_DXTyQ"
+                  presentationName="Developing a Method Proof-of-Concept" briefDescription="This guideline provides recommendations for how to develop a proof-of-concept for a method.">
+                <presentation xmi:id="-Vvu-cdC2cq5fpcrKGNE3fw" href="uma://-Vvu-cdC2cq5fpcrKGNE3fw#-Vvu-cdC2cq5fpcrKGNE3fw"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_5cHsoFJsEd2SzrMjC_svdw"
+                  name="customizing_method_content_element" guid="_5cHsoFJsEd2SzrMjC_svdw"
+                  presentationName="Customizing a Method Content Element" briefDescription="This guideline provides recommendations for customizing a method content element."
+                  guidelines="_8YIMYCNQEdycLddDalDmbA _5e_qMFTMEd2N4vZAlUIPvw _XQqJkCAmEdy1y5bWsXfCCg _thsRIMjnEdyoXMhaXAJ-6g _l77zcIB-EduaS6LQ8n6xUQ">
+                <presentation xmi:id="-iX4p3xdGFx7HgBxeSG1_uA" href="uma://-iX4p3xdGFx7HgBxeSG1_uA#-iX4p3xdGFx7HgBxeSG1_uA"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_5e_qMFTMEd2N4vZAlUIPvw"
+                  name="customizing_process" guid="_5e_qMFTMEd2N4vZAlUIPvw" presentationName="Customizing a Process"
+                  briefDescription="This guideline provides recommendations for customizing a process, including specific customization scenarios."
+                  guidelines="_Y_JroEyDEdu4NY1n_hCY0w _5cHsoFJsEd2SzrMjC_svdw">
+                <presentation xmi:id="-JkSC1YDXGrB9_LWawZTXQQ" href="uma://-JkSC1YDXGrB9_LWawZTXQQ#-JkSC1YDXGrB9_LWawZTXQQ"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_bAjgIIAhEd2RgsZLwhqsAA"
+                  name="packaging_method_elements" guid="_bAjgIIAhEd2RgsZLwhqsAA"
+                  presentationName="Packaging Method Elements" briefDescription="This guideline provides recommendations for packaging method elements.">
+                <presentation xmi:id="-fr4NS-AIAVE2DWBEN30Zaw" href="uma://-fr4NS-AIAVE2DWBEN30Zaw#-fr4NS-AIAVE2DWBEN30Zaw"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_a4wzIKj_Ed2XsY8-UtPVvw"
+                  name="customizing_navigation_view" guid="_a4wzIKj_Ed2XsY8-UtPVvw"
+                  presentationName="Customizing a Navigation View" briefDescription="This guideline provides recommendations on how to customize an existing navigation view."
+                  guidelines="_TNlCkKkfEd2XsY8-UtPVvw">
+                <presentation xmi:id="-jNCe_FLK0R3j0NhNU2zoEA" href="uma://-jNCe_FLK0R3j0NhNU2zoEA#-jNCe_FLK0R3j0NhNU2zoEA"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_Y_tk0KkVEd2XsY8-UtPVvw"
+                  name="customizing_std_cat" guid="_Y_tk0KkVEd2XsY8-UtPVvw" presentationName="Customizing a Standard Category"
+                  briefDescription="This guideline provides recommendations on how to customize an existing standard category."
+                  guidelines="_thsRIMjnEdyoXMhaXAJ-6g _8YIMYCNQEdycLddDalDmbA">
+                <presentation xmi:id="-2Vi1KjWxO7_4YSVPhYdIgA" href="uma://-2Vi1KjWxO7_4YSVPhYdIgA#-2Vi1KjWxO7_4YSVPhYdIgA"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_TNlCkKkfEd2XsY8-UtPVvw"
+                  name="customizing_custom_cat" guid="_TNlCkKkfEd2XsY8-UtPVvw" presentationName="Customizing a Custom Category"
+                  briefDescription="This guideline provides recommendations on how to customize an existing custom category."
+                  guidelines="_8YIMYCNQEdycLddDalDmbA _V7qwIMjpEdyoXMhaXAJ-6g">
+                <presentation xmi:id="-ip4DsYLn7L_pBfKKD8wxRw" href="uma://-ip4DsYLn7L_pBfKKD8wxRw#-ip4DsYLn7L_pBfKKD8wxRw"/>
+              </contentElements>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_U7PMsI6QEd24ZKJEAcn-QA"
+                name="common_meth_auth_terms" guid="_U7PMsI6QEd24ZKJEAcn-QA" presentationName="Common Method Authoring Terms">
+              <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_39tdwOnwEduAapZyGeTI0Q"
+                  name="friendly_name" guid="_39tdwOnwEduAapZyGeTI0Q" presentationName="friendly name">
+                <presentation xmi:id="-6kB7caWi0DC8ppujUv9RAQ" href="uma://-6kB7caWi0DC8ppujUv9RAQ#-6kB7caWi0DC8ppujUv9RAQ"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_IwawgOnyEduAapZyGeTI0Q"
+                  name="internal_name" guid="_IwawgOnyEduAapZyGeTI0Q" presentationName="internal name">
+                <presentation xmi:id="-KOEp2IK6ORG6q8ftFWpFWg" href="uma://-KOEp2IK6ORG6q8ftFWpFWg#-KOEp2IK6ORG6q8ftFWpFWg"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_VFAQwAw7Ed2Dzp6jX9I91Q"
+                  name="method" guid="_VFAQwAw7Ed2Dzp6jX9I91Q" presentationName="method">
+                <presentation xmi:id="-hvHqltM5QTk-rBWgf99_mw" href="uma://-hvHqltM5QTk-rBWgf99_mw#-hvHqltM5QTk-rBWgf99_mw"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_Kemu0PHZEdyO9sYxKNWf8A"
+                  name="context" guid="_Kemu0PHZEdyO9sYxKNWf8A" presentationName="context">
+                <presentation xmi:id="--ziUoSn5cCgccDSegcXhqQ" href="uma://--ziUoSn5cCgccDSegcXhqQ#--ziUoSn5cCgccDSegcXhqQ"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_47cn8PU3EdyNMvgj607huw"
+                  name="licensing_level" guid="_47cn8PU3EdyNMvgj607huw" presentationName="licensing level">
+                <presentation xmi:id="-ozlNB9-9uIoq16e4s-U7zQ" href="uma://-ozlNB9-9uIoq16e4s-U7zQ#-ozlNB9-9uIoq16e4s-U7zQ"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_OQgikFTTEd2N4vZAlUIPvw"
+                  name="local_process_change" guid="_OQgikFTTEd2N4vZAlUIPvw" presentationName="local process change">
+                <presentation xmi:id="-HgipSm3l2rC_0gf9tzAJdA" href="uma://-HgipSm3l2rC_0gf9tzAJdA#-HgipSm3l2rC_0gf9tzAJdA"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_X_hFIPAjEdyHz_B1XFOUgA"
+                  name="navigation_view" guid="_X_hFIPAjEdyHz_B1XFOUgA" presentationName="navigation view">
+                <presentation xmi:id="-0mxJ_r0DjyvmpovRzGM9JQ" href="uma://-0mxJ_r0DjyvmpovRzGM9JQ#-0mxJ_r0DjyvmpovRzGM9JQ"/>
+              </contentElements>
+            </childPackages>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_8vSJ0D_REd2sFOfPW3Iw5g"
+              name="common_method_fw_auth_guidance" guid="_8vSJ0D_REd2sFOfPW3Iw5g"
+              presentationName="Common Method Framework Authoring Guidance">
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NOJ2MCJpEd2elMIxXedw0g"
+                name="common_practice_fw_guidance" guid="_NOJ2MCJpEd2elMIxXedw0g"
+                presentationName="Common Practice Framework Guidance" briefDescription="This package contains guidance that is applicable to practice frameworks.">
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_GckuQI6REd24ZKJEAcn-QA"
+                  name="common_practice_fw_terms" guid="_GckuQI6REd24ZKJEAcn-QA" presentationName="Common Practice Framework Terms">
+                <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_9NcfoFJgEd2SzrMjC_svdw"
+                    name="cross_practice_process" guid="_9NcfoFJgEd2SzrMjC_svdw" presentationName="cross-practice process">
+                  <presentation xmi:id="--7n1snUvCj-ImWY7X2kjqA" href="uma://--7n1snUvCj-ImWY7X2kjqA#--7n1snUvCj-ImWY7X2kjqA"/>
+                </contentElements>
+                <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_uanIQPT8EdyCE9BF17mKDQ"
+                    name="practice_based" guid="_uanIQPT8EdyCE9BF17mKDQ" presentationName="practice-based">
+                  <presentation xmi:id="-vJbX8U3M-nd-sXkooLg2CA" href="uma://-vJbX8U3M-nd-sXkooLg2CA#-vJbX8U3M-nd-sXkooLg2CA"/>
+                </contentElements>
+                <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_CwIrwC14Ed2wFc42YmTg_g"
+                    name="practice_fw" guid="_CwIrwC14Ed2wFc42YmTg_g" presentationName="practice framework">
+                  <presentation xmi:id="-LeNVqYtsaVePHQG86p6iAA" href="uma://-LeNVqYtsaVePHQG86p6iAA#-LeNVqYtsaVePHQG86p6iAA"/>
+                </contentElements>
+                <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_sWcREPT8EdyCE9BF17mKDQ"
+                    name="practice.mdev" guid="_sWcREPT8EdyCE9BF17mKDQ" variabilityType="contributes">
+                  <presentation xmi:id="-LX50wMIA5BdnvORx4ZaYQw" href="uma://-LX50wMIA5BdnvORx4ZaYQw#-LX50wMIA5BdnvORx4ZaYQw"/>
+                  <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:TermDefinition"
+                      href="uma://_WCUhAO8KEdmKSqa_gSYthg#_wxYvkMaGEduMlb2cQZNTYw"/>
+                </contentElements>
+              </childPackages>
+              <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_0H9aAO7EEdy9EOwDlaw7Kw"
+                  name="practice_config" guid="_0H9aAO7EEdy9EOwDlaw7Kw" presentationName="Practice Configuration"
+                  briefDescription="A practice configuration is a pre-wired, individually recognizable set of practices that addresses a specific need and audience and also includes supporting content that describes how the practices fit together. Practice configurations are usually defined to describe a specific approach or process."
+                  conceptsAndPapers="_qhCTAFRREd2CWscN8Mx6rg">
+                <presentation xmi:id="-AogSaM7zcdGKOWSzvEHdUQ" href="uma://-AogSaM7zcdGKOWSzvEHdUQ#-AogSaM7zcdGKOWSzvEHdUQ"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_--0WYJIgEdybeduord13cg"
+                  name="practice.mdev" guid="_--0WYJIgEdybeduord13cg" variabilityType="contributes"
+                  conceptsAndPapers="_Er1OcJIfEdybeduord13cg">
+                <presentation xmi:id="-dQ6ixDU035Y7rBfGB8rCjw" href="uma://-dQ6ixDU035Y7rBfGB8rCjw#-dQ6ixDU035Y7rBfGB8rCjw"/>
+                <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Concept"
+                    href="uma://_WCUhAO8KEdmKSqa_gSYthg#_qhCTAFRREd2CWscN8Mx6rg"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_Er1OcJIfEdybeduord13cg"
+                  name="work_product_slot" guid="_Er1OcJIfEdybeduord13cg" presentationName="Work Product Slot"
+                  briefDescription="Work product slots are abstract representations of the information that is shared across practices (i.e., they can be used for defining interface between practices). "
+                  conceptsAndPapers="_qhCTAFRREd2CWscN8Mx6rg">
+                <presentation xmi:id="-aNyy-jdb4oLomPY1Gy1WsQ" href="uma://-aNyy-jdb4oLomPY1Gy1WsQ#-aNyy-jdb4oLomPY1Gy1WsQ"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_1gchoO6dEdygKbJMUVNEtg"
+                  name="practice_lib_config_types" guid="_1gchoO6dEdygKbJMUVNEtg"
+                  presentationName="Practice Library Configuration Types" briefDescription="This concept describes the configuration types that are defined in a practice-based method library."
+                  conceptsAndPapers="_0H9aAO7EEdy9EOwDlaw7Kw __428YO6cEdygKbJMUVNEtg _qhCTAFRREd2CWscN8Mx6rg">
+                <presentation xmi:id="-NVeHK_MT_7J2jKEyHY0H9A" href="uma://-NVeHK_MT_7J2jKEyHY0H9A#-NVeHK_MT_7J2jKEyHY0H9A"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="__428YO6cEdygKbJMUVNEtg"
+                  name="practice_lib_plugin_types" guid="__428YO6cEdygKbJMUVNEtg"
+                  presentationName="Practice Library Plug-In Types" briefDescription="This concept describes the plug-in types that are defined in a practice-based method library."
+                  conceptsAndPapers="_0H9aAO7EEdy9EOwDlaw7Kw _Er1OcJIfEdybeduord13cg __LjaEFQsEd2uvIuuFjd1Fg _vgjh4PG1EdyO9sYxKNWf8A _rlrykJcbEd2sTqxclDgvog _1gchoO6dEdygKbJMUVNEtg _qhCTAFRREd2CWscN8Mx6rg">
+                <presentation xmi:id="-rsHCan4NDJUYJeoK5s-DBA" href="uma://-rsHCan4NDJUYJeoK5s-DBA#-rsHCan4NDJUYJeoK5s-DBA"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="__LjaEFQsEd2uvIuuFjd1Fg"
+                  name="practice_fw" guid="__LjaEFQsEd2uvIuuFjd1Fg" presentationName="Practice Framework"
+                  briefDescription="A practice framework is a practice-based method framework where the method library is organized into a set of loosely coupled, tightly cohesive practices.  "
+                  conceptsAndPapers="_0H9aAO7EEdy9EOwDlaw7Kw _Er1OcJIfEdybeduord13cg _qhCTAFRREd2CWscN8Mx6rg">
+                <presentation xmi:id="-ZnSf2PLryJzZ-nyokEwLzw" href="uma://-ZnSf2PLryJzZ-nyokEwLzw#-ZnSf2PLryJzZ-nyokEwLzw"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_LQ4D8GWCEd2GzPSQD62GCw"
+                  name="detailing_method_elements_general.pfw" guid="_LQ4D8GWCEd2GzPSQD62GCw"
+                  variabilityType="contributes" variabilityBasedOnElement="_jLqqIOFIEdumFeaOJSgmnQ">
+                <presentation xmi:id="-_jh-jrwL6I8Q8ATiIh5eeQ" href="uma://-_jh-jrwL6I8Q8ATiIh5eeQ#-_jh-jrwL6I8Q8ATiIh5eeQ"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_rlrykJcbEd2sTqxclDgvog"
+                  name="delayed_assignment" guid="_rlrykJcbEd2sTqxclDgvog" presentationName="Delayed Assignment"
+                  briefDescription="Delayed assignment is an approach where the assignment is not done as part of the method element's base definition so that the assignments can be easily changed (e.g., to reflect a specific organization and/or specific governance policies). ">
+                <presentation xmi:id="-KMs0edThk3xs9MAS7GAxng" href="uma://-KMs0edThk3xs9MAS7GAxng#-KMs0edThk3xs9MAS7GAxng"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_vgjh4PG1EdyO9sYxKNWf8A"
+                  name="practice_lib_plugin_parts" guid="_vgjh4PG1EdyO9sYxKNWf8A"
+                  presentationName="Practice Library Plug-In Parts" briefDescription="This concept describes what &quot;plug-in parts&quot; are and their purpose within a practice framework."
+                  conceptsAndPapers="__428YO6cEdygKbJMUVNEtg _rlrykJcbEd2sTqxclDgvog _0H9aAO7EEdy9EOwDlaw7Kw __LjaEFQsEd2uvIuuFjd1Fg">
+                <presentation xmi:id="-5CLdH3UFH1QyioMJKjggvg" href="uma://-5CLdH3UFH1QyioMJKjggvg#-5CLdH3UFH1QyioMJKjggvg"/>
+              </contentElements>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_03oJcI6TEd24ZKJEAcn-QA"
+                name="common_method_fw_terms" guid="_03oJcI6TEd24ZKJEAcn-QA" presentationName="Common Method Framework Terms">
+              <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_q1assAvFEd2Z4aGiwM2NOA"
+                  name="method_fw" guid="_q1assAvFEd2Z4aGiwM2NOA" presentationName="method framework">
+                <presentation xmi:id="-Zk4CmjRDfNWPgvGklgPQxQ" href="uma://-Zk4CmjRDfNWPgvGklgPQxQ#-Zk4CmjRDfNWPgvGklgPQxQ"/>
+              </contentElements>
+            </childPackages>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_spVlsFN0Ed2uvIuuFjd1Fg"
+              name="method_auth" guid="_spVlsFN0Ed2uvIuuFjd1Fg" presentationName="Method Authoring"
+              briefDescription="Authoring a method is all about taking the time to capture what you do and how you do it so that the same process can be performed in a consistent way by everyone involved. "
+              conceptsAndPapers="_FxJEkFUKEd2_rMtRMt_EMg">
+            <presentation xmi:id="-OCMeTKeHXaPsR__gIKhxyQ" href="uma://-OCMeTKeHXaPsR__gIKhxyQ#-OCMeTKeHXaPsR__gIKhxyQ"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_HQW1zQvmEd2Z4aGiwM2NOA"
+          name="CapabilityPatterns" guid="_HQW1zQvmEd2Z4aGiwM2NOA"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_HQW1zgvmEd2Z4aGiwM2NOA"
+        name="DeliveryProcesses" guid="_HQW1zgvmEd2Z4aGiwM2NOA"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_HQW1zwvmEd2Z4aGiwM2NOA"
+        name="ProcessContributions" guid="_HQW1zwvmEd2Z4aGiwM2NOA"/>
+    <bases href="uma://_gWW0gF_SEd2zpKtX6B7lBg#_gWW0gF_SEd2zpKtX6B7lBg"/>
+    <bases href="uma://_vsno4EKmEdyrauqpmnA8jQ#_vsno4EKmEdyrauqpmnA8jQ"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

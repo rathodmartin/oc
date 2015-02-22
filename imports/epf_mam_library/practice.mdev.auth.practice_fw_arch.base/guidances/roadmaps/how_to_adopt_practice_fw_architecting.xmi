@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-Q-GudeReXWSmfMm2wFXDkg"
+    name="how_to_adopt_practice_fw_architecting,_qVnDgi2sEd2CiunvJQy6fQ" guid="-Q-GudeReXWSmfMm2wFXDkg"
+    changeDate="2008-11-13T14:37:03.078-0800" version="7.2.0">
+  <mainDescription>&lt;h3>&#xD;
+    Getting started&amp;nbsp;&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Begin by making sure the team, including the key stakeholders, understands the&amp;nbsp;and the key concepts and the&#xD;
+    roadmaps.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Practice Framework Architecting practice assumes that the method authoring environment has been set up.&amp;nbsp; Make&#xD;
+    sure that all team members can access the environment and understand how to use it.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This practice supports architecting a new practice framework, as well as customizing an existing practice framework&#xD;
+    architecture.&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        To adopt the &quot;architect new practice framework&quot; aspects, start by identifying the context to be addressed by the&#xD;
+        framework. It is recommended that the first time you apply this practice that you apply it to architect a practice&#xD;
+        framework where the content to be included in the framework is well understood and where subject matter&#xD;
+        experts&amp;nbsp;of the framework are part of the authoring team. Architect the practice framework&amp;nbsp;incrementally,&#xD;
+        defining the guiding principals and the structure of the core&amp;nbsp;first, followed by the detailing of the core&#xD;
+        elements. See&amp;nbsp;&lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../practice.mdev.auth.practice_fw_arch.base/guidances/roadmaps/arch_new_practice_fw_CE6D85ED.html&quot;&#xD;
+        guid=&quot;_eV2FoKEKEd2bTrLTU21QBw&quot;>Roadmap: Architect a New Practice Framework&lt;/a>&amp;nbsp;for details.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        To adopt the &quot;customize existing practice framework architecture&quot; aspects, start by identifying the framework you&#xD;
+        want to customize and how you want to customize it. It is recommended that the first time you apply this practice&#xD;
+        that you apply it to customize a practice framework that is well understood and where subject matter&#xD;
+        experts&amp;nbsp;of the framework (and the customization) are part of the authoring team. See&amp;nbsp;&lt;a&#xD;
+        class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../practice.mdev.auth.practice_fw_arch.base/guidances/roadmaps/customize_existing_practice_fw_arch_DE266E74.html&quot;&#xD;
+         guid=&quot;_VQlaMKEeEd2bTrLTU21QBw&quot;>Roadmap: Customize an Existing Practice Framework Architecture&lt;/a>&amp;nbsp;for&#xD;
+        details.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    As you apply the recommendations described in the practice, capture what you have learned, what worked for your team&#xD;
+    and what didn't so that you can continually fine-tune how your team applies the practice.&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;h3>&#xD;
+    Common pitfalls&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The following are some common pitfalls when adopting this practice.&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Selecting a practice framework whose content is not well understood as your first framework using this&#xD;
+        practice.&amp;nbsp;If this is done, more time is spent understanding the framework itself rather than in effectively&#xD;
+        applying the practice techniques.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Spending too much time architecting on paper.&amp;nbsp;If this is done, the time it takes to deliver the framework is&#xD;
+        extended as a lot of time is spent structuring as opposed to just enough to get an initial framework out to get&#xD;
+        feedback, refining the structure, as needed. Try to keep the documentation clear and concise.&amp;nbsp;Make sure that&#xD;
+        the consumers of the architecture documentation (the development team) are comfortable with the format and content&#xD;
+        of the documentation.&amp;nbsp;Is there more or different information they would like see?&amp;nbsp;Would they like to see&#xD;
+        less?&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

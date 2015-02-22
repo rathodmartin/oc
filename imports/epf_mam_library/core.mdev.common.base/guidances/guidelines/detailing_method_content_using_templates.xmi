@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-6eTC3y4TXNXS4n71kSySjw"
+    name="detailing_method_content_using_templates,_mHp3UOurEdydutqrlpQKOw" guid="-6eTC3y4TXNXS4n71kSySjw"
+    changeDate="2008-03-06T10:34:04.609-0800" version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    Method content&amp;nbsp;descriptions can be written using templates.&amp;nbsp; The resulting documents can then be used to&#xD;
+    collaboratively complete the content.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This method of method element authoring is appropriate when:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        A method authoring tool is not being used.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        There is a need for support for markup and reviews of the content being developed that is not provided in the&#xD;
+        method authoring tool being used.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        There is a reason not to have each author use the authoring tool directly for authoring the content (for example,&#xD;
+        the desire to not have to train all the SMEs to use the tool before they can provide content).&lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    To use templates:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Create a template that represents the information you want to capture for each type of method element.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Make the templates available to the content authors (e.g., via a customized Method Authoring Method).&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Complete and review the content for each content element to be authored in this fashion.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Once the content has been reviewed and approvide, migrate the content into the the method authoring tool.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&lt;br />&#xD;
+&lt;p>&#xD;
+    Once the content in the template has been reviewed and is fairly stable, if a method authoring tool is being used, the&#xD;
+    content can be migrated to the tool.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

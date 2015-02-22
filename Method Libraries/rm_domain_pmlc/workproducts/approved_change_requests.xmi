@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-I0jDWeKRk09Rx-KWFbmA1A" name="new_artifact,_2HOJcGVaEeSOQ-wuYUyV_g" guid="-I0jDWeKRk09Rx-KWFbmA1A" authors="John Rozsa" changeDate="2014-11-05T21:16:51.262-0500" changeDescription="Baseline" version="BL">
+  <mainDescription>Approved change requests a result of the Perform Integrated Change Control process. They are scheduled and implemented by
+        the project team. &lt;br />
+        &lt;br />
+        Change requests are processed according to the approved change control system by the project manager or other predefined
+        entity. The status of all change requests, approved or not, shall be updated in the change log.&lt;br />
+        &lt;br />
+         Approved change requests may include modifications such as defect repairs, revised work methods, and revised schedule.
+        Change requests that have been approved can include modifications to the terms and conditions of the contract, pricing, and
+        descriptions of the products, services, or results to be provided.&lt;br /></mainDescription>
+  <impactOfNotHaving>Not having formally approved changes ofte cause confusion when determining what is or is not in scope.&lt;br /></impactOfNotHaving>
+  <reasonsForNotNeeding>For projects with nominal risk or complexity may no need formal approved change request.&lt;br /></reasonsForNotNeeding>
+</org.eclipse.epf.uma:ArtifactDescription>

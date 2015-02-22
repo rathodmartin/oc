@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-YzB52BYh41t8VaV5IpBaKw" name=",_sC8b0FsMEeS_CZ16mrmYFw" guid="-YzB52BYh41t8VaV5IpBaKw" authors="John Rozsa" changeDate="2014-11-06T21:59:57.064-0500" changeDescription="Baseline" version="BL">
+  <mainDescription>Project success is directly related to having well defined requirements from the stakeholders. The key benefit of this
+        process is that it provides the basis for defining and managing the project scope including product scope.&lt;br />
+         &lt;br />
+         The requirements must be well documented and managed through the project lifecycle. They need to be gathered, analyzed,
+        and recorded to a level of detail so they can be measured during the project. Requirements are an essential element for the
+        WBS. Requirements gathering start at the time the project charter is being developed and shared with the
+        stakeholders.&lt;br />
+         &lt;br />
+         There are several types of requirements. They typically fall under the following categories:&lt;br />
+         &lt;br />
+         
+        &lt;ul>
+            &lt;li>
+                Business requirements - These represent higher-level needs of the organization including the business issues,
+                opportunities, and project rationale.
+            &lt;/li>
+            &lt;li>
+                Stakeholder requirements - This reflects the specific needs of the stakeholder(s).
+            &lt;/li>
+            &lt;li>
+                Solution requirements - This addresses function and overall characteristics of the solution or product. These are
+                further broken down into functional and nonfunctional requirements:
+            &lt;/li>
+            &lt;li>
+                Functional requirements - This documents how the solutio or product will behave.
+            &lt;/li>
+            &lt;li>
+                Non-functional requirements - This describes sometimes less tangible conditions and/or qualities for the solution
+                or product. These ofte include; performance, level of service, reliability, security, safety, supportability, etc.
+            &lt;/li>
+            &lt;li>
+                Transition requirements - This represents the temporary capabilities needed for transition from the current state
+                to future state. They may include training or data conversion requirements.
+            &lt;/li>
+            &lt;li>
+                Project requirements - These are the project norms the project needs to function effectively.
+            &lt;/li>
+            &lt;li>
+                Quality requirements - These are the documented conditions or criteria needed to confirm successful completion of
+                the project and its deliverables.
+            &lt;/li>
+        &lt;/ul></mainDescription>
+  <sections xmi:id="_BDjH0FsNEeS_CZ16mrmYFw" name="Analyze initial project documents" guid="_BDjH0FsNEeS_CZ16mrmYFw"/>
+  <sections xmi:id="_DOO2sFsNEeS_CZ16mrmYFw" name="Determine stakeholder needs" guid="_DOO2sFsNEeS_CZ16mrmYFw"/>
+  <sections xmi:id="_E3su4FsNEeS_CZ16mrmYFw" name="Document requirements" guid="_E3su4FsNEeS_CZ16mrmYFw"/>
+</org.eclipse.epf.uma:TaskDescription>

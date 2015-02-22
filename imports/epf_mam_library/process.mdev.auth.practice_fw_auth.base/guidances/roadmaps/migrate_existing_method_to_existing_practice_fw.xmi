@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-Y6MyHW6fRqMWaebXNXTu8A"
+    name="migrate_existing_method_to_existing_practice_fw,_ggc5IKIUEd2hUYxp7rIQ7g"
+    guid="-Y6MyHW6fRqMWaebXNXTu8A" changeDate="2008-11-03T13:23:40.250-0800" version="7.5.0">
+  <mainDescription>&lt;p>&#xD;
+    Migrating an existing method to&amp;nbsp;an existing&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_fw_6DA4D54D.html&quot;&#xD;
+    guid=&quot;__LjaEFQsEd2uvIuuFjd1Fg&quot;>Practice Framework&lt;/a>&amp;nbsp;involves moving all existing method elements&amp;nbsp;to the&#xD;
+    right plug-ins in the core, specific &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/concepts/practice_F5C8EAAB.html&quot;&#xD;
+    guid=&quot;_qhCTAFRREd2CWscN8Mx6rg&quot;>Practice&lt;/a>s or specific &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_config_CC7754F2.html&quot;&#xD;
+    guid=&quot;_0H9aAO7EEdy9EOwDlaw7Kw&quot;>Practice Configuration&lt;/a>s, which include&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/termdefinitions/cross_practice_process_5F83B112.html&quot;&#xD;
+    guid=&quot;_9NcfoFJgEd2SzrMjC_svdw&quot;>cross-practice process&lt;/a>es and/or &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/termdefinitions/navigation_view_8F89044.html&quot;&#xD;
+    guid=&quot;_X_hFIPAjEdyHz_B1XFOUgA&quot;>navigation view&lt;/a>s.&amp;nbsp;For more information on practice framework plug-in types, see&#xD;
+    &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_lib_plugin_types_3EA8002F.html&quot;&#xD;
+    guid=&quot;__428YO6cEdygKbJMUVNEtg&quot;>Concept: Practice Library Plug-In Types&lt;/a>.&amp;nbsp;For more information on the practice&#xD;
+    framework configuration types, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_lib_config_types_B96A959A.html&quot;&#xD;
+    guid=&quot;_1gchoO6dEdygKbJMUVNEtg&quot;>Concept: Practice Library Configuration Types&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    When migrating an existing method to a practice framework, it is best to treat the original method as a&amp;nbsp;set of&#xD;
+    method requirements for&amp;nbsp;a set of practices and practice configurations to be added to the existing fractice&#xD;
+    framework. The overall steps is the same as described in &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../process.mdev.auth.practice_fw_auth.base/guidances/roadmaps/authoring_in_existing_practice_fw_99F4E5F1.html&quot;&#xD;
+     guid=&quot;_np39AKniEd2eRp4Z7dEEOQ&quot;>Roadmap: Authoring in an Existing Practice Framework&lt;/a>, except that you have a large&#xD;
+    of amount of content that you can reuse in the new practice framework elements.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-f362JXjLlXR47b3jQoHi2w" name="new_artifact,_clUcgGVaEeSOQ-wuYUyV_g" guid="-f362JXjLlXR47b3jQoHi2w" authors="John Rozsa" changeDate="2014-11-05T21:13:59.127-0500" changeDescription="Baseline" version="BL">
+  <mainDescription>A Change Log is list of changes made during the project. Often, it includes dates of the change, along with information on
+        impacts in terms of time, cost, and risk. This information is communicated to the appropriate stakeholders.&lt;br />
+        &lt;br />
+        Information is also captured for rejected change requests.&lt;br /></mainDescription>
+  <impactOfNotHaving>Not having a change log makes it difficult to understand project changes that have been approved or not approved.&lt;br /></impactOfNotHaving>
+  <reasonsForNotNeeding>Small, less complex projects may not need a formal change control process and associated change log. &lt;br /></reasonsForNotNeeding>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_RyWJILgREd2VBqezzK7PZw"
+      guid="_RyWJILgREd2VBqezzK7PZw">
+    <resourceDescriptors xmi:id="_RyWJIrgREd2VBqezzK7PZw" id="-io5Yu71YowwGFrjmQ1yk3A"
+        uri="customcategories/practice_fw_auth_scenarios.xmi"/>
+    <resourceDescriptors xmi:id="_RyfTELgREd2VBqezzK7PZw" id="-6XvNmmuFEbpDGl-9iP33Hw"
+        uri="customcategories/practice_auth_scenarios.xmi"/>
+    <resourceDescriptors xmi:id="_RyfTEbgREd2VBqezzK7PZw" id="-TpOygB1KbQCxz_bHE3pCXg"
+        uri="customcategories/practice_config_auth_scenarios.xmi"/>
+    <resourceDescriptors xmi:id="_RypEELgREd2VBqezzK7PZw" id="-C2YxpOC-7FKwUagrvrRM2Q"
+        uri="customcategories/practice_fw_arch_scenarios.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_GOSjoLevEd2gS_YAx7LMHA" name="publish.mdev.auth.practice_fw_auth_common_nav_views.base"
+      guid="_GOSjoLevEd2gS_YAx7LMHA" briefDescription="This plug-in contains the navigation view elements that are shared across practice framework configurations. It is dependent on all plug-ins that cross practices (e.g., core and process)."
+      authors="Kelli Houston" changeDate="2008-11-21T01:31:43.015-0800">
+    <copyrightStatement href="uma://_iVydgENdEdy245g62lfWcA#_uuunoPsDEdmyhNQr5STrZQ"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_GOSjobevEd2gS_YAx7LMHA"
+        name="Content" guid="_GOSjobevEd2gS_YAx7LMHA">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_GOSjorevEd2gS_YAx7LMHA"
+          name="Categories" guid="_GOSjorevEd2gS_YAx7LMHA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_GOSjo7evEd2gS_YAx7LMHA"
+            name="Domains" guid="_GOSjo7evEd2gS_YAx7LMHA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_GOSjpLevEd2gS_YAx7LMHA"
+            name="Disciplines" guid="_GOSjpLevEd2gS_YAx7LMHA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_GOSjpbevEd2gS_YAx7LMHA"
+            name="RoleSets" guid="_GOSjpbevEd2gS_YAx7LMHA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_GOSjprevEd2gS_YAx7LMHA"
+            name="WP Types" guid="_GOSjprevEd2gS_YAx7LMHA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_GOSjp7evEd2gS_YAx7LMHA"
+            name="Tools" guid="_GOSjp7evEd2gS_YAx7LMHA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_GOSjqLevEd2gS_YAx7LMHA"
+            name="StandardCategories" guid="_GOSjqLevEd2gS_YAx7LMHA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_GOSjqbevEd2gS_YAx7LMHA"
+            name="CustomCategories" guid="_GOSjqbevEd2gS_YAx7LMHA">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_GOSjqrevEd2gS_YAx7LMHA"
+              name="Hidden" guid="_GOSjqrevEd2gS_YAx7LMHA">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_GOSjq7evEd2gS_YAx7LMHA"
+                name="Custom Categories" guid="_GOSjq7evEd2gS_YAx7LMHA" categorizedElements="_XKMrILevEd2gS_YAx7LMHA"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_XKMrILevEd2gS_YAx7LMHA"
+              name="practice_fw_auth_common_ nav_views" guid="_XKMrILevEd2gS_YAx7LMHA"
+              presentationName="Practice Framework Authoring Common Navigation Views"
+              categorizedElements="_gHv08LevEd2gS_YAx7LMHA _1vQokLeyEd2gS_YAx7LMHA _gMGUALewEd2gS_YAx7LMHA"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_gHv08LevEd2gS_YAx7LMHA"
+              name="practice_fw_key_concepts" guid="_gHv08LevEd2gS_YAx7LMHA" presentationName="Practice Framework Key Concepts"
+              briefDescription="These are the key concepts that need to be understood when authoring within a practice framework."
+              shapeicon="customcategories/resources/concept_dgm32.gif" nodeicon="customcategories/resources/concept_obj.gif">
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Concept" href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#__LjaEFQsEd2uvIuuFjd1Fg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Concept" href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_Er1OcJIfEdybeduord13cg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Concept" href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_0H9aAO7EEdy9EOwDlaw7Kw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_gMGUALewEd2gS_YAx7LMHA"
+              name="practice_fw_guidelines.ibm_int_mam_for_umf" guid="_gMGUALewEd2gS_YAx7LMHA"
+              presentationName="Key Guidelines" briefDescription="These are the key guidelines that apply when authoring within the Unified Method Framework (UMF)."
+              shapeicon="customcategories/resources/guide_dgm32.gif" nodeicon="customcategories/resources/guide_obj.gif"
+              categorizedElements="_qECFoLe0Ed2gS_YAx7LMHA _qECFobe0Ed2gS_YAx7LMHA _qECFore0Ed2gS_YAx7LMHA _qECFo7e0Ed2gS_YAx7LMHA _qECFpLe0Ed2gS_YAx7LMHA"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_1vQokLeyEd2gS_YAx7LMHA"
+              name="practice_fw_auth_scenarios" guid="_1vQokLeyEd2gS_YAx7LMHA" presentationName="Practice framework Authoring Scenarios"
+              briefDescription="These scenarios describe the activities that are to be performed when authoring in a practice framework."
+              shapeicon="customcategories/resources/roadmap32.gif" nodeicon="customcategories/resources/roadmap16.gif">
+            <presentation xmi:id="-io5Yu71YowwGFrjmQ1yk3A" href="uma://-io5Yu71YowwGFrjmQ1yk3A#-io5Yu71YowwGFrjmQ1yk3A"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Roadmap" href="uma://_tALfMKEiEd2bTrLTU21QBw#_np39AKniEd2eRp4Z7dEEOQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Roadmap" href="uma://_tALfMKEiEd2bTrLTU21QBw#_ggc5IKIUEd2hUYxp7rIQ7g"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Roadmap" href="uma://_STHyQCvoEd2ht9LgoFs93Q#_h9RjsCv4Ed2HiavZWDwUwQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_QBTZALezEd2gS_YAx7LMHA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_QBTZAbezEd2gS_YAx7LMHA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_QBTZArezEd2gS_YAx7LMHA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_QBTZALezEd2gS_YAx7LMHA"
+              name="practice_auth_scenarios" guid="_QBTZALezEd2gS_YAx7LMHA" presentationName="Practice Authoring Scenarios"
+              briefDescription="These scenarios describe the activities that are to be performed when authoring practices."
+              shapeicon="customcategories/resources/roadmap32.gif" nodeicon="customcategories/resources/roadmap16.gif">
+            <presentation xmi:id="-6XvNmmuFEbpDGl-9iP33Hw" href="uma://-6XvNmmuFEbpDGl-9iP33Hw#-6XvNmmuFEbpDGl-9iP33Hw"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Roadmap" href="uma://_0AD2ECJoEd2elMIxXedw0g#_t8M_4CXOEd2dSdS2FPKaIA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Roadmap" href="uma://_0AD2ECJoEd2elMIxXedw0g#_1DeVACYEEd2Hqsxn1d0Dyg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_QBTZAbezEd2gS_YAx7LMHA"
+              name="practice_config_auth_scenarios" guid="_QBTZAbezEd2gS_YAx7LMHA"
+              presentationName="Practice Configuration Authoring Scenarios" briefDescription="These scenarios describe the activities that are to be performed when authoring practice configurations."
+              shapeicon="customcategories/resources/roadmap32.gif" nodeicon="customcategories/resources/roadmap16.gif">
+            <presentation xmi:id="-TpOygB1KbQCxz_bHE3pCXg" href="uma://-TpOygB1KbQCxz_bHE3pCXg#-TpOygB1KbQCxz_bHE3pCXg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Roadmap" href="uma://_V6WwsEAKEd2Ei9ySU_sUdQ#_zTFdki3oEd2CiunvJQy6fQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Roadmap" href="uma://_V6WwsEAKEd2Ei9ySU_sUdQ#_u5j3MFcqEd2N4vZAlUIPvw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_QBTZArezEd2gS_YAx7LMHA"
+              name="practice_fw_arch_scenarios" guid="_QBTZArezEd2gS_YAx7LMHA" presentationName="Practice Framework Architecting Scenarios"
+              briefDescription="These scenarios describe the activities that are to be performed when architecting the practice framework."
+              shapeicon="customcategories/resources/roadmap32.gif" nodeicon="customcategories/resources/roadmap16.gif">
+            <presentation xmi:id="-C2YxpOC-7FKwUagrvrRM2Q" href="uma://-C2YxpOC-7FKwUagrvrRM2Q#-C2YxpOC-7FKwUagrvrRM2Q"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Roadmap" href="uma://_eSzlUKAxEd2nI52VLwUMxA#_eV2FoKEKEd2bTrLTU21QBw"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Roadmap" href="uma://_eSzlUKAxEd2nI52VLwUMxA#_VQlaMKEeEd2bTrLTU21QBw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_qECFoLe0Ed2gS_YAx7LMHA"
+              name="auth_env_guidelines" guid="_qECFoLe0Ed2gS_YAx7LMHA" presentationName="Authoring Environment Guidelines"
+              briefDescription="These are key guidelines that support the authoring environment."
+              shapeicon="customcategories/resources/guide_dgm32.gif" nodeicon="customcategories/resources/guide_obj.gif">
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_STHyQCvoEd2ht9LgoFs93Q#_p9nu0KdREd2XsY8-UtPVvw"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_STHyQCvoEd2ht9LgoFs93Q#_2ydy8KdUEd2XsY8-UtPVvw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_qECFobe0Ed2gS_YAx7LMHA"
+              name="gen_auth_guidelines" guid="_qECFobe0Ed2gS_YAx7LMHA" presentationName="General Authoring Guidelines"
+              shapeicon="customcategories/resources/guide_obj.gif" nodeicon="customcategories/resources/guide_obj.gif">
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_k91OkFpBEdutiI3y4Hpy9Q"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_OxsfkH8MEdu_ipWWZJimvQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_eJNWICBwEdy1y5bWsXfCCg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_iFoK0MrGEdyOGKOa5tPdeg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_qECFore0Ed2gS_YAx7LMHA"
+              name="practice_fw_arch_guidelines" guid="_qECFore0Ed2gS_YAx7LMHA" presentationName="Practice Framework Architecting Guidelines"
+              briefDescription="These are the guidelines that support the architecting of the practice framework."
+              shapeicon="customcategories/resources/guide_dgm32.gif" nodeicon="customcategories/resources/guide_obj.gif">
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_dEp88AqQEd2ffKRm_DXTyQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_h3njMAU1EdyxoIOVWQ896Q"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_eSzlUKAxEd2nI52VLwUMxA#_InSicKmlEd2eRp4Z7dEEOQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_eSzlUKAxEd2nI52VLwUMxA#_-WfTIKnHEd2eRp4Z7dEEOQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_eSzlUKAxEd2nI52VLwUMxA#_WLs-UKnUEd2eRp4Z7dEEOQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_eSzlUKAxEd2nI52VLwUMxA#_CMqMgEBWEd2Tod2_aY551g"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_eSzlUKAxEd2nI52VLwUMxA#_fxhE4D_PEd2sFOfPW3Iw5g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_qECFo7e0Ed2gS_YAx7LMHA"
+              name="practice_auth_guidance" guid="_qECFo7e0Ed2gS_YAx7LMHA" presentationName="Practice Authoring Guidance"
+              briefDescription="These are the guidelines that support the authoring of practices."
+              shapeicon="customcategories/resources/guide_dgm32.gif" nodeicon="customcategories/resources/guide_obj.gif">
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_0AD2ECJoEd2elMIxXedw0g#_tkYzcCXnEd2dSdS2FPKaIA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_0AD2ECJoEd2elMIxXedw0g#_F2l88JSGEdyCzN0eHC4CLA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_0AD2ECJoEd2elMIxXedw0g#_sfzMkKlSEd2XsY8-UtPVvw"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_0AD2ECJoEd2elMIxXedw0g#_xovb0JQ-EdyOprQk0vnmNg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_0AD2ECJoEd2elMIxXedw0g#_oOSgsD9-Ed2fM_dR3V_v1A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_qECFpLe0Ed2gS_YAx7LMHA"
+              name="practice_config_auth_guidance" guid="_qECFpLe0Ed2gS_YAx7LMHA"
+              presentationName="Practice Configuration Authoring Guidance" briefDescription="These are the guidelines that support the authoring of practice configurations."
+              shapeicon="customcategories/resources/guide_dgm32.gif" nodeicon="customcategories/resources/guide_obj.gif">
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_V6WwsEAKEd2Ei9ySU_sUdQ#_URR4AMbSEdy9YushbOcFQA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_V6WwsEAKEd2Ei9ySU_sUdQ#_n56_4FstEd2oiZ87J3vuLQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_V6WwsEAKEd2Ei9ySU_sUdQ#_EwJVMEAPEd2Ei9ySU_sUdQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="uma://_V6WwsEAKEd2Ei9ySU_sUdQ#_pRt_QEAQEd2Ei9ySU_sUdQ"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_GOSjrLevEd2gS_YAx7LMHA"
+          name="CoreContent" guid="_GOSjrLevEd2gS_YAx7LMHA"/>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_GOSjrbevEd2gS_YAx7LMHA"
+          name="CapabilityPatterns" guid="_GOSjrbevEd2gS_YAx7LMHA"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_GOSjrrevEd2gS_YAx7LMHA"
+        name="DeliveryProcesses" guid="_GOSjrrevEd2gS_YAx7LMHA"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_GOSjr7evEd2gS_YAx7LMHA"
+        name="ProcessContributions" guid="_GOSjr7evEd2gS_YAx7LMHA"/>
+    <bases href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_HQW1wAvmEd2Z4aGiwM2NOA"/>
+    <bases href="uma://_tALfMKEiEd2bTrLTU21QBw#_tALfMKEiEd2bTrLTU21QBw"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

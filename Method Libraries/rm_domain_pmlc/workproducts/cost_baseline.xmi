@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--jYl0AMuoi1Ii4tbypeG_Q" name="new_artifact,_Cdmm8FmMEeSnr-1nkoLXsg" guid="--jYl0AMuoi1Ii4tbypeG_Q" authors="John Rozsa" changeDate="2014-10-23T18:35:34.940-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>The cost baseline is the approved version of the project budget. It excludes management reserves and is project-phased
+        based which change must follow a formal change control procedures and is used as a basis for comparison to actual
+        results.&lt;br />
+         &lt;br />
+        The cost baseline is developed as a summary of the approved budgets for the different schedule activities. It will include
+        projected expenditures along with anticipated liabilities.&lt;br />
+        &lt;br />
+        The cost baseline is used to compare with with actual results to determine if a change, corrective action, or preventive
+        action is necessary. Once approved, these changes to the cost baseline are incorporated in response to approved changes in
+        scope, activity resources, or cost estimates. In the extreme case of significant change, a new cost baseline might be
+        deemed necessary.&lt;br />
+         &lt;br />
+         Because of new or omitted work identified by the risk responses, the cost baseline may be updated to reflect those changes
+        as well.&lt;br /></mainDescription>
+  <impactOfNotHaving>Cost baselines provide a point of reference to the financial viability of a given project. Not having a baseline hinders
+        the ability to understand how well a given project is doing financially along the duration of the project.&lt;br /></impactOfNotHaving>
+  <reasonsForNotNeeding>Generally, project short in duration or complexity do not require rigid financial controls. However, not having a cost
+        baseline should be a conscience decision to do so.&lt;br /></reasonsForNotNeeding>
+</org.eclipse.epf.uma:ArtifactDescription>

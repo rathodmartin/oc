@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-sdtNcjoib0RuuDeYmXPRjA" name=",_MGV6cDxOEeSGc6ZYf7rWrg" guid="-sdtNcjoib0RuuDeYmXPRjA" authors="John Rozsa" changeDate="2014-09-25T20:50:11.374-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>The project scope is the description of the project and product scope, major deliverables, assumptions, and constraints. It
+        is a detailed description of the project's deliverables and associated work required to create them.&lt;br />
+         &lt;br />
+         The project scope is meant to provide a common understanding of the project among the stakeholders. It provides the
+        project team the foundational basis to perform more detailed planning, guides the project team's work during execution, and
+        provides the baseline for requests for changes.&lt;br /></mainDescription>
+  <sections xmi:id="_lqbYsDxOEeSGc6ZYf7rWrg" name="Assess/Inventory known requirements" guid="_lqbYsDxOEeSGc6ZYf7rWrg"/>
+  <sections xmi:id="_qCYQYDxOEeSGc6ZYf7rWrg" name="Gain agreement on project inclusions and exclusions" guid="_qCYQYDxOEeSGc6ZYf7rWrg"/>
+  <sections xmi:id="_r4zmgDxOEeSGc6ZYf7rWrg" name="Document and gain formal approval" guid="_r4zmgDxOEeSGc6ZYf7rWrg"/>
+</org.eclipse.epf.uma:TaskDescription>

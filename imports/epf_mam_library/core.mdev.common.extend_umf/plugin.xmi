@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_Rg6a4LgREd2VBqezzK7PZw"
+      guid="_Rg6a4LgREd2VBqezzK7PZw">
+    <resourceDescriptors xmi:id="_Rg6a4rgREd2VBqezzK7PZw" id="-K86R36reKqaSKsK_zHd5gA"
+        uri="guidances/supportingmaterials/release_info_mdev_common_elements.umf.xmi"/>
+    <resourceDescriptors xmi:id="_Rg6a47gREd2VBqezzK7PZw" id="-1o6TIjoKYNd4Bu4JvIDAHA"
+        uri="guidances/guidelines/copyrights_in_the_umf.xmi"/>
+    <resourceDescriptors xmi:id="_RhDk0LgREd2VBqezzK7PZw" id="-WqWfBRvcEc4LUF3OEtujsA"
+        uri="guidances/guidelines/delayed_assignment_in_the_umf.xmi"/>
+    <resourceDescriptors xmi:id="_RhDk0bgREd2VBqezzK7PZw" id="-uwcq32Ur2hHIxCZHg8dY4A"
+        uri="guidances/guidelines/practice_configs_in_the_umf.xmi"/>
+    <resourceDescriptors xmi:id="_RhDk0rgREd2VBqezzK7PZw" id="-iEvCqr8UvGNsKj3pZyJ3JQ"
+        uri="guidances/guidelines/navigation_views_in_the_umf.xmi"/>
+    <resourceDescriptors xmi:id="_RhDk07gREd2VBqezzK7PZw" id="-LitgyJwWrDfeetHIMxUddg"
+        uri="guidances/guidelines/practices_in_the_umf.xmi"/>
+    <resourceDescriptors xmi:id="_RhNV0LgREd2VBqezzK7PZw" id="-RRHbkHbSeBagrEPa6ofdcA"
+        uri="guidances/guidelines/roles_in_the_umf.xmi"/>
+    <resourceDescriptors xmi:id="_RhNV0bgREd2VBqezzK7PZw" id="-whD1fyoJj6MqOs2NEQAi9Q"
+        uri="guidances/guidelines/std_cats_in_the_umf.xmi"/>
+    <resourceDescriptors xmi:id="_RhXG0LgREd2VBqezzK7PZw" id="-oBJKsYIguSvezdKxWsW73g"
+        uri="guidances/guidelines/tool_info_in_the_umf.xmi"/>
+    <resourceDescriptors xmi:id="_RhXG0bgREd2VBqezzK7PZw" id="-WDFHV9BjTj55evuBQz9SXg"
+        uri="guidances/guidelines/umf_approved_acronyms.xmi"/>
+    <resourceDescriptors xmi:id="_RhgQwLgREd2VBqezzK7PZw" id="-V60xni_uGxBI53smjBJx8Q"
+        uri="guidances/guidelines/umf_naming_conventions.xmi"/>
+    <resourceDescriptors xmi:id="_RhgQwbgREd2VBqezzK7PZw" id="-ZCOYju4CnqEohhjcZYgK5w"
+        uri="guidances/guidelines/work_product_slots_in_the_umf.xmi"/>
+    <resourceDescriptors xmi:id="_RhqBwLgREd2VBqezzK7PZw" id="-4jwQ0ggFiDlKO8M_Ic8k_g"
+        uri="guidances/guidelines/categorizing_method_elements_using_std_cats.umf.xmi"/>
+    <resourceDescriptors xmi:id="_RhqBwbgREd2VBqezzK7PZw" id="-5uzpkBBo2_vgb-PwOAWljw"
+        uri="guidances/guidelines/defining_navigation_views.umf.xmi"/>
+    <resourceDescriptors xmi:id="_RhzLsLgREd2VBqezzK7PZw" id="-EQlmHMsshY6NViTClndYrw"
+        uri="guidances/guidelines/defining_plugins.umf.xmi"/>
+    <resourceDescriptors xmi:id="_Rh88sLgREd2VBqezzK7PZw" id="-DdydLatKDNyYUAJz--u2aA"
+        uri="guidances/guidelines/method_element_naming_conventions.umf.xmi"/>
+    <resourceDescriptors xmi:id="_Rh88sbgREd2VBqezzK7PZw" id="-JYjMODdxamYOHPOYWDW-Ng"
+        uri="guidances/guidelines/trademarks_and_copyrights.umf.xmi"/>
+    <resourceDescriptors xmi:id="_RiGtsLgREd2VBqezzK7PZw" id="-iTPO0H4tvnOfOsj5p1xzLw"
+        uri="guidances/guidelines/customizing_method_content_elements.umf.xmi"/>
+    <resourceDescriptors xmi:id="_RiP3oLgREd2VBqezzK7PZw" id="-3XliwUXDznCtaDeMiP0XYw"
+        uri="guidances/guidelines/release_info_in_the_umf.xmi"/>
+    <resourceDescriptors xmi:id="_RiP3obgREd2VBqezzK7PZw" id="-Ft9t1zRt5ZL4D1gW7f8mSA"
+        uri="guidances/guidelines/maintaining_change_histories_and_version_numbers.umf.xmi"/>
+    <resourceDescriptors xmi:id="_RiZooLgREd2VBqezzK7PZw" id="-n2rq5P3Y8Gb-AcFTHibPsQ"
+        uri="guidances/concepts/practice_lib_plugin_types.umf.xmi"/>
+    <resourceDescriptors xmi:id="_RijZoLgREd2VBqezzK7PZw" id="-thGnnb0nXo2SGJ4Nxdc2tw"
+        uri="guidances/guidelines/customizing_processes.umf.xmi"/>
+    <resourceDescriptors xmi:id="_RijZobgREd2VBqezzK7PZw" id="-FMGY0KH8RrxBT37vP9Hx3g"
+        uri="guidances/guidelines/delayed_assignment_in_the_umf.ex.xmi"/>
+    <resourceDescriptors xmi:id="_RijZorgREd2VBqezzK7PZw" id="-0EHLiQw1MRgoQJ1gBEJBlw"
+        uri="guidances/examples/umf_assign_plugin_example.xmi"/>
+    <resourceDescriptors xmi:id="_RisjkLgREd2VBqezzK7PZw" id="-DXMJHQTwm485QzYyc5YxCg"
+        uri="guidances/examples/umf_practice_base_plugin_example.xmi"/>
+    <resourceDescriptors xmi:id="_RisjkbgREd2VBqezzK7PZw" id="-Yc7uf-LNH5LKATmoeglQGg"
+        uri="guidances/guidelines/practices_in_the_umf.ex.xmi"/>
+    <resourceDescriptors xmi:id="_RisjkrgREd2VBqezzK7PZw" id="-DjAjJ8QGkN8BGhwFd4kmug"
+        uri="guidances/guidelines/copyrights_in_the_umf.ex.xmi"/>
+    <resourceDescriptors xmi:id="_Ri2UkLgREd2VBqezzK7PZw" id="-kvx4fZh-okGwrrR97ptiuQ"
+        uri="guidances/examples/umf_release_copyright_example.xmi"/>
+    <resourceDescriptors xmi:id="_Ri2UkbgREd2VBqezzK7PZw" id="-3hmfITB_xoJJIqtVIxsDgw"
+        uri="guidances/guidelines/std_cats_in_the_umf.ex.xmi"/>
+    <resourceDescriptors xmi:id="_Ri2UkrgREd2VBqezzK7PZw" id="-d24dOdho133hM6LJr2gtWg"
+        uri="guidances/examples/umf_cat_def_base_plugin_example.xmi"/>
+    <resourceDescriptors xmi:id="_Ri_egLgREd2VBqezzK7PZw" id="-Tsss2Gtud62ZpqJNebcGnA"
+        uri="guidances/examples/umf_role_def_base_plugin_example.xmi"/>
+    <resourceDescriptors xmi:id="_RjJPgLgREd2VBqezzK7PZw" id="-jSd1cEE63s3_hsCFlVgAcw"
+        uri="guidances/guidelines/roles_in_the_umf.ex.xmi"/>
+    <resourceDescriptors xmi:id="_RjJPgbgREd2VBqezzK7PZw" id="-_3erUaD4Z5IGk_Dy6TFFjA"
+        uri="guidances/guidelines/tool_info_in_the_umf.ex.xmi"/>
+    <resourceDescriptors xmi:id="_RjJPgrgREd2VBqezzK7PZw" id="-lkEoUtQVjlcG0jqKkReu8Q"
+        uri="guidances/examples/umf_tool_info_example.xmi"/>
+    <resourceDescriptors xmi:id="_RjTAgLgREd2VBqezzK7PZw" id="-o8VsXB3dfgCwC_abptAnDw"
+        uri="guidances/examples/umf_nav_view_example.xmi"/>
+    <resourceDescriptors xmi:id="_RjTAgbgREd2VBqezzK7PZw" id="-2Ejo-tFQ0xDJu1oaqLhiPg"
+        uri="guidances/guidelines/navigation_views_in_the_umf.ex.xmi"/>
+    <resourceDescriptors xmi:id="_RjTAgrgREd2VBqezzK7PZw" id="-FAaHexe-jczQJsMGxeZwZw"
+        uri="guidances/guidelines/practice_configs_in_the_umf.ex.xmi"/>
+    <resourceDescriptors xmi:id="_RjcKcLgREd2VBqezzK7PZw" id="-CpR_S5XKVd60uvKNCQbHKA"
+        uri="guidances/examples/umf_practice_config_example.xmi"/>
+    <resourceDescriptors xmi:id="_RjcKcbgREd2VBqezzK7PZw" id="-8GP1MvkRzbjEkXgGl6MFew"
+        uri="guidances/guidelines/work_product_slots_in_the_umf.ex.xmi"/>
+    <resourceDescriptors xmi:id="_Rjl7cLgREd2VBqezzK7PZw" id="-zCGnZekc_csrj0vphC31Xg"
+        uri="guidances/examples/umf_work_product_slot_example.xmi"/>
+    <resourceDescriptors xmi:id="_Rjl7cbgREd2VBqezzK7PZw" id="-B6nujkQwc_jcqftjJN3aqg"
+        uri="guidances/concepts/umf.xmi"/>
+    <resourceDescriptors xmi:id="_RjvscLgREd2VBqezzK7PZw" id="-isLXjmHT0-fKteWSTbd2_A"
+        uri="guidances/guidelines/requesting_change_to_umf.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_TQMyAAyNEd2RbdLDHU6BqQ" name="core.mdev.common.extend_umf"
+      guid="_TQMyAAyNEd2RbdLDHU6BqQ" presentationName="UMF Extensions to Method Development Common"
+      briefDescription="This plug-in contains the UMF elements that are intended to be shared across method development practices."
+      authors="Todd Fredrickson: UMF SME from which much of the UMF content was harvested; Kelli Houston: Authored all of the method elements"
+      changeDate="2008-09-14T07:07:20.046-0700" version="1.0">
+    <copyrightStatement href="uma://_iVydgENdEdy245g62lfWcA#_uuunoPsDEdmyhNQr5STrZQ"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_TQMyAQyNEd2RbdLDHU6BqQ"
+        name="Content" guid="_TQMyAQyNEd2RbdLDHU6BqQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_TQMyAgyNEd2RbdLDHU6BqQ"
+          name="Categories" guid="_TQMyAgyNEd2RbdLDHU6BqQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_TQMyAwyNEd2RbdLDHU6BqQ"
+            name="Domains" guid="_TQMyAwyNEd2RbdLDHU6BqQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_TQMyBAyNEd2RbdLDHU6BqQ"
+            name="Disciplines" guid="_TQMyBAyNEd2RbdLDHU6BqQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_TQMyBQyNEd2RbdLDHU6BqQ"
+            name="RoleSets" guid="_TQMyBQyNEd2RbdLDHU6BqQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_TQMyBgyNEd2RbdLDHU6BqQ"
+            name="WP Types" guid="_TQMyBgyNEd2RbdLDHU6BqQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_TQMyBwyNEd2RbdLDHU6BqQ"
+            name="Tools" guid="_TQMyBwyNEd2RbdLDHU6BqQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_TQMyCAyNEd2RbdLDHU6BqQ"
+            name="StandardCategories" guid="_TQMyCAyNEd2RbdLDHU6BqQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_TQMyCQyNEd2RbdLDHU6BqQ"
+            name="CustomCategories" guid="_TQMyCQyNEd2RbdLDHU6BqQ">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_TQMyCgyNEd2RbdLDHU6BqQ"
+              name="Hidden" guid="_TQMyCgyNEd2RbdLDHU6BqQ">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_TQMyCwyNEd2RbdLDHU6BqQ"
+                name="Custom Categories" guid="_TQMyCwyNEd2RbdLDHU6BqQ" categorizedElements="_hcswQKm6Ed2eRp4Z7dEEOQ _P2Z8EKw4Ed2qvva794k6nw"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_hcswQKm6Ed2eRp4Z7dEEOQ"
+              name="do_not_publish.mdev_common_umf" guid="_hcswQKm6Ed2eRp4Z7dEEOQ"
+              variabilityType="contributes">
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CustomCategory"
+                href="uma://_vsno4EKmEdyrauqpmnA8jQ#_O3UtkMRdEdyD76CYS6Ta7A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_P2Z8EKw4Ed2qvva794k6nw"
+              name="umf_mdev_common_custom_cats" guid="_P2Z8EKw4Ed2qvva794k6nw" presentationName="UMF Method Development Common Custom Categories"
+              categorizedElements="_ia7AIKw4Ed2qvva794k6nw"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_ia7AIKw4Ed2qvva794k6nw"
+              name="umf_constraints" guid="_ia7AIKw4Ed2qvva794k6nw" presentationName="UMF Constraints"
+              briefDescription="These are the constraints that must be adhered to when authoring within the Unified Method Framework (UMF)."
+              shapeicon="customcategories/resources/guide_dgm32.gif" nodeicon="customcategories/resources/guide_obj.gif"
+              categorizedElements="_YPoMoPUkEdyNMvgj607huw _PPjo4PF3EdyPreM_8XDeJA _apOmQMj7EdyoXMhaXAJ-6g _PBhxIO9MEdytFa01gNyMbA _x40SYO9HEdytFa01gNyMbA _OLr2MFizEd2AFZhgf_Sb-A _Arih4MdeEdySeI1LYmvOGg _W44bEMeQEdyDDM3XyGAKxw _k2ahIO9JEdytFa01gNyMbA _EQiuAPTiEdysQswc_A-Z6g _EU58MMVkEdysMqkA3CCYsg _eWJtwPRaEdy6Y8ced-PvYw">
+            <methodElementProperty xmi:id="_Rgwp4LgREd2VBqezzK7PZw" name="CategoryElementsSortType"
+                value="Alphabetic"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_TQMyDAyNEd2RbdLDHU6BqQ"
+          name="CoreContent" guid="_TQMyDAyNEd2RbdLDHU6BqQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Yww3kAyNEd2RbdLDHU6BqQ"
+            name="release_info" guid="_Yww3kAyNEd2RbdLDHU6BqQ" presentationName="Release Information"
+            briefDescription="This package groups all guidance for the plug-in as a whole.">
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_Yww3kQyNEd2RbdLDHU6BqQ"
+              name="release_info_mdev_common_elements.umf" guid="_Yww3kQyNEd2RbdLDHU6BqQ"
+              variabilityType="contributes">
+            <presentation xmi:id="-K86R36reKqaSKsK_zHd5gA" href="uma://-K86R36reKqaSKsK_zHd5gA#-K86R36reKqaSKsK_zHd5gA"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:SupportingMaterial"
+                href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_2a5hQQv1Ed2Z4aGiwM2NOA"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_wslasAyREd2RbdLDHU6BqQ"
+            name="umf_ext_to_mdev_common" guid="_wslasAyREd2RbdLDHU6BqQ" presentationName="UMF Extensions to Method Development Common">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6O3PkAxMEd2Dzp6jX9I91Q"
+              name="umf_constraints" guid="_6O3PkAxMEd2Dzp6jX9I91Q" presentationName="UMF Constraints">
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_YPoMoPUkEdyNMvgj607huw"
+                name="copyrights_in_the_umf" guid="_YPoMoPUkEdyNMvgj607huw" presentationName="Copyrights in the UMF"
+                briefDescription="This guideline provides some recommendations on how to define and use copyrights in the Unified Method Framewok (UMF).">
+              <presentation xmi:id="-1o6TIjoKYNd4Bu4JvIDAHA" href="uma://-1o6TIjoKYNd4Bu4JvIDAHA#-1o6TIjoKYNd4Bu4JvIDAHA"/>
+              <conceptsAndPapers href="#_nrrn4GqHEdun45RPFGeYnA"/>
+              <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#__428YO6cEdygKbJMUVNEtg"/>
+              <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_vgjh4PG1EdyO9sYxKNWf8A"/>
+              <guidelines href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_8YIMYCNQEdycLddDalDmbA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_PPjo4PF3EdyPreM_8XDeJA"
+                name="delayed_assignment_in_the_umf" guid="_PPjo4PF3EdyPreM_8XDeJA"
+                presentationName="Delayed Assignment in the UMF" briefDescription="Delayed assignment means that assignment is done separately from the base definition of the element so it is easy to change.  ">
+              <presentation xmi:id="-WqWfBRvcEc4LUF3OEtujsA" href="uma://-WqWfBRvcEc4LUF3OEtujsA#-WqWfBRvcEc4LUF3OEtujsA"/>
+              <conceptsAndPapers href="#_nrrn4GqHEdun45RPFGeYnA"/>
+              <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_vgjh4PG1EdyO9sYxKNWf8A"/>
+              <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_rlrykJcbEd2sTqxclDgvog"/>
+              <guidelines href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_8YIMYCNQEdycLddDalDmbA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_PBhxIO9MEdytFa01gNyMbA"
+                name="practice_configs_in_the_umf" guid="_PBhxIO9MEdytFa01gNyMbA"
+                presentationName="Practice Configurations in the UMF" briefDescription="This guideline describes how practice configurations are handled in the Unified Method Framework (UMF).">
+              <presentation xmi:id="-uwcq32Ur2hHIxCZHg8dY4A" href="uma://-uwcq32Ur2hHIxCZHg8dY4A#-uwcq32Ur2hHIxCZHg8dY4A"/>
+              <conceptsAndPapers href="#_nrrn4GqHEdun45RPFGeYnA"/>
+              <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_0H9aAO7EEdy9EOwDlaw7Kw"/>
+              <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_1gchoO6dEdygKbJMUVNEtg"/>
+              <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#__428YO6cEdygKbJMUVNEtg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_apOmQMj7EdyoXMhaXAJ-6g"
+                name="navigation_views_in_the_umf" guid="_apOmQMj7EdyoXMhaXAJ-6g"
+                presentationName="Navigation Views in the UMF" briefDescription="This guideline provides guidelines on how to define navigation views and assign elements to navigation views in the Unified Method Framework (UMF).">
+              <presentation xmi:id="-iEvCqr8UvGNsKj3pZyJ3JQ" href="uma://-iEvCqr8UvGNsKj3pZyJ3JQ#-iEvCqr8UvGNsKj3pZyJ3JQ"/>
+              <conceptsAndPapers href="#_nrrn4GqHEdun45RPFGeYnA"/>
+              <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_1gchoO6dEdygKbJMUVNEtg"/>
+              <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#__428YO6cEdygKbJMUVNEtg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_x40SYO9HEdytFa01gNyMbA"
+                name="practices_in_the_umf" guid="_x40SYO9HEdytFa01gNyMbA" presentationName="Practices in the UMF"
+                briefDescription="This guideline describes how practices are handled in the Unified Method Framework (UMF), including both practice element definitions and assignments."
+                guidelines="_PPjo4PF3EdyPreM_8XDeJA _W44bEMeQEdyDDM3XyGAKxw _k2ahIO9JEdytFa01gNyMbA _Arih4MdeEdySeI1LYmvOGg _eWJtwPRaEdy6Y8ced-PvYw">
+              <presentation xmi:id="-LitgyJwWrDfeetHIMxUddg" href="uma://-LitgyJwWrDfeetHIMxUddg#-LitgyJwWrDfeetHIMxUddg"/>
+              <conceptsAndPapers href="#_nrrn4GqHEdun45RPFGeYnA"/>
+              <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_vgjh4PG1EdyO9sYxKNWf8A"/>
+              <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_rlrykJcbEd2sTqxclDgvog"/>
+              <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#__428YO6cEdygKbJMUVNEtg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_Arih4MdeEdySeI1LYmvOGg"
+                name="roles_in_the_umf" guid="_Arih4MdeEdySeI1LYmvOGg" presentationName="Roles in the UMF"
+                briefDescription="This guideline describes how roles are handled in the Unified Method Framework (UMF), including both role definitions and role assignments."
+                guidelines="_PPjo4PF3EdyPreM_8XDeJA">
+              <presentation xmi:id="-RRHbkHbSeBagrEPa6ofdcA" href="uma://-RRHbkHbSeBagrEPa6ofdcA#-RRHbkHbSeBagrEPa6ofdcA"/>
+              <conceptsAndPapers href="#_nrrn4GqHEdun45RPFGeYnA"/>
+              <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_vgjh4PG1EdyO9sYxKNWf8A"/>
+              <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#__428YO6cEdygKbJMUVNEtg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_W44bEMeQEdyDDM3XyGAKxw"
+                name="std_cats_in_the_umf" guid="_W44bEMeQEdyDDM3XyGAKxw" presentationName="Standard Categories in the UMF"
+                briefDescription="This guideline provides some recommendations on how to define and use standard categories in the Unified Method Framewok (UMF)."
+                guidelines="_PPjo4PF3EdyPreM_8XDeJA _Arih4MdeEdySeI1LYmvOGg _k2ahIO9JEdytFa01gNyMbA">
+              <presentation xmi:id="-whD1fyoJj6MqOs2NEQAi9Q" href="uma://-whD1fyoJj6MqOs2NEQAi9Q#-whD1fyoJj6MqOs2NEQAi9Q"/>
+              <conceptsAndPapers href="#_nrrn4GqHEdun45RPFGeYnA"/>
+              <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_vgjh4PG1EdyO9sYxKNWf8A"/>
+              <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_rlrykJcbEd2sTqxclDgvog"/>
+              <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#__428YO6cEdygKbJMUVNEtg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_k2ahIO9JEdytFa01gNyMbA"
+                name="tool_info_in_the_umf" guid="_k2ahIO9JEdytFa01gNyMbA" presentationName="Tool Information in the UMF"
+                briefDescription="This guideline describes how tools and tool mentors are handled in the Unified Method Framework (UMF), including both definitions and assignments.">
+              <presentation xmi:id="-oBJKsYIguSvezdKxWsW73g" href="uma://-oBJKsYIguSvezdKxWsW73g#-oBJKsYIguSvezdKxWsW73g"/>
+              <conceptsAndPapers href="#_nrrn4GqHEdun45RPFGeYnA"/>
+              <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_vgjh4PG1EdyO9sYxKNWf8A"/>
+              <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_rlrykJcbEd2sTqxclDgvog"/>
+              <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#__428YO6cEdygKbJMUVNEtg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_EQiuAPTiEdysQswc_A-Z6g"
+                name="umf_approved_acronyms" guid="_EQiuAPTiEdysQswc_A-Z6g" presentationName="UMF Approved Acronyms"
+                briefDescription="This guideline provides the approved list of acronyms that can be used within the Unified Method Framework (UMF)."
+                conceptsAndPapers="_nrrn4GqHEdun45RPFGeYnA">
+              <presentation xmi:id="-WDFHV9BjTj55evuBQz9SXg" href="uma://-WDFHV9BjTj55evuBQz9SXg#-WDFHV9BjTj55evuBQz9SXg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_EU58MMVkEdysMqkA3CCYsg"
+                name="umf_naming_conventions" guid="_EU58MMVkEdysMqkA3CCYsg" presentationName="UMF Naming Conventions"
+                briefDescription="This guideline describes the naming conventions for naming method elements in the Unified Method Framework (UMF).">
+              <presentation xmi:id="-V60xni_uGxBI53smjBJx8Q" href="uma://-V60xni_uGxBI53smjBJx8Q#-V60xni_uGxBI53smjBJx8Q"/>
+              <conceptsAndPapers href="#_nrrn4GqHEdun45RPFGeYnA"/>
+              <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_1gchoO6dEdygKbJMUVNEtg"/>
+              <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#__428YO6cEdygKbJMUVNEtg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_eWJtwPRaEdy6Y8ced-PvYw"
+                name="work_product_slots_in_the_umf" guid="_eWJtwPRaEdy6Y8ced-PvYw"
+                presentationName="Work Product Slots in the UMF" briefDescription="This guideline provides guidelines on how to define work product slots in the Unified Method Framework (UMF).">
+              <presentation xmi:id="-ZCOYju4CnqEohhjcZYgK5w" href="uma://-ZCOYju4CnqEohhjcZYgK5w#-ZCOYju4CnqEohhjcZYgK5w"/>
+              <conceptsAndPapers href="#_nrrn4GqHEdun45RPFGeYnA"/>
+              <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_Er1OcJIfEdybeduord13cg"/>
+              <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#__428YO6cEdygKbJMUVNEtg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="__i43oDGHEdyYtoht8AwS3g"
+                name="categorizing_method_elements_using_std_cats.umf" guid="__i43oDGHEdyYtoht8AwS3g"
+                variabilityType="contributes" conceptsAndPapers="_nrrn4GqHEdun45RPFGeYnA"
+                guidelines="_W44bEMeQEdyDDM3XyGAKxw">
+              <presentation xmi:id="-4jwQ0ggFiDlKO8M_Ic8k_g" href="uma://-4jwQ0ggFiDlKO8M_Ic8k_g#-4jwQ0ggFiDlKO8M_Ic8k_g"/>
+              <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Guideline"
+                  href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_thsRIMjnEdyoXMhaXAJ-6g"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_JOtacPCrEdy08JMeAp07qw"
+                name="defining_navigation_views.umf" guid="_JOtacPCrEdy08JMeAp07qw"
+                variabilityType="contributes" conceptsAndPapers="_nrrn4GqHEdun45RPFGeYnA"
+                guidelines="_apOmQMj7EdyoXMhaXAJ-6g">
+              <presentation xmi:id="-5uzpkBBo2_vgb-PwOAWljw" href="uma://-5uzpkBBo2_vgb-PwOAWljw#-5uzpkBBo2_vgb-PwOAWljw"/>
+              <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Guideline"
+                  href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_67agUEyEEdu4NY1n_hCY0w"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_DqkuACYVEd2Hqsxn1d0Dyg"
+                name="defining_plugins.umf" guid="_DqkuACYVEd2Hqsxn1d0Dyg" variabilityType="contributes"
+                guidelines="_EU58MMVkEdysMqkA3CCYsg _OLr2MFizEd2AFZhgf_Sb-A _YPoMoPUkEdyNMvgj607huw">
+              <presentation xmi:id="-EQlmHMsshY6NViTClndYrw" href="uma://-EQlmHMsshY6NViTClndYrw#-EQlmHMsshY6NViTClndYrw"/>
+              <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Guideline"
+                  href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_OIOSQF_zEduYvI5nsNyVYA"/>
+              <conceptsAndPapers href="#_nrrn4GqHEdun45RPFGeYnA"/>
+              <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_rlrykJcbEd2sTqxclDgvog"/>
+              <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#__428YO6cEdygKbJMUVNEtg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_GuQsACYWEd2Hqsxn1d0Dyg"
+                name="method_element_naming_conventions.umf" guid="_GuQsACYWEd2Hqsxn1d0Dyg"
+                variabilityType="contributes" conceptsAndPapers="_nrrn4GqHEdun45RPFGeYnA"
+                guidelines="_EU58MMVkEdysMqkA3CCYsg">
+              <presentation xmi:id="-DdydLatKDNyYUAJz--u2aA" href="uma://-DdydLatKDNyYUAJz--u2aA#-DdydLatKDNyYUAJz--u2aA"/>
+              <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Guideline"
+                  href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_lAphAF5-EduT-Px7fh0LSg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_xHwoMCYWEd2Hqsxn1d0Dyg"
+                name="trademarks_and_copyrights.umf" guid="_xHwoMCYWEd2Hqsxn1d0Dyg"
+                variabilityType="contributes" conceptsAndPapers="_nrrn4GqHEdun45RPFGeYnA"
+                guidelines="_YPoMoPUkEdyNMvgj607huw">
+              <presentation xmi:id="-JYjMODdxamYOHPOYWDW-Ng" href="uma://-JYjMODdxamYOHPOYWDW-Ng#-JYjMODdxamYOHPOYWDW-Ng"/>
+              <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Guideline"
+                  href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_OxsfkH8MEdu_ipWWZJimvQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_iscZQFdaEd2N4vZAlUIPvw"
+                name="customizing_method_content_elements.umf" guid="_iscZQFdaEd2N4vZAlUIPvw"
+                variabilityType="contributes" guidelines="_Arih4MdeEdySeI1LYmvOGg _W44bEMeQEdyDDM3XyGAKxw __BMv0JorEd2fi9zUq_rRtg">
+              <presentation xmi:id="-iTPO0H4tvnOfOsj5p1xzLw" href="uma://-iTPO0H4tvnOfOsj5p1xzLw#-iTPO0H4tvnOfOsj5p1xzLw"/>
+              <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Guideline"
+                  href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_5cHsoFJsEd2SzrMjC_svdw"/>
+              <conceptsAndPapers href="#_nrrn4GqHEdun45RPFGeYnA"/>
+              <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_rlrykJcbEd2sTqxclDgvog"/>
+              <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#__428YO6cEdygKbJMUVNEtg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_OLr2MFizEd2AFZhgf_Sb-A"
+                name="release_info_in_the_umf" guid="_OLr2MFizEd2AFZhgf_Sb-A" presentationName="Release Information in the UMF"
+                briefDescription="This guideline describes how release information is handled in the Unified Method Framework (UMF).">
+              <presentation xmi:id="-3XliwUXDznCtaDeMiP0XYw" href="uma://-3XliwUXDznCtaDeMiP0XYw#-3XliwUXDznCtaDeMiP0XYw"/>
+              <conceptsAndPapers href="#_nrrn4GqHEdun45RPFGeYnA"/>
+              <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_vgjh4PG1EdyO9sYxKNWf8A"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_h6cDUFi0Ed2AFZhgf_Sb-A"
+                name="maintaining_change_histories_and_version_numbers.umf" guid="_h6cDUFi0Ed2AFZhgf_Sb-A"
+                variabilityType="contributes" conceptsAndPapers="_nrrn4GqHEdun45RPFGeYnA"
+                guidelines="_OLr2MFizEd2AFZhgf_Sb-A">
+              <presentation xmi:id="-Ft9t1zRt5ZL4D1gW7f8mSA" href="uma://-Ft9t1zRt5ZL4D1gW7f8mSA#-Ft9t1zRt5ZL4D1gW7f8mSA"/>
+              <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Guideline"
+                  href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_k91OkFpBEdutiI3y4Hpy9Q"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_I0aCUGVSEd2sEeXQllKBcA"
+                name="practice_lib_plugin_types.umf" guid="_I0aCUGVSEd2sEeXQllKBcA"
+                variabilityType="contributes">
+              <presentation xmi:id="-n2rq5P3Y8Gb-AcFTHibPsQ" href="uma://-n2rq5P3Y8Gb-AcFTHibPsQ#-n2rq5P3Y8Gb-AcFTHibPsQ"/>
+              <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Concept" href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#__428YO6cEdygKbJMUVNEtg"/>
+              <conceptsAndPapers href="#_nrrn4GqHEdun45RPFGeYnA"/>
+              <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_vgjh4PG1EdyO9sYxKNWf8A"/>
+              <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_Er1OcJIfEdybeduord13cg"/>
+              <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_rlrykJcbEd2sTqxclDgvog"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_l4YZUJuAEd2fi9zUq_rRtg"
+                name="customizing_processes.umf" guid="_l4YZUJuAEd2fi9zUq_rRtg" variabilityType="contributes"
+                guidelines="__BMv0JorEd2fi9zUq_rRtg">
+              <presentation xmi:id="-thGnnb0nXo2SGJ4Nxdc2tw" href="uma://-thGnnb0nXo2SGJ4Nxdc2tw#-thGnnb0nXo2SGJ4Nxdc2tw"/>
+              <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Guideline"
+                  href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_5cHsoFJsEd2SzrMjC_svdw"/>
+              <conceptsAndPapers href="#_nrrn4GqHEdun45RPFGeYnA"/>
+              <conceptsAndPapers href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#__428YO6cEdygKbJMUVNEtg"/>
+            </contentElements>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6S75YIJPEd2sTeTIQhu12Q"
+              name="umf_examples" guid="_6S75YIJPEd2sTeTIQhu12Q" presentationName="UMF Examples"
+              briefDescription="This packge contains examples of elements in the Unified Method Framework (UMF).">
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_Eu0CYIJQEd2sTeTIQhu12Q"
+                name="delayed_assignment_in_the_umf.ex" guid="_Eu0CYIJQEd2sTeTIQhu12Q"
+                variabilityType="contributes" variabilityBasedOnElement="_PPjo4PF3EdyPreM_8XDeJA"
+                examples="_JoLlEIJQEd2sTeTIQhu12Q">
+              <presentation xmi:id="-FMGY0KH8RrxBT37vP9Hx3g" href="uma://-FMGY0KH8RrxBT37vP9Hx3g#-FMGY0KH8RrxBT37vP9Hx3g"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Example" xmi:id="_JoLlEIJQEd2sTeTIQhu12Q"
+                name="umf_assign_plugin_example" guid="_JoLlEIJQEd2sTeTIQhu12Q" presentationName="UMF Assign Plug-In Example">
+              <presentation xmi:id="-0EHLiQw1MRgoQJ1gBEJBlw" href="uma://-0EHLiQw1MRgoQJ1gBEJBlw#-0EHLiQw1MRgoQJ1gBEJBlw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Example" xmi:id="_g6rj8IKMEd2NQYBY1jUNtw"
+                name="umf_practice_base_plugin_example" guid="_g6rj8IKMEd2NQYBY1jUNtw"
+                presentationName="UMF Practice Base Plug-In Example">
+              <presentation xmi:id="-DXMJHQTwm485QzYyc5YxCg" href="uma://-DXMJHQTwm485QzYyc5YxCg#-DXMJHQTwm485QzYyc5YxCg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_iW84MIKNEd2NQYBY1jUNtw"
+                name="practices_in_the_umf.ex" guid="_iW84MIKNEd2NQYBY1jUNtw" variabilityType="contributes"
+                variabilityBasedOnElement="_x40SYO9HEdytFa01gNyMbA" examples="_g6rj8IKMEd2NQYBY1jUNtw">
+              <presentation xmi:id="-Yc7uf-LNH5LKATmoeglQGg" href="uma://-Yc7uf-LNH5LKATmoeglQGg#-Yc7uf-LNH5LKATmoeglQGg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_iO0kMIK_Ed2NQYBY1jUNtw"
+                name="copyrights_in_the_umf.ex" guid="_iO0kMIK_Ed2NQYBY1jUNtw" variabilityType="contributes"
+                variabilityBasedOnElement="_YPoMoPUkEdyNMvgj607huw" examples="_tIpNcIK_Ed2NQYBY1jUNtw">
+              <presentation xmi:id="-DjAjJ8QGkN8BGhwFd4kmug" href="uma://-DjAjJ8QGkN8BGhwFd4kmug#-DjAjJ8QGkN8BGhwFd4kmug"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Example" xmi:id="_tIpNcIK_Ed2NQYBY1jUNtw"
+                name="umf_release_copyright_example" guid="_tIpNcIK_Ed2NQYBY1jUNtw"
+                presentationName="UMF Release Copyright Example">
+              <presentation xmi:id="-kvx4fZh-okGwrrR97ptiuQ" href="uma://-kvx4fZh-okGwrrR97ptiuQ#-kvx4fZh-okGwrrR97ptiuQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_rznpUILBEd2NQYBY1jUNtw"
+                name="std_cats_in_the_umf.ex" guid="_rznpUILBEd2NQYBY1jUNtw" variabilityType="contributes"
+                variabilityBasedOnElement="_W44bEMeQEdyDDM3XyGAKxw" examples="_ttZ0cILMEd2NQYBY1jUNtw">
+              <presentation xmi:id="-3hmfITB_xoJJIqtVIxsDgw" href="uma://-3hmfITB_xoJJIqtVIxsDgw#-3hmfITB_xoJJIqtVIxsDgw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Example" xmi:id="_ttZ0cILMEd2NQYBY1jUNtw"
+                name="umf_cat_def_base_plugin_example" guid="_ttZ0cILMEd2NQYBY1jUNtw"
+                presentationName="UMF Category Definition Base Plug-In Example">
+              <presentation xmi:id="-d24dOdho133hM6LJr2gtWg" href="uma://-d24dOdho133hM6LJr2gtWg#-d24dOdho133hM6LJr2gtWg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Example" xmi:id="_bCZb8ILOEd2NQYBY1jUNtw"
+                name="umf_role_def_base_plugin_example" guid="_bCZb8ILOEd2NQYBY1jUNtw"
+                presentationName="UMF Role Definition Base Plug-In Example">
+              <presentation xmi:id="-Tsss2Gtud62ZpqJNebcGnA" href="uma://-Tsss2Gtud62ZpqJNebcGnA#-Tsss2Gtud62ZpqJNebcGnA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_i7IdUILPEd2NQYBY1jUNtw"
+                name="roles_in_the_umf.ex" guid="_i7IdUILPEd2NQYBY1jUNtw" variabilityType="contributes"
+                variabilityBasedOnElement="_Arih4MdeEdySeI1LYmvOGg" examples="_bCZb8ILOEd2NQYBY1jUNtw">
+              <presentation xmi:id="-jSd1cEE63s3_hsCFlVgAcw" href="uma://-jSd1cEE63s3_hsCFlVgAcw#-jSd1cEE63s3_hsCFlVgAcw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_B0Fv4IMPEd2QVrMx9wDJQQ"
+                name="tool_info_in_the_umf.ex" guid="_B0Fv4IMPEd2QVrMx9wDJQQ" variabilityType="contributes"
+                variabilityBasedOnElement="_k2ahIO9JEdytFa01gNyMbA" examples="_Nq3JkIMPEd2QVrMx9wDJQQ">
+              <presentation xmi:id="-_3erUaD4Z5IGk_Dy6TFFjA" href="uma://-_3erUaD4Z5IGk_Dy6TFFjA#-_3erUaD4Z5IGk_Dy6TFFjA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Example" xmi:id="_Nq3JkIMPEd2QVrMx9wDJQQ"
+                name="umf_tool_info_example" guid="_Nq3JkIMPEd2QVrMx9wDJQQ" presentationName="UMF Tool Information Example">
+              <presentation xmi:id="-lkEoUtQVjlcG0jqKkReu8Q" href="uma://-lkEoUtQVjlcG0jqKkReu8Q#-lkEoUtQVjlcG0jqKkReu8Q"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Example" xmi:id="_GH_qsIMzEd2QVrMx9wDJQQ"
+                name="umf_nav_view_example" guid="_GH_qsIMzEd2QVrMx9wDJQQ" presentationName="UMF Navigation View Example">
+              <presentation xmi:id="-o8VsXB3dfgCwC_abptAnDw" href="uma://-o8VsXB3dfgCwC_abptAnDw#-o8VsXB3dfgCwC_abptAnDw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_R3nhQIM4Ed2QVrMx9wDJQQ"
+                name="navigation_views_in_the_umf.ex" guid="_R3nhQIM4Ed2QVrMx9wDJQQ"
+                variabilityType="contributes" variabilityBasedOnElement="_apOmQMj7EdyoXMhaXAJ-6g">
+              <presentation xmi:id="-2Ejo-tFQ0xDJu1oaqLhiPg" href="uma://-2Ejo-tFQ0xDJu1oaqLhiPg#-2Ejo-tFQ0xDJu1oaqLhiPg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_5gbCAIM5Ed2QVrMx9wDJQQ"
+                name="practice_configs_in_the_umf.ex" guid="_5gbCAIM5Ed2QVrMx9wDJQQ"
+                variabilityType="contributes" variabilityBasedOnElement="_PBhxIO9MEdytFa01gNyMbA"
+                examples="_MWqvQIM6Ed2QVrMx9wDJQQ">
+              <presentation xmi:id="-FAaHexe-jczQJsMGxeZwZw" href="uma://-FAaHexe-jczQJsMGxeZwZw#-FAaHexe-jczQJsMGxeZwZw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Example" xmi:id="_MWqvQIM6Ed2QVrMx9wDJQQ"
+                name="umf_practice_config_example" guid="_MWqvQIM6Ed2QVrMx9wDJQQ"
+                presentationName="UMF Practice Configuration Example">
+              <presentation xmi:id="-CpR_S5XKVd60uvKNCQbHKA" href="uma://-CpR_S5XKVd60uvKNCQbHKA#-CpR_S5XKVd60uvKNCQbHKA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_FdZQsINCEd2QVrMx9wDJQQ"
+                name="work_product_slots_in_the_umf.ex" guid="_FdZQsINCEd2QVrMx9wDJQQ"
+                variabilityType="contributes" variabilityBasedOnElement="_eWJtwPRaEdy6Y8ced-PvYw"
+                examples="_dG54oINCEd2QVrMx9wDJQQ">
+              <presentation xmi:id="-8GP1MvkRzbjEkXgGl6MFew" href="uma://-8GP1MvkRzbjEkXgGl6MFew#-8GP1MvkRzbjEkXgGl6MFew"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Example" xmi:id="_dG54oINCEd2QVrMx9wDJQQ"
+                name="umf_work_product_slot_example" guid="_dG54oINCEd2QVrMx9wDJQQ"
+                presentationName="UMF Work Product Slot Example">
+              <presentation xmi:id="-zCGnZekc_csrj0vphC31Xg" href="uma://-zCGnZekc_csrj0vphC31Xg#-zCGnZekc_csrj0vphC31Xg"/>
+            </contentElements>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_nrrn4GqHEdun45RPFGeYnA"
+              name="umf" guid="_nrrn4GqHEdun45RPFGeYnA" presentationName="Unified Method Framework (UMF)"
+              briefDescription="The Unified Method Framework (UMF) is a practice framework in which different practices from many different contexts and developed by many different organizations can co-exist, sharing a common infrastructure.&#xD;&#xA;">
+            <presentation xmi:id="-B6nujkQwc_jcqftjJN3aqg" href="uma://-B6nujkQwc_jcqftjJN3aqg#-B6nujkQwc_jcqftjJN3aqg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="__BMv0JorEd2fi9zUq_rRtg"
+              name="requesting_change_to_umf" guid="__BMv0JorEd2fi9zUq_rRtg" presentationName="Requesting a Change to the Unified Method Framework"
+              briefDescription="This guideline describes the process for requesting a change to elements that are part of the Unified Method Framework (UMF)."
+              supportingMaterials="_skPXU1RFEd2CWscN8Mx6rg" conceptsAndPapers="_nrrn4GqHEdun45RPFGeYnA">
+            <presentation xmi:id="-isLXjmHT0-fKteWSTbd2_A" href="uma://-isLXjmHT0-fKteWSTbd2_A#-isLXjmHT0-fKteWSTbd2_A"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_TQMyDQyNEd2RbdLDHU6BqQ"
+          name="CapabilityPatterns" guid="_TQMyDQyNEd2RbdLDHU6BqQ"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_TQMyDgyNEd2RbdLDHU6BqQ"
+        name="DeliveryProcesses" guid="_TQMyDgyNEd2RbdLDHU6BqQ"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_TQMyDwyNEd2RbdLDHU6BqQ"
+        name="ProcessContributions" guid="_TQMyDwyNEd2RbdLDHU6BqQ"/>
+    <bases href="uma://_HQW1wAvmEd2Z4aGiwM2NOA#_HQW1wAvmEd2Z4aGiwM2NOA"/>
+    <bases href="uma://_vsno4EKmEdyrauqpmnA8jQ#_vsno4EKmEdyrauqpmnA8jQ"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-BM4ojokYczyHhUGq2ABN_w"
+    name="new_guideline,_cJbBkCAhEdy1y5bWsXfCCg" guid="-BM4ojokYczyHhUGq2ABN_w" changeDate="2008-10-16T12:20:55.719-0700"
+    version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    In general, all noncontributing method elements&amp;nbsp;need a brief description. A brief description provides a one or&#xD;
+    two sentence description of what the element is (in other words, what content the element contains).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Brief descriptions should be written at the time the element is identified.&amp;nbsp;A well-written description is&#xD;
+    important because if you find it hard to describe what an element is, it may not be a good element&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Follow these guidelines when developing method element brief descriptions:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Do not include presentation names in brief descriptions because that makes it harder to change the presentation&#xD;
+        name. Instead, refer to &quot;this &amp;lt;element type&amp;gt;&quot;, where &amp;lt;element type&amp;gt; is the type of method element. For&#xD;
+        example, “this role”... or “this guidance&quot;.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Do not state the obvious. The brief description should not just repeat what can be understood from the element type&#xD;
+        and the presentation name. For example, for Concept: Pattern, don't just say, &quot;This concept describes what a&#xD;
+        Pattern is&quot;.&amp;nbsp;Such information does not provide any value.&amp;nbsp;Instead,&amp;nbsp;provide a one or two sentence&#xD;
+        summary of what the element contains.&amp;nbsp;For example, &quot;This concept describes&amp;nbsp;s generalized solution that&#xD;
+        can be implemented and applied in a problem situation (a context) and thereby eliminate one or more of the inherent&#xD;
+        problems.&quot;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Avoid repeating the brief description in other fields of the method element. If there is nothing more to add to&#xD;
+        what is in the brief description, then omit the other description fields.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Make sure that there is a period at the end of the brief description.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Check for general spelling and spacing errors.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

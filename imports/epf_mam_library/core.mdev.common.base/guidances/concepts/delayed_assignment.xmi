@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-KMs0edThk3xs9MAS7GAxng"
+    name="delayed_assignment,_rlrykJcbEd2sTqxclDgvog" guid="-KMs0edThk3xs9MAS7GAxng"
+    changeDate="2008-10-11T02:16:37.125-0700" version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    Delayed assignment is also sometimes referred to as &quot;late&quot; assignment.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    There are two common types of delayed assignment, delayed role assignment and delayed category assignment.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    Delayed role assignment&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Roles are assigned to tasks as the performing role and to work products as the role that is responsible for the work&#xD;
+    product.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Delayed role assignment is where the assignment of a role to a task or work product is not done where the task or the&#xD;
+    work product is defined. The result is that the roles can be swapped out without changing the tasks or the work&#xD;
+    products. This supports the customization of the method to support a specific organization or set of governance&#xD;
+    policies.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Specifically, when delayed role assignment is used:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The base definition of a task should not refer to specific performing role(s)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The base definition of a work product should not refer to specific responsible role&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The base definition of a role should not refer to being responsible for specific work product(s) and/or refer to&#xD;
+        specific performed task(s).&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Delayed role assignment affects both the structuring of the method (relationships between elements) and the detailing&#xD;
+    of method elements (hyperlinks in the text).&amp;nbsp;Specifically, when delayed role assignment is used:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        (structure) Performing roles are assigned separate from the base task definition.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        (structure) Responsible roles are assigned separate from the base role definition.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        (detail) Work products are written without referencing a specific responsible role.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        (detail) Tasks are written without referencing specific performing role(s).&amp;nbsp;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        (detail) Roles are written without referencing specific tasks and/or work products.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        (detail) Instead of referring to a specific role, you can refer to the skills or competencies needed.&amp;nbsp;If a&#xD;
+        role must be mentioned, use a generic role name (in lower case) that is easily understood.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;h3>&#xD;
+    Delayed standard category assignment&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Delayed standard category assignment is an approach where method elements are defined without referencing a specific&#xD;
+    standard category in order to make it easier to define alternate categorization schemes (i.e., different domains,&#xD;
+    disciplines, etc).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    When&amp;nbsp;delayed standard category assignment&amp;nbsp;is used, assignment of elements to standard categories is not done&#xD;
+    in the base method element definition.&amp;nbsp;The assignments can be defined in sub-packages in the same plug-in as the&#xD;
+    element or in a completely separate plug-in.&amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

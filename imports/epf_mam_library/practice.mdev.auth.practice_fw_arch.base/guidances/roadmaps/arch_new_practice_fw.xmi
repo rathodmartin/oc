@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-zZPcw9iOoTQ7pIvTf80zjg"
+    name="new_roadmap,_eV2FoKEKEd2bTrLTU21QBw" guid="-zZPcw9iOoTQ7pIvTf80zjg" changeDate="2008-11-03T05:06:04.984-0800"
+    version="7.5.0">
+  <mainDescription>&lt;p>&#xD;
+    Architecting a new&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_fw_6DA4D54D.html&quot;&#xD;
+    guid=&quot;__LjaEFQsEd2uvIuuFjd1Fg&quot;>Practice Framework&lt;/a>&amp;nbsp;involves prototyping the framework, structuring the core&#xD;
+    framework elements&amp;nbsp;and detailing the core framework elements. The core framework elements are those elements that&#xD;
+    are shared across the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/concepts/practice_F5C8EAAB.html&quot;&#xD;
+    guid=&quot;_qhCTAFRREd2CWscN8Mx6rg&quot;>Practice&lt;/a>s in the framework. Specifically, the following are the key activities when&#xD;
+    architecting a new practice framework:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Depending on the &quot;newness&quot; and/or complexity of the intended practice framework, you may decide to do some simple&#xD;
+        sketching (&lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.base/guidances/guidelines/sketching_a_method_2F123CAB.html&quot;&#xD;
+        guid=&quot;_h3njMAU1EdyxoIOVWQ896Q&quot;>Guideline: Sketching a Method&lt;/a>) or&amp;nbsp;some actual prototyping using your&#xD;
+        implementation environment&amp;nbsp;(&lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.base/guidances/guidelines/developing_a_method_proof_of_concept_600F057D.html&quot;&#xD;
+        guid=&quot;_dEp88AqQEd2ffKRm_DXTyQ&quot;>Guideline: Developing a Method Proof-of-Concept&lt;/a>).&amp;nbsp;&lt;br />&#xD;
+        &amp;nbsp;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Once you feel comfortable with the scope, general &quot;shape&quot; and technical feasibility&amp;nbsp;of what you are building,&#xD;
+        it is time to capture the practice&amp;nbsp;framework more formally, including the structuring of the framework core(&lt;a&#xD;
+        class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../practice.mdev.auth.practice_fw_arch.base/guidances/guidelines/structuring_practice_fw_core_DAFC8B06.html&quot;&#xD;
+         guid=&quot;_InSicKmlEd2eRp4Z7dEEOQ&quot;>Guideline: Structuring the Practice Framework Core&lt;/a>) and the capturing the key&#xD;
+        architectural decisions (&lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../practice.mdev.auth.practice_fw_arch.base/guidances/guidelines/documenting_practice_fw_arch_5928FB90.html&quot;&#xD;
+         guid=&quot;_WLs-UKnUEd2eRp4Z7dEEOQ&quot;>Guideline: Documenting the Practice Framework Architecture&lt;/a>).&amp;nbsp;&lt;br />&#xD;
+        &amp;nbsp;&amp;nbsp;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Once the practice framework architecture is established, you can turn your attention to detailing the core method&#xD;
+        elements (&lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../practice.mdev.auth.practice_fw_arch.base/guidances/guidelines/detailing_practice_fw_core_FBF5DA89.html&quot;&#xD;
+         guid=&quot;_CMqMgEBWEd2Tod2_aY551g&quot;>Guideline: Detailing Practice Framework Core&lt;/a>).&amp;nbsp; All detailing work must be&#xD;
+        performed within the constraints of the practice framework architecture.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    As you develop the practice framework architecture, it is a good idea to periodically publish the framework&amp;nbsp;(&lt;a&#xD;
+    class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../practice.mdev.auth.practice_fw_arch.base/guidances/guidelines/publishing_practice_fw_362B80FE.html&quot;&#xD;
+    guid=&quot;_fxhE4D_PEd2sFOfPW3Iw5g&quot;>Guideline: Publishing a Practice Framework&lt;/a>) and review&amp;nbsp;the results&amp;nbsp;(&lt;a&#xD;
+    class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/guidelines/reviewing_methods_A10A5BEA.html&quot;&#xD;
+    guid=&quot;_iFoK0MrGEdyOGKOa5tPdeg&quot;>Guideline: Reviewing Methods&lt;/a>) to make sure it appears as expected (&lt;a&#xD;
+    class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../practice.mdev.auth.practice_fw_arch.base/guidances/guidelines/publishing_practice_fw_362B80FE.html&quot;&#xD;
+    guid=&quot;_fxhE4D_PEd2sFOfPW3Iw5g&quot;>Guideline: Publishing a Practice Framework&lt;/a>).&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

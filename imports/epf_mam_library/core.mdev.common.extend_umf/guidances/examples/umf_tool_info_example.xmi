@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-lkEoUtQVjlcG0jqKkReu8Q"
+    name="umf_tool_info__example,_Nq3JkIMPEd2QVrMx9wDJQQ" guid="-lkEoUtQVjlcG0jqKkReu8Q"
+    changeDate="2008-09-30T14:30:25.421-0700" version="7.5.0">
+  <mainDescription>&lt;p>&#xD;
+    Figure 1 is an example of a Tool Definition plug-in. Note the definition of the Method Composer Tool standard category&#xD;
+    in the Standard Categories section&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Figure 1: Tool Definition Plug-In Example&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img alt=&quot;umf_tool_definition_base_plugin_example&quot; src=&quot;./resources/umf_tool_def_base_plugin_ex.gif&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Figure 2 is an example of how&amp;nbsp;practice-specific tool mentors are&amp;nbsp;assigned to a Tool standard category in a&#xD;
+    Practice Base plug-in.&amp;nbsp;Specifically, how to assign the Method Composer tool mentors to the Method Composer Tool&#xD;
+    standard category. The graphic on the left shows the definitions of the tool mentors (in the tool_guidance &amp;gt;&#xD;
+    method_composer package) and the definition of the Tool standard category contributor (in the Standard Categories &amp;gt;&#xD;
+    Tools) section. The graphic on the right shows how the tool mentors are assigned to the tool in the tool contributor&#xD;
+    (the tool standard category &quot;owns&quot; these relationships).&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;table title=&quot;Figure 2: Tool Mentor to Tool Assignment Example&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot; width=&quot;85%&quot;&#xD;
+summary=&quot;tool_mentor_to_tool_assignment_example&quot; border=&quot;1&quot;>&#xD;
+    &lt;caption>&#xD;
+        Figure 2: Tool Mentor to Tool Assignment Example&amp;nbsp;&#xD;
+    &lt;/caption>&#xD;
+    &lt;tbody>&#xD;
+        &lt;tr>&#xD;
+            &lt;td>&#xD;
+                &lt;img alt=&quot;tool_mentor_and_tool_contributor_definitions&quot;&#xD;
+                src=&quot;resources/umf_tool_mentors_to_tool_ex.gif&quot; />&amp;nbsp;&#xD;
+            &lt;/td>&#xD;
+            &lt;td>&#xD;
+                &lt;img alt=&quot;tool_mentors_to_tool_assignment&quot; src=&quot;./resources/umf_tool_mentors_to_tool_ex_part2.gif&quot; />&#xD;
+            &lt;/td>&#xD;
+        &lt;/tr>&#xD;
+    &lt;/tbody>&#xD;
+&lt;/table>&#xD;
+&lt;p>&#xD;
+    Figure 3 shows how the practice-specific tool mentors are&amp;nbsp;associated with practice tasks. Specifically, how to&#xD;
+    associate practice-specific Method Composer tool mentors to practice tasks. The graphic on the left shows the&#xD;
+    definitions of the task contributors (in the tool_guidance &amp;gt; method_composer &amp;gt; Tasks section). The graphic on the&#xD;
+    right shows how a tool contributor is defined to add the &quot;tool to tool mentor&quot; associations&amp;nbsp;(the tool standard&#xD;
+    category &quot;owns&quot; these relationships).&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;table title=&quot;Figure 3: Tool Mentor to Task Association Example&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot; width=&quot;85%&quot;&#xD;
+summary=&quot;tool_mentor_to_task_association_example&quot; border=&quot;1&quot;>&#xD;
+    &lt;caption>&#xD;
+        Figure 3: Tool Mentor to Task Association Example&#xD;
+    &lt;/caption>&#xD;
+    &lt;tbody>&#xD;
+        &lt;tr>&#xD;
+            &lt;td>&#xD;
+                &lt;img alt=&quot;task_contributor_definitions&quot; src=&quot;resources/umf_tool_mentors_to_task_ex.gif&quot; />&#xD;
+            &lt;/td>&#xD;
+            &lt;td>&#xD;
+                &lt;img alt=&quot;tool_mentors_associated_to_contributing task&quot;&#xD;
+                src=&quot;resources/umf_tool_mentors_to_task_ex_part2.gif&quot; />&#xD;
+            &lt;/td>&#xD;
+        &lt;/tr>&#xD;
+    &lt;/tbody>&#xD;
+&lt;/table>&lt;br /></mainDescription>
+</org.eclipse.epf.uma:GuidanceDescription>

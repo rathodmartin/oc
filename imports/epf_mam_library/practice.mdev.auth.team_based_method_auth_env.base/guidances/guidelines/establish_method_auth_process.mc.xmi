@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-GyhCIdsgfj4yQpj5455ODg"
+    name="establish_method_auth_process.mc,_HgxDwF79Ed2iOYW3gie2lw" guid="-GyhCIdsgfj4yQpj5455ODg"
+    changeDate="2008-10-31T06:42:30.437-0800" version="7.5.0">
+  <mainDescription>&lt;p>&#xD;
+    For information on customizing the method authoring process, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.default.tool_def.base/guidances/supportingmaterials/resources_for_customizing_methods_7663A1A6.html&quot;&#xD;
+     guid=&quot;_omneEMX4EduywMSzPTUUwA&quot;>Supporting Material: Resources for Customizing Methods&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

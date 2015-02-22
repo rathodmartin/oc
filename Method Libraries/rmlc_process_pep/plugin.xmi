@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_oK4swPraEeKlqMNsbbcDlQ" guid="_oK4swPraEeKlqMNsbbcDlQ">
+    <resourceDescriptors xmi:id="_D9U48frbEeKlqMNsbbcDlQ" id="-ZbplQvGqkDPsRQrv5t3Apw" uri="workproducttypes/fnfg_pep_work_product_kind.xmi"/>
+    <resourceDescriptors xmi:id="_hS4BMfrcEeKlqMNsbbcDlQ" id="--E8SWsL51qkfOFZpX-z0KA" uri="workproducts/process_uml_openup_diagram.xmi"/>
+    <resourceDescriptors xmi:id="_tSxsQfrdEeKlqMNsbbcDlQ" id="-JufMf-JXNpd1na0MaDPrEg" uri="workproducts/openup_build_out_inventory.xmi"/>
+    <resourceDescriptors xmi:id="_Pw4fMfreEeKlqMNsbbcDlQ" id="-VUHTjB1j35DQaqVvYnHdYQ" uri="workproducts/openup_content.xmi"/>
+    <resourceDescriptors xmi:id="_ygZLMfreEeKlqMNsbbcDlQ" id="-Sil4EHp-xs3O2f3BEwSgUQ" uri="workproducts/openup_content_published_to_local.xmi"/>
+    <resourceDescriptors xmi:id="_V4b20frfEeKlqMNsbbcDlQ" id="-oCUwtuK5TFpRwMO1DqcL0Q" uri="workproducts/openup_content_published_to_test_site.xmi"/>
+    <resourceDescriptors xmi:id="_LgumsfrgEeKlqMNsbbcDlQ" id="-wqhOduX1HyhulXamFvMIjQ" uri="workproducts/openup_site.xmi"/>
+    <resourceDescriptors xmi:id="_93waIfrgEeKlqMNsbbcDlQ" id="-wBJzGAakMboso8mxBk-7gA" uri="workproducts/openup_change_board_record.xmi"/>
+    <resourceDescriptors xmi:id="_GLO2wfriEeKlqMNsbbcDlQ" id="-dhbTBfqKrh-Wt9ussvab-w" uri="guidances/templates/uml_openup_process_template.xmi"/>
+    <resourceDescriptors xmi:id="_R02IwfrjEeKlqMNsbbcDlQ" id="-1WxNB9sf5ugdSESuXekuYg" uri="guidances/templates/openup_inventory_template.xmi"/>
+    <resourceDescriptors xmi:id="_4WP8kfrkEeKlqMNsbbcDlQ" id="-OKJPksopehleBgOK6Fxq6w" uri="guidances/toolmentors/entering_openup_requirements_in_alm.xmi"/>
+    <resourceDescriptors xmi:id="_mvZvwfrmEeKlqMNsbbcDlQ" id="-0GEBDhy6pgcDBC39p0be9Q" uri="guidances/toolmentors/developing_openup_content_in_epfc.xmi"/>
+    <resourceDescriptors xmi:id="__ymPkft3EeK6X-ODr_6b9w" id="-2GBh2IvkpvQJ2vR_1z-s5g" uri="tasks/define_current_process.xmi"/>
+    <resourceDescriptors xmi:id="_u0fTMft4EeK6X-ODr_6b9w" id="-pPz1UDlkl_mVuzsmR5YMpA" uri="tasks/define_future_state_process.xmi"/>
+    <resourceDescriptors xmi:id="_kfYrIft5EeK6X-ODr_6b9w" id="-J-15a1TUZbUOHs9tPUZLEA" uri="tasks/build_process_content_inventory.xmi"/>
+    <resourceDescriptors xmi:id="_XEf94ft6EeK6X-ODr_6b9w" id="-yDC-zm94XnROagH9UWLv8Q" uri="tasks/author_process_content.xmi"/>
+    <resourceDescriptors xmi:id="__lb18Pt6EeK6X-ODr_6b9w" id="-M9lefPm2IshNmtGkBxAklg" uri="tasks/develop_openup_content.xmi"/>
+    <resourceDescriptors xmi:id="_OeFPwPt8EeK6X-ODr_6b9w" id="-7mZ01f-Othn5APfYlAEBzg" uri="tasks/finalize_content_development.xmi"/>
+    <resourceDescriptors xmi:id="_r52xQft8EeK6X-ODr_6b9w" id="-RGKk7X24YQYCrkKdHPeRsA" uri="tasks/publish_to_openup.xmi"/>
+    <resourceDescriptors xmi:id="_KWKzofuGEeK6X-ODr_6b9w" id="-hFNL534cQPCDesfijreknA" uri="roles/consultant.xmi"/>
+    <resourceDescriptors xmi:id="_bCvm8f6tEeK5C4rDjJnEQQ" id="-I3UGHHTl0LkgcEARhGfJJQ" uri="customcategories/pep_roles.xmi"/>
+    <resourceDescriptors xmi:id="_rSwRwf6tEeK5C4rDjJnEQQ" id="-rpm_D82-MuegPzL6fB5O7g" uri="customcategories/pep_tasks.xmi"/>
+    <resourceDescriptors xmi:id="_0dhYMf6tEeK5C4rDjJnEQQ" id="-bIghXEE8Pbf7coS-2ESE-g" uri="customcategories/pep_work_products.xmi"/>
+    <resourceDescriptors xmi:id="_idT7cBAOEeOEMIGDGXUvwA" id="-vKpKNnkXIhM0fb5yYL_lUA" uri="customcategories/pep_custom_category.xmi"/>
+    <resourceDescriptors xmi:id="_M97MQBAPEeOEMIGDGXUvwA" id="-Vg8UBwPb76YKgkurg5y_SA" uri="guidances/supportingmaterials/pep_welcome.xmi"/>
+    <resourceDescriptors xmi:id="_yhDdwBShEeO836dD6FIFvQ" id="-POMCSzkzy3xuwGbevgut7g" uri="rolesets/pep_role_set.xmi"/>
+    <resourceDescriptors xmi:id="_wCI3YBS5EeO836dD6FIFvQ" id="-pH6pHuO0nTswbq3B-jfjXA" uri="guidances/reports/whats_new.xmi"/>
+    <resourceDescriptors xmi:id="_DF6qUBS6EeO836dD6FIFvQ" id="-hpJz24FnE2NKXIFDtQGeHQ" uri="guidances/checklists/release_notes.xmi"/>
+    <resourceDescriptors xmi:id="_DZ2S4BV-EeOODbTkX__Yaw" id="-qcOZ9YEwQvmBD-JlNYwQXQ" uri="customcategories/pep_references.xmi"/>
+    <resourceDescriptors xmi:id="_DL3PUBWAEeOODbTkX__Yaw" id="-y-3vLixbXWPiismnSut-Cw" uri="guidances/concepts/spem.xmi"/>
+    <resourceDescriptors xmi:id="_ni_ZYBWAEeOODbTkX__Yaw" id="-R6HiVHDdcnljtpz_SVlAnw" uri="guidances/reusableassets/spem_pdf.xmi"/>
+    <resourceDescriptors xmi:id="_M1YToBooEeOoOfdStj5Bfw" id="-HezZPsBZq3GKZCN7l-G-9Q" uri="roles/client.xmi"/>
+    <resourceDescriptors xmi:id="_CuEP8BopEeOoOfdStj5Bfw" id="-C9kGgeJGOSGjk0vH1evUQw" uri="roles/subject_matter_expert.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_oKcA0PraEeKlqMNsbbcDlQ" name="rmlc_process_pep" guid="_oKcA0PraEeKlqMNsbbcDlQ" presentationName="RMLC Process: Process Engineering Process" briefDescription="Process Engineering Process" authors="Rakesh D. Rathod" changeDate="2014-05-28T19:50:32.777-0400" changeDescription="Baseline&#x9;" version="1.0">
+    <ownedRules xmi:id="_dn1WAPrgEeKlqMNsbbcDlQ" name="wpState" guid="_dn1WAPrgEeKlqMNsbbcDlQ" briefDescription="Document is approved by those identified in the &quot;Approval&quot; section of the document." body="Approved"/>
+    <ownedRules xmi:id="_ixdI8PrlEeKlqMNsbbcDlQ" name="wpState" guid="_ixdI8PrlEeKlqMNsbbcDlQ" briefDescription="The current UML/OpenUP Diagram of a defined process." body="Current"/>
+    <ownedRules xmi:id="_mSaHMPrlEeKlqMNsbbcDlQ" name="wpState" guid="_mSaHMPrlEeKlqMNsbbcDlQ" briefDescription="The updated UML/OpenUP Diagram of a defined process." body="Future"/>
+    <methodElementProperty xmi:id="_oLB2sPraEeKlqMNsbbcDlQ" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_20OUkObCEeOtwN5haBvvcw" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oKcA0fraEeKlqMNsbbcDlQ" name="Content" guid="_oKcA0fraEeKlqMNsbbcDlQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oKcA0vraEeKlqMNsbbcDlQ" name="Categories" guid="_oKcA0vraEeKlqMNsbbcDlQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oKcA0_raEeKlqMNsbbcDlQ" name="Domains" guid="_oKcA0_raEeKlqMNsbbcDlQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oKcA1PraEeKlqMNsbbcDlQ" name="Disciplines" guid="_oKcA1PraEeKlqMNsbbcDlQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oKlKwPraEeKlqMNsbbcDlQ" name="RoleSets" guid="_oKlKwPraEeKlqMNsbbcDlQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_nPhfIBShEeO836dD6FIFvQ" name="pep_role_set" guid="_nPhfIBShEeO836dD6FIFvQ" presentationName="Roles" roles="_5on4QPuFEeK6X-ODr_6b9w _GlnlwBooEeOoOfdStj5Bfw _tZLWABooEeOoOfdStj5Bfw">
+            <presentation xmi:id="-POMCSzkzy3xuwGbevgut7g" href="uma://-POMCSzkzy3xuwGbevgut7g#-POMCSzkzy3xuwGbevgut7g"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oKlKwfraEeKlqMNsbbcDlQ" name="WP Types" guid="_oKlKwfraEeKlqMNsbbcDlQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:WorkProductType" xmi:id="_64XfkPraEeKlqMNsbbcDlQ" name="fnfg_pep_work_product_kind" guid="_64XfkPraEeKlqMNsbbcDlQ" presentationName="Process Engineering Process Work Products" workProducts="_KZ5eUPrcEeKlqMNsbbcDlQ _DYO88PrdEeKlqMNsbbcDlQ _5XmJAPrdEeKlqMNsbbcDlQ _adxfsPreEeKlqMNsbbcDlQ _HqiNsPrfEeKlqMNsbbcDlQ _bTFhoPrfEeKlqMNsbbcDlQ _M0CosPrgEeKlqMNsbbcDlQ">
+            <presentation xmi:id="-ZbplQvGqkDPsRQrv5t3Apw" href="uma://-ZbplQvGqkDPsRQrv5t3Apw#-ZbplQvGqkDPsRQrv5t3Apw"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oKlKwvraEeKlqMNsbbcDlQ" name="Tools" guid="_oKlKwvraEeKlqMNsbbcDlQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oKlKw_raEeKlqMNsbbcDlQ" name="StandardCategories" guid="_oKlKw_raEeKlqMNsbbcDlQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oKlKxPraEeKlqMNsbbcDlQ" name="CustomCategories" guid="_oKlKxPraEeKlqMNsbbcDlQ">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oKlKxfraEeKlqMNsbbcDlQ" name="Hidden" guid="_oKlKxfraEeKlqMNsbbcDlQ">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_oKlKxvraEeKlqMNsbbcDlQ" name="Custom Categories" guid="_oKlKxvraEeKlqMNsbbcDlQ" categorizedElements="_Z8g_EBAOEeOEMIGDGXUvwA _TQWBoP6tEeK5C4rDjJnEQQ"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_TQWBoP6tEeK5C4rDjJnEQQ" name="pep_roles" guid="_TQWBoP6tEeK5C4rDjJnEQQ" presentationName="Process Engineering Process Roles" briefDescription="The roles listed on this page participate or are responsible for the tasks and activities of the Process Engineering Process." categorizedElements="_5on4QPuFEeK6X-ODr_6b9w _GlnlwBooEeOoOfdStj5Bfw _tZLWABooEeOoOfdStj5Bfw">
+            <presentation xmi:id="-I3UGHHTl0LkgcEARhGfJJQ" href="uma://-I3UGHHTl0LkgcEARhGfJJQ#-I3UGHHTl0LkgcEARhGfJJQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_bvq-YP6tEeK5C4rDjJnEQQ" name="pep_tasks" guid="_bvq-YP6tEeK5C4rDjJnEQQ" presentationName="Tasks" briefDescription="Tasks performed throughout the Process Engineering Process" categorizedElements="_4tI6sPt1EeK6X-ODr_6b9w _dus28Pt4EeK6X-ODr_6b9w _Znt-APt5EeK6X-ODr_6b9w _IEKLMPt6EeK6X-ODr_6b9w _2H6yoPt6EeK6X-ODr_6b9w _vXfLMPt7EeK6X-ODr_6b9w _htx-0Pt8EeK6X-ODr_6b9w">
+            <presentation xmi:id="-rpm_D82-MuegPzL6fB5O7g" href="uma://-rpm_D82-MuegPzL6fB5O7g#-rpm_D82-MuegPzL6fB5O7g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_saUWwP6tEeK5C4rDjJnEQQ" name="pep_work_products" guid="_saUWwP6tEeK5C4rDjJnEQQ" presentationName="Work Products" briefDescription="List of all work products approved for the Process Engineering Process." categorizedElements="_KZ5eUPrcEeKlqMNsbbcDlQ _DYO88PrdEeKlqMNsbbcDlQ _5XmJAPrdEeKlqMNsbbcDlQ _adxfsPreEeKlqMNsbbcDlQ _HqiNsPrfEeKlqMNsbbcDlQ _bTFhoPrfEeKlqMNsbbcDlQ _M0CosPrgEeKlqMNsbbcDlQ">
+            <presentation xmi:id="-bIghXEE8Pbf7coS-2ESE-g" href="uma://-bIghXEE8Pbf7coS-2ESE-g#-bIghXEE8Pbf7coS-2ESE-g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Z8g_EBAOEeOEMIGDGXUvwA" name="pep_custom_category" guid="_Z8g_EBAOEeOEMIGDGXUvwA" presentationName="Process Engineering Process" categorizedElements="_91rawBAOEeOEMIGDGXUvwA _hTZLABS5EeO836dD6FIFvQ _nPhfIBShEeO836dD6FIFvQ _bvq-YP6tEeK5C4rDjJnEQQ _saUWwP6tEeK5C4rDjJnEQQ _3EPBEBV9EeOODbTkX__Yaw">
+            <presentation xmi:id="-vKpKNnkXIhM0fb5yYL_lUA" href="uma://-vKpKNnkXIhM0fb5yYL_lUA#-vKpKNnkXIhM0fb5yYL_lUA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_3EPBEBV9EeOODbTkX__Yaw" name="pep_references" guid="_3EPBEBV9EeOODbTkX__Yaw" presentationName="References" briefDescription="Items in this section provide commonly referenced information." categorizedElements="_G2WO8BV-EeOODbTkX__Yaw">
+            <presentation xmi:id="-qcOZ9YEwQvmBD-JlNYwQXQ" href="uma://-qcOZ9YEwQvmBD-JlNYwQXQ#-qcOZ9YEwQvmBD-JlNYwQXQ"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oKlKx_raEeKlqMNsbbcDlQ" name="CoreContent" guid="_oKlKx_raEeKlqMNsbbcDlQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_a_FkYPrbEeKlqMNsbbcDlQ" name="rmlc_process_pep_content_package" guid="_a_FkYPrbEeKlqMNsbbcDlQ" presentationName="RMLC Process Engineering Process Content Package" briefDescription="Contains method components for the Process Engineering Process process.">
+          <methodElementProperty xmi:id="__vpXcObCEeOtwN5haBvvcw" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_KZ5eUPrcEeKlqMNsbbcDlQ" name="process_uml_openup_diagram" guid="_KZ5eUPrcEeKlqMNsbbcDlQ" presentationName="Process UML/OpenUP Diagram" briefDescription="A UML diagram of the defined process." templates="_OwmmkPrhEeKlqMNsbbcDlQ">
+            <methodElementProperty xmi:id="_mslhwPrlEeKlqMNsbbcDlQ" name="Workproduct_states" value="_ixdI8PrlEeKlqMNsbbcDlQ/_mSaHMPrlEeKlqMNsbbcDlQ"/>
+            <presentation xmi:id="--E8SWsL51qkfOFZpX-z0KA" href="uma://--E8SWsL51qkfOFZpX-z0KA#--E8SWsL51qkfOFZpX-z0KA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_DYO88PrdEeKlqMNsbbcDlQ" name="openup_build_out_inventory" guid="_DYO88PrdEeKlqMNsbbcDlQ" presentationName="OpenUP Build Out Inventory" briefDescription="Content from the Process UML/OpenUP Diagram organized into OpenUP structure." templates="_CNYrsPrjEeKlqMNsbbcDlQ">
+            <presentation xmi:id="-JufMf-JXNpd1na0MaDPrEg" href="uma://-JufMf-JXNpd1na0MaDPrEg#-JufMf-JXNpd1na0MaDPrEg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_5XmJAPrdEeKlqMNsbbcDlQ" name="openup_content" guid="_5XmJAPrdEeKlqMNsbbcDlQ" presentationName="OpenUP Content" briefDescription="The result of the updated UML/OpenUP Diagram content translated as requirements for OpenUP.">
+            <presentation xmi:id="-VUHTjB1j35DQaqVvYnHdYQ" href="uma://-VUHTjB1j35DQaqVvYnHdYQ#-VUHTjB1j35DQaqVvYnHdYQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_adxfsPreEeKlqMNsbbcDlQ" name="openup_content_published_to_local" guid="_adxfsPreEeKlqMNsbbcDlQ" presentationName="OpenUP Content Published to Local" briefDescription="OpenUP Content is published to a local site for testing.">
+            <presentation xmi:id="-Sil4EHp-xs3O2f3BEwSgUQ" href="uma://-Sil4EHp-xs3O2f3BEwSgUQ#-Sil4EHp-xs3O2f3BEwSgUQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_HqiNsPrfEeKlqMNsbbcDlQ" name="openup_content_published_to_test_site" guid="_HqiNsPrfEeKlqMNsbbcDlQ" presentationName="OpenUP Content Published to Test Site" briefDescription="OpenUP content is published to a test site.">
+            <presentation xmi:id="-oCUwtuK5TFpRwMO1DqcL0Q" href="uma://-oCUwtuK5TFpRwMO1DqcL0Q#-oCUwtuK5TFpRwMO1DqcL0Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_bTFhoPrfEeKlqMNsbbcDlQ" name="openup_site" guid="_bTFhoPrfEeKlqMNsbbcDlQ" presentationName="OpenUP Site" briefDescription="OpenUP site contains methodology content for technology based processes.">
+            <presentation xmi:id="-wqhOduX1HyhulXamFvMIjQ" href="uma://-wqhOduX1HyhulXamFvMIjQ#-wqhOduX1HyhulXamFvMIjQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_M0CosPrgEeKlqMNsbbcDlQ" name="openup_change_board_record" guid="_M0CosPrgEeKlqMNsbbcDlQ" presentationName="OpenUP Change Board Record" briefDescription="A Change Board enhancement or fix record.">
+            <methodElementProperty xmi:id="_dn-f8PrgEeKlqMNsbbcDlQ" name="Workproduct_states" value="_dn1WAPrgEeKlqMNsbbcDlQ"/>
+            <presentation xmi:id="-wBJzGAakMboso8mxBk-7gA" href="uma://-wBJzGAakMboso8mxBk-7gA#-wBJzGAakMboso8mxBk-7gA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_OwmmkPrhEeKlqMNsbbcDlQ" name="uml_openup_process_template" guid="_OwmmkPrhEeKlqMNsbbcDlQ" presentationName="UML/OpenUP Process Template" briefDescription="The template used to create UML/OpenUP diagrams.">
+            <presentation xmi:id="-dhbTBfqKrh-Wt9ussvab-w" href="uma://-dhbTBfqKrh-Wt9ussvab-w#-dhbTBfqKrh-Wt9ussvab-w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_CNYrsPrjEeKlqMNsbbcDlQ" name="openup_inventory_template" guid="_CNYrsPrjEeKlqMNsbbcDlQ" presentationName="OpenUP Inventory Template" briefDescription="Template used to develop the inventory of OpenUP content.">
+            <presentation xmi:id="-1WxNB9sf5ugdSESuXekuYg" href="uma://-1WxNB9sf5ugdSESuXekuYg#-1WxNB9sf5ugdSESuXekuYg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_ZlASYPrjEeKlqMNsbbcDlQ" name="entering_openup_requirements_in_alm" guid="_ZlASYPrjEeKlqMNsbbcDlQ" presentationName="Entering OpenUP Requirements in ALM" briefDescription="Tool Mentor describing the process to enter OpenUP requirements in HP ALM. ">
+            <presentation xmi:id="-OKJPksopehleBgOK6Fxq6w" href="uma://-OKJPksopehleBgOK6Fxq6w#-OKJPksopehleBgOK6Fxq6w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_Qqj_kPrmEeKlqMNsbbcDlQ" name="developing_openup_content_in_epfc" guid="_Qqj_kPrmEeKlqMNsbbcDlQ" presentationName="Developing OpenUP Content in EPFC" briefDescription="Describes the process steps to create OpenUP content in the Eclipse Process Framework Composer (EPFC). ">
+            <presentation xmi:id="-0GEBDhy6pgcDBC39p0be9Q" href="uma://-0GEBDhy6pgcDBC39p0be9Q#-0GEBDhy6pgcDBC39p0be9Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_4tI6sPt1EeK6X-ODr_6b9w" name="define_current_process" guid="_4tI6sPt1EeK6X-ODr_6b9w" presentationName="Define Current Process" briefDescription="A definition of the current process by collaborating with Subject Matter Experts and the Domain Owner." performedBy="_5on4QPuFEeK6X-ODr_6b9w" mandatoryInput="_M0CosPrgEeKlqMNsbbcDlQ" output="_KZ5eUPrcEeKlqMNsbbcDlQ">
+            <methodElementProperty xmi:id="_bqOEgOeKEeO31r-ITztwUA" name="me_edited" value="true"/>
+            <presentation xmi:id="-2GBh2IvkpvQJ2vR_1z-s5g" href="uma://-2GBh2IvkpvQJ2vR_1z-s5g#-2GBh2IvkpvQJ2vR_1z-s5g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_dus28Pt4EeK6X-ODr_6b9w" name="define_future_state_process" guid="_dus28Pt4EeK6X-ODr_6b9w" presentationName="Define Future State Process" briefDescription="A definition of the final version of the process, the Future State Process." performedBy="_5on4QPuFEeK6X-ODr_6b9w" mandatoryInput="_KZ5eUPrcEeKlqMNsbbcDlQ" output="_KZ5eUPrcEeKlqMNsbbcDlQ">
+            <presentation xmi:id="-pPz1UDlkl_mVuzsmR5YMpA" href="uma://-pPz1UDlkl_mVuzsmR5YMpA#-pPz1UDlkl_mVuzsmR5YMpA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Znt-APt5EeK6X-ODr_6b9w" name="build_process_content_inventory" guid="_Znt-APt5EeK6X-ODr_6b9w" presentationName="Build Process Content Inventory" briefDescription="The creation of the Process Content Inventory for a Future State Process. " performedBy="_5on4QPuFEeK6X-ODr_6b9w" mandatoryInput="_KZ5eUPrcEeKlqMNsbbcDlQ" output="_DYO88PrdEeKlqMNsbbcDlQ">
+            <methodElementProperty xmi:id="_s4arUOeJEeO31r-ITztwUA" name="me_edited" value="true"/>
+            <presentation xmi:id="-J-15a1TUZbUOHs9tPUZLEA" href="uma://-J-15a1TUZbUOHs9tPUZLEA#-J-15a1TUZbUOHs9tPUZLEA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_IEKLMPt6EeK6X-ODr_6b9w" name="author_process_content" guid="_IEKLMPt6EeK6X-ODr_6b9w" presentationName="Author Process Content" briefDescription="Creation of the process content." conceptsAndPapers="_G2WO8BV-EeOODbTkX__Yaw" performedBy="_5on4QPuFEeK6X-ODr_6b9w" mandatoryInput="_DYO88PrdEeKlqMNsbbcDlQ _KZ5eUPrcEeKlqMNsbbcDlQ" output="_5XmJAPrdEeKlqMNsbbcDlQ" toolMentors="_ZlASYPrjEeKlqMNsbbcDlQ">
+            <methodElementProperty xmi:id="_9sxrUObDEeOtwN5haBvvcw" name="me_edited" value="true"/>
+            <presentation xmi:id="-yDC-zm94XnROagH9UWLv8Q" href="uma://-yDC-zm94XnROagH9UWLv8Q#-yDC-zm94XnROagH9UWLv8Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_2H6yoPt6EeK6X-ODr_6b9w" name="develop_openup_content" guid="_2H6yoPt6EeK6X-ODr_6b9w" presentationName="Develop OpenUP Content" briefDescription="The translation of OpenUP requirements into process content." mandatoryInput="_5XmJAPrdEeKlqMNsbbcDlQ" output="_adxfsPreEeKlqMNsbbcDlQ" toolMentors="_Qqj_kPrmEeKlqMNsbbcDlQ">
+            <presentation xmi:id="-M9lefPm2IshNmtGkBxAklg" href="uma://-M9lefPm2IshNmtGkBxAklg#-M9lefPm2IshNmtGkBxAklg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_vXfLMPt7EeK6X-ODr_6b9w" name="finalize_content_development" guid="_vXfLMPt7EeK6X-ODr_6b9w" presentationName="Finalize Content Development" briefDescription="OpenUP Content is published to test site. " mandatoryInput="_adxfsPreEeKlqMNsbbcDlQ" output="_HqiNsPrfEeKlqMNsbbcDlQ">
+            <presentation xmi:id="-7mZ01f-Othn5APfYlAEBzg" href="uma://-7mZ01f-Othn5APfYlAEBzg#-7mZ01f-Othn5APfYlAEBzg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_htx-0Pt8EeK6X-ODr_6b9w" name="publish_to_openup" guid="_htx-0Pt8EeK6X-ODr_6b9w" presentationName="Publish to OpenUP" briefDescription="The final phase of adding content to OpenUP." mandatoryInput="_adxfsPreEeKlqMNsbbcDlQ" output="_bTFhoPrfEeKlqMNsbbcDlQ">
+            <presentation xmi:id="-RGKk7X24YQYCrkKdHPeRsA" href="uma://-RGKk7X24YQYCrkKdHPeRsA#-RGKk7X24YQYCrkKdHPeRsA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_5on4QPuFEeK6X-ODr_6b9w" name="consultant" guid="_5on4QPuFEeK6X-ODr_6b9w" presentationName="Consultant" briefDescription="The Consultant works with Subject Matter Experts and Clients to create and establish thourough and accurate descriptions of a process. " variabilityType="extendsReplaces" responsibleFor="_KZ5eUPrcEeKlqMNsbbcDlQ _DYO88PrdEeKlqMNsbbcDlQ _5XmJAPrdEeKlqMNsbbcDlQ">
+            <methodElementProperty xmi:id="_ZbLhgObDEeOtwN5haBvvcw" name="me_edited" value="true"/>
+            <presentation xmi:id="-hFNL534cQPCDesfijreknA" href="uma://-hFNL534cQPCDesfijreknA#-hFNL534cQPCDesfijreknA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_91rawBAOEeOEMIGDGXUvwA" name="pep_welcome" guid="_91rawBAOEeOEMIGDGXUvwA" presentationName="Welcome to the Process Engineering Process" nodeicon="guidances/supportingmaterials/resources/FNFG-OpenUP-Logo-PEP.ico">
+            <methodElementProperty xmi:id="_2jqO8PEIEeOnm98nfODLgg" name="me_edited" value="true"/>
+            <presentation xmi:id="-Vg8UBwPb76YKgkurg5y_SA" href="uma://-Vg8UBwPb76YKgkurg5y_SA#-Vg8UBwPb76YKgkurg5y_SA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Report" xmi:id="_hTZLABS5EeO836dD6FIFvQ" name="whats_new" guid="_hTZLABS5EeO836dD6FIFvQ" presentationName="What's New in This Release" briefDescription="The What's New report describes new features, functionality, changes, corrections, etc. for the current release of the Process Engineering Process.">
+            <methodElementProperty xmi:id="_bAn7QPEJEeOnm98nfODLgg" name="me_edited" value="true"/>
+            <presentation xmi:id="-pH6pHuO0nTswbq3B-jfjXA" href="uma://-pH6pHuO0nTswbq3B-jfjXA#-pH6pHuO0nTswbq3B-jfjXA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Checklist" xmi:id="_yVINsBS5EeO836dD6FIFvQ" name="release_notes" guid="_yVINsBS5EeO836dD6FIFvQ" presentationName="Release Notes" briefDescription="Release notes describes changes introduced in previous version of the Process Engineering Process and OpenUP.">
+            <presentation xmi:id="-hpJz24FnE2NKXIFDtQGeHQ" href="uma://-hpJz24FnE2NKXIFDtQGeHQ#-hpJz24FnE2NKXIFDtQGeHQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_G2WO8BV-EeOODbTkX__Yaw" name="spem" guid="_G2WO8BV-EeOODbTkX__Yaw" presentationName="Systems and Software Engineering Process Metamodel (SPEM)" briefDescription="A meta-model to guide methodology authors in organizing and describing process content." assets="_R1WBMBWAEeOODbTkX__Yaw">
+            <presentation xmi:id="-y-3vLixbXWPiismnSut-Cw" href="uma://-y-3vLixbXWPiismnSut-Cw#-y-3vLixbXWPiismnSut-Cw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ReusableAsset" xmi:id="_R1WBMBWAEeOODbTkX__Yaw" name="spem_pdf" guid="_R1WBMBWAEeOODbTkX__Yaw" presentationName="Systems and Software Engineering Process Metamodel (SPEM) Specification" briefDescription="The SPEM specification details the metamodel.">
+            <presentation xmi:id="-R6HiVHDdcnljtpz_SVlAnw" href="uma://-R6HiVHDdcnljtpz_SVlAnw#-R6HiVHDdcnljtpz_SVlAnw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_GlnlwBooEeOoOfdStj5Bfw" name="client" guid="_GlnlwBooEeOoOfdStj5Bfw" presentationName="Client" variabilityType="extendsReplaces" responsibleFor="_5XmJAPrdEeKlqMNsbbcDlQ _KZ5eUPrcEeKlqMNsbbcDlQ">
+            <methodElementProperty xmi:id="_JyyQUObDEeOtwN5haBvvcw" name="me_edited" value="true"/>
+            <presentation xmi:id="-HezZPsBZq3GKZCN7l-G-9Q" href="uma://-HezZPsBZq3GKZCN7l-G-9Q#-HezZPsBZq3GKZCN7l-G-9Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_tZLWABooEeOoOfdStj5Bfw" name="subject_matter_expert" guid="_tZLWABooEeOoOfdStj5Bfw" presentationName="Subject Matter Expert" variabilityType="extendsReplaces" responsibleFor="_KZ5eUPrcEeKlqMNsbbcDlQ">
+            <methodElementProperty xmi:id="_dkrtgObDEeOtwN5haBvvcw" name="me_edited" value="true"/>
+            <presentation xmi:id="-C9kGgeJGOSGjk0vH1evUQw" href="uma://-C9kGgeJGOSGjk0vH1evUQw#-C9kGgeJGOSGjk0vH1evUQw"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_oKlKyPraEeKlqMNsbbcDlQ" name="CapabilityPatterns" guid="_oKlKyPraEeKlqMNsbbcDlQ"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_oKlKyfraEeKlqMNsbbcDlQ" name="DeliveryProcesses" guid="_oKlKyfraEeKlqMNsbbcDlQ"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_oKlKyvraEeKlqMNsbbcDlQ" name="ProcessContributions" guid="_oKlKyvraEeKlqMNsbbcDlQ"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

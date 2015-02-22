@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-4ShPfT0w3eN7xgft4vwUPQ" name=",_gCY5QFo2EeSV2sVK0fHiPA" guid="-4ShPfT0w3eN7xgft4vwUPQ" authors="John Rozsa" changeDate="2014-10-22T17:59:13.385-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>Determine Budget is the process of consolidating the estimated costs of individual activities to establish the cost
+        baseline. It includes all funds authorized to execute the project. This determines the cost baseline where project
+        performance can be monitored and controlled.&lt;br /></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

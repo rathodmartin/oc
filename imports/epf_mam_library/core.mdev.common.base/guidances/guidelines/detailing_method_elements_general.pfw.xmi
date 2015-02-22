@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-_jh-jrwL6I8Q8ATiIh5eeQ"
+    name="new_guideline,_LQ4D8GWCEd2GzPSQD62GCw" guid="-_jh-jrwL6I8Q8ATiIh5eeQ" changeDate="2008-08-08T12:43:59.546-0700"
+    version="7.5.0">
+  <mainDescription>When referring to a specific practice, the name of the practice should be capitalized as it is a specific name.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

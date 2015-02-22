@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-MLDkI5bvaku98zEjU67Npw"
+    name="how_to_adopt_practice_config_auth,_7d3BUFGwEd2DWsgK12YtmA" guid="-MLDkI5bvaku98zEjU67Npw"
+    changeDate="2008-09-29T09:57:38.390-0700" version="7.2.0">
+  <mainDescription>&lt;h3>&#xD;
+    Getting started&amp;nbsp;&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Begin by making sure the team, including the key stakeholders, understands the&amp;nbsp;key concepts and the scenarios.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Practice Configuration Authoring practice assumes that the method authoring environment, including&amp;nbsp;the method&#xD;
+    framework in which the&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_configuration_CC7754F2.html&quot;&#xD;
+    guid=&quot;_0H9aAO7EEdy9EOwDlaw7Kw&quot;>Practice Configuration&lt;/a>&amp;nbsp;is to reside, has been set up. Make sure that all team&#xD;
+    members can access the environment and understand how to use it.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This practice describes how to author a new practice configuration, including any needed &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/termdefinitions/cross_practice_process_5F83B112.html&quot;&#xD;
+    guid=&quot;_9NcfoFJgEd2SzrMjC_svdw&quot;>cross-practice process&lt;/a>es as well as &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/termdefinitions/navigation_view_8F89044.html&quot;&#xD;
+    guid=&quot;_X_hFIPAjEdyHz_B1XFOUgA&quot;>navigation view&lt;/a>s to be used to access the configuration elements. It also supports&#xD;
+    customizing an existing practice configuration:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        To adopt the &quot;author new practice configuration&quot; aspects, start by identifying the practice configuration to be&#xD;
+        authored. It is recommended that the first time you apply this practice that you apply it to author a practice&#xD;
+        configuration where the content to be included in the configuration is well understood and where subject matter&#xD;
+        experts&amp;nbsp;of the practice configuration are part of the authoring team. Author the practice&#xD;
+        configuration&amp;nbsp;incrementally, defining the structure of the configuration first (i.e., the scope and intended&#xD;
+        audience of the configuration, any cross-practice processes, specific navigation views that should be defined),&#xD;
+        followed by the detailing of the practice configuration elements. See&amp;nbsp;&lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../practice.mdev.auth.practice_config_auth.base/guidances/roadmaps/auth_new_practice_config_from_existing_practices_99B797E4.html&quot;&#xD;
+         guid=&quot;_zTFdki3oEd2CiunvJQy6fQ&quot;>Roadmap: Author a New Practice Configuration from Existing Practices&lt;/a>&amp;nbsp;for&#xD;
+        the details.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        To adopt the &quot;customize existing practice configuration&quot; aspects, start by identifying the practice configuration&#xD;
+        you want to customize and how you want to customize it (e.g., do you want to change a process defined in the&#xD;
+        configuration, do you want to change the roles and/or role assignments or the standard categories used in the&#xD;
+        configuration, or do you simply want to change the navigation views for the configuration). It is recommended that&#xD;
+        the first time you apply this practice that you apply it to customize a practice configuration that is well&#xD;
+        understood and where subject matter experts&amp;nbsp;of the practice configuration (and the customization) are part of&#xD;
+        the authoring team. See &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../practice.mdev.auth.practice_config_auth.base/guidances/roadmaps/customize_an_existing_practice_configuration_2642DD24.html&quot;&#xD;
+         guid=&quot;_u5j3MFcqEd2N4vZAlUIPvw&quot;>Roadmap: Customize an Existing Practice Configuration&lt;/a>&amp;nbsp;for the details.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    As you apply the recommendations described in the practice, capture what you have learned, what worked for your team&#xD;
+    and what didn't so that you can continually fine-tune how your team applies the practice.&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    Common pitfalls&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The following are some common pitfalls when adopting this practice.&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Selecting a practice configuration whose content is not well understood as the first practice configuration you&#xD;
+        author. If this is done, more time is spent understanding the practice configuration&amp;nbsp;itself rather than in&#xD;
+        effectively applying the practice techniques.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Spending too much time structuring the practice configuration. If this is done, the time it takes to deliver the&#xD;
+        practice configuration is extended as a lot of time is spent structuring as opposed to just enough to get an&#xD;
+        initial practice configuration out to get feedback, refining the structure, as needed. Try to keep the&#xD;
+        documentation clear and concise. Make sure that the consumers of the practice configuration documentation (the&#xD;
+        development team) are comfortable with the format and content of the documentation. Is there more or different&#xD;
+        information they would like see? Would they like to see less?&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

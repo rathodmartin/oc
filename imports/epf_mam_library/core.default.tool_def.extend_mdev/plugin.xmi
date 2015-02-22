@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_RZKNELgREd2VBqezzK7PZw"
+      guid="_RZKNELgREd2VBqezzK7PZw">
+    <resourceDescriptors xmi:id="_RZT-ELgREd2VBqezzK7PZw" id="-DP2L5JqvXXNfeYRpJZoKSA"
+        uri="guidances/concepts/mam.xmi"/>
+    <resourceDescriptors xmi:id="_RZdvELgREd2VBqezzK7PZw" id="-fV-o0j1iefjmTqFSYVYQ4Q"
+        uri="guidances/supportingmaterials/mam_resources.xmi"/>
+    <resourceDescriptors xmi:id="_RZdvEbgREd2VBqezzK7PZw" id="-q4PRS-cfd4ah9VB_vj5M6w"
+        uri="guidances/supportingmaterials/resources_for_customizing_methods.mam.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_XlEIkF_TEd2zpKtX6B7lBg" name="core.default.tool_def.extend_mdev"
+      guid="_XlEIkF_TEd2zpKtX6B7lBg" presentationName="Method Development Extensions to the Core Tool Definition Plug-In"
+      briefDescription="This plug-in contains the extensions to the core tool definitions that are needed for the Method Development context."
+      authors="Kelli Houston" changeDate="2008-08-01T08:16:56.265-0700" bases="_iVydgENdEdy245g62lfWcA _WCUhAO8KEdmKSqa_gSYthg _fRdVEMYbEdyXeo04os5BOw">
+    <copyrightStatement href="uma://_iVydgENdEdy245g62lfWcA#_uuunoPsDEdmyhNQr5STrZQ"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_XlEIkV_TEd2zpKtX6B7lBg"
+        name="Content" guid="_XlEIkV_TEd2zpKtX6B7lBg">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_XlEIkl_TEd2zpKtX6B7lBg"
+          name="Categories" guid="_XlEIkl_TEd2zpKtX6B7lBg">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_XlEIk1_TEd2zpKtX6B7lBg"
+            name="Domains" guid="_XlEIk1_TEd2zpKtX6B7lBg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_XlEIlF_TEd2zpKtX6B7lBg"
+            name="Disciplines" guid="_XlEIlF_TEd2zpKtX6B7lBg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_XlEIlV_TEd2zpKtX6B7lBg"
+            name="RoleSets" guid="_XlEIlV_TEd2zpKtX6B7lBg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_XlEIll_TEd2zpKtX6B7lBg"
+            name="WP Types" guid="_XlEIll_TEd2zpKtX6B7lBg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_XlEIl1_TEd2zpKtX6B7lBg"
+            name="Tools" guid="_XlEIl1_TEd2zpKtX6B7lBg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_XlEImF_TEd2zpKtX6B7lBg"
+            name="StandardCategories" guid="_XlEImF_TEd2zpKtX6B7lBg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_XlEImV_TEd2zpKtX6B7lBg"
+            name="CustomCategories" guid="_XlEImV_TEd2zpKtX6B7lBg">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_XlEIml_TEd2zpKtX6B7lBg"
+              name="Hidden" guid="_XlEIml_TEd2zpKtX6B7lBg">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_XlEIm1_TEd2zpKtX6B7lBg"
+                name="Custom Categories" guid="_XlEIm1_TEd2zpKtX6B7lBg"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_XlEInF_TEd2zpKtX6B7lBg"
+          name="CoreContent" guid="_XlEInF_TEd2zpKtX6B7lBg">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_a-YA8KdUEd2XsY8-UtPVvw"
+            name="mam_ext_to_core_tool_dev_ibm" guid="_a-YA8KdUEd2XsY8-UtPVvw" presentationName="MAM Extensions to the Core Tool Definitions"
+            briefDescription="This package contains the extensions to the core tool definitions that are needed when MAM is present.  [*** This content should be considered for inclusion in the commercial core. ***]">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Adfq4F_lEd2zpKtX6B7lBg"
+              name="new_content" guid="_Adfq4F_lEd2zpKtX6B7lBg" presentationName="New Content"
+              briefDescription="This is content that must be added in the context of the MAM.">
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_pzQ1AF_sEd2zpKtX6B7lBg"
+                name="mam" guid="_pzQ1AF_sEd2zpKtX6B7lBg" presentationName="Method Authoring Method (MAM)"
+                briefDescription="The Method Authoring Method (MAM) is a practice library that exists within the Unified Method Framework (UMF)."
+                supportingMaterials="_8DpGwGCJEd2kzJg2-RMJOw">
+              <presentation xmi:id="-DP2L5JqvXXNfeYRpJZoKSA" href="uma://-DP2L5JqvXXNfeYRpJZoKSA#-DP2L5JqvXXNfeYRpJZoKSA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_8DpGwGCJEd2kzJg2-RMJOw"
+                name="mam_resources" guid="_8DpGwGCJEd2kzJg2-RMJOw" presentationName="Method Authoring Method Resources"
+                briefDescription="This support material provides a list of references for the Method Authoring Method.">
+              <presentation xmi:id="-fV-o0j1iefjmTqFSYVYQ4Q" href="uma://-fV-o0j1iefjmTqFSYVYQ4Q#-fV-o0j1iefjmTqFSYVYQ4Q"/>
+            </contentElements>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_-PL64F_REd2zpKtX6B7lBg"
+              name="additions_to_existing_content" guid="_-PL64F_REd2zpKtX6B7lBg"
+              presentationName="Additions to existing content" briefDescription="This is content that must be added to existing content in the context of the MAM.">
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_s8NAQF2ZEd2236qIEEjeSA"
+                name="method_composer" guid="_s8NAQF2ZEd2236qIEEjeSA" presentationName="Method Composer">
+              <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_yJrxwF2ZEd2236qIEEjeSA"
+                  name="resources_for_customizing_methods.mam" guid="_yJrxwF2ZEd2236qIEEjeSA"
+                  variabilityType="contributes" supportingMaterials="_dlGBQF_nEd2zpKtX6B7lBg _C2FS4F_lEd2zpKtX6B7lBg"
+                  conceptsAndPapers="_pzQ1AF_sEd2zpKtX6B7lBg _FxJEkFUKEd2_rMtRMt_EMg">
+                <presentation xmi:id="-q4PRS-cfd4ah9VB_vj5M6w" href="uma://-q4PRS-cfd4ah9VB_vj5M6w#-q4PRS-cfd4ah9VB_vj5M6w"/>
+                <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:SupportingMaterial"
+                    href="uma://_fRdVEMYbEdyXeo04os5BOw#_omneEMX4EduywMSzPTUUwA"/>
+              </contentElements>
+            </childPackages>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_XlEInV_TEd2zpKtX6B7lBg"
+          name="CapabilityPatterns" guid="_XlEInV_TEd2zpKtX6B7lBg"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_XlEInl_TEd2zpKtX6B7lBg"
+        name="DeliveryProcesses" guid="_XlEInl_TEd2zpKtX6B7lBg"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_XlEIn1_TEd2zpKtX6B7lBg"
+        name="ProcessContributions" guid="_XlEIn1_TEd2zpKtX6B7lBg"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

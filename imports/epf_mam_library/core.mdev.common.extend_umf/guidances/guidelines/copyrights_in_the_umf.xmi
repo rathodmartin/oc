@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-1o6TIjoKYNd4Bu4JvIDAHA"
+    name="copyrights_in_the_umf,_YPoMoPUkEdyNMvgj607huw" guid="-1o6TIjoKYNd4Bu4JvIDAHA"
+    changeDate="2008-11-05T10:18:14.484-0800" version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    In the &lt;a class=&quot;elementLink&quot; href=&quot;./../../../core.mdev.common.extend_umf/guidances/concepts/umf_C03950A8.html&quot;&#xD;
+    guid=&quot;_nrrn4GqHEdun45RPFGeYnA&quot;>Unified Method Framework (UMF)&lt;/a>, every plug-in must have an associated copyright (and&#xD;
+    every plug-in can only have one copyright).&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Copyrights are defined in Release Copyright plug-ins. There is one Release Copyright plug-in per &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/termdefinitions/licensing_level_746E1470.html&quot;&#xD;
+    guid=&quot;_47cn8PU3EdyNMvgj607huw&quot;>licensing level&lt;/a>&amp;nbsp;that contains the copyright elements (defined as supporting&#xD;
+    material guidance elements) for that level. Every plug-in at a particular licensing level needs to be associated with&#xD;
+    the copyright for that licensing level. Copyrights are associated to plug-ins as part of the plug-in's definition.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    If a specific copyright is needed for a specific plug-in, then perform the following to create a specialized copyright:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        Define an Extends plug-in for the Release Copyright plug-in at the licensing level of the plug-in requiring the&#xD;
+        special copyright.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        In the Extends plug-in, define a supporting material guidance element that extends the copyright element for that&#xD;
+        licensing level. This results in a new copyright element that looks just like the original copyright element that&#xD;
+        was extended.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Also in the Extends plug-in, define a supporting material guidance element that contributes to the extending&#xD;
+        copyright element and add whatever special copyright information is needed. Now you have a specialized copyright&#xD;
+        that includes the appropriate copyright&amp;nbsp;information for the licensing level plus the special copyright&#xD;
+        information.&amp;nbsp;&lt;br />&#xD;
+        Note: The extending element and the contributing element are both needed. If you add the specialized copyright&#xD;
+        information to the extending element, then that information would override the text in the original base, and in&#xD;
+        this case, that is not what we want (we want to add the specialized copyright information to the general licensing&#xD;
+        level copyright information).&amp;nbsp;By using the extend-contributes pair, you can create a new element that includes&#xD;
+        the same content as an existing element plus more. For more information on method content variability, see &lt;a&#xD;
+        class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../core.mdev.common.base/guidances/guidelines/using_method_content_variability_DCE37365.html&quot;&#xD;
+        guid=&quot;_8YIMYCNQEdycLddDalDmbA&quot;>Guideline: Using Method Content Variability&lt;/a>.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Associate the specialized copyright to the plug-ins (or individual method elements) that need it (copyrights&#xD;
+        associated with a plug-in are automatically associated with all elements in the plug-in).&#xD;
+    &lt;/li>&#xD;
+&lt;/ol>&#xD;
+&lt;p>&#xD;
+    For more information on Release Copyright plug-ins, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_lib_plugin_types_3EA8002F.html&quot;&#xD;
+    guid=&quot;__428YO6cEdygKbJMUVNEtg&quot;>Concept: Practice Library Plug-In Types&lt;/a>. For more information on Extend plug-ins, &lt;a&#xD;
+    class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_lib_plugin_parts_538A81D.html&quot;&#xD;
+    guid=&quot;_vgjh4PG1EdyO9sYxKNWf8A&quot;>Concept: Practice Library Plug-In Parts&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

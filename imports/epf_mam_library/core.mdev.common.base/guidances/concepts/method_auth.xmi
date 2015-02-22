@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-OCMeTKeHXaPsR__gIKhxyQ"
+    name="new_concept,_spVlsFN0Ed2uvIuuFjd1Fg" guid="-OCMeTKeHXaPsR__gIKhxyQ" changeDate="2008-10-12T10:05:17.906-0700"
+    version="7.5.0">
+  <mainDescription>&lt;p>&#xD;
+    The following are some benefits of documenting a&amp;nbsp;method:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;em>Streamlines&lt;/em> the process, enabling consistency across the organization, both in terms of processes followed&#xD;
+        and work products produced&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;em>Reduces the risk and overall cost&lt;/em> of process execution, unifying process and governance to promote&#xD;
+        operational excellence without over simplification&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;em>Improves the quality&lt;/em> of what is produced.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    In some cases, having a documented process is a nice-to-have;&amp;nbsp;however, in others, it is a requirement due to&#xD;
+    regulatory and standards compliance and process certification.&amp;nbsp;In any case, a documented process can go a long way&#xD;
+    to increasing the efficiency, repeatability and&amp;nbsp;predictability of the process.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Formally,&amp;nbsp;a method includes both &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/method_content_6972AE81.html&quot;&#xD;
+    guid=&quot;_Ts2joB_MEdq6CKKKq4D7YA&quot;>method content&lt;/a>&amp;nbsp;and &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/process_68E308B4.html&quot;&#xD;
+    guid=&quot;_yQ5m2NnmEdmO6L4XMImrsA&quot;>process&lt;/a>es.&amp;nbsp;However, it is quite common to refer to &quot;process&quot; in the general&#xD;
+    sense, where the process is assembled from method content. For more information on the key concepts that are described&#xD;
+    in a method, see &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/concepts/basic_process_concepts_C90EF089.html&quot;&#xD;
+    guid=&quot;_FxJEkFUKEd2_rMtRMt_EMg&quot;>Basic Process Concepts&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

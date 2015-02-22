@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-EzjAK_Se-sa5EjyStkd7fw" name="new_artifact,_bYR5YFocEeSUmaNkcwFqUg" guid="-EzjAK_Se-sa5EjyStkd7fw" authors="John Rozsa" changeDate="2014-10-22T14:52:34.404-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>The activity sequence defines the relationship between the necessary activities of the project. It helps to outline which
+        activitie need to be completed before the next one(s) can be started. Other sequencing might define that two or more
+        activities need to start simultaneously or x number of days after the start of a previous one. Still other activities take
+        on a recurring relationship to other activities.&lt;br />
+        &lt;br />
+        This activity sequence is an essential element whend developing the project schedule.&lt;br /></mainDescription>
+  <impactOfNotHaving>Not having a strong understanding of the sequences of the project activities may result in an ineffective uses of project
+        time and resources.&lt;br /></impactOfNotHaving>
+  <reasonsForNotNeeding>An activity sequence may not be needed for projects that have very few activities defined.&lt;br /></reasonsForNotNeeding>
+</org.eclipse.epf.uma:ArtifactDescription>

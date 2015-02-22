@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-kvx4fZh-okGwrrR97ptiuQ"
+    name="umf_release_copyright_example,_tIpNcIK_Ed2NQYBY1jUNtw" guid="-kvx4fZh-okGwrrR97ptiuQ"
+    changeDate="2008-11-05T10:32:05.468-0800" version="7.5.0">
+  <mainDescription>&lt;p>&#xD;
+    Figure 1 is an example of a Release Copyright plug-in (where a copyright is defined).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Figure 1: Release Copyright Plug-In Example&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img alt=&quot;umf_copyright_plugin_example&quot; src=&quot;resources/umf_copyright_plugin_ex.gif&quot; />&lt;br />&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Figure 2 is an example of how a copyright is associated to a plug-in (every plug-in must have an associated copyright).&#xD;
+    Note the selected copyright in the &lt;strong>Copyright&lt;/strong> field.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Figure 2: Copyright Assignment Example&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img alt=&quot;umf_copyright_assignment_example&quot; src=&quot;resources/umf_copyright_assign_ex.gif&quot; />&#xD;
+&lt;/p>&lt;br /></mainDescription>
+</org.eclipse.epf.uma:GuidanceDescription>

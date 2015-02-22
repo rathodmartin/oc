@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:WorkProductDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-oCUwtuK5TFpRwMO1DqcL0Q" name="new_outcome,_HqiNsPrfEeKlqMNsbbcDlQ" guid="-oCUwtuK5TFpRwMO1DqcL0Q" authors="Shane T. Ficorilli" changeDate="2013-08-01T15:19:14.576-0400" changeDescription="Baseline" version="1.0">
+  <mainDescription>OpenUP content is published to a test site to finalize content development.</mainDescription>
+  <impactOfNotHaving>Systems and UAT Testing cannot be performed.</impactOfNotHaving>
+  <reasonsForNotNeeding>OpenUP Content Published to Test Site is always needed.</reasonsForNotNeeding>
+</org.eclipse.epf.uma:WorkProductDescription>

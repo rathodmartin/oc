@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-2Ejo-tFQ0xDJu1oaqLhiPg"
+    name="new_guideline,_R3nhQIM4Ed2QVrMx9wDJQQ" guid="-2Ejo-tFQ0xDJu1oaqLhiPg" changeDate="2008-09-15T08:10:11.593-0700"
+    version="7.5.0">
+  <mainDescription>For an example of how navigation view elements are implemented in the UMF, see &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../core.mdev.common.extend_umf/guidances/examples/umf_nav_view_example_4BF245FE.html&quot;&#xD;
+guid=&quot;_GH_qsIMzEd2QVrMx9wDJQQ&quot;>UMF Navigation View Example&lt;/a>.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

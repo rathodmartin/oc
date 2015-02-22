@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-RGKk7X24YQYCrkKdHPeRsA" name=",_htx-0Pt8EeK6X-ODr_6b9w" guid="-RGKk7X24YQYCrkKdHPeRsA" authors="Shane T. Ficorilli" changeDate="2013-08-02T10:05:35.754-0400" changeDescription="Baseline" version="1.0">
+  <mainDescription>The final phase of adding content to OpenUP. The Release Manager is notified of content availability once the content is&#xD;
+moved to the production site and properly tested.</mainDescription>
+  <sections xmi:id="_pZ7LIPt8EeK6X-ODr_6b9w" name="Move approved content to production site " guid="_pZ7LIPt8EeK6X-ODr_6b9w">
+    <sectionDescription>Take the site offline to prevent users from accessing information.&lt;br />&#xD;
+FTP the approved content to OpenUP production site.&lt;br />&#xD;
+Bring the site online.</sectionDescription>
+  </sections>
+  <sections xmi:id="_sERRgPt8EeK6X-ODr_6b9w" name="Conduct production testing" guid="_sERRgPt8EeK6X-ODr_6b9w">
+    <sectionDescription>Ensure the transfer of content from develop or test into production was successful.</sectionDescription>
+  </sections>
+  <sections xmi:id="_tkFecPt8EeK6X-ODr_6b9w" name="Communicate the availability to the Release Manager " guid="_tkFecPt8EeK6X-ODr_6b9w">
+    <sectionDescription>Ensure the Release Manager is aware that content has been successfully moved to production and the content is available to&#xD;
+consumers.</sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

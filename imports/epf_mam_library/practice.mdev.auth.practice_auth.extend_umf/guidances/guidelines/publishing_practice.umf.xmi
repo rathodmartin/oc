@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-3pkAXQ3QPT4IROubm5bZKQ"
+    name="publishing_practice.umf,_lTUBsD-cEd2sFOfPW3Iw5g" guid="-3pkAXQ3QPT4IROubm5bZKQ"
+    changeDate="2008-11-19T08:07:31.593-0800" version="7.5.0">
+  <mainDescription>&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Special instructions when authoring in the UMF:&lt;/strong> When defining configurations in the &lt;a&#xD;
+    class=&quot;elementLink&quot; href=&quot;./../../../core.mdev.common.extend_umf/guidances/concepts/umf_C03950A8.html&quot;&#xD;
+    guid=&quot;_nrrn4GqHEdun45RPFGeYnA&quot;>Unified Method Framework (UMF)&lt;/a>, you can use the generic navigation view defined in&#xD;
+    the default navigation view definition plug-in in the UMF core as the navigation view for the test configuration.&#xD;
+    Usually, that is all that is needed. However, feel free to define additional navigation views, if needed.&amp;nbsp;For more&#xD;
+    information on how navigation views are implemented in the UMF, see&amp;nbsp;&lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.extend_umf/guidances/guidelines/navigation_views_in_the_umf_E2C80C75.html&quot;&#xD;
+    guid=&quot;_apOmQMj7EdyoXMhaXAJ-6g&quot;>Guideline: Navigation Views in the UMF&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    As with all configurations in the UMF, any configuration-specific elements (e.g., navigation views, welcome pages,&#xD;
+    processes, etc.) need to be define in a separate&amp;nbsp;Publish plug-in for the test configuration and that Publish&#xD;
+    plug-in must be included in the test configuration.&amp;nbsp;For more information on Publish plug-ins, see &lt;a&#xD;
+    class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/concepts/practice_lib_plugin_types_3EA8002F.html&quot;&#xD;
+    guid=&quot;__428YO6cEdygKbJMUVNEtg&quot;>Concept: Practice Library Plug-In Types&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

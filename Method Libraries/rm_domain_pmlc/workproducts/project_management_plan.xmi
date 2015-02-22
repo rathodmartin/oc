@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-PddxI5bN1qcJqociK3YQdA" name="new_artifact,_jvgrALmzEeOjhZ-MtCWe2g" guid="-PddxI5bN1qcJqociK3YQdA" authors="John Rozsa" changeDate="2014-10-25T21:46:55.633-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>The project management plan is the document that describes how the project will be executed, monitored, and controlled. It
+        integrates and consolidates all of the individual plans from the planning processes. Project baselines and plans include,
+        but are not limited to:&lt;br />
+         &lt;br style=&quot;font-family: Candara;&quot; />
+         
+        &lt;ul style=&quot;font-family: Candara;&quot;>
+            &lt;li>
+                Scope, Cost and Schedule baseline
+            &lt;/li>
+            &lt;li>
+                Scope management plan
+            &lt;/li>
+            &lt;li>
+                Communications management plan
+            &lt;/li>
+            &lt;li>
+                Risk management plan
+            &lt;/li>
+            &lt;li>
+                Requirements management plan
+            &lt;/li>
+            &lt;li>
+                Schedule management plan
+            &lt;/li>
+            &lt;li>
+                Procurement management plan
+            &lt;/li>
+            &lt;li>
+                Cost management plan
+            &lt;/li>
+            &lt;li>
+                Quality management plan
+            &lt;/li>
+            &lt;li>
+                Human resource management plan
+            &lt;/li>
+        &lt;/ul></mainDescription>
+  <keyConsiderations>&lt;br /></keyConsiderations>
+  <impactOfNotHaving>Without an approach, the project will be at risk and team members may become confused having no single place to validate
+        approaches to the subsidiary plans.</impactOfNotHaving>
+  <reasonsForNotNeeding>For simple projects, and few team members and stakeholders, a formal project management plan may not be necessary, BUT the
+        subsidiary plans need to be addressed and can be in a less formal format.&lt;br /></reasonsForNotNeeding>
+  <briefOutline>&lt;br /></briefOutline>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Qqg9W1JJHXI9iAg_4qIpcA" name="new_guideline,_T7CQ8DutEeSIrOwVunFgpg" guid="-Qqg9W1JJHXI9iAg_4qIpcA" authors="John Rozsa" changeDate="2014-09-22T20:51:36.016-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>Enterprise environmental factors are found in may forms. Some examples include:&lt;br style=&quot;font-family: Candara;&quot; />
+         &lt;br style=&quot;font-family: Candara;&quot; />
+         
+        &lt;ul style=&quot;font-family: Candara;&quot;>
+            &lt;li>
+                Risk tolerance of the Stakeholder(s)The political climate
+            &lt;/li>
+            &lt;li>
+                Organizational structure and culture
+            &lt;/li>
+            &lt;li>
+                The physical location(s) of the organization
+            &lt;/li>
+            &lt;li>
+                Organizational communication norms
+            &lt;/li>
+            &lt;li>
+                Overall talent/experience of the work force
+            &lt;/li>
+            &lt;li>
+                Organizational influence by industry and/or government standards and regulations
+            &lt;/li>
+        &lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

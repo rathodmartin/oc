@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-p4NLoTh-rD8GiUiQVSf86Q" name="new_artifact,_uVzM4Lm2EeOjhZ-MtCWe2g" guid="-p4NLoTh-rD8GiUiQVSf86Q" authors="John Rozsa" changeDate="2014-09-13T21:55:29.929-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>A project charter provides a preliminary delineation of roles and responsibilities, outlines the project objectives,
+        identifies the main stakeholders, and defines the authority of the project manager. It serves as a reference of authority
+        for the future of the project.&lt;br /></mainDescription>
+  <keyConsiderations>&lt;br /></keyConsiderations>
+  <impactOfNotHaving>The project team will have no clear direction on what needs to be done or who will be impated or receive the benefits of
+        the outcome(s) of the project.&lt;br /></impactOfNotHaving>
+  <reasonsForNotNeeding>Projects that are typically small, and by their nature, the project charter elements are clear/obvious.&lt;br /></reasonsForNotNeeding>
+  <briefOutline>&lt;br /></briefOutline>
+</org.eclipse.epf.uma:ArtifactDescription>

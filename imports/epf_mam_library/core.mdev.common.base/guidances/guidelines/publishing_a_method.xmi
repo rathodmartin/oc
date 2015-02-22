@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-rlFNO28TCfp3hfPBJt_XAQ"
+    name="new_guideline,_eJNWICBwEdy1y5bWsXfCCg" guid="-rlFNO28TCfp3hfPBJt_XAQ" changeDate="2008-10-13T14:31:42.515-0700"
+    version="7.1.0">
+  <mainDescription>&lt;p>&#xD;
+    Publishing a method&amp;nbsp;is a valuable exercise as it allows you to see the method in its published form, which may&#xD;
+    result in some refinements.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Publishing a method involves publishing a &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/method_configuration_C2B8FA8A.html&quot;&#xD;
+    guid=&quot;__V7pAMaEEduMlb2cQZNTYw&quot;>method configuration&lt;/a>&amp;nbsp;that specifies what method elements will be published (the&#xD;
+    selected &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/method_plugin_190B9F5E.html&quot;&#xD;
+    guid=&quot;_D4TLgMaGEduMlb2cQZNTYw&quot;>method plug-in&lt;/a>s and packages) and how they will appear in the published method (the&#xD;
+    &lt;a class=&quot;elementLink&quot; href=&quot;./../../../core.mdev.common.base/guidances/termdefinitions/navigation_view_8F89044.html&quot;&#xD;
+    guid=&quot;_X_hFIPAjEdyHz_B1XFOUgA&quot;>navigation view&lt;/a>s).&amp;nbsp;For information on defining method configurations, see &lt;a&#xD;
+    class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/guidelines/defining_method_configurations_2B25CEA5.html&quot;&#xD;
+    guid=&quot;_l77zcIB-EduaS6LQ8n6xUQ&quot;>Guideline: Defining Method Configurations&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

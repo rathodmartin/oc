@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI epf:version="1.5.1" xmi:version="2.0" xmlns:epf="http://www.eclipse.org/epf" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:xmi="http://www.omg.org/XMI">
+<org.eclipse.epf.uma.resourcemanager:ResourceManager guid="_20ICILekEd-D7YZN9NgldQ" xmi:id="_20ICILekEd-D7YZN9NgldQ">
+<subManagers href="uma://_hnMvkLlDEeO53_TX_uVt6w#_hoPRYLlDEeO53_TX_uVt6w" xmi:id="_hoPRYLlDEeO53_TX_uVt6w">
+</subManagers>
+<subManagers href="uma://_pgIasLlDEeO53_TX_uVt6w#_pgSLtrlDEeO53_TX_uVt6w" xmi:id="_pgSLtrlDEeO53_TX_uVt6w">
+</subManagers>
+<subManagers href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_HcBxoLmPEeO--ZV6XkvztQ" xmi:id="_HcBxoLmPEeO--ZV6XkvztQ">
+</subManagers>
+<resourceDescriptors id="_T6l317ekEd-D7YZN9NgldQ" uri="" xmi:id="_-g6HoLekEd-D7YZN9NgldQ">
+</resourceDescriptors>
+<resourceDescriptors id="_hnMvkLlDEeO53_TX_uVt6w" uri="rm_core/plugin.xmi" xmi:id="_hoPRYblDEeO53_TX_uVt6w">
+</resourceDescriptors>
+<resourceDescriptors id="_pgIasLlDEeO53_TX_uVt6w" uri="rm_domain_pmlc/plugin.xmi" xmi:id="_pgSLt7lDEeO53_TX_uVt6w">
+</resourceDescriptors>
+<resourceDescriptors id="_Hb4AoLmPEeO--ZV6XkvztQ" uri="rmlc/plugin.xmi" xmi:id="_HcBxobmPEeO--ZV6XkvztQ">
+</resourceDescriptors>
+</org.eclipse.epf.uma.resourcemanager:ResourceManager>
+<org.eclipse.epf.uma:MethodLibrary guid="_T6l317ekEd-D7YZN9NgldQ" xmi:id="_T6l317ekEd-D7YZN9NgldQ">
+<methodElementProperty name="library_synFree" value="true" xmi:id="_-gnMsLekEd-D7YZN9NgldQ">
+</methodElementProperty>
+<methodPlugins href="uma://_hnMvkLlDEeO53_TX_uVt6w#_hnMvkLlDEeO53_TX_uVt6w" xmi:id="_hnMvkLlDEeO53_TX_uVt6w">
+</methodPlugins>
+<methodPlugins href="uma://_pgIasLlDEeO53_TX_uVt6w#_pgIasLlDEeO53_TX_uVt6w" xmi:id="_pgIasLlDEeO53_TX_uVt6w">
+</methodPlugins>
+<methodPlugins href="uma://_Hb4AoLmPEeO--ZV6XkvztQ#_Hb4AoLmPEeO--ZV6XkvztQ" xmi:id="_Hb4AoLmPEeO--ZV6XkvztQ">
+</methodPlugins>
+<methodElementProperty value="0">
+</methodElementProperty>
+<methodElementProperty value="_MRPloEFXEdy9ENCpSugIjA">
+</methodElementProperty>
+<methodElementProperty value="core.default.cat_def.base">
+</methodElementProperty>
+<methodElementProperty value="_vsno4EKmEdyrauqpmnA8jQ">
+</methodElementProperty>
+<methodElementProperty value="core.default.nav_view.base">
+</methodElementProperty>
+<methodElementProperty value="_iVydgENdEdy245g62lfWcA">
+</methodElementProperty>
+<methodElementProperty value="core.default.release_copyright.base">
+</methodElementProperty>
+<methodElementProperty value="_A118oMYaEdyXeo04os5BOw">
+</methodElementProperty>
+<methodElementProperty value="core.default.role_def.base">
+</methodElementProperty>
+<methodElementProperty value="_fRdVEMYbEdyXeo04os5BOw">
+</methodElementProperty>
+<methodElementProperty value="core.default.tool_def.base">
+</methodElementProperty>
+<methodElementProperty value="_WCUhAO8KEdmKSqa_gSYthg">
+</methodElementProperty>
+<methodElementProperty value="core.default.uma_concept.base">
+</methodElementProperty>
+<methodElementProperty value="_14Ft0M3pEdyuBO4ZIzcyig">
+</methodElementProperty>
+<methodElementProperty value="core.gen.common.assign">
+</methodElementProperty>
+<methodElementProperty value="_ji3-gEMXEdyP_Jn83ylwUQ">
+</methodElementProperty>
+<methodElementProperty value="core.gen.common.base">
+</methodElementProperty>
+<methodElementProperty value="_CX-9AM3qEdyuBO4ZIzcyig">
+</methodElementProperty>
+<methodElementProperty value="core.mgmt.common.assign">
+</methodElementProperty>
+<methodElementProperty value="_Q_mBoGphEd24CboUCnKL3A">
+</methodElementProperty>
+<methodElementProperty value="core.mgmt.common.base">
+</methodElementProperty>
+<methodElementProperty value="_0TmecJ-VEdy3Nc4rvuj7bA">
+</methodElementProperty>
+<methodElementProperty value="core.mgmt.common.extend_supp">
+</methodElementProperty>
+<methodElementProperty value="_vJYucEfUEdyiPI8btkmvmw">
+</methodElementProperty>
+<methodElementProperty value="core.mgmt.slot.base">
+</methodElementProperty>
+<methodElementProperty value="_LdRtkM3qEdyuBO4ZIzcyig">
+</methodElementProperty>
+<methodElementProperty value="core.tech.common.assign">
+</methodElementProperty>
+<methodElementProperty value="_Qyp8YGpiEd24CboUCnKL3A">
+</methodElementProperty>
+<methodElementProperty value="core.tech.common.base">
+</methodElementProperty>
+<methodElementProperty value="_OOB2AAouEdyhlpBPrduOMw">
+</methodElementProperty>
+<methodElementProperty value="core.tech.common.extend_supp">
+</methodElementProperty>
+<methodElementProperty value="_-bv0ELXuEduGP_98XMd0fg">
+</methodElementProperty>
+<methodElementProperty value="core.tech.slot.base">
+</methodElementProperty>
+<methodElementProperty value="_HVCXcE7xEd-ttuvo_zEJ_g">
+</methodElementProperty>
+<methodElementProperty value="practice.bus.mdev.base">
+</methodElementProperty>
+<methodElementProperty value="_iNwFsMhNEdygFZkm1d5NtQ">
+</methodElementProperty>
+<methodElementProperty value="practice.mgmt.iterative_dev.assign">
+</methodElementProperty>
+<methodElementProperty value="_qqyzAJ6WEdyQN-zRFaRrCQ">
+</methodElementProperty>
+<methodElementProperty value="practice.mgmt.iterative_dev.base">
+</methodElementProperty>
+<methodElementProperty value="_7uMwYDIWEd-YE6CeBfCofg">
+</methodElementProperty>
+<methodElementProperty value="practice.mgmt.project_process_tailoring.assign">
+</methodElementProperty>
+<methodElementProperty value="_NOBspSZLEd-QuZFPf_YdqQ">
+</methodElementProperty>
+<methodElementProperty value="practice.mgmt.project_process_tailoring.base">
+</methodElementProperty>
+<methodElementProperty value="_NBRHwMh3EdygFZkm1d5NtQ">
+</methodElementProperty>
+<methodElementProperty value="practice.mgmt.release_planning.assign">
+</methodElementProperty>
+<methodElementProperty value="_nKS10J6YEdyQN-zRFaRrCQ">
+</methodElementProperty>
+<methodElementProperty value="practice.mgmt.release_planning.base">
+</methodElementProperty>
+<methodElementProperty value="_4gXdoL8BEdyWX5Yd-9QZ1A">
+</methodElementProperty>
+<methodElementProperty value="practice.mgmt.risk_value_lifecycle.base">
+</methodElementProperty>
+<methodElementProperty value="_ugihsOxXEdyCFeiQwJE7Vg">
+</methodElementProperty>
+<methodElementProperty value="practice.mgmt.team_change_mgmt.assign">
+</methodElementProperty>
+<methodElementProperty value="_44o4AOvVEdyp6czxLiQq9g">
+</methodElementProperty>
+<methodElementProperty value="practice.mgmt.team_change_mgmt.base">
+</methodElementProperty>
+<methodElementProperty value="_vtUfcEIuEd2GCesTWQms8Q">
+</methodElementProperty>
+<methodElementProperty value="practice.mgmt.whole_team.assign">
+</methodElementProperty>
+<methodElementProperty value="_40sbAJ6YEdyQN-zRFaRrCQ">
+</methodElementProperty>
+<methodElementProperty value="practice.mgmt.whole_team.base">
+</methodElementProperty>
+<methodElementProperty value="_VVRjYHoCEd2ozs6whO3m5w">
+</methodElementProperty>
+<methodElementProperty value="practice.tech.abrd.assign">
+</methodElementProperty>
+<methodElementProperty value="_XLuWYHn8Ed2ozs6whO3m5w">
+</methodElementProperty>
+<methodElementProperty value="practice.tech.abrd.base">
+</methodElementProperty>
+<methodElementProperty value="_IItp4MuXEdyLOriywSJkoQ">
+</methodElementProperty>
+<methodElementProperty value="practice.tech.concurrent_testing.assign">
+</methodElementProperty>
+<methodElementProperty value="_Hz9OMG5KEdyAHIxjZ9kpqw">
+</methodElementProperty>
+<methodElementProperty value="practice.tech.concurrent_testing.base">
+</methodElementProperty>
+<methodElementProperty value="_h_9roM3PEdyKkus0T68H3Q">
+</methodElementProperty>
+<methodElementProperty value="practice.tech.continuous_integration.assign">
+</methodElementProperty>
+<methodElementProperty value="_D-ExQMktEdygFZkm1d5NtQ">
+</methodElementProperty>
+<methodElementProperty value="practice.tech.continuous_integration.base">
+</methodElementProperty>
+<methodElementProperty value="_GxBjAM2sEdym_ZFqrJcXUg">
+</methodElementProperty>
+<methodElementProperty value="practice.tech.evolutionary_arch.assign">
+</methodElementProperty>
+<methodElementProperty value="_4gaS4LPREduocbW-TPTq7A">
+</methodElementProperty>
+<methodElementProperty value="practice.tech.evolutionary_arch.base">
+</methodElementProperty>
+<methodElementProperty value="_XPLD8MudEdyRPtFYRAKVDg">
+</methodElementProperty>
+<methodElementProperty value="practice.tech.evolutionary_design.assign">
+</methodElementProperty>
+<methodElementProperty value="_Z2cK0LPPEduocbW-TPTq7A">
+</methodElementProperty>
+<methodElementProperty value="practice.tech.evolutionary_design.base">
+</methodElementProperty>
+<methodElementProperty value="_NjNCEMrmEdyd6uFrFHNXhA">
+</methodElementProperty>
+<methodElementProperty value="practice.tech.shared_vision.assign">
+</methodElementProperty>
+<methodElementProperty value="_Y9TKMLS9EduDY8LNbMCDBA">
+</methodElementProperty>
+<methodElementProperty value="practice.tech.shared_vision.base">
+</methodElementProperty>
+<methodElementProperty value="_00zMMMt1EdyRPtFYRAKVDg">
+</methodElementProperty>
+<methodElementProperty value="practice.tech.test_driven_development.assign">
+</methodElementProperty>
+<methodElementProperty value="_DZ1rEI7-Edy7q8CKc_B8eg">
+</methodElementProperty>
+<methodElementProperty value="practice.tech.test_driven_development.base">
+</methodElementProperty>
+<methodElementProperty value="_HYAA4MriEdyd6uFrFHNXhA">
+</methodElementProperty>
+<methodElementProperty value="practice.tech.use_case_driven_dev.assign">
+</methodElementProperty>
+<methodElementProperty value="_GbYfULPaEduocbW-TPTq7A">
+</methodElementProperty>
+<methodElementProperty value="practice.tech.use_case_driven_dev.base">
+</methodElementProperty>
+<methodElementProperty value="_Pnn0sMruEd2sX5aq6os4oQ">
+</methodElementProperty>
+<methodElementProperty value="process.abrd.base">
+</methodElementProperty>
+<methodElementProperty value="_Z7teANQ1EdyQ89W1tgswSQ">
+</methodElementProperty>
+<methodElementProperty value="process.openup.base">
+</methodElementProperty>
+<methodElementProperty value="_xco1IMVNEd2pfdXgw7I2qQ">
+</methodElementProperty>
+<methodElementProperty value="publish.abrd.base">
+</methodElementProperty>
+<methodElementProperty value="_bIIs0FRFEd2CWscN8Mx6rg">
+</methodElementProperty>
+<methodElementProperty value="publish.all_epf_practices.base">
+</methodElementProperty>
+<methodElementProperty value="_4ulTgMg7EdyXeo04os5BOw">
+</methodElementProperty>
+<methodElementProperty value="publish.openup.base">
+</methodElementProperty>
+<methodElementProperty value="_wDZIUOCFEeC1y_NExchKwQ">
+</methodElementProperty>
+<methodElementProperty value="practice.gen.doc_trng.base">
+</methodElementProperty>
+<methodElementProperty value="_mYfo8OCIEeC1y_NExchKwQ">
+</methodElementProperty>
+<methodElementProperty value="practice.gen.production_release.base">
+</methodElementProperty>
+<methodElementProperty value="_p0w9wJlfEeGlkdGl1HQlDA">
+</methodElementProperty>
+<methodElementProperty value="practice.gen.doc_trng.assign">
+</methodElementProperty>
+<methodElementProperty value="_XOu58JljEeGlkdGl1HQlDA">
+</methodElementProperty>
+<methodElementProperty value="practice.gen.production_release.assign">
+</methodElementProperty>
+<methodElementProperty value="_hnMvkLlDEeO53_TX_uVt6w">
+</methodElementProperty>
+<methodElementProperty value="rm_core">
+</methodElementProperty>
+<methodElementProperty value="_pgIasLlDEeO53_TX_uVt6w">
+</methodElementProperty>
+<methodElementProperty value="rm_domain_pmlc">
+</methodElementProperty>
+<methodElementProperty value="_Hb4AoLmPEeO--ZV6XkvztQ">
+</methodElementProperty>
+<methodElementProperty value="rmlc">
+</methodElementProperty>
+</org.eclipse.epf.uma:MethodLibrary>
+</xmi:XMI>

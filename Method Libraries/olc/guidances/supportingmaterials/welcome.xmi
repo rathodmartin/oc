@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-5C3XI0UolnYb_OVloYGC9A" name="new_supporting_material,_X_FiALmUEeO--ZV6XkvztQ" guid="-5C3XI0UolnYb_OVloYGC9A" authors="RathodMartin" changeDate="2014-11-16T12:39:04.746-0500" changeDescription="Baseline" version="BL">
+  <mainDescription>&lt;h3>
+            The Low Cost of High Performance
+        &lt;/h3>
+        High performing teams understand business processes at the structural level making business outcomes significantly more
+        predictable, effective and efficient. High performing teams in comparison to low performing teams generate significant
+        business savings such as: &lt;br />
+         &lt;br />
+         
+        &lt;ul>
+            &lt;li>
+                Reduced order to cash cycles
+            &lt;/li>
+            &lt;li>
+                Reduced Process Costs: 10-15%
+            &lt;/li>
+            &lt;li>
+                Increased quality / reduced number of errors: 20-30%
+            &lt;/li>
+            &lt;li>
+                Reduced process throughput times: 10-30%
+            &lt;/li>
+            &lt;li>
+                Reduced training time / expenses: 10-30%
+            &lt;/li>
+            &lt;li>
+                Reduced number of (internal) support requests: 15-30%
+            &lt;/li>
+            &lt;li>
+                Reduced number of customer complaints: 20-30%
+            &lt;/li>
+            &lt;li>
+                Increased forecast accuracy: 15-30%
+            &lt;/li>
+        &lt;/ul>
+        &lt;br />
+         These significant advantages are derived from high performing teams’ deep knowledge of business process, performance
+        measures, risk metrics, strategy and goals. They are quicker to engage stakeholders to define process ownership, create
+        well defined roles and responsibilities, thoughtfully prioritize tasks and remove non-value added activities.&lt;br />
+         &lt;br />
+         &lt;br />
+         
+        &lt;h3>
+            Introducing .....
+        &lt;/h3>
+        &lt;p>
+            The new &lt;span style=&quot;font-weight: bold;&quot;>OpenCycle&lt;/span> -- an Open Source life cycle -- usable in software and
+            systems development areas. The case to implement a structured process has already been made as evidenced by research
+            and development on many software processes and frameworks -- more notewothy include the Capability Maturity Model, ISO
+            9000, and Six Sigma. While frameworks provide grounding points to build processes, there are notable processes in use
+            at most organizations. Those familiar with software development will have been exposed to the waterfall and iterative
+            methodologies. In mature organizations, other methodologies such as Extreme Programming (XP) and Agile may also be
+            readily used. In whatever form and shape, processes must be documented for it to be truly usable. Without a documented
+            process, the development process is in chaos and the organization is replete with unrepeatable results. OpenCycle aims
+            to bring community-driven experience, backed by years of trial and error in real-world situations to create a
+            repeatable, truly usable software and systems development life cycle. The community, consisting of academia,
+            practitioners, consultants and consumers to name a few, works towards a life cycle that can be applied in its native
+            form to develop the thing that drives the organization.
+        &lt;/p>
+        &lt;p>
+            Lets face it. Unless you are in business of developing life cycles, you are not likely to make money developing one.
+            You are, however, likely to benefit by using a life cycle that works! What a better way than to bring together the
+            minds of talented, dedicated and committed people who, through sheer interest, contribute and bring about form to a
+            formless framework.
+        &lt;/p>
+        &lt;p>
+            It is our sincere hope that users will ultimately become contributors and caretakers. If this seems implausible, take a
+            tour of the life cycle by browsing the tasks, work products, role definitions &lt;span
+            style=&quot;font-style: italic;&quot;>and&lt;/span> guidance.&lt;br />
+        &lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

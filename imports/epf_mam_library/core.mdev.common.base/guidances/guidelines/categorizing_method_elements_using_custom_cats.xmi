@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-qxtaR_hQ6SR_o4S3KT6zrQ"
+    name="new_guideline,_V7qwIMjpEdyoXMhaXAJ-6g" guid="-qxtaR_hQ6SR_o4S3KT6zrQ" changeDate="2008-10-16T10:47:34.876-0700"
+    version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    Custom categories can be used to categorize method elements so that the practitioners can find them easily and quickly.&#xD;
+    They also form the basis of a published configuration by defining the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/termdefinitions/navigation_view_8F89044.html&quot;&#xD;
+    guid=&quot;_X_hFIPAjEdyHz_B1XFOUgA&quot;>navigation view&lt;/a>&amp;nbsp;structure for the configuration.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Custom categories are highly customizable and can contain any type of element. Custom categories allow you to&#xD;
+    categorize content according to any hierarchical scheme you want and can then be used to compose publishable views, as&#xD;
+    well as providing a means to organize the method content prior to publishing. For example, you could create a &lt;a&#xD;
+    class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../core.default.uma_concept.base/guidances/termdefinitions/custom_category_554AC4D6.html&quot;&#xD;
+    guid=&quot;_eqw94MaFEduMlb2cQZNTYw&quot;>custom category&lt;/a>&amp;nbsp;that logically organizes content relevant to your development&#xD;
+    organization department, such as a Testing category that groups together all roles, work products, tasks, and guidance&#xD;
+    elements relevant to testing.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    When defining custom categories, consider the different ways you may want to access the elements, as well as the ways&#xD;
+    in which the end-user of the method may want to access the method elements.&amp;nbsp; The former may result in ideas for&#xD;
+    &quot;method management-focused&quot; custom categories, while the latter may result in ideas for navigation view focused custom&#xD;
+    categories. What information is needed? How does one find that information? Well crafted custom categories will help&#xD;
+    enormously.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Custom categories can be nested to create a categorization hierarchy. For example, if you want to define a navigation&#xD;
+    view that includes &quot;sub-folders&quot;, you can do that by defining a sub-custom category in a navigation view custom&#xD;
+    category for each folder you would like to be included.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Custom categories can also be nested to organize the custom categories.&amp;nbsp;For example, if you define a set of custom&#xD;
+    categories that are intended to represent navigation views and another set that are not.&amp;nbsp;You may want to package&#xD;
+    all the navigation view custom categories in a single custom category.&amp;nbsp;In this case, the topmost custom category&#xD;
+    is more like a package than a custom category.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    You can add elements to existing categories by defining a custom category that contributes to the original custom&#xD;
+    category and adds the desired elements.&amp;nbsp;&#xD;
+&lt;/p>For methods containing a lot of elements and plug-ins, defining a shared set of custom categories can be beneficial for&#xD;
+the following reasons: &lt;br />&#xD;
+&lt;br />&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Method authors have a consistent way of categorizing content&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Method authors and delivery practitioners can find related content more easily and reference it&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Published configurations will have the same look and feel to the delivery practitioner making the web site easier&#xD;
+        to navigate and information easier to find&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Delivery practitioners will require less education and training on the set of configurations with which they work&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    For recommendations on naming custom categories, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/guidelines/method_element_naming_conventions_4A4F743B.html&quot;&#xD;
+    guid=&quot;_lAphAF5-EduT-Px7fh0LSg&quot;>Guideline: Method Element Naming Conventions&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Be sure to capture the purpose of the custom category in its description, so that the reason the custom category was&#xD;
+    created and what it contains is maintained.&amp;nbsp;This will make it easy for other method authors to understand when the&#xD;
+    category should be used.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Custom categories cannot be packaged in separate packages in plug-ins.&amp;nbsp;Thus alternative categorization schemes&#xD;
+    must be defined in separate plug-ins.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    For more information on defining navigation views, see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../core.mdev.common.base/guidances/guidelines/defining_navigation_views_76A906E.html&quot;&#xD;
+    guid=&quot;_67agUEyEEdu4NY1n_hCY0w&quot;>Guideline: Defining Navigation Views&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

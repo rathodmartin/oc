@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-xXFP6XXmC7bpUuBpowR2pg" name="new_guideline,_n7RjEEkJEeSWLfgUXTkAlg" guid="-xXFP6XXmC7bpUuBpowR2pg" authors="John Rozsa" changeDate="2014-10-23T19:53:17.589-0400" changeDescription="Baseline" version="BL">
+  <mainDescription>The WBS is a hierarchical decomposition of the total scope of the project that will be worked by the project team to meet
+        the project objectives and required deliverables.&lt;br />
+         Decomposition is used for dividing and subdividing the project scope and project deliverables into smaller and more
+        manageable parts. Work packages are defined units of work at the lowest level of the WBS for which duration, resources and
+        costs can be estimated and managed. The amount of decomposition is often a function of the degree of control needed to
+        effectively manage the project. The work breakdown process involves the following:&lt;br />
+         &lt;br />
+         
+        &lt;ul>
+            &lt;li>
+                Identifying and analyzing the deliverables and associated work
+            &lt;/li>
+            &lt;li>
+                Organizing the WBS in a heirachical structure
+            &lt;/li>
+            &lt;li>
+                Decomposing the upper WBS levels into lower-level subcomponents
+            &lt;/li>
+            &lt;li>
+                Validate the degree of decomposition is appropriate
+            &lt;/li>
+        &lt;/ul>
+        &lt;br />
+        The planned work is found in the lowest level of WBS components, often called work packages. These work packages are used
+        to group the activities where work is estimated and controlled.&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

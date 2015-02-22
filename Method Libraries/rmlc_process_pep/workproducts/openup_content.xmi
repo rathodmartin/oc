@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:WorkProductDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VUHTjB1j35DQaqVvYnHdYQ" name="new_outcome,_5XmJAPrdEeKlqMNsbbcDlQ" guid="-VUHTjB1j35DQaqVvYnHdYQ" authors="Shane T. Ficorilli" changeDate="2013-08-01T15:10:02.652-0400" changeDescription="Baseline" version="1.0">
+  <mainDescription>The result of the&amp;nbsp;Process UML/OpenUP Diagram content translated as requirements for OpenUP.</mainDescription>
+  <impactOfNotHaving>Requirements for OpenUP content would not be created.</impactOfNotHaving>
+  <reasonsForNotNeeding>OpenUP Content is always needed.</reasonsForNotNeeding>
+</org.eclipse.epf.uma:WorkProductDescription>

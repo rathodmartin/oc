@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:WorkProductDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-EqnrBVdqEVLzoczyCHA5_w" name="new_outcome,_pT_PkG4CEeSIef-3MggveQ" guid="-EqnrBVdqEVLzoczyCHA5_w" authors="John Rozsa" changeDate="2014-11-16T21:38:06.409-0500" changeDescription="Baseline" version="BL">
+  <mainDescription>All the roles required to perform project work have been assigned and engaged. Commitment requires have been forecasted to
+        resource managers and resources are assigned to complete work.&lt;br /></mainDescription>
+  <impactOfNotHaving>No project work.&lt;br /></impactOfNotHaving>
+  <reasonsForNotNeeding>None.&lt;br /></reasonsForNotNeeding>
+</org.eclipse.epf.uma:WorkProductDescription>
