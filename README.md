@@ -2,8 +2,21 @@
 ** Instructions **
 ----
 
-1. Download the latest version
-2. Unzip the file to any location on your local drive
-3. Open the folder
-4. Double-click the Index.html file
+
+1. In Eclipse Project directory
+	cd <path_to_projects_dir>/epfc
+
+2. Clone the git repo to the current directory
+	git clone gint@github.com:rathodmartin/oc.git .
+
+3. Copy .profile to home
+	cp .profile ~
+
+	This file contains relevant envuironment and PATH set up variables.
+4. Make a link to this dir
+	sudo ln -s /<path_projects_dir>/epfc /media/sf_oc
+
+	NOTE: If /media does not exist, create it: sudo mkdir /media
+
+
 
