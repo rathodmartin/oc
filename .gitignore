@@ -1,18 +1,12 @@
 #Ignore files
-about.html
-.eclipseproduct
-
+.profile
 
 #Ignore dirs
-about_files
 Back-Up
 downloads
-features
 jre1.8.0_31
-plugins
 Publish
 Publish-PEP
 .ssh
 workspace
 workspace.151
-xulrunner-1.9.2
