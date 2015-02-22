@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.epf.doc.feature"
+      label="%featureName"
+      version="1.2.0.201401202338-379-7735B3573799J"
+      provider-name="%providerName"
+      plugin="org.eclipse.epf.doc"
+      image="eclipse_update_120.jpg">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <requires>
+      <import plugin="org.eclipse.core.runtime"/>
+      <import plugin="org.eclipse.ui"/>
+      <import plugin="org.eclipse.help"/>
+   </requires>
+
+   <plugin
+         id="org.eclipse.epf.doc"
+         download-size="0"
+         install-size="0"
+         version="1.5.0.201401202338"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.epf.help.doc"
+         download-size="0"
+         install-size="0"
+         version="1.5.0.201401202338"/>
+
+</feature>

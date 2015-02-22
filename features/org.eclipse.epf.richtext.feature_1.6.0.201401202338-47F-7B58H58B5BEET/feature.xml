@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.epf.richtext.feature"
+      label="%featureName"
+      version="1.6.0.201401202338-47F-7B58H58B5BEET"
+      provider-name="%providerName"
+      plugin="org.eclipse.epf.richtext"
+      image="eclipse_update_120.jpg">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <requires>
+      <import plugin="org.eclipse.swt"/>
+      <import plugin="org.eclipse.core.runtime"/>
+      <import plugin="org.eclipse.ui"/>
+      <import plugin="org.eclipse.ui.forms"/>
+      <import plugin="org.eclipse.jface.text"/>
+      <import plugin="org.eclipse.ui.workbench.texteditor"/>
+      <import plugin="com.ibm.icu"/>
+      <import plugin="org.eclipse.core.resources"/>
+      <import plugin="org.apache.ant"/>
+      <import plugin="org.eclipse.osgi"/>
+   </requires>
+
+   <plugin
+         id="org.eclipse.epf.richtext"
+         download-size="0"
+         install-size="0"
+         version="1.6.0.201401202338"/>
+
+   <plugin
+         id="org.eclipse.epf.common"
+         download-size="0"
+         install-size="0"
+         version="1.5.0.201401202338"/>
+
+   <plugin
+         id="org.eclipse.epf.common.ui"
+         download-size="0"
+         install-size="0"
+         version="1.5.0.201401202338"
+         unpack="false"/>
+
+</feature>
