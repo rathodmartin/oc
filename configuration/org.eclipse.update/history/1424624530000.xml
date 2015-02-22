@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<config date="1424624547284" transient="false" version="3.0">
+<config date="1396747046916" transient="false" version="3.0">
 <site enabled="true" policy="USER-EXCLUDE" updateable="true" url="platform:/base/">
 <feature id="org.eclipse.epf.platform.feature" plugin-identifier="org.eclipse.epf.platform" url="features/org.eclipse.epf.platform.feature_1.2.0.201401202338-DFFAUH7CH_IYlSNBc3WkVPSVJgtw/" version="1.2.0.201401202338-DFFAUH7CH_IYlSNBc3WkVPSVJgtw">
 </feature>
@@ -7,9 +7,9 @@
 </feature>
 <feature id="org.eclipse.epf.richtext.feature" plugin-identifier="org.eclipse.epf.richtext" url="features/org.eclipse.epf.richtext.feature_1.6.0.201401202338-47F-7B58H58B5BEET/" version="1.6.0.201401202338-47F-7B58H58B5BEET">
 </feature>
-<feature id="org.eclipse.epf.common.html.feature" plugin-identifier="org.eclipse.epf.common.html" url="features/org.eclipse.epf.common.html.feature_1.5.0.201401202338-24-312512313449/" version="1.5.0.201401202338-24-312512313449">
-</feature>
 <feature id="org.eclipse.epf.doc.feature" plugin-identifier="org.eclipse.epf.doc" url="features/org.eclipse.epf.doc.feature_1.2.0.201401202338-379-7735B3573799J/" version="1.2.0.201401202338-379-7735B3573799J">
+</feature>
+<feature id="org.eclipse.epf.common.html.feature" plugin-identifier="org.eclipse.epf.common.html" url="features/org.eclipse.epf.common.html.feature_1.5.0.201401202338-24-312512313449/" version="1.5.0.201401202338-24-312512313449">
 </feature>
 <feature id="org.eclipse.epf.base.feature" plugin-identifier="org.eclipse.epf.base" url="features/org.eclipse.epf.base.feature_1.5.0.201401202338-7e9z-9WFuiFtUGW7A9/" version="1.5.0.201401202338-7e9z-9WFuiFtUGW7A9">
 </feature>

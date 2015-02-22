@@ -25,7 +25,7 @@ fi
 
 # set environment vars
 export JAVA_HOME=/usr/lib/jvm/java-6-openjdk-i386
-export MOZILLA_FIVE_HOME=/rdr/projects/epfc/xulrunner-1.9.2
+export MOZILLA_FIVE_HOME=/media/sf_oc/xulrunner-1.9.2
 export LD_LIBRARY_PATH=$MOZILLA_FIVE_HOME
 
 # modify path
